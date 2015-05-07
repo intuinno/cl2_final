@@ -31,6 +31,15 @@ def getLIWC_Str(w):
             # print w + ' : ' + str(catList)
             return [liwc_def[catId] for  catId in catList ]
 
+
+a = [1,2,3,4]
+b = ['a','b','c','d']
+
+c = pd.DataFrame({'ais':a,'bis':b})
+
+
+
+print c
 print getLIWC_Str('abandons')
 print getLIWC_Id('affect')
 

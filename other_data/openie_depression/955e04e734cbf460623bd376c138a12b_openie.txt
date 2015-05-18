@@ -1,0 +1,384 @@
+WHOOOOO ~~~ !!!! Welcomr 2010 ~~~ !!!!! >_____< V HAPPY NEW YEAR ~~~ !
+
+:3 
+
+Lack of sleep = Drunk ( Apparently I'm nosiy and annoying ~ !
+
+Can you believe that ?! XP ) First time ^___^ V  AHHH !!! Magic lost ..... T^T oh well .... lol  is looking up her songs .
+
+^-^ V  AHHHHH !!!! Transformers was the BEST !!!!! XD Need to go watch it again !!!! > 0 <  should start reading the books for school .... T^T  going to Kansas ... All packed and ready to go !
+0.72 (XD; Need; to go watch it again)
+0.72 Context(XD Need,List([51, 58))):(XD; Need to go; watch it again)
+0.72 Context(XD Need to go,List([51, 64))):(XD; Need to go watch; it; T:again)
+
+> 0 <  a bruise and scratch on the foot , a scratch on the knee , and now a bruise on the hand ... Kansas in dangerous for me ... T^T  just watched G.I < PROPFIRST > ... I think Transformers was better .
+0.88 (T^T; just watched PROPFIRST; G.I)
+0.50 Context(T^T just watched PROPFIRST,List([130, 163))):(I; think; Transformers was better)
+0.80 Context(T^T just watched PROPFIRST I think,List([130, 177))):(Transformers; was; better)
+
+=D  Seminole was too confusing ... O_O And now I find out I have to ride my bike to my bus stop ... What has life come to ... T^T  Schedule ... My classes all over the place ... 1 .
+0.86 (=D  Seminole; was; too confusing)
+0.27 (I; to ride; my bike; to my bus stop)
+0.50 (I; find out; I have to ride my bike to my bus stop; T:now)
+
+Spanish II- Pre-IB- Thompson 2 .
+
+Bio 1- Pre-IB- Cox 3 .
+
+Art/2-D- Depaul 4 .
+
+Algebra II Honar- Prom 5 .
+
+English 1-Pre-IB- Bordner 6 .
+
+Orchestra I- Newhouse 7 .
+
+World History Pre-IB- Poorbaugh  It's raining , it's pouring , the old man is snoring ~~~ !
+0.19 (it; 's pouring; )
+0.75 (the old man; is snoring; )
+
+I saw my first celebrity !!!! ^0^ haha < PROPFIRST > Hicks at Grease !!! Whooo !
+0.37 (I; saw; my first celebrity)
+
+XD Even got a autograph !
+0.86 (XD; Even got; a autograph)
+
+>.<  soooooo sleepy .... -___- ZzZzZ  had a happy birthday !
+0.91 (-___- ZzZzZ; had; a happy birthday)
+
+^__^ V Thanks everyone !
+
+:)  needs to study for English ... T^T So many words !!! :(  is going to the play today ~ !
+0.37 (:); needs; to study for English ... T^T So many words)
+0.29 Context(:) needs,List([0, 9))):(:); needs to study; So many words)
+
+^__^ and it's to see < PROPFEMALE>'s skirt ??? lol XD  Exam finally over !!! Yaaa ~ ~ !
+0.57 (it; 's; to see < PROPFEMALE>'s skirt)
+
+^__^ V  Love lasts forever .
+0.86 (V  Love; lasts; forever)
+
+~ Michael < PROPMALE > ^__^ ( Movie was great !
+0.84 (Movie; was; great)
+
+=] )  Happy Halloween everybody ~ ~ !
+0.84 (Happy Halloween everybody; ~ ~; )
+
+:)  Queash ~ ~ !
+
+No one goes trick or treating anymore ... >:( There's still a big bowl of < PROPFEMALE > left and I'll just give it away at school ... xD lol  Garage sales are so tiresome ... I got sunburn on my feet !
+0.69 (No one; treating; T:anymore)
+0.31 (I; got; sunburn; L:on my feet)
+0.88 Context(I got,List([176, 181))):(No one; goes; trick)
+0.66 (PROPFEMALE; left; )
+0.29 (I; 'll just give away; L:at school)
+0.75 Context(I 'll just give away,List([98, 120))):(xD lol  Garage sales; are; so tiresome)
+
+>:(  the weather was so cold today .....
+0.93 (the weather; was; so cold; T:today)
+
+I couldn't feel my toes durning lunch ..... T^T Niether could I feel my nose !
+
+XO  hahaha Go Seminoles ~ !
+
+> 0 <  OMG The Ugly Truth was freaking hilarious !
+
+XD  Wow .....
+
+The bass was suuuper loud but it was totally worth it ~ !
+0.81 (The bass; was; suuuper loud)
+0.37 (it; was; totally worth it)
+
+< PROPFEMALE > Trek is spectacular !
+0.73 (Trek; is; spectacular)
+
+If you missed it , then I am SO sorry ... O__O \Live long and prosper .
+0.46 (you; missed; it)
+
+\ " ^___^ \\\\// hahaha "  Two movies in one day .... omg .... -____-;; But New < PROPFEMALE > was great though I forgot the poster at the second movie .... arg !
+0.79 (New < PROPFEMALE >; was; great)
+0.45 (I; forgot; the poster at the second movie)
+
+T^T Curse you memory ~ !
+
+>:P Ninja Assasin was too gory for me though .... O__O Didn't exactly help me sleep ... X (  Went shopping today !
+0.90 (O__O; Did n't exactly help; sleep ... X (  Went shopping today)
+0.79 Context(O__O Did n't exactly help,List([50, 74))):(>:P Ninja Assasin; was though; too gory)
+
+^__^ There were quite alot of people ... O___O  meheeee ~ !
+0.76 (O___O; meheeee; ~)
+
+I love Pikachu ~~~ !
+0.50 (I; love; Pikachu)
+
+XD  AHHHHH ~~~ !
+
+>______< Avatar was too amazing !!!!
+0.84 (Avatar; was; too amazing)
+
+The IMAX was great .... XD Another favorite movie ~ !
+0.86 (The IMAX; was; great)
+
+:) ..................
+
+I want to fly now .... T^T  finally got to order my books ~~~ !
+0.28 (I; want; to fly now)
+0.20 (I; to fly; T:now)
+0.73 (T^T; to order; my books)
+
+^____^ V hehehe Very happy :DDD  Just realized I'm actually sick ..... =_____=;; cough cough ~ !
+0.71 (DDD; Just realized; I'm actually sick)
+0.57 Context(DDD Just realized,List([28, 46))):(^____^ V; hehehe; Very happy)
+0.18 Context(DDD Just realized,List([28, 46))):(I; 'm actually; sick)
+
+New year ~~~ !
+
+Whoooo ~ !
+
+Whose ready for 2010 ?! lol ^_____^ V And just realized I still have homework ... T^T  police crowded all around my neighborhood streets ..... O____O Couldn't get in .... or out .... >____<;; oh oh oh and saw my first shot gun in really life ~ !
+0.87 (T^T  police; crowded; L:all around my neighborhood streets)
+0.80 (O____O; Could n't get; in)
+
+hahaha XD  math .... arg ..... XP  Selfishness conquers all ... Basic message today ... -_____-;;  I'm soooo tired .....
+0.82 (XP  Selfishness; conquers; all)
+0.28 (I; 'm; soooo tired)
+
+The party was great and now I'm pooped ... =_____=;; But hey , I actually dance ~ !
+0.81 (The party; was; great)
+0.41 (I; 'm; pooped; T:now)
+0.19 (I; actually dance; )
+
+< PROPFEMALE > T .
+
+would be pround of me ... ^____^  \Phantom ~ of the Opera is here .... ~~~!\" XD hahaha It's was amazing >_____<"  Not going to school tomorrow ... =_____=;; sick .... * cough cough * Though I'm missing out on quite alot , ........... oh well ~ !
+0.89 (\Phantom ~ of the Opera; is; here)
+
+^____^ lol  Whaaa ~ ..... Colts lost ..... T^T Though I didn't really like either sooo meh .... O____O  I still think the Beijing Olympics was better ... XD lol But go Canada ~ !
+0.89 (Colts; lost; T^T)
+0.16 (I; did n't really like; )
+
+^____^  Happy New Year everyone ~ !!!! >_____< V ....... Well \Chinese\ " New Year ..... lol XD ( And it's REALLY cold ....!!! T^T ) "  Watching Lightning Thief today ~ !!! ^____^ Yaaaaaa ~ !
+0.28 (it; 's; REALLY cold)
+0.78 (Yaaaaaa; ~; )
+
+Can't wait ~ !
+
+XDDDD  Urg ....
+
+So much English homework ..... T^T  My sister .... < PROPFEMALE > Chen doesn't know the rubber ducky song .... XDDD lol  < PROPFEMALE > Quach and < PROPFEMALE > < PROPFEMALE > dragged me .... =____=;; But I learned how to waltz today .... O____O And fox trot , tango , and that other one that has triple step and total cannot do ... XD  WHOOOO ~~~~ !!!!
+0.88 (PROPFEMALE > Chen; does n't know; the rubber ducky song)
+0.40 (I; learned; how to waltz today)
+0.95 Context(I learned,List([205, 214))):(O____O And fox trot , tango , and that other one; can not do; XD  WHOOOO ~~~~)
+0.92 (that other one; has; triple step and total)
+
+The Olympics is over ~ ~ !!!
+0.86 (The Olympics; is; over ~)
+
+It was great ....! ^____^ V Now have to wait 2 years for the summer Olympics .... :D  Arg ... Sinking into my stage of depression ..... =_____=;; Today is a very bad day .... T^T  I suddenly love < PROPMALE > Cowell .... >//////< He saved < PROPFIRST > Lynch ~ !
+0.82 (V; to wait; T:2 years; for the summer Olympics)
+0.43 (I; suddenly love; < PROPMALE; Cowell)
+0.39 Context(I suddenly love,List([180, 195))):(He; saved; PROPFIRST > Lynch ~)
+0.90 Context(I suddenly love,List([180, 195))):(Today; is; a very bad day)
+0.23 Context(Today is I suddenly love,List([146, 195))):(It; was; great)
+
+:D  -My feet are aching from Wonder Works .... =_____=;; But me and my sister are eating at < PROPFIRST > < PROPFEMALE>'s ... !
+0.86 (:D; are aching; from Wonder Works)
+0.49 (me and my sister; are eating PROPFIRST; L:at <)
+
+Very good ~ ! ( Though the food haven't arrived yet .
+0.77 (the food; have n't arrived; T:yet)
+
+- .. Lol xD )  Hmmm ... Schools tomorrow .... ~ sigh ~ v_____v ;; Ah !
+
+Was there any homework ?! O____O  ~ sigh ~ I need a new phone ...! =______=;;  I slept 16 hours today .... O_____O whaaa ~~~ !
+0.91 (any homework; ~; sigh)
+0.79 (O_____O; ~~~; )
+0.47 (I; slept; 16 hours today)
+0.40 Context(I slept,List([79, 86))):(I; need; a new phone)
+
+Stupid bus driver ... > : O I'm still at school because he forgot the lot of us ~ !
+0.37 (I; 'm; T:still; at school; because he forgot the lot of us)
+0.31 (he; forgot; the lot of us)
+
+FINALLY got those awesome rubber bands !
+
+XD haha I feel so happy ...! ^____^  Hmmm ... This week might not be so bad ... ^____^  hahaha Just found out that a stupid boy brought a gun to school ... At Millenium Middle ... lol XDDD Feeling sorry for the future youngester going there ... > 0 <  OMG .... =_____=;; For anyone who watched Grey's Anatomy today ... They should now why I'll be in a depression tomorrow ... T^T ** sob ** I liked < PROPMALE > .... D:  AHHHH ~ !!!! Lakers won ~ !!!! >___< V WHOOOO ~ !!!! XDDD So happy ....! ^____^  I want a wand ... and a robe ... and a broom stick ... and some butterbeer ~ !
+0.78 (the future youngester; going; there)
+0.46 (I; want; a wand)
+0.18 Context(I want,List([501, 507))):(I; feel So happy; so happy)
+0.72 Context(I feel So happy I want,List([8, 507))):(This week; might not be; so bad)
+0.90 (anyone; watched; Grey's Anatomy; T:today)
+0.94 (Lakers; won ~; V WHOOOO ~ !!!! XDDD)
+0.40 (I; liked; PROPMALE)
+0.87 (lol XDDD; Feeling; sorry for the future youngester)
+
+T0T  got a haircut ~ :D So long since I've had short bangs and short hair ...! XD  Going to see Despicable Me ~ !!!! ^___^ I love the yellow minions ... hehe XD  Meh ... Boo Spain ...! T0T Stupid extra time !
+0.85 (T0T; got So long; a haircut)
+0.45 (I; 've had; short bangs and short hair)
+0.78 (XD; to see; Despicable Me ~ !!!! ^___^ I love the yellow minions ... hehe)
+
+XP  As quoted from < PROPMALE > Wang \The yellow minions look like giant Twinkies with arms and legs !
+0.95 (Wang \The yellow minions; look; like giant Twinkies with arms and legs)
+
+\ " hahaha My idiot cousin ... =____=;;"  Ahahaha ... Haven't carried that many textbooks in a while ... ( Arm's sore ) lol XD \  \  Schedule : 1 .
+0.87 (Ahahaha; Have n't carried; that many textbooks in a while ... ( Arm's sore ) lol XD \  \  Schedule)
+
+Spanish III ( Reich ) , 2 .
+
+AP World History ( Ash ) , 3 .
+
+Nutrition ( < PROPMALE > ) , 4 .
+
+Chemistry ( Brennan ) , 5 .
+
+Precalculus ( Chuo ) 6 .
+
+Orchestra ( Newhouse ) , 7 .
+
+AP English ( Hernandez)\  Hmmm ... My schedule is a bit iffy I guess ... =____=;;  Uhhh ... New Schedule ?
+0.70 (My schedule; is; a bit iffy)
+0.19 (I; guess; )
+0.39 (My schedule; is a bit iffy; I)
+
+:D \  Schedule :\  1 .
+0.87 (:D \  Schedule; :\; 1)
+
+Spanish III ( Reich ) , 2 .
+
+AP World History ( Ash ) , 3 .
+
+AP English ( Lyons ) , 4 .
+
+Chemistry ( Brennan ) , 5 .
+
+Design ?
+
+( < PROPMALE > ) 6 .
+
+Orchestra \  ( Newhouse ) , 7 .
+
+Precalculus ( Chou)\  Liked the other placement better ... =___=;; But I wanted to stick with Hernandez instead of Lyons ... * shrug **  Vote for < PROPFIRST > on So You Think You Can Dance ~ !
+0.40 (I; wanted; to stick with Hernandez instead of Lyons ... * shrug **  Vote for < PROPFIRST > on So You Think You)
+0.50 Context(I wanted,List([71, 79))):(I; wanted to stick PROPFIRST; with Hernandez instead of Lyons; shrug **  Vote for <)
+
+:D ( I preferred him much more over < PROPMALE >...)  Urg ... I hate long weekend homework ... =___=;;  Why today of all days ... =_____=;;  \Sometimes things just have to go wrong in order for it to right .
+0.35 (I; preferred; him; much more over < PROPMALE)
+0.45 (I; hate; long weekend homework)
+0.34 (\Sometimes things; to go; wrong)
+
+\ " \  I DISLIKE Mondays ... >:( And no nap today ... T0T  Paloma is AWESOME !
+0.97 (T0T  Paloma; is; AWESOME; T:today)
+
+;-)  Haha yeah ... what a day ... XD The weird thing is , I smell like < PROPFIRST>'s dog ...  Never again am I missing school anymore ... The bad thing is I have baggy eyes because of this and it's right before my birthday ... =____=;; ~ sigh ~  Thank you everyone who wished me a happy birthday ~ ^___^ ( I would comment on all of them but I'm too lazy ... XD ) I don't how I could have survived without all you people who I've grow so fond of .
+0.43 (The weird thing; is; )
+0.37 (it; 's; right; T:before my birthday)
+0.42 (I; do n't; how I could have survived without all you people who I've grow so fond of)
+0.16 Context(I do n't,List([364, 371))):(I; could have survived; )
+0.18 Context(I do n't I could have survived,List([364, 397))):(I; 've grow; so fond of)
+0.28 (I; 'm; too lazy)
+0.80 (everyone; wished; me; a happy birthday)
+0.64 (The bad thing; is; I have baggy eyes because of this and it's right before my birthday)
+0.40 Context(The bad thing is,List([139, 155))):(I; have; baggy eyes; because of this)
+
+:D Thank you !
+
+Haven't played hide-and-go-seek in a while .... XD hahaha  My ugliest report card ever .... * tear tear * T^T I need to step up my game ...! XD  I'm paying for someone to scare me .... =___=;; Good or bad ...? hahaha XD  Hahaha Well today was an eventful day .
+0.82 (someone; to scare; me)
+0.96 (XD  Hahaha; was; an eventful day; T:today)
+0.26 (I; need; to step up my game)
+0.72 Context(I need,List([110, 116))):(XD; hahaha; My ugliest report card ever)
+0.26 Context(I need,List([110, 116))):(I; need to step up; my game)
+0.31 (I; 'm paying; for someone to scare me)
+
+I spent an evening with 5 other witches while I stood out as a Hogwarts wizard .
+0.42 (I; spent; an evening; with 5 other witches; T:while I stood out as a Hogwarts wizard)
+0.50 (I; stood out; as a Hogwarts wizard)
+
+Go Gryffindor ~ !
+
+muwhaaa !
+
+^___^ Halloween is amazing ....  Today went by smoo ~ thly :) Well except chemistry ... XD  Can anyone tell me what we're suppose to have for Mrs. Chou's poster/homework for precalculus ...? I'm confused ... T^T  Ay dios mio ; sacre bleu ; oh mio Dio , whatever it is , it all mean the same in my life ... XD  T^T 4 pages to go .... T^T  So .... should I wear my Hogwarts costume to school ....? O___O ???
+0.81 (Halloween; is; amazing)
+0.20 (it; is; )
+0.16 Context(it is,List([262, 267))):(it; mean; the same)
+0.17 (we; to have; )
+
+I figured there's never really another occassion for this , so why not tomorrow ?
+0.36 (I; figured; there's never really another occassion for this , so why not tomorrow)
+
+XD  A birthday party , Disney , and a limo ~ Today was a nice day !
+0.96 (limo ~; was; a nice day; T:Today)
+
+^___^  It's as if I got a new phone !!! :DDDD  OMG .... >____<;; I can't believe < PROPFIRST > Bieber won all those awards at the AMA ... urg ... =___= But !
+0.52 (I; got; a new phone)
+
+I say Backstreet Boys after so long ~ hahaha XD  Go eat turkeys , my friends .
+0.41 (I; say; Backstreet Boys after so long ~ hahaha XD  Go eat turkeys , my friends)
+0.82 Context(I say,List([0, 5))):(Backstreet Boys; Go eat; turkeys; my friends)
+
+It's thanksgiving so be grateful for them turkeys .
+0.52 (It; 's; thanksgiving)
+
+XD  Ahhh .... Shopping is one of the many things that can satisfy a girl's heart .
+0.94 (Shopping; is; one of the many things)
+0.62 (the many things; can satisfy; a girl's heart)
+0.39 (Shopping; is one of; the many things)
+
+^___^ lol  After watching Tangled , I want a chameleon and an \unique\ " horse called Maximus .... XD "  Meh ... Why homework ?
+0.52 (I; want; a chameleon and an \unique\ " horse)
+0.93 (an \unique\ " horse; called; Maximus)
+
+Why ...?! T^T  First time locked INSIDE a classroom ...! I was hoping that I could miss other class but alas , they took the doorknob apart ... :( Well , maybe next time .
+0.95 (...?! T^T  First time; locked; INSIDE)
+0.62 (they; took; the doorknob; apart; T:Well , maybe next time)
+0.30 (I; was hoping; that I could miss other class but alas , they took the doorknob apart ... :( Well , maybe next time; T:Why ...?! T^T  First time locked INSIDE a classroom)
+0.39 Context(I was hoping,List([57, 69))):(I; could miss; other class)
+
+XD Haha  Found $20 on the stairs at school ... Well , as they always say , finders keepers ~ ^___^ V  Wah ....
+0.46 (they; say; T:always)
+0.91 (finders keepers; ~; V  Wah)
+0.91 Context(finders keepers ~,List([75, 92))):(XD Haha; Found; $20; L:on the stairs at school)
+
+I fell on the ice and my feet are aching ... T^T  On the bus to EPCOT !!! XDDD  Woke up today at 1pm after a trip to Epcot .
+0.52 (I; fell; on the ice)
+0.25 (my feet; are aching up; )
+
+XD lol Feet sore and homework's piling but the trip was worth it ~ ^____^  This Is < PROPFEMALE > hacking stacys profile !!!!!! Lol :)  No ... more ... school ~ !
+0.40 (This; Is; PROPFEMALE)
+0.84 Context(This Is,List([75, 82))):(the trip; was; worth it)
+
+:DDD I love breaks ~ <3  Ah , another Lord of the Rings movie marathon over the weekend ?
+0.45 (I; love; breaks)
+
+I don't have enough fingers and toes to count how many times I've watched it over and over again .
+0.42 (I; do n't have; enough fingers and toes to count how many times I've watched it over and over again)
+
+:D \  \They will answer to the < PROPMALE > of Gondor !
+0.94 (:D \  \They; will answer; to the < PROPMALE)
+
+\ " -Elrond\  Whew , spent the day at the mall ... :D I got many goodies for myself and watched Megamind ~ !
+0.79 (\ " -Elrond\  Whew; spent; the day; L:at the mall; I got many goodies for myself and watched Megamind ~)
+0.52 (I; got; many goodies)
+0.46 (I; watched; Megamind ~)
+
+^____^ Yah !
+
+Arg , going to have to wake up early once again ... T^T I'm going to miss all the lovely times I had with you over winter break , my comfy bed ... * mutter ineffective curses at school * >____>  ... Did anyone feel that today tugged at your thoughts for IB ?
+0.87 (all the lovely times; had; with you; T:over winter break)
+0.38 (I; to miss; all the lovely times I had with you over winter break)
+
+I'm not dropping out but ... ~ sigh ~ It makes me queasy ... -____-  So , chemistry graph #2 ... You're quite confusing you know ?
+0.19 (I; 'm not dropping out; )
+0.38 (you; know; )
+0.26 (It; makes So; me queasy)
+0.16 Context(It makes So,List([38, 71))):(me; queasy; )
+0.37 Context(It makes So,List([38, 71))):(You; 're; quite confusing)
+
+Just why in the world do you need negative y values ... O___O Care to tell me ?
+
+Go Steeler ~ !
+
+.... I'm not even watching the Super Bowl .. XD 
+0.50 (I; 'm not even watching; the Super Bowl)
+

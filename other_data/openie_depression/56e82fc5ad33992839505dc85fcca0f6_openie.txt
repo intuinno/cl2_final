@@ -1,0 +1,589 @@
+Happy New Year !!
+
+wants to go to Busch Gardens to see the new gray wolf pups !! So adorable !
+
+feels terrible and can't sleep because of it ... :(  needs a haircut .
+
+Ninja Warrior Marathon !!! New one at 6:30 !!!  Ninja Killer : Slider Jump .
+
+RIP All-Stars !
+
+:(  just saw Transformers : Revenge of the Fallen .... and cried .
+
+Twice .
+
+hates her new haircut and doesn't want to leave the house until it grows out again :(  had an amazing time at Kings Dominion with < PROPFIRST > today ^_^ ... and is slowly accepting her new hair .
+0.23 (it; grows out; T:again)
+
+loves all of her friends oh so much .
+
+Parties and hugs and love .
+
+I'm going to miss you all !!! :'(  Tentative dates : Going down to do forms and such around the 20th .
+0.27 (I; to miss; you)
+
+Not staying !
+
+I still don't know when I'll be moving , but it won't be before the 20th .
+0.45 (it; wo n't be; T:before the 20th)
+0.34 (I; do n't know; when I'll be moving; T:still)
+0.16 Context(I do n't know,List([0, 18))):(I; 'll be moving; )
+
+I may not be moving until very early August ....  is supposedly taking a trip down to < PROPFEMALE > next weekend .
+0.50 (I; may not be moving; T:until very early August)
+0.27 (I; is supposedly taking down; T:next weekend)
+
+Supposedly . 1 month until first day of classes ..... v.v  Finally !
+
+Stupid AP scores coming after everyone else's!  is in love , had an amazing day and loves her flowers :D  kinda really sucks at bowling .
+0.93 (Stupid AP scores; coming; T:after everyone else's)
+
+And even managed to cut herself 3 times on a bowling ball .
+
+Figures , huh ?
+
+Last week in VA !
+
+I'm going to miss everyone so much !!! Except you , < PROPFEMALE > .
+0.41 (I; to miss; everyone; so much)
+
+You're coming with me .
+0.46 (You; 're coming; with me)
+
+Saturday is moving day .
+0.92 (Saturday; is moving; T:day)
+
+2 days left ....
+0.78 (2 days; left; )
+
+Last day :'( But there's absolutely nobody I'd rather spend it with .
+0.31 (I; 'd rather spend; it; with)
+
+loves all of her friends from < PROPFEMALE > so very much !! Keep in touch !!  finally has internet for a brief period after 3 days without !! Man was it torture ...  is in her new dorm and FINALLY has internet !! It's a nice little room .
+0.81 (Man; was; it torture)
+0.50 (It; 's; a nice little room; T:after 3 days without !! Man was it torture)
+0.83 Context(It 's,List([214, 218))):(loves all of her friends from < PROPFEMALE > so very much !! Keep in touch !!  finally has internet for a brief period; is; in her new dorm)
+
+Classes start on Monday !
+0.93 (Classes; start; T:on Monday)
+
+loves making friends through a battle of wits and a few bruises to the ego .
+
+Thanks everyone for the birthday wishes !!! ( those who wished me a happy birthday , that is ... )  has only had one week of class and is already sick .
+0.42 (those who wished me a happy birthday; that is; )
+0.92 (Thanks everyone for the birthday wishes; has only had; one week of class)
+0.84 (Thanks everyone for the birthday wishes; is; T:already; sick)
+
+Perfect ... >_<  There's been a mystery flu going around campus down here .
+
+Found out yesterday what it is .
+
+Swine flu !
+
+A new friend of mine got it and was asked to leave campus .
+0.63 (A new friend of mine; got; it)
+0.67 (A new friend of mine; was asked; to leave campus)
+0.67 (A new friend of mine; to leave; campus)
+
+And I'm conveniently sick .
+0.28 (I; 'm; conveniently sick)
+
+If I get swine flu because my immune system hates me , my life officially sucks .
+0.52 (I; get; swine flu)
+0.51 (my immune system; hates; me)
+0.34 (my life; officially sucks; )
+
+has a really runny nose and is almost out of tissues .
+0.93 (a really runny nose; is; almost out of tissues)
+
+How pathetic :( On the upside pretty much all of my other symptoms are gone except for nose-related stuff .
+0.60 (How pathetic :( On the upside pretty much all of my other symptoms; are gone; )
+
+I think I'm allergic to < PROPFEMALE > ...  had to get up really early to go get a credit card .
+
+Not quite sure whether to be happy or pissed .
+
+absolutely despises dorm internet .
+
+This is the first time in weeks that I can see everything on facebook !!  Oh !
+0.21 (This; is; the first time in weeks that I can see everything on facebook)
+0.60 (I; can see; everything on facebook; T:the first time in weeks)
+0.89 (This; is the first time in; weeks)
+
+I forgot !
+0.19 (I; forgot; )
+
+Apparently my identity has been stolen and I have fraudulent charges on a credit card that I never owned .
+0.45 (I; have; fraudulent charges on a credit card)
+0.89 (a credit card; never owned; I)
+
+Joy , huh ?
+
+>_<  is very sick and very lonely .
+0.20 (_; is; very sick and very lonely)
+
+Only upside of today is football .
+0.94 (Only upside of today; is; football)
+
+Let's hope that doesn't suck too .
+
+fell down a total of three flights of stairs today .
+
+Sometimes I don't like the rain .
+0.60 (I; do n't like; the rain; T:Sometimes)
+
+has a friend in math class that loves the old tv show Dinosaurs too .
+0.88 (math class; loves too; the old tv show)
+
+And I thought I had escaped that when I left < PROPFEMALE > .
+0.28 (I; left; <)
+0.20 (I; thought; I had escaped that when I left < PROPFEMALE >)
+0.13 Context(I thought,List([4, 13))):(I; had escaped; that; T:when I left < PROPFEMALE >)
+
+Damn .
+
+really really is getting tired of being disappointed .
+
+No visit to < PROPFEMALE > for me until Thanksgiving .
+
+Off to drown my sorrows in soda and oreos .
+
+I miss you so much < PROPFIRST > :'(  fought Tropical Storm < PROPFEMALE > .
+0.37 (I; miss PROPFIRST; you)
+
+And won .
+
+I have slipped 6 times today so far , and haven't fallen once !! And I'm in flip-flops with no tread on the bottom .
+0.45 (I; have slipped; T:6 times today; T:so far)
+0.20 (I; have n't fallen; T:once)
+0.52 (I; 'm; in flip-flops)
+
+I consider it a victory .
+0.31 (I; consider; it a victory)
+
+kinda really has the most random < PROPFEMALE > to go bowling .
+
+How odd .  is : awake way too early , incredibly hot , dizzy , and nauseous .
+
+Great way to start a Tuesday .
+
+RIP Uga VII , 2008-2009 .
+
+You're cute skin rolls will be dearly missed .
+0.68 (You; 're; cute skin rolls will be dearly missed)
+0.73 (skin rolls; will be dearly missed; )
+
+:'(  So , I'm in < PROPFEMALE > but there's a change of plans .
+0.57 (I; 'm; in < PROPFEMALE)
+
+I'm leaving for < PROPFEMALE > on Friday ( night , I think ) so I have less time here than I thought ...  is so very happy and so in love :)  Holy crap , Detroit won !!!
+0.43 (I; 'm leaving; for < PROPFEMALE; T:on Friday; T:night)
+0.43 Context(I 'm leaving,List([0, 11))):(I; 'm leaving for <; PROPFEMALE)
+0.96 (Detroit; won; L:in love :)  Holy crap)
+0.24 (I; think; )
+0.51 (I; thought; is so very happy and so in love :)  Holy crap , Detroit won)
+
+I love you Stafford , you sexy beast of a quarterback <3  burnt her hand on the side of an evil new toaster .
+0.61 (you sexy beast of a quarterback <3; burnt; her hand; L:on the side of an evil new toaster)
+0.26 Context(you sexy beast of a quarterback <3 burnt,List([22, 63))):(I; love; you)
+
+Damn .
+
+has found the one thing she hasn't missed the slightest since moving .
+0.23 (she; has n't missed; the slightest; T:since moving)
+
+Even in the basement I can hear the fighting and stuff being thrown .
+0.53 (I; can hear; the fighting and stuff being thrown; L:Even in the basement)
+0.72 Context(I can hear,List([21, 31))):(the fighting and stuff; being thrown; )
+
+Happy Thanksgiving .....  will soon be on her way back to < PROPFEMALE > .
+
+Sadness .
+
+I'll be back in three weeks !!!  wishes the snow everyone is talking about would come visit her down here :(  is so frustrated about the stupid online store that magically misplaced my order for < PROPFIRST>'s Christmas present and has no record of it .
+0.52 (I; 'll be; back in three weeks)
+0.86 (the stupid online store; magically misplaced; my order for < PROPFIRST>'s Christmas present)
+0.27 (I; would come; visit her down here)
+
+SNOOOOOOOW IS COMING !! I'm so excited , and glad the precipitation following me in < PROPFEMALE > and nearly killing me is actually gonna freeze and fall in snowflakes ^__^  ....
+0.45 (the precipitation following me in < PROPFEMALE > and nearly killing me; na freeze; )
+0.23 (I; 'm glad; so excited)
+0.58 Context(I 'm glad,List([24, 49))):(SNOOOOOOOW; IS COMING; )
+0.78 (the precipitation following me in < PROPFEMALE > and nearly killing me; fall; in snowflakes)
+0.86 (the precipitation; following; me; L:in < PROPFEMALE)
+0.81 (the precipitation; nearly killing; me)
+
+I love the snow , but it could potentially impede my going-to-see-my-boyfriend-to-play-in-the-snow-together abilities .
+0.45 (I; love; the snow)
+0.31 (it; could potentially impede; my going-to-see-my-boyfriend-to-play-in-the-snow-together abilities)
+
+Damn .
+
+..... Damn .
+
+just got back from her love's house ^_^ His daddy was so nice to come get me !!  Back to classes today .... Damn .
+
+I should not have to be awake yet :(  5:45 class .
+0.20 (I; to be; awake; T:yet)
+
+Holy shit is it cold outside .
+0.83 (Holy shit; is; cold; L:outside)
+
+And dark ..... It's an accident waiting to happen .
+0.52 (It; 's; an accident waiting to happen)
+0.77 (an accident; waiting; to happen)
+0.70 (an accident; to happen; )
+
+Remember me when I become a statistic !!  is back in < PROPFEMALE > .
+0.45 (I; become; a statistic)
+
+Had a great day with < PROPFIRST > :)  had her piece of crap laptop fixed by her lovely brother .
+0.78 (PROPFIRST; had; her piece of crap laptop)
+0.83 (crap laptop; fixed; by her lovely brother)
+
+I still hate this thing ....  apparently has monkey feet .
+0.55 (I; hate; this thing; apparently has monkey feet; T:still)
+
+Thanks < PROPFIRST > , love you too .
+
+loves < PROPFIRST>'s family because they're all so nice to me !
+0.46 (they; 're all; so nice to me)
+
+< PROPFIRST>'s mean to me .... but I suppose I love him too ...  had a great day with < PROPFIRST > and his great family .
+0.30 (I; love too; him)
+
+But mostly with < PROPFIRST > <3  has a nasty headache .
+0.90 (PROPFIRST > <3; has; a nasty headache)
+
+I would take an aspirin , but that wouldn't make life any less annoying .
+0.45 (I; would take; an aspirin)
+0.14 (that; would n't make; life any less annoying)
+
+had a fantastical day keeping < PROPFIRST > company at his bowling league games .
+
+Ah , the sexual innuendo we used there .
+
+Great day .
+
+< PROPMALE > < PROPMALE > Dorton , if you EVER scare me like this again , I'm going to beat the shit out of you .
+0.56 (you EVER; scare; me; T:again)
+0.27 (I; to beat; the shit; out of you)
+
+Nothing like a night of tears and bad dreams to make you wake up looking terrible with puffy eyes .  is all kinds of a sick mess .
+0.58 (you; looking; terrible with puffy eyes)
+0.91 (Nothing like a night of tears and bad dreams to make you wake up looking terrible with puffy eyes; is; all kinds of a sick mess)
+
+only just woke up half an hour ago .
+
+And I still feel miserable .
+0.30 (I; feel; miserable; T:still)
+
+Pollen season is not a time best spent in a basement bedroom with no air circulation and no dehumidifier .  is apparently < PROPFEMALE>'s \Love Muffin \"....."  doesn't like that she's apparently predictable enough for others to use to their own advantage .....
+0.82 (others; to use; to their own advantage)
+0.90 (a time; best spent; L:in a basement bedroom)
+0.55 (PROPFEMALE>'s \Love Muffin \; does n't like; that she's apparently predictable enough)
+0.92 Context(PROPFEMALE > 's \Love Muffin \ does n't like,List([124, 173))):(Pollen season; is not; a time best spent in a basement bedroom with no air circulation and no dehumidifier)
+0.42 Context(PROPFEMALE > 's \Love Muffin \ does n't like,List([124, 173))):(she; 's; apparently predictable enough for others to use to their own advantage)
+
+That just doesn't sit well with me ....  \Never get Freudian with a man with a pickle .
+0.25 (That; just does n't sit well; with me)
+
+\ " - < PROPFEMALE > < PROPFIRST > McCoy "  may be on a bowling team with < PROPFIRST > in the near future ?
+0.89 (\ " - < PROPFEMALE > < PROPFIRST; may be; T:in the near future)
+
+Gotta think about it .
+
+had a great , great Thursday :)  < PROPFIRST > < PROPFEMALE > said that the normal man does not torture .
+
+Generally it is the tortured that become torturers .
+0.53 (the tortured; become; torturers)
+0.50 (it; is the tortured that; become torturers)
+
+had a so-so night .
+
+Had fun bowling and won a free game , but I was scolded and I now have the highest handicap in the league .
+0.19 (I; was scolded; )
+0.55 (I; have; the highest handicap in the league; T:now)
+
+Joy .
+
+had to go home early from a sleepover with the besties because of a terrible headache behind my left eye :( Of all the times to be sick .....  Bowling Pt . 2 Tonight .
+0.91 (all the times; to be; sick; T:2 Tonight)
+
+Here's hoping I can do better this time around and not embarrass myself .
+0.40 (I; not embarrass; myself; T:this time)
+
+Well .... my first game was much better anyway .
+0.40 (my first game; was anyway; much better)
+
+Probably wouldn't have sucked after that if I didn't start feeling sick .
+0.18 (I; did n't start; feeling sick)
+0.18 Context(I did n't start,List([44, 58))):(I; did n't start feeling; sick)
+
+These days a good day seems really hard to come by .
+0.72 (a good day; to come by; )
+
+I've had okay days , but not one really great day for quite a while .
+0.45 (I; 've had; okay days)
+
+And not just great for me , great for the people I love too .
+0.88 (the people; love too; I)
+
+I'm still waiting on that .
+0.11 (I; 'm waiting; on that; T:still)
+
+< PROPFIRST>'s momma bought me a brand new ball .
+0.81 (PROPFIRST>'s momma; bought; me; a brand new ball)
+
+Which made me feel bad that my first game with it was a 51 .
+0.52 (my first game with it; was; a 51)
+
+My first two games were good for me though ( 105 , 97 ) .
+0.53 (My first two games; were though; good for me)
+
+Just wish my last game was that good .
+
+had a really great day today , but feels kinda awful .
+
+Probably getting sick .
+
+And I want cuddle time :(  just randomly woke up and is cold and very dizzy .
+0.52 (I; want; cuddle time)
+
+This is not a good sign .
+0.38 (This; is not; a good sign)
+
+bowled decently tonight .
+
+132 , 82 , 81 .
+
+Last game was with my new ball , which I have partially started to understand .
+0.84 (Last game; was; with my new ball)
+0.18 Context(Last game was,List([0, 13))):(I; have partially started; to understand)
+0.16 Context(Last game was I have partially started,List([0, 63))):(I; have partially started to understand to understand; )
+
+I need to praaaaaaaactice !!! \  \  Though I am very proud of my 132 :)  Bad day .
+0.37 (I; am; very proud of my 132 :)  Bad day)
+0.19 (I; need; to praaaaaaaactice)
+0.16 Context(I need,List([0, 6))):(I; need to praaaaaaaactice to praaaaaaaactice; )
+0.11 Context(I need,List([0, 6))):(I; need to praaaaaaaactice \; )
+
+Bad mood .
+
+I want to sleep through the rest of today so nothing else bad can happen .
+0.47 (I; want; to sleep through the rest of today)
+0.40 Context(I want,List([0, 6))):(I; want to sleep; T:through the rest of today)
+
+just walked across the street to Bloom for some groceries .
+
+I don't mind playing Frogger with 208 , but I would like them to mow the median .
+0.45 (them; to mow; the median)
+0.43 (I; do n't mind; playing Frogger with 208)
+0.43 Context(I do n't mind,List([0, 12))):(I; do n't mind playing; Frogger)
+
+Some of those plants are sharp as hell and my toes do not appreciate it .
+0.92 (Some of those plants; are; sharp as hell)
+0.49 (my toes; do not appreciate; it)
+
+My phone just died thanks to an \account error\ " from Sprint .
+0.68 (My phone; just died; thanks; to an \account error\; from Sprint)
+
+Lovely .
+
+So I'll be out of commission for a while .
+0.52 (I; 'll be; out of commission; T:for a while)
+
+Hopefully it'll be all settled in the morning .
+0.41 (it; all settled; T:in the morning)
+
+"  ' s phone is now turned back on :)  is gonna have a good day at Kings Dominion with < PROPFIRST > today :)  Intimitador 305 at KD = Freakin ' Awesome !! New favorite coaster for < PROPFEMALE > :)  Good day .
+0.93 (s phone; is turned; back; L:on :); T:now)
+
+Very good day .
+
+My body hurts like hell , but it was so fun .
+0.41 (My body; hurts; )
+0.28 (it; was; so fun)
+
+Up early tomorrow to prepare to go out yet again for a pool party :)  got sunburnt so badly .
+0.72 (a pool party; got sunburnt so badly; )
+
+Oh my god it hurts so bad .
+0.19 (it; hurts so bad; )
+
+I was outside for maybe an hour .
+0.52 (I; was; outside; T:for maybe an hour)
+
+What the hell .
+
+I can't move .....  was in a car accident today on the way to spend the week with < PROPFIRST > and his mom in < PROPFEMALE > Beach .
+
+We're all fine and will continue the trip .
+0.24 (We; 're; fine)
+0.41 (We; will continue; the trip)
+
+Tomorrow , off to the beach !
+
+Thank you everybody for wishing me a happy birthday !!  .....
+0.42 (you; for wishing; me; a happy birthday)
+
+A freaking cricket in my room kept me up all night , and now I feel awful .
+0.63 (A freaking cricket in my room; kept up; T:all night)
+0.34 (I; feel; awful; T:now)
+
+Lovely .  is finally getting a bed of her own !! :) Now maybe my back won't always feel like it's trying to snap itself in half when I wake up in the morning ...  Oh < PROPFEMALE > football , how I missed you so <3  just submitted an application to CVS .
+0.31 (I; missed; you)
+0.61 (so <3; just submitted; an application; to CVS; T:how I missed you)
+0.26 (it; 's trying; to snap itself in half)
+0.26 Context(it 's trying,List([93, 104))):(it; 's trying to snap; itself)
+0.50 (I; wake up; T:in the morning; T:Oh < PROPFEMALE > football)
+
+Hoping so much that they hire me .
+0.46 (they; hire; me)
+
+Well , I'm apparently a mean , cruel , and insensitive person , according to my lover because I moved away when he farted .
+0.31 (I; 'm apparently; a mean , cruel , and insensitive person; because I moved away when he farted)
+0.31 (I; moved; away; T:when he farted)
+0.19 (he; farted; )
+
+Lovely .
+
+Even though < PROPFEMALE > lost , that second half was one hell of a game .
+0.93 (second half; was; one hell of a game)
+0.39 (second half; was one hell of; a game)
+
+Not bad , Arkansas , not bad .
+
+My laptop's keyboard died :( I'm using a wireless plugged in one until I can get a replacement .
+0.39 (My laptop's keyboard; died; )
+0.31 (I; 'm using; a wireless plugged; in one; T:until I can get a replacement)
+0.45 (I; can get; a replacement)
+
+Hurry up , Nee-chan !
+
+<3  got an SVGA cable in the mail so now her laptop is connected with her HD tv .
+0.50 (<3; got; an SVGA cable)
+
+This is utter epicness .
+0.45 (This; is; utter epicness)
+
+I swear .
+0.19 (I; swear; )
+
+And it's even better because my laptop has it's own remote so I can control it from my couch like it was just on tv .
+0.37 (it; 's; even better; because my laptop has it's own remote)
+0.31 (I; can control; it)
+0.52 (it; was; just on tv)
+0.62 (my laptop; has; it's own remote so I can control it from my couch)
+0.24 Context(my laptop has,List([29, 42))):(it; 's; own remote)
+
+Awesome .
+
+I'm never leaving my room again .
+0.31 (I; 'm never leaving; my room; T:again)
+
+First game Stafford is back and healthy , and the Lions beat the Redskins .
+0.91 (game Stafford; is; back and healthy; T:First)
+0.94 (the Lions; beat; the Redskins)
+
+What an awesome Halloween game .
+
+37-25 <3  I get so much done when < PROPFIRST>'s not around to text .
+0.28 (I; get; so much done)
+0.17 (I; so much done; )
+0.52 (when < PROPFIRST>; 's not; around to text)
+
+It's kinda creepy .
+0.28 (It; 's; kinda creepy)
+
+I'm trapped .
+0.28 (I; 'm; trapped)
+0.17 (I; trapped; )
+
+I don't know what to do .
+0.18 (I; do n't know; what to do)
+0.16 Context(I do n't know,List([0, 12))):(I; do n't know what to do to do; )
+
+All I know is I'm not strong enough to keep living this life .
+0.40 (All; know; I)
+0.64 (All I know; is; I'm not strong enough to keep living this life)
+0.47 Context(All I know is,List([0, 13))):(I; 'm not; strong enough to keep living this life)
+
+DAMN IT !! Lions-Jets tied at 20-20 , going into overtime .
+0.72 (DAMN IT !! Lions-Jets; tied; T:at 20-20)
+0.83 Context(DAMN IT !! Lions - Jets tied,List([0, 26))):(DAMN IT !! Lions-Jets; tied going; into overtime)
+
+SO stressful !! My poor baby is hurt yet again :'(  That figures , Lions winning almost all game , then Stafford gets hurt and the Lions crash and burn .
+0.97 (Stafford; gets; hurt and the Lions crash and burn; T:then)
+0.86 (Stafford; gets hurt; T:then)
+0.79 (Stafford; burn; )
+
+Freaking figures .
+
+Note to self : that one video file that made my computer flip out was not alone .
+0.78 (one video file; made; my computer flip out)
+0.29 Context(one video file made,List([20, 44))):(my computer; flip out; )
+
+Any mp4 file will cause a continuous Windows Explorer crash loop .
+0.93 (Any mp4 file; will cause; a continuous Windows Explorer crash loop)
+
+Lovely .
+
+Oh < PROPMALE > Potter , how you make me cry .
+0.40 (you; make; me cry)
+0.20 Context(you make,List([29, 37))):(me; cry; )
+
+How you make me cry so hard that someone 3 seats down from me passed me a tissue down the row .
+0.68 (someone 3 seats down from me; passed; a tissue down the row)
+0.28 (you; make; me cry so hard that someone 3 seats down from me passed me a tissue down the row)
+0.16 Context(you make,List([4, 12))):(me; cry so hard; )
+
+Just finished my assessment for a Pharmacy Tech job at Walgreens .
+
+I'm gonna call the Pharmacy Manager in a few hours to talk to him .
+0.26 (I; na call; the Pharmacy Manager; T:in a few hours; to talk to him)
+0.16 Context(I na call,List([0, 14))):(I; na call the Pharmacy Manager to talk; to him)
+
+And I hear a tech at Giant is leaving so I may be considered for that , too .
+0.43 (I; hear; a tech at Giant is leaving)
+0.70 Context(I hear,List([4, 10))):(a tech at Giant; is leaving; so I may be considered for that , too)
+
+I really hope I can land one of these jobs ....  Has won 8 coupons for free boxes of Toaster Strudels and 4 came today !
+0.38 (4; came; T:today)
+
+I probably shouldn't be this excited about Toaster Strudels ....  Liar Game ruined my dreams .
+0.85 (Liar Game; ruined; my dreams)
+0.44 Context(Liar Game ruined,List([66, 82))):(I; probably should n't be; this excited about Toaster Strudels)
+
+It was great .
+0.28 (It; was; great)
+
+But it ruined my dreams .
+0.31 (it; ruined; my dreams)
+
+Only I could manage to really hurt myself on a box of instant pancakes ....  Boom Boom .
+
+I had such a wonderful anniversary .
+0.52 (I; had; such a wonderful anniversary)
+
+I got a beautiful necklace as a present , I got to spend the day with < PROPFIRST > and part of it with his mom and < PROPMALE > , and I scored really well in bowling .
+0.45 (I; scored really well; L:in bowling)
+0.48 (I; got; to spend the day with < PROPFIRST > and part of it with his mom and < PROPMALE >)
+0.47 Context(I got,List([42, 47))):(I; got; a beautiful necklace)
+0.44 Context(I got,List([42, 47))):(I; got to spend; the day; with < PROPFIRST)
+
+Great day <3  My sister just left after just three days of being here .
+0.76 (My sister; just left; T:after just three days of being here; T:Great day)
+
+I miss her already :'( \  Daisuki Nee-chan !! <3 <3 <3 Hurry up and come back again soon !!  Got called in by Walgreens today for a skill assessment .
+0.12 (<3; <3 Hurry; up)
+0.15 (<3; come; back; T:again; T:soon)
+0.31 (I; miss; her; T:already)
+0.79 Context(I miss,List([0, 6))):(Got; called in; T:today; for a skill assessment)
+
+If I pass I have an interview on Wednesday !
+0.24 (I; pass; )
+0.50 (I; have; an interview on Wednesday)
+
+So excited !! 
+

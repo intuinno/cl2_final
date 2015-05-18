@@ -1,0 +1,83 @@
+Lmao !
+
+The fireworks SO went off before we had a < PROPMALE > to get away !
+0.92 (The fireworks; went; off; T:before we had a < PROPMALE > to get away)
+0.57 (we; had; a < PROPMALE)
+0.68 (a < PROPMALE; to get; away)
+
+Has anyone else been having a problem with getting their ingredient popups ?
+
+I havent been able to get some things in DAYS .
+0.45 (I; have nt been; able to get some things in DAYS)
+0.41 (I; to get; some things; T:in DAYS)
+
+-_-  My little sister just asked me how long it would take to get to Germany ... by car .
+0.46 (it; to get; to Germany)
+0.61 (My little sister; just asked; me; how long it would take to get to Germany ... by car)
+
+O_o  I've got a interview today at the mall with Borders .
+0.50 (I; 've got; a interview; T:today; L:at the mall with Borders)
+
+Wish me luck !
+
+^_^  Is everyone going trick or treating TODAY or TOMORROW ?
+
+Autumn said something about it being illegal to trick or treat on Sundays now but my grandma needs to know when she needs to buy her < PROPFEMALE > .. so yeah .
+0.91 (Autumn; said; something about it being illegal to trick or treat on Sundays now)
+0.29 (she; needs; to buy her < PROPFEMALE >)
+0.26 Context(she needs,List([112, 121))):(she; needs to buy; her)
+0.31 (it; to treat; T:on Sundays; T:now)
+0.47 (my grandma; needs; to know; T:when she needs to buy her < PROPFEMALE >)
+0.47 Context(my grandma needs,List([82, 98))):(my grandma; needs to know to know; T:when she needs to buy her < PROPFEMALE >)
+
+XD  Tired of job hunting .
+
+:[  Today is Election Day ?
+0.93 (Today; is; Election Day)
+
+What are we voting on ?
+
+I hope everyone had a nice Thanksgiving !
+0.44 (I; hope; everyone had a nice Thanksgiving)
+0.92 Context(I hope,List([0, 6))):(everyone; had; a nice Thanksgiving)
+
+<3  So my grandma was right , something always happens .
+0.78 (something; happens; T:always)
+0.40 Context(something happens,List([30, 54))):(my grandma; was; right)
+
+:/  the worst thing you could ever do is give me false hope .
+0.36 (the worst thing; could do; T:ever)
+0.67 (the worst thing you could ever do; is; give me false hope)
+
+it's pretty hard for me to forgive that .
+0.10 (me; to forgive; that)
+
+i won't lie .
+0.19 (i; wo n't lie; )
+
+i think im running a fever .
+0.20 (i; think; )
+0.40 Context(i think,List([0, 7))):(i; think im running; a fever)
+
+:/  < PROPFEMALE > Christmas everyone !
+
+^_^  O_O ... OH .
+
+Finally got a job interview for the 9th !
+
+^_^  I'm just now looking out of my window but I've been awake for a while and finally decide to loook out of the window .
+0.22 (I; 'm just looking; T:now)
+0.45 (I; 've been; awake; T:for a while)
+0.55 (I; decide; to loook out of the window; T:finally)
+
+When did it snow ?
+
+O_O  How do you lose shoes ?
+
+-_- I'm ready to go , but I can only find 1 of my shoes .. \  Flip flops it is .
+0.28 (I; 'm; ready to go)
+0.17 (I; to go; )
+0.31 (I; can only find; 1 of my shoes)
+0.77 (Flip; flops; it is)
+0.20 Context(Flip flops,List([62, 72))):(it; is; )
+

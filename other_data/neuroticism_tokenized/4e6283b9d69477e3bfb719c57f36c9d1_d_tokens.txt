@@ -1,0 +1,23 @@
+If ' pro ' means good , and ' con ' means bad .. and Obama wants some progress in this country , what does that make CONgress ? 
+
+\You are not a beautiful and unique snowflake . You are the\ 
+You just have to love Amazon.com and their 90% off retail prices for DVDs 
+What's with parents and facebook stalking ? 
+Bought a pair of Turtle Beach X31's . I have to say : they're amazing ! Any other hardcore gamers , you need these ! 
+Well , crap .. I start classes at ICC on the 23 , and I still don't know how to get there , nor where my classes actually are . Anybody else in a similar situation ? 
+Spent 566 dollars on college books ... what's your damage ? 
+What Legendary Pokemon Are You ? - My Result : Lugia http://bit.ly/91VcL1 
+Going to Gamestop on Monday night at midnight for their release of Fallout : New Vegas . Anybody else ready ? 
+When life gives you lemons , screw life . Have a party . 
+When I had over five hundred dollars , there wasn't anything I wanted to buy . After making a huge payment on my computer , I'm close to broke and now I want like five different things . God has a sick sense of humor D: 
+Holy crap ... why didn't anybody tell me Dragon Age : Origins was amazing before now ? 
+Just nearly avoided a car accident because some insane driver left turned into the oncoming traffic ( me ) . I'd rather not repeat the process again tomorrow . 
+What I have gathered from C++ so far . \ 
+\ 
+#include < iostream > \ 
+#include < iomanip > \ 
+#include < cmath > \ 
+using namespace std ;\ 
+int main () {\ 
+int a = 0 // age\ 
+cout << Personal Interest Inspection ( PIP)\\n\ ;\ 

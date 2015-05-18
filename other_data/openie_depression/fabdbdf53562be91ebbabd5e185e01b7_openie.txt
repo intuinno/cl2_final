@@ -1,0 +1,1027 @@
+KICK BACK AT MANNY'S SATURDAY NIGHT !
+
+NO BRO HOES !
+
+KICKBACK AT CEASE'S SATURDAY NIGHT AT 9 .
+
+NO BRO HOES !
+
+< PROPMALE>'s was fun .
+0.77 (PROPMALE>'s; was; fun)
+
+No hangover !
+
+It's beautiful .
+0.28 (It; 's; beautiful)
+
+Sledding in Strawberry on Monday  Tired from the snow .
+
+ZZZZ .
+
+Was fun but next time we hit the big slopes so we don't walk through the woods for about a mile .
+0.63 (we; hit; the big slopes; so we don't walk through the woods for about a mile; T:next time)
+0.45 (we; do n't walk; through the woods)
+
+Last night was a blast !
+
+Surfer on acid is some strong stuff .
+0.93 (Surfer on acid; is; some strong stuff)
+
+Happy 2011 !
+
+Time to board to work .
+
+Off to work we go .
+0.24 (we; go; )
+
+Was that a suprise or WHAT !
+
+I miss my hair .
+0.37 (I; miss; my hair)
+
+My head is turning faster than I am used to because of all the lost weight !
+0.60 (My head; is turning faster; because of all the lost weight)
+0.19 (I; am used; )
+
+I need a good haircut .
+0.45 (I; need; a good haircut)
+
+Not one that makes me sad .
+0.38 (Not one; makes; me sad)
+
+I got white hair baby !
+0.52 (I; got; white hair baby)
+
+Tired tired tired .
+
+Was asleep from 6- 9:30 am and 11am-1pm .
+
+Today was a long day and Manny was there most of it .
+0.92 (Today; was; a long day)
+0.89 (Manny; was; there; T:most of it)
+
+hahaha  Was at supercross .
+0.92 (hahaha; Was; at supercross)
+
+RAARRAAA !
+
+That was an bike engine ...  Spent 300 for school ... AAAARRRRR !
+0.45 (That; was; an bike engine)
+
+Another virus sent to its grave !
+0.87 (Another virus; sent; to its grave)
+
+I rock .
+0.24 (I; rock; )
+
+A tornado would be fun !
+0.77 (A tornado; would be; fun)
+
+Shopping for cigars after buying a humidor .
+
+I'm definitely getting some before vegas closer to the end of march !
+0.45 (I; 'm definitely getting; some before vegas closer to the end of march)
+
+I ... am not ... a w **** .
+0.17 (I; am not; a w ****)
+
+Man , I want another weekend !!!  2 episodes and a movie away from finishing Full Metal Alchemist  You say you want a revolution well , we all wanna change the world .
+0.43 (we; wan; na change the world)
+0.36 Context(we wan,List([136, 146))):(we; wan na change; the world)
+0.46 (I; want; another weekend)
+0.40 Context(I want,List([6, 12))):(You; say; you want a revolution well)
+0.55 Context(I want You say,List([6, 106))):(you; want well; a revolution)
+
+Ich habe been studiren Deutsch fur funf uhrs .
+0.86 (Ich; habe been; studiren)
+
+5 HOURS TODAY !
+
+UGHOHUGHO !
+
+Now my grammar is broken .
+0.48 (my grammar; is broken; T:Now)
+
+This weekend will be awesome .
+0.77 (This weekend; will be; awesome)
+
+Not because I get to do things but because I don't have to do anything .
+0.41 (I; to do; things)
+0.41 (I; to do; anything)
+
+yay ....  Go to urbandictionary.com,type in your first name , copy and paste this as your status and the entry for your comments  If I do have fun tonight it will only be for a tee bit .
+0.45 (I; do have; fun; T:tonight)
+0.45 (it; will only be; for a tee bit)
+
+The night is young at 10 .
+0.81 (The night; is; young; T:at 10)
+
+Not doing anything fun because of you Kohl's!
+
+Lasertag Saturday night at 8 at Stratum .
+
+EVERYONE IS INVITED !
+0.63 (EVERYONE; IS INVITED; )
+
+Who wants to celebrate tonight ?
+
+Celebrate that we made it through the week without strangling anyone .
+
+=D  I don't mind rain .
+0.45 (I; do n't mind; rain)
+
+I just don't like rusted bearings from boarding in the rain .
+0.45 (I; just do n't like; rusted bearings)
+
+At ASU under a covered patio , watching it pour .
+
+Can see my breath .
+
+Hole in shoe + wet ground = FUCK !
+
+YEAH !
+
+Just finished typing up my paper on Amusement parks in late 19th century Europe .
+
+Eating at < PROPMALE>'s Dog House .
+
+Come by if you are in the neighborhood !
+0.62 (you; are; in the neighborhood)
+
+Glad the effers in Cancun don't have service .
+
+No more rubbing it in for you pricks .
+
+Thursday's agenda : Relax .
+
+I'm on vacation .
+0.52 (I; 'm; on vacation)
+
+21 in a week !
+
+How come you always feel better when you stay home sick from school ?
+0.57 (you; feel; better; T:when you stay home sick from school; T:always)
+0.62 (you; stay home; sick from school)
+
+Having fun at 21 .
+
+Thanks to all who wished me a happy birthday , whether it was over the phone , on my wall , or face to face !  3 days til liftoff  digging my hair do today .
+0.22 (all; wished; me; a happy birthday)
+0.52 (it; was; over the phone)
+0.70 (my hair; do; T:today)
+
+22 and a half hours  OWF !
+
+This week went by fast .
+
+Thank god .
+
+KICKBACK SATURDAY 10PM AT CESARS .
+
+I'm sorry everyone !
+0.52 (I; 'm; sorry; T:everyone)
+
+There will be NO kickback tonight ( I already let out all my anguish listening to Nirvana ) .
+0.38 (I; let out; all my anguish listening to Nirvana; T:already)
+0.64 Context(I let out,List([36, 53))):(all my anguish; listening; to Nirvana)
+
+< PROPMALE > wants to relax .
+0.65 (PROPMALE; wants; to relax)
+0.54 Context(PROPMALE wants,List([2, 18))):(PROPMALE; wants to relax to relax; )
+
+But everyone is invited to LASER TAG !
+0.91 (everyone; is invited; to LASER TAG)
+
+It'll be at Laser Quest tonight ( I get off of work at 10 so that's when I'm going)- 2035 s < PROPFEMALE > School Rd mesa AZ .
+0.42 (It; 'll be; at Laser Quest; T:tonight ( I get off of work at 10)
+0.66 (I; get; off of work; T:at 10; T:tonight)
+
+Hope to see you there !
+
+She'll come back and fire to burn all the liars .
+0.23 (She; 'll come; back)
+0.35 (She; fire; to burn all the liars)
+0.35 Context(She fire,List([0, 25))):(She; fire to burn; all the liars)
+
+Leave a blanket of ash on the ground .
+
+Bought an acoustic guitar !
+
+Will bring it camping along with the one I'm blowing up .
+0.70 (the one; 'm blowing up; )
+
+Why are we in Afghanistan shooting up civilians in raids and convoy checkpoints ?
+
+Terroists have guns , civilians don't .
+0.73 (civilians; do n't; )
+0.87 Context(civilians do n't,List([22, 37))):(Terroists; have; guns)
+
+You have no honor killing innocent people .
+0.62 (You; have; no honor killing innocent people)
+
+I was at school from 9:15 - 8:15 today .
+0.52 (I; was; at school; T:from 9:15 - 8:15)
+
+OWWFF .
+
+I wish I had a stalker .
+0.32 (I; wish; I had a stalker)
+0.47 Context(I wish,List([0, 6))):(I; had; a stalker)
+
+Then I wouldn't be lonely !
+0.34 (I; would n't be; lonely; T:Then)
+
+-(future lyrics for a future song in my future band )  Why do they call Sundays days of rest when all you do is effing work ?
+0.40 (all; do; you)
+0.66 (all you do; is effing; work)
+
+Somewhere out , < PROPFIRST > is smoking it up .
+
+Human suffering anywhere concerns men and women everywhere .
+0.58 (Human suffering anywhere; concerns everywhere; men and women)
+
+-Elie Wiesel  Getting pictures for my presentation on Female Genital Cutting/Mutilation while eating leftover subway .
+0.89 (Elie Wiesel; Getting; pictures; for my presentation on Female Genital Cutting/Mutilation)
+
+I don't lose my appetite , my appetite loses to me !
+0.48 (I don't lose my appetite; loses; to me)
+0.26 Context(I do n't lose my appetite loses,List([0, 44))):(I; do n't lose; my appetite)
+
+Even my imaginary friends hate me .
+0.54 (Even my imaginary friends; hate; me)
+
+My paper is making me miserable .
+0.49 (My paper; is making; me miserable)
+
+So bad that Kohl's is like an escape .
+0.90 (Kohl's; is; like an escape)
+
+Less than a week ... less than a week .
+
+CAMPING !
+
+CAMPING !
+
+CAMPING !
+
+Studied from 10AM when I woke up , to 11:30 PM .
+0.41 (I; woke up; to 11:30 PM)
+
+I got to wake up at 5:30 .
+0.28 (I; got; to wake up at 5:30)
+0.20 (I; to wake up; T:at 5:30)
+
+Camping is the only thing preventing me from killing myself .
+0.89 (Camping; is; the only thing preventing me from killing myself)
+0.31 (me; from killing; myself)
+
+Studied from 10AM when I woke up , to 11:30 PM .
+0.41 (I; woke up; to 11:30 PM)
+
+I got to wake up at 5:30 .
+0.28 (I; got; to wake up at 5:30)
+0.20 (I; to wake up; T:at 5:30)
+
+Too much fun this weekend .
+
+Just too much fun .
+
+SCHOOL'S OUT  Those who study and work hard during the school year , get to party hard during the summer .
+0.23 (Those; study; )
+0.50 (Those; work hard; T:during the school year)
+0.69 (SCHOOL; 'S; OUT)
+
+It's only fair .
+0.28 (It; 's; only fair)
+
+=)  These times are confusing .
+0.77 (These times; are; confusing)
+
+I'll drink to that .
+0.12 (I; 'll drink; to that)
+
+SUMMER 2010 will be awesome  I'll come back as fire and burn the liar .
+0.81 (SUMMER 2010; will be; awesome  I'll come back as fire and burn the liar)
+0.45 (I; 'll come; back as fire)
+0.48 (I; burn; the liar)
+
+Leave a blanket of ash on the ground .
+
+Obey me Pikachu , before i slap you !
+0.37 (i; slap; you)
+
+Cigar and rum tomorrow night .
+
+Last night was fun !
+
+PUSH ME AND THEN JUST TOUCH ME TIL I CAN GET MY SATISFACTION  One time , this guy handed me a picture of him , he said , ' Here's a picture of me when I was younger .
+0.83 (this guy; handed; me; a picture of him)
+0.28 (I; was; younger)
+0.23 (he; said; Here's a picture of me)
+0.41 Context(he said,List([111, 118))):(Here; 's; a picture of me when I was younger)
+
+' Every picture is of you when you were younger .
+0.87 (Every picture; is; of you; T:when you were younger)
+0.36 (you; were; younger)
+
+- < PROPMALE > Hedberg  I got to take my air guitar to the shop .
+0.27 (I; to take; my air guitar; to the shop)
+
+I think its missing a couple of strings .
+0.32 (I; think; its missing a couple of strings)
+0.40 Context(I think,List([0, 7))):(its; missing; a couple of strings)
+
+Thursday-Get together at Alyssa's\  Friday- Kickback ( place TBD)\  Saturday- PARTY with AC and his co-workers and then come back to another party/kickback\  Sunday- River\  \  You can't have too much fun .
+0.62 (You; ca n't have; too much fun)
+
+Hi ho hi ho it's off to work i go .
+0.28 (it; 's; off)
+
+In towels and toys , in rugs and boys .
+
+Hi ho hi ho hi ho hi ho .
+
+AC , Manny , and I had fun at that party last night .
+0.63 (AC , Manny , and I; had; fun; L:at that party; T:last night)
+
+Me and Manny tore it up on karaoke !
+0.38 (Me and Manny; tore up; on karaoke)
+
+There was a bird in my house a couple of hours ago !
+0.89 (There; was a bird in; my house)
+
+Had to < PROPMALE > it out before the cats found it .
+0.83 (the cats; found; it)
+
+Oh man , Friday and Saturday were pretty good !
+0.83 (Friday and Saturday; were; pretty good)
+
+So daleina wants a facebook war ?
+0.94 (daleina; wants; a facebook war)
+
+STUPID !
+
+All you need is water balloons and cake to have a good time .
+0.34 (All; need; you)
+0.72 (All you need; is; water balloons and cake)
+
+=)  Watching Sandlot .
+0.43 (=); Watching; Sandlot)
+
+I'm burnt but not burntout .
+0.24 (I; 'm burnt; )
+0.17 (I; not burntout; )
+
+Time to party .
+
+Happy to be sad .
+
+Sad to be happy .
+0.18 (Sad; to be; happy)
+
+I worked from 5:30 to noon this morning and I got an overnight tonight from 9:30 PM-6AM .
+0.57 (I; got; an overnight tonight; from 9:30 PM-6AM)
+0.39 (I; worked; from 5:30; to noon this morning)
+0.29 Context(I worked,List([0, 8))):(I; worked to noon; T:this morning)
+
+Oh damn .
+
+To work .
+
+See ya .
+
+It's been 19 years of me dealing with you < PROPFIRST > !
+0.31 (It; 's been; 19 years of me; dealing with you < PROPFIRST >)
+
+Friends make the most boring things fun .
+0.89 (Friends; make; the most boring things fun)
+
+GEEZ I've seen you a lot lately .
+0.31 (I; 've seen; you; a lot; T:lately)
+
+I'm sick of you .
+0.37 (I; 'm; sick of you)
+
+So what are you doing tomorrow ?
+
+We should < PROPFEMALE > out .
+
+haha  Got Brave Little Toaster off of Amazon .
+
+Needed the upgrade to DVD since I have worn the crap out of my VHS .
+0.45 (I; have worn; the crap)
+
+Not everybody is working for the weekend .
+0.90 (Not everybody; is working; T:for the weekend)
+
+People at Kohl's just work until we get a day off .
+0.52 (we; get; a day off)
+
+I fell down the stairs .
+0.52 (I; fell; down; T:the stairs)
+
+Why am I still up ?
+
+BTW it is sooooo hard ty[pingg right now .
+0.52 (it; is; sooooo hard ty; T:right now)
+
+you have no clue !
+0.62 (you; have; no clue)
+
+Gotta wake up at 6:40 .
+
+It was either go to bed after work at 11 , or go to the kickback at < PROPMALE>'s .
+0.68 (It; was; either go to bed after work at 11 , or go to the kickback at < PROPMALE>'s)
+
+Guess what i picked .
+
+I-AM NOT-A WHORE .
+
+Insomnia- I think I have it .
+0.31 (I; think; I have it)
+0.26 Context(I think,List([10, 17))):(I; have; it)
+
+Don't deny it < PROPFEMALE > .
+
+ME AND MANNY ARE SEXY BEASTS !
+0.90 (ME AND MANNY; ARE; SEXY BEASTS)
+
+One month from now it'll be all over .
+0.66 (it; 'll be; all over; T:One month from now)
+
+I got cali at least .
+0.28 (I; got; cali at least)
+
+Oh boy .
+
+What a night .
+
+Reily , you cost me 72 bucks haha !
+0.54 (you; cost; me; 72 bucks; haha)
+
+oh well .
+
+Mental conseling , doc ?
+0.77 (Mental; conseling; )
+
+You want me to go through mental conseling ?
+0.48 (You; want; me to go through mental conseling)
+0.40 Context(You want,List([0, 8))):(me; to go; through mental conseling)
+
+Despicable Me in 3D- I liked it .
+0.31 (I; liked; it)
+
+CASINO 2NIGHT w/ manny and AC .
+
+California in less than 10 days .
+
+OH RIGHT !
+
+WHy can't I go to sleep !!!?
+
+So I worked early ass morning with zero hours of sleep and slept most of the day .
+0.45 (I; worked; T:early ass morning; with zero hours of sleep)
+0.48 (I; slept; most of the day)
+
+Now I am nocturnal .
+0.41 (I; am; nocturnal; T:Now)
+
+It just dawned on me .
+0.31 (It; just dawned; on me)
+
+Mormons are tough SOB's .
+0.75 (Mormons; are; tough)
+
+No drinking , no sex b4 marriage , and you have to bike in dress clothes in the 120 degree heat !
+0.58 (you; to bike; L:in dress clothes in the 120 degree heat)
+
+I'm probably gonna have trouble sleeping .
+0.41 (I; na have; trouble sleeping)
+
+Anyone , wanna < PROPFEMALE > out tonight ?
+
+ima gonna get me hair braided in california .
+0.91 (hair; braided; L:in california)
+
+California was awesome .
+0.84 (California; was; awesome)
+
+I felt so at home there it was disturbing .
+0.24 (I; felt; so)
+0.55 Context(I felt,List([0, 6))):(there; was disturbing; L:at home)
+
+I'd rather be hated for who I am , than loved for who I am not .
+0.31 (I; 'd rather be hated; for who I am)
+0.24 (I; am; )
+0.19 (I; am not; )
+
+- < PROPMALE > Cobain  Great Futurama : Lethal Inspection .
+
+So glad futurama is back !
+0.83 (So glad futurama; is; back)
+
+people stay together because of loneliness , not loyalty .
+0.89 (people; stay; together; because of loneliness , not)
+
+Vegas possibly this weekend ?
+
+After Vegas , the ride home , and the overnight , I think i'm gonna go to sleep .
+0.41 (i; na go; to sleep)
+
+Vodka+Coke+Cool Friends ( not in person , but oh well)+Great Music = Happiness  I think it's easier to survive without money than it is without friends .
+0.52 (it; is; without friends)
+0.31 (I; think; it's easier to survive without money)
+
+Who's down for the meteor shower August 11th/12th ?
+
+Had more fun friday night/saturday morning with < PROPMALE > after 8 and a half hour shift .
+
+Hopped from bar to my backyard .
+
+Broke even last night at casino arizona !
+
+The guy next to me hit on 2 Aces !
+0.76 (The guy next to me; hit; on 2 Aces)
+
+IDIOT !
+
+Go see Inception .
+
+Great movie that screws with your mind by the time you walk out the theater .
+0.85 (Great movie; screws; with your mind; T:by the time)
+0.79 (you; walk; out the theater; T:the time)
+
+Glad i don't have a car to sticky note .
+0.45 (i; do n't have; a car to sticky note)
+
+Go outside and look at the stars !
+
+Manetine's date tonight .
+
+Some lucky girls have 2 sexy dates .
+0.91 (Some lucky girls; have; 2 sexy dates)
+
+Missing you two !
+
+We're coming to save you girls from despair and surrealness !
+0.31 (We; 're coming; to save you girls from despair and surrealness)
+0.27 (We; to save; you; girls from despair and surrealness)
+
+Let's roll Manny .
+
+Life is beautiful and ugly .
+0.80 (Life; is; beautiful and ugly)
+
+Lovely and lonely .
+
+Happy and depressing .
+
+stupid phone !
+
+I hate being one of those people .
+0.23 (I; hate; being one of those people)
+0.20 (I; being; one of those people)
+
+I'm a smooth operator that only the greatest girls call ; )  waiting for my class at ASU .
+0.95 (a smooth operator; call; only the greatest girls)
+
+3 Hours !
+
+I'm flipping a coin :\  Dana : Heads\  Cassie : Tails\  It landed on its side so I'll have to take em both .
+0.45 (I; 'm flipping; a coin)
+0.31 (It; landed; L:on its side)
+0.27 (I; to take; em)
+
+You know its hard being loved this much .
+0.38 (You; know; )
+
+my throat hurts from all the singing .
+0.70 (my throat; hurts; from all the singing)
+
+good night .
+
+ASU = HeyO central .
+
+ever feel like the repeat button to your daily life is jammed ?
+0.46 (the repeat button to your daily life; is jammed; )
+
+Just once i'd like to break out , maybe run through campus naked with a sign on my butt that reads , \HEYO \"."  HEYO !
+0.37 (a sign on my butt; reads; )
+
+School and work make your life feel like a merry-go-round , while friends make it a roller coaster ride .
+0.82 (friends; make; it a roller coaster ride)
+0.90 (School and work; make; your life feel like a merry-go-round)
+0.29 Context(School and work make,List([0, 20))):(your life; feel; )
+
+You dreamt that you ate brownies off my what ?!  WEEKEND , WEEKEND , WEEKEND !
+0.33 (You; dreamt; that you ate brownies off my what ?!  WEEKEND , WEEKEND , WEEKEND)
+0.61 Context(You dreamt,List([0, 10))):(you; ate; brownies; T:WEEKEND , WEEKEND , WEEKEND)
+
+YEAH !!!  Sundays just remind you of all the stuff you failed to complete on friday and saturday .
+0.85 (YEAH !!!  Sundays; just remind; you; of all the stuff)
+0.90 (all the stuff; failed; to complete on friday and saturday)
+0.90 (all the stuff; to complete; T:on friday and saturday)
+
+Better get cracking on my < PROPMALE > dating ad .
+
+HALLO , FRAUEN !
+
+[ INSERT MEANINGFUL UPDATE HERE ]  I haven't slept for ten days , because that would be too long .
+0.45 (I; have n't slept; T:for ten days)
+0.05 (that; would be; too long)
+
+- < PROPMALE > Hedberg  I feel like its groundhog's day all the time .
+0.31 (I; feel; T:like its groundhog's day; T:all the time)
+
+I should commit some crimes spend the night in jail and wake up in my bed and start the same day over again .
+0.39 (I; should commit; some crimes)
+0.39 Context(I should commit,List([0, 15))):(I; should commit some crimes spend; the night; L:in jail)
+0.29 Context(I should commit,List([0, 15))):(I; should commit some crimes start; the same day; T:over again)
+
+I raped half of my essay exam so far .
+0.31 (I; raped; half of my essay exam; T:so far)
+
+=D  If poetry is the key to a woman's heart , then alcohol is the key to her pants .
+0.92 (poetry; is; the key to a woman's heart)
+
+Sunsplash lifeguards can't hit on me cuz its closed today .
+0.87 (Sunsplash lifeguards; ca n't hit; on me; T:cuz its closed today)
+
+=(  I'll forever be stuck in the shadow .
+0.49 (I; 'll be stuck; in the shadow; T:forever)
+
+Know matter what .
+
+My lantern is out of gas .
+0.70 (My lantern; is; out of gas)
+
+After work , I went to the park and watched the sun rise .
+0.66 (I; went; to the park; T:After work)
+0.55 (I; watched; the sun rise; T:After work)
+
+It was nice .
+0.28 (It; was; nice)
+
+Well , GOODNIGHT !
+
+ZZZZZ  Auf Wiedersehen , meine Liebe !
+
+Deutsch , Mutter Ficker .
+
+Sprichst du es ?
+
+HELL YEAH RAIN !
+
+Today was TOO long !
+0.80 (Today; was; TOO long)
+
+Me and the boys gonna drink tomorrow after school ya hear ?
+0.32 (ya; hear; )
+
+hit 3 bars , now its naptime because i gots an overnight  My sad dream is making my whole day gloomy .
+
+What else is new .
+
+It isn't oktoberfest til : \  1 ) I get drunk enough to drink beer .
+0.41 (I; to drink; beer)
+0.47 (I; get; drunk enough to drink beer)
+0.47 Context(I get,List([34, 39))):(It; is n't; oktoberfest til)
+
+\  2 ) Manny does his mexican dance moves to polka .
+0.89 (\  2 ) Manny; does; his mexican dance moves to polka)
+
+\  3 ) < PROPMALE > pukes his bratwurst into a tuba .
+0.86 (\  3 ) < PROPMALE; pukes; into a tuba)
+
+This weekend was great .
+0.81 (This weekend; was; great)
+
+Sucks that it's over !
+
+My life is running way too smoothly .
+0.34 (My life; is running way too smoothly; )
+
+It's unsettleling .
+0.28 (It; 's; unsettleling)
+
+This weekend was brutal !
+0.81 (This weekend; was; brutal)
+
+Mill and < PROPFIRST>'s .
+
+I LOVE < PROPFEMALE > Oberman !
+0.45 (I; LOVE; PROPFEMALE)
+
+Yes , I just announced it to the small world of mine .
+0.31 (I; just announced; it)
+
+OCT 29th will be a hell of a good time !
+0.93 (OCT 29th; will be; a hell of a good time)
+
+Party on < PROPMALE > !
+
+Dear God , I hate your fish-killing ass .
+0.31 (I; hate; your fish-killing ass)
+
+Love , < PROPFIRST >  Supergluing your peehole would be the worst torture ever !
+
+Super crazy sleep cycle but this weekend was still great !
+0.81 (this weekend; was; T:still; great)
+
+I beat Fable III in 3 days !
+0.50 (I; beat; Fable III; T:in 3 days)
+
+FUCK !
+
+Do you hate love or love hate ?
+
+Faith is just an excuse for not looking .
+0.92 (Faith; is; just an excuse for not looking)
+
+Our government should help the people .
+0.64 (Our government; should help; the people)
+
+Corporations need to stay the hell out of government .
+0.89 (Corporations; need; to stay the hell out of government)
+0.88 (Corporations; to stay; the hell)
+
+Corporations don't care about people .
+0.89 (Corporations; do n't care; about people)
+
+I'm happy to be sad because it's sad when i'm happy .
+0.28 (I; 'm; happy to be sad)
+0.27 (I; to be; sad; because it's sad when i'm happy)
+0.37 (it; 's; sad; T:when i'm happy)
+0.28 (i; 'm; happy)
+
+So why is everyone changing their profile pic to cartoons ?
+
+Oh you guys are sheep following the herd !
+0.64 (you guys; are; sheep following the herd)
+0.89 (sheep; following; the herd)
+
+Almost another semester down .
+
+ALMOST !
+
+I don't shave not because I'm lazy , but because i'm an anti-hero .
+0.42 (I; do n't shave; not because I'm lazy , but because i'm an anti-hero)
+0.52 (i; 'm; an anti-hero)
+
+Done with the semester 100% .
+
+oh yeah !
+
+My grandma wants to get my mom a shake weight !
+0.50 (My grandma; wants; to get my mom a shake weight)
+0.43 Context(My grandma wants,List([0, 16))):(My grandma; wants to get; my mom a shake weight)
+
+The handjob trainer !
+
+All I wanna do is zoom a zoom zoom zoom and a boom boom .
+0.30 (All; na do; I)
+0.76 (All I wanna do; is; zoom a zoom zoom zoom and a boom boom)
+
+< PROPMALE > and Coltrane , that's jazz for all you idiots who listen to Top Hits channels .
+0.10 (that; 's; jazz for all you idiots)
+0.66 (all you idiots; listen; to Top Hits channels)
+
+I salute all the people who go to work even with a hangover .
+0.57 (I; salute; all the people who go to work even with a hangover)
+0.73 (all the people; go; )
+0.87 Context(all the people go,List([9, 30))):(all the people; go to work; even with a hangover)
+
+Calling out is for lightweights !
+0.64 (Calling out; is; for lightweights)
+
+Go in the rain if you want to cry .
+0.37 (you; want; to cry)
+0.27 Context(you want,List([18, 26))):(you; want to cry to cry; )
+
+It makes tears seem less significant .
+0.40 (It; makes; tears seem less significant)
+0.67 Context(It makes,List([0, 8))):(tears; seem; )
+
+I'm going to dance here and if you want , you can pretend that you're dancing with me .
+0.20 (I; to dance; L:here)
+0.38 (you; want; )
+0.20 (you; can pretend; that you're dancing with me)
+0.40 Context(you can pretend,List([42, 57))):(you; 're dancing; with me)
+
+-Commander Shepard's pick up line in the club ( Mass Effect 2 )  I feel all high tech and shit with my new Android .
+0.45 (I; feel; all high tech and shit)
+
+< PROPFEMALE > Jam vs .
+
+Nirvana .
+
+Who wins ?
+
+It's colder here than out east !
+0.52 (It; 's; colder; L:here than out east)
+
+Why are there jelly beans in my coat pocket ?
+
+I'm raising awareness about my friend < PROPFEMALE > and her addiction .
+0.31 (I; 'm raising; awareness about my friend)
+
+She suffers from Facebook addiction .
+0.50 (She; suffers; from Facebook addiction)
+
+Like this update and together we can hold an intervention  Hiking a peak + boarding to and from work + work + drinking + walking while drunk = Yeah , I'm tired .
+0.90 (an intervention; Hiking; a peak + boarding to and from work)
+0.52 (work; walking; )
+0.28 (I; 'm; tired)
+
+Watching mr.
+
+Bean episodes .
+
+Took a 2 hour nap and had this awesome dream of a trip/party !
+
+We went rafting downriver on ... horses ... and partied at my ex-roomate's parents ' cottage somewhere in Cuba with his friends and our usual crew .
+0.27 (We; partied somewhere; with his friends and our usual crew; L:at my ex-roomate's parents ' cottage)
+0.47 (We; went; rafting downriver on ... horses)
+0.40 Context(We went,List([0, 7))):(We; went rafting; L:downriver; L:on ... horses)
+
+There was also a lot of twins there for some reason ...  Best hiding spot ... OUTER SPACE ! that is if your seekers are not rocket scientists ... then you hide on the top shelf of the bathroom closet and you cover yourself with a bed sheet haha .
+0.85 (some reason; is; if your seekers are not rocket scientists)
+0.64 (your seekers; are not; rocket scientists)
+0.46 (you; cover; yourself; with a bed sheet haha)
+
+\Injustice anywhere is a threat to justice everywhere .
+0.92 (\Injustice; anywhere is; a threat to justice everywhere)
+
+\ " - < PROPFIRST > < PROPMALE > < PROPMALE > Jr. "  first day of school was horrible today ... all my classes were canceled !
+0.95 (\ " - < PROPFIRST > < PROPMALE > < PROPMALE > Jr; was; horrible; T:today)
+0.36 (all my classes; were canceled; )
+
+And then I found out it was MLK Jr. day .
+0.43 (I; found out; it was MLK Jr. day; T:then)
+0.50 Context(I found out,List([9, 20))):(it; was; MLK Jr; T:day)
+
+Knowledge is sexy .
+0.80 (Knowledge; is; sexy)
+
+Why else could I be getting a hard on during lectures ?
+
+This library is dead in the morning .
+0.93 (This library; is; dead; T:in the morning)
+
+Like there is no one on this floor , damn somebody just sat down .
+0.50 (there; is no one on; this floor)
+
+I have a new rival !
+0.45 (I; have; a new rival)
+
+Probably going to Thailand this summer ... now I just need to learn how to act like I am well educated in Urban Planning .
+0.50 (I; am well educated; L:in Urban Planning)
+0.29 (I; just need; to learn how to act; T:now)
+0.40 Context(I just need,List([47, 58))):(I; just need to learn; how to act like I am well educated in Urban Planning)
+0.21 Context(I just need to learn,List([47, 67))):(I; just need to learn to act; like I am well educated in Urban Planning)
+
+First , I'll check the definition .
+0.52 (I; 'll check; the definition)
+
+TO DICTIONARY .
+
+COM !
+
+Psychiatrist : You have Hippopotomonstrosesquipedaliophobia .
+0.66 (You; have; Hippopotomonstrosesquipedaliophobia)
+
+\  Patient : What's Hippopotomonstrosesquipedaliophobia ?
+
+\  Psychiatrist : Hippopotomonstrosesquipedaliophobia is the fear of long words .
+0.94 (Hippopotomonstrosesquipedaliophobia; is; the fear of long words)
+0.39 (Hippopotomonstrosesquipedaliophobia; is the fear of; long words)
+
+\  Patient : oh ... AHHHHHHH NOOO !!!!  Jai guru deva om\  Nothing's gonna change my world  Only one year left and I'll be a grad working around the world .
+0.80 (Nothing; na change; my world; T:Only one year)
+0.52 (I; 'll be; a grad working around the world)
+
+Kinda makes me sad how fast time goes by .
+0.86 (Kinda; makes; me sad)
+0.78 (how fast time; goes; by)
+
+It felt like I just graduated high school .
+0.37 (It; felt; like I just graduated high school)
+0.45 (I; just graduated; high school)
+
+To the beaches of Krabi , Thailand this summer !
+
+My father was of the sky .
+0.70 (My father; was; of the sky)
+
+My mother was of the earth .
+0.70 (My mother; was; of the earth)
+
+I am of the universe .
+0.52 (I; am; of the universe)
+
+Had a dream I was making out with < PROPFIRST > lohan before she stole a necklace .
+0.27 (I; was making out; T:before she stole a necklace)
+0.45 (she; stole; a necklace)
+
+So there's this dude in the library sleeptalking .
+
+Should I wake him up so he doesn't embarrass himself or do I laugh and listen with other patrons ?
+0.41 (I; listen; with other patrons)
+0.28 (he; do; I laugh and listen with other patrons)
+0.16 Context(he do,List([24, 58))):(I; laugh; )
+
+Snowboard Rental + Deposit + Clothes for snow + Slope Pass = Yeah , I ain't going snowboarding >:(  Ugh ... I'm a really fast snowboarder who can go from 35 to 0 in 1 second flat .
+0.77 (a really fast snowboarder; can go; from 35 to 0 in 1 second flat)
+0.23 (I; snowboarding; Ugh ... I'm a really fast snowboarder)
+0.58 Context(I snowboarding,List([68, 94))):(I; 'm; a really fast snowboarder who can go from 35 to 0 in 1 second flat)
+
+It's called wiping out and I did it spectacularly .
+0.23 (It; 's called; wiping out)
+0.30 (I; did spectacularly; it)
+
+Popped out the screen to my closet window last night , now I can chill on the small roof area above the front patio .
+0.60 (I; can chill; on the small roof area above the front patio; T:now)
+
+And its hidden by trees too !
+
+I feel sorry for you if you thought fox news was reliable .
+0.31 (I; feel; sorry for you)
+0.56 (you; thought; fox news was reliable)
+0.78 Context(you thought,List([24, 35))):(fox news; was; reliable)
+
+Killed the malware on my dad's computer .
+
+Anybody have some viruses on their computer .
+0.82 (Anybody; have; some viruses; L:on their computer)
+
+I'll slay em for $ .
+0.31 (I; 'll slay; em)
+
+Just chilling on my roof with a honeyberry backwoods .
+
+Everything in school is going to well ... its scary .
+
+Gotta a couple hours while the rest of the group goes to a boxing match .
+0.93 (the rest of the group; goes; to a boxing match)
+
+Creeping solo to check and see if there's cuties in the cuzzi .
+
+Vegas should be paying ME $$$ for visiting !
+0.93 (Vegas; should be paying; ME; $$$; for visiting)
+
+Death toll in Japan is up to 2,722 now according to NY times .
+0.88 (Death toll in Japan; is; up to 2,722)
+
+400,000 people are living in make shift shelters .
+0.90 (400,000 people; are living; L:in make shift shelters)
+
+My sympathies go out to everyone affected .
+0.70 (My sympathies; go; out; to everyone)
+0.71 (everyone; affected; )
+
+Carne asada tacos and horchato at rancho market .
+
+I'm full .
+0.28 (I; 'm; full)
+
+Bought my tickets today !
+
+Leave for Bangkok on May 19th .
+
+Fly back July 11th from Ho < PROPFIRST > < PROPFEMALE > City in Vietnam .
+
+I'll also be in Cambodia .
+0.50 (I; 'll also be; in Cambodia)
+
+Teaching English to monks , learning Muay Thai , chilling on islands , boating down rivers , etc .
+
+Compare your summer to mine and kill yourself !
+
+MUHAHA  Thank you for everybody who came to the party last night !
+0.88 (everybody; came; to the party; T:last night)
+
+It was a blast !
+0.52 (It; was; a blast)
+
+Like to thank everyone who wished me a happy birthday !
+0.80 (everyone; wished; me; a happy birthday)
+
+Felt the love !
+
+Ideas for my dystopian adventure story are coming together a lot faster than before .
+0.40 (Ideas for my dystopian adventure story; are coming faster; )
+
+I have half a rough chapter done as well a protagonist backstory .
+0.51 (I; have; half a rough chapter done as well a protagonist backstory)
+0.90 Context(I have,List([0, 6))):(half a rough chapter; done as well; a protagonist backstory)
+
+Walking around ASU without shoes is easy until you get blisters .
+0.92 (Walking around ASU without shoes; is; easy; T:until you get blisters)
+0.68 (you; get; blisters)
+
+Have I been taking my shoes for granted ?
+
+Yup .
+
+Feel Like a person in a 3rd world country .
+

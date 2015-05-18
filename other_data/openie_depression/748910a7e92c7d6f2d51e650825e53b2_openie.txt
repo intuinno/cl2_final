@@ -1,0 +1,532 @@
+Money
+
+Chillin ' w/ my man ( er .... my best friend < PROPFIRST > ) and our boy < PROPMALE > ( who is f'in awesome ! ) .
+0.43 (my best friend; is; f'in awesome)
+
+Never trust a liar , or a pillhead or his girlfriend .
+
+Fuck them and the pill they rode in on .
+0.36 (they; rode in; on)
+
+Want to go out for free drinks 2nite .
+
+Cuz everybody knows it ain't trickin ' if you got it ...  < PROPMALE > and I are over & done .
+0.54 (you; got; it)
+0.23 (I; are; over)
+0.17 (I; done; )
+0.88 (Cuz everybody; knows; it ain't trickin ' if you got it)
+0.16 Context(Cuz everybody knows,List([0, 19))):(it; ai n't trickin; )
+
+Soon I will be on my own .
+0.44 (I; will be; on my own; T:Soon)
+
+All alone ...  So happy it's Friday .
+0.57 (it; 's; Friday)
+
+That means it's MY day .
+0.24 (That; means; it's MY day)
+0.51 Context(That means,List([0, 10))):(it; 's; MY day)
+
+I am an orphan !
+0.52 (I; am; an orphan)
+
+If you can't be good @ least be good @ it !
+0.36 (you; ca n't be; good)
+
+Going to do $1 Dr. Pepper shots at Jackies Place tonight .
+
+Never run after a bus or a man .
+
+There will always be another one .
+
+I'm high as a kite , I'm puffin ' away , I'll come down in a couple of days ...  Falling in love is hard on the knees .
+0.93 (Falling in love; is; hard; L:on the knees)
+0.24 (I; 'm; puffin)
+0.47 Context(I 'm,List([21, 24))):(I; 'm; high as a kite)
+
+Love me or leave me .
+
+What do you do when you know what you need but you want something else ?
+0.68 (you; want; something else)
+0.47 (you; know; what you need but you want something else)
+0.27 Context(you know,List([20, 28))):(you; need; )
+
+My heart is torn in 2 .
+0.38 (My heart; is torn; T:in 2)
+
+I need to go home to TX but there are things here in FL I don't want to leave .
+0.44 (I; need; to go home to TX)
+0.19 Context(I need,List([0, 6))):(I; need to go; home)
+0.18 (I; do n't want; to leave)
+0.16 Context(I do n't want,List([56, 68))):(I; do n't want to leave to leave; )
+
+< PROPMALE > is going away for 2 weeks this summer with his grandma to NY .
+
+I am totally freaking out because I've never been away from him for more than 2 days !
+0.42 (I; am totally freaking out; because I've never been away from him for more than 2 days)
+0.31 (I; 've never been; away from him; T:for more than 2 days)
+
+Tonight I'm probably going to sink or swim w/ my best friend .
+0.17 (I; to sink; )
+0.12 (I; to swim; )
+
+Gonna get crazy .
+0.68 (Gon; na get; crazy)
+
+Find mystery bruises all over my legs tomorrow ...  Totally exhausted .
+
+Getting ready to get out of work and tire myself out even more .
+
+E's w/ Grandma , so it's party time !
+0.52 (it; 's; party time)
+
+Promise ?
+
+No I swear !
+0.19 (I; swear; )
+
+Gearing up for another fantastic weekend w/ my best friend .
+
+How can I leave this ?!?!  What is everyone doing for the 4th ???  Sweet dreams are made of this .
+0.78 (Sweet dreams; are made; of this)
+0.39 (What; is everyone doing for; the 4th)
+
+The most tender kiss .
+
+Somethin ' I don't wanna miss .
+0.18 (I; do n't wan; na miss)
+0.16 Context(I do n't wan,List([11, 22))):(I; do n't wan na miss na miss; )
+
+I just can't resist .
+0.19 (I; just ca n't resist; )
+
+If home is where the heart is , I don't have a home , just a house .
+0.45 (I; do n't have; a home)
+0.90 (home; is; where the heart is)
+0.74 Context(home is,List([3, 10))):(the heart; is; )
+
+Relapse may be part of recovery but you can't live your life in a relapse .
+0.92 (Relapse; may be; part of recovery)
+0.46 (you; ca n't live; your life; L:in a relapse)
+
+Going to the beach w/ Lizz .
+
+Finally gonna see the sun !
+
+< PROPFIRST > feeds me too much .
+0.73 (PROPFIRST; feeds; me; too much)
+
+I hate gaining weight !
+0.40 (I; hate; gaining weight)
+0.40 Context(I hate,List([0, 6))):(I; hate gaining; weight)
+
+It's frustrating not knowing what to do when you are getting what you asked for ...  Loved the dance .
+0.28 (It; 's; frustrating)
+0.45 (you; are getting; what you asked for ...  Loved the dance)
+0.51 Context(you are getting,List([45, 60))):(you; asked; the dance)
+
+So ready for this next week .
+
+I have been waiting so long for this ...  So this is what pure bliss feels like ...  Wow , that was a crazy night !
+0.27 (this; is; what pure bliss feels like ...  Wow , that was a crazy night)
+0.18 Context(this is,List([45, 52))):(I; have been waiting; T:so long; for this)
+0.68 Context(this is,List([45, 52))):(pure bliss; feels; )
+0.14 Context(this is pure bliss feels,List([45, 74))):(that; was; a crazy night)
+
+Wish I could remember all of it ...  I think I broke my big toe last night .
+0.32 (I; think; I broke my big toe last night)
+0.26 Context(I think,List([37, 44))):(I; broke; my big toe; T:last night)
+
+Anybody remember how ???  Just finished watching The Hangover .
+0.89 (Anybody; remember; how ???  Just finished watching The Hangover)
+
+So funny !
+
+If I can't be good , at least I'll be good at it .
+0.23 (I; ca n't be; good)
+
+Every day of the week , every hour of the day , every minute of the hour , I am thinking about him  This is better than a fairytale !
+0.38 (I; am thinking; about him; This is better than a fairytale; T:Every day of the week; T:every minute of the hour)
+0.39 Context(I am thinking,List([75, 88))):(This; is; better than a fairytale)
+
+Getting ready to go back to work .
+
+Ugh !
+
+This mini-vacation was not near enough ...  Trying to remember last night .
+0.76 (This mini-vacation; was not enough; near)
+
+It's all a blur ... Did I drunk dial anyone last night ?
+0.48 (It; 's; a blur)
+
+Smile ... It's the second best thing you can do w/ your mouth !
+0.49 (It; 's; the second best thing you can do w/ your mouth)
+0.64 (the second best thing; can do; you)
+
+: )  I am literally bruised from head to toe !
+0.52 (I; am; literally bruised from head to toe)
+
+Back to reality ...  I love the way he looks at me .
+0.31 (I; love; the way he looks at me)
+0.31 (he; looks; at me)
+
+While I struggle to put food in the house , he pours money down his mouth .
+0.44 (he; pours; money; down his mouth; T:While I struggle to put food in the house)
+0.40 (I; struggle; to put food in the house)
+0.40 Context(I struggle,List([6, 16))):(I; struggle to put; food; in the house)
+
+< PROPMALE > left today .
+0.90 (PROPMALE >; left; T:today)
+
+I am all cried out ...  I love how my words can get so twisted on someone else's lips ...  Packing up my life in boxes .
+0.36 (I; love; how my words can get so twisted on someone else's lips)
+0.19 Context(I love,List([24, 30))):(I; am all; cried out)
+0.59 Context(I love,List([24, 30))):(my words; can get; so twisted on someone else's lips)
+0.19 Context(I love,List([24, 30))):(I; love Packing up; my life; L:in boxes)
+
+It's a wonder how much you can accumulate in a lifetime !
+0.49 (It; 's; a wonder how much you can accumulate in a lifetime)
+0.62 (you; can accumulate; L:in a lifetime)
+
+\I never dreamed home would end up where I don't belong .
+0.19 (I; do n't belong; )
+0.71 (\I; never dreamed; home would end up where I don't belong)
+0.66 Context(\I never dreamed,List([0, 16))):(home; would end up; )
+
+I'm movin ' on .
+0.19 (I; 'm movin; on)
+
+\ " Rascal Flatts "  Everything is packed into the truck .
+0.94 (Rascal Flatts "  Everything; is packed; into the truck)
+
+Leaving < PROPFIRST>'s house and headed back to the great state of TX .
+
+Missing < PROPFIRST > already ...  Florida , Alabama , Mississippi down .
+
+Now in Louisiana .
+
+Next up , Texas !
+
+We are now in Texas .
+0.50 (We; are; T:now; in Texas)
+
+San < PROPFIRST > here I come ...  Safe and sound in San < PROPFIRST >  Good morning all !
+
+Getting ready to register < PROPMALE > for school in San < PROPFIRST > .
+
+Then maybe I'll finally shave my head and dye it leopard print .
+0.45 (it; leopard; print)
+
+What do ya think ?
+
+At the Afterburner contemplatin ' gettin ' a Kamikazi shot ...  3 kamikazis and a tito's shot later ... Back at home drinkin ' rum ( Sailor < PROPFIRST>'s ) and coke  $7.46 for a pack of Newports in San < PROPFIRST > .
+
+Ugh !
+
+Looks like I'll be changing brands .
+0.45 (I; 'll be changing; brands)
+
+( They were only $5.19 in FL )  All of a sudden , I miss everything  < PROPMALE > had a great 1st day at school .
+0.47 (I; miss; everything)
+0.71 Context(I miss,List([50, 56))):(They; were; only $5.19 in FL )  All of a sudden)
+0.30 Context(I miss,List([50, 56))):(I; miss everything had; a great 1st day at school)
+0.50 (They; were only $ 5.19 in; FL ) All)
+
+Keeping fingers crossed that it continues .
+0.60 (Keeping fingers; crossed; that it continues)
+0.16 Context(Keeping fingers crossed,List([0, 23))):(it; continues; )
+
+My heart is wherever he is .
+0.56 (My heart; is; wherever he is)
+0.24 (he; is; )
+
+How can I live without my heart ?
+
+I can make it thru the day if I just pretend to be okay  The world is spinning .
+0.41 (I; can make; T:thru the day)
+0.45 (I; just pretend; to be okay  The world is spinning)
+0.41 (I; to be; okay  The world is spinning)
+0.93 (The world; is; spinning)
+
+And no , it's not because of alcohol .
+0.52 (it; 's not; because of alcohol)
+
+I have vertigo again .
+0.45 (I; have; vertigo; T:again)
+
+Ugh !
+
+: (  < PROPFIRST > and I don't have a song .
+0.45 (I; do n't have; a song)
+
+We have an entire soundtrack !
+0.45 (We; have; an entire soundtrack)
+
+Found a job in my sleep , damn things are easy in San < PROPFIRST > !
+0.73 (damn things; are PROPFIRST; L:in San <)
+
+I just started reading the House of Night series not even a week ago and I'm on book 5 .
+0.52 (I; 'm; on book 5)
+
+Can you say compulsive reader ?
+
+Without him , I don't feel like me .
+0.31 (I; do n't feel; like me)
+
+< PROPFEMALE > is making stuffed cabbage tomorrow !
+0.83 (PROPFEMALE; is making; stuffed cabbage; T:tomorrow)
+
+Can't wait ...  Chicken florentine for dinner ...
+0.92 (Chicken; florentine; for dinner)
+
+And I helped !
+0.19 (I; helped; )
+
+Had a good time w/ the fam @ Canyon Lake today .
+
+Went to < PROPFEMALE>'s Bakery and cafe last nite .
+
+They were featured on Man vs Food for their 3 lb .
+0.51 (They; were featured; on Man vs Food; for their 3 lb)
+
+cinnamon rolls and mammouth sized chicken fried steak .
+
+It was awesome !
+0.28 (It; was; awesome)
+
+Gearing up for a weekend of camping at Canyon Lake with the fam !
+
+Went shopping and for lunch with < PROPFEMALE > .
+
+Now headed to orientation for my new job ...  Orientation was a big waste of time , but at least I looked cute in my new clothes ( thanx < PROPFEMALE >!) .
+0.94 (Orientation; was; a big waste of time)
+0.39 (Orientation; was a big waste of; time)
+
+Went to the Afterburner for a one and done and now home to relax for the night .
+
+I'm not super superstitious , but this year October has 5 Fridays , 5 Saturdays and 5 Sundays .
+0.28 (I; 'm not; super superstitious)
+0.96 (October; has; 5 Fridays , 5 Saturdays and 5 Sundays; T:this year)
+
+This happens once every 823 years .
+0.38 (This; happens; T:once every 823 years)
+
+This is money bags .
+0.45 (This; is; money bags)
+
+So Copy this to your status and money will arrive within 4 days .
+
+Based on Chinese Feng Shui .
+
+The one ... who ... does not copy , will be without money .
+0.25 (The one; does not copy; )
+0.72 (The one ... who ... does not copy ,; will be; without money)
+
+I cannot let that person be me .
+0.11 (I; can not let; that person be me)
+0.84 Context(I can not let,List([0, 12))):(that person; be; me)
+
+Good luck- im not taking any chances  Happy Halloween everybody !
+0.72 (Good luck- im; not taking; any chances; T:Happy Halloween everybody)
+
+Had fun taking my little Super < PROPFIRST > trick or treating tonight .
+
+Woke up this morning and my throat was on fire .
+0.70 (my throat; was; on fire)
+
+Then tonight < PROPFIRST > saw a commercial for peppermint chocolate milkshakes from Chick-fil-A and suddenly the pain is not so bad !
+0.65 (<; PROPFIRST saw; a commercial for peppermint chocolate milkshakes from Chick-fil-A; T:Then; T:tonight)
+0.85 (the pain; is not; so bad; T:suddenly)
+
+LOL  Thank you Nyquil for finally letting me breathe again .
+0.50 (you; letting; me breathe again; T:finally)
+0.18 Context(you letting,List([11, 41))):(me; breathe; T:again)
+
+Gonna curl up and read Eclipse another time .
+0.63 (Gon; na curl up; )
+0.86 (Gon; read; Eclipse; T:another time)
+
+:)  Finished reading Eclipse again .
+0.93 (Finished; reading; Eclipse; T:again)
+
+I wish heaven had a phone so I could talk to you again .
+0.31 (I; could talk; to you; T:again)
+0.51 (I; wish; heaven had a phone)
+0.92 Context(I wish,List([0, 6))):(heaven; had; a phone)
+
+I thought of you today , but that is nothing new .
+0.31 (I; thought; of you; T:today)
+0.17 (that; is; nothing new)
+
+I thought about you yesterday and days before that too .
+0.31 (I; thought; about you; T:yesterday; too)
+
+I think of you in silence .
+0.37 (I; think; of you)
+
+I often speak your name .
+0.40 (I; speak; your name; T:often)
+
+All I have are memories and a picture in a frame .
+0.34 (All; have; I)
+0.66 (All I have; are; memories and a picture in a frame)
+
+Re-post if you have someone in heaven that you miss .
+0.66 (you; have; someone in heaven)
+0.94 (someone in heaven; miss; you)
+
+** Miss you Mom **  Been up all night .
+0.83 (Miss; Been; up; T:all night)
+
+Finally got a < PROPMALE > to watch Sunday's episode of < PROPMALE > .
+
+Definitely the best one this season , I was on the edge of my seat almost the whole time !
+0.37 (I; was; on the edge of my seat; T:almost the whole time)
+
+Next week looks fantastic too .
+0.76 (Next week; looks too; fantastic)
+
+Trying to pack last night and found boxes of notes from middle and high school .
+
+Wow , can you say blast from the past ?!?!  Happy Thanksgiving everybody !
+
+Lovin ' my new phone !
+
+Such a beautiful day !
+
+Went to < PROPFIRST>'s Pass and for a walk on the beach with < PROPFIRST > .
+
+At my wits end trying to discipline a willful and insolent 10 year old .
+
+It's times like these that I really need my mom and question God's wisdom in calling her home .
+0.47 (It; 's; times like these)
+0.30 Context(It 's,List([0, 4))):(I; really need; my mom and question God's wisdom)
+
+Finished reading all 1138 pages of It by < PROPFIRST > < PROPMALE > today .
+
+Wondering what to read next ... Any suggestions ?
+
+Ahhh Thursdays .
+
+Day for laughing my ass off to Big Bang Theory and Parks & Recreation .
+
+I'm very impressed with the Chicago Bulls this year .
+0.57 (I; 'm; very impressed with the Chicago Bulls; T:this year)
+
+They did a great job defeating the overhyped Miami Heat tonight .
+0.72 (They; did; a great job defeating the overhyped Miami Heat tonight)
+
+< PROPMALE > got his report card today and he's on the Honor Roll !!! I'm so proud of him !
+0.78 (PROPMALE; got; his report card; T:today)
+0.51 (he; 's; on the Honor Roll)
+0.32 Context(he 's,List([43, 47))):(I; 'm; so proud of him)
+
+Getting a fire started can be much easier than extinguishing it  is at Bottles Up w/ < PROPFIRST >  Ignorance of the law is no excuse .
+0.71 (Getting a fire; started; )
+0.82 Context(Getting a fire started,List([0, 22))):(Getting a fire; started can be; much easier than extinguishing it  is at Bottles)
+
+Thank you God for such a beautiful and < PROPFEMALE > Sunday .
+
+Off to the beach with < PROPFIRST > and < PROPMALE > .
+
+So I remembered to put sunscreen on everyone else yesterday and forgot myself .
+0.45 (I; remembered; to put sunscreen on everyone else yesterday)
+0.41 (I; to put sunscreen; L:on everyone else; T:yesterday)
+0.27 (I; forgot; myself)
+
+I am burnt to a crisp :: ouch ::  Headed to the beach w/ Becca & Aidan .
+
+@ Crabby < PROPMALE>'s w/ Becca , < PROPMALE > , and Aidan  Today was an amazing day .
+0.94 (Aidan  Today; was; an amazing day)
+
+I am so happy .
+0.28 (I; am; so happy)
+
+I feel truly blessed .
+0.23 (I; feel; truly blessed)
+0.17 (I; truly blessed; )
+
+Child support enforcement is a joke .
+0.93 (Child support enforcement; is; a joke)
+
+Throwing myself a pity party and everyone's invited .
+0.73 (everyone's; invited; )
+
+Mmm McDonald's sausage , egg , and cheese mcmuffin  Just got off the phone w/ my best friend from 5th grade .
+0.96 (Mmm McDonald's sausage , egg , and cheese mcmuffin; Just got; off the phone)
+
+It's so nice to know that some friendships actually do last a lifetime !
+
+:)  @ Softailz w/ < PROPFIRST > Morden & < PROPFEMALE > Instone  No better way to start the weekend off right than having chinese food on a Friday night .
+
+Yesterday I was all bitchy .
+0.62 (I; was; bitchy; T:Yesterday)
+
+Today I've made the decision not to be .
+0.60 (I; 've made; the decision not to be; T:Today)
+
+Simple as that .
+
+Tonights dinner : 15 lbs of snow crab split between 4 people .
+0.94 (15 lbs of snow crab; split; between 4 people)
+
+Wish us luck !!  Happy St. < PROPFIRST>'s Day everybody .
+
+Gotta love any holiday that has to do w/ green !
+0.74 (any holiday; to do; w/ green)
+
+Mmm fried chicken .
+0.86 (Mmm; fried; chicken)
+
+Thank you < PROPFEMALE > for your delicious meat .
+
+: )  I don't like to fall asleep , I like to pass out !
+0.20 (I; to fall; asleep)
+0.19 (I; like; to pass out)
+0.19 Context(I like,List([35, 41))):(I; do n't like; to fall asleep)
+0.16 Context(I like,List([35, 41))):(I; like to pass out to pass out; )
+
+When you use deception , everything you say is called into question .
+0.62 (you; use; deception)
+0.87 (everything; say; you)
+0.65 (everything you say; is called; into question; T:When you use deception)
+
+I love how getting new clothes just makes you feel better in general .
+0.36 (I; love; how getting new clothes just makes you feel better in general)
+0.83 Context(I love,List([0, 6))):(how getting new clothes; just makes; you feel better in general)
+0.30 Context(I love how getting new clothes just makes,List([0, 41))):(you; feel; better in general)
+
+:)  Today was a good day .
+0.92 (Today; was; a good day)
+
+Went shopping & did lunch w/ my baby earlier .
+
+Then went swimming w/ Becca & the boys & had chinese for dinner .
+
+So super excited ... Eliza Dushku liked my comment to her !
+0.87 (Eliza Dushku; liked; my comment)
+
+It's the little things in life lol  Another rainy day on spring break :( But its okay cuz I got \The Land of Painted Caves\ " today :) "  I want a drink w/ Midori ... Any suggestions ?
+0.57 (I; got; \The Land of Painted Caves\; T:today)
+0.52 (I; want; a drink)
+0.47 (It; 's; the little things in life)
+0.42 Context(It 's,List([0, 4))):(the little things in life; lol; )
+
+Good morning beautiful , how was your night ?
+
+Mine was wonderful with you by my side .
+0.89 (Mine; was; wonderful; with you)
+
+And when I open my eyes to see your sweet face , it's a good morning beautiful day .
+0.63 (it; 's; a good morning beautiful day; T:when I open my eyes to see your sweet face)
+0.26 (I; open; my eyes; to see your sweet face)
+0.26 Context(I open,List([9, 15))):(I; open my eyes to see; your sweet face)
+
+5 Guys :)  Lovin the new Dr. Dre song \I Need a Doctor\ " featuring Eminem "  Watchin the Lakers vs Nuggets .
+0.94 (5 Guys; Need; a Doctor\ " featuring Eminem "  Watchin the Lakers vs Nuggets)
+0.90 (a Doctor\; featuring; Eminem)
+
+Go Lakers !
+
+Watching Diary of a Wimpy Kid w/ < PROPMALE > : ) 
+

@@ -1,0 +1,223 @@
+I still recall the taste of your tears
+0.40 (I; recall; the taste of your tears; T:still)
+
+Sippin ' on some sizzurp  Goodnight world .
+
+Sign of the swine in the swarm when a < PROPMALE > is a whore who comply and conform .
+0.94 (Sign of the swine in the swarm; is; a whore who comply and conform)
+0.70 (a whore; comply; )
+0.70 (a whore; conform; )
+
+< PROPMALE > outside of the eye of the storm , with a siphon to lure out a prize and award , while avoiding the vile and bazaar that is violence and war  Here's some advice , don't lose your head , that's what you get for sticking out your neck .
+0.08 (that; 's; what you get for sticking out your neck)
+0.33 Context(that 's,List([198, 204))):(you; get; )
+0.93 (the vile and bazaar; is; violence and war)
+
+You know I got myself together , just like you said .
+0.38 (You; know; )
+0.30 (I; got together; myself)
+
+I'm conquering this city with the living dead .
+0.45 (I; 'm conquering; this city)
+
+It's never love , bloody touch , broken wrist , needle rust .
+0.57 (It; 's never; love , bloody touch , broken wrist , needle rust)
+
+Choking throat , swallowed teeth , head fuck , no peace .
+
+The lunatic is in the hall , the lunatics are in my hall , the paper holds their folded faces to the floor , and every day the paper boy brings more .
+0.96 (the paper boy; brings; more; T:every day)
+0.84 (the paper; holds; their folded faces)
+0.80 Context(the paper holds,List([59, 74))):(the lunatics; are; in my hall)
+0.58 Context(the lunatics are the paper holds,List([29, 74))):(The lunatic; is; in the hall)
+
+Silk ' round her neck falls down to her shoulders .
+0.70 (Silk ' round her neck; falls; down to her shoulders)
+
+The older I get , the more I suspect there's a trick .
+0.24 (I; get; )
+
+But really there's no trip at all , that doesn't result in a fall , or a faltering .
+0.11 (that; does n't result; in a fall , or a faltering)
+
+Sweet , I found my butterfly knife .
+0.49 (I; found; my butterfly knife; T:Sweet)
+
+Fuck today .
+
+I hope tomorrow is better , but ' tis doubtful .
+0.40 (I; hope; tomorrow is better)
+0.76 Context(I hope,List([0, 6))):(tomorrow; is; better)
+
+Goodnight , world .
+
+Awesome , I found a way to experience DMT without fucking around with any sort of synthesis .
+0.61 (I; found; a way to experience DMT without fucking around with any sort of synthesis)
+
+Anybody wanna get in on this and experience quite possibly the greatest tryptamine of them all ?
+
+So pretty , so frail , I watch your body turning pale .
+0.45 (I; watch; your body turning pale; T:So pretty)
+0.32 Context(I watch,List([23, 30))):(your body; turning; pale)
+
+So fragile , so weak , I didn't want to be this creep .
+0.45 (I; did n't want; to be this creep)
+0.41 (I; to be; this creep)
+
+Start bleeding , stop breathing , I take your life , I am defeating .
+0.26 (I; take; your life)
+0.16 Context(I take,List([34, 40))):(I; am defeating; )
+
+We were all put on this earth to suffer , we each have our own private pain .
+0.23 (we; have; our own private pain)
+0.40 Context(we have,List([42, 54))):(We; were all put; on this earth; to suffer)
+
+We must pass this pain onto our brother , the never ending cycle starts again .
+0.81 (the never ending cycle; starts; T:again)
+0.26 Context(the never ending cycle starts,List([42, 71))):(We; must pass; this pain; onto our brother)
+
+Huzzah , my snuff has arrived from England !
+0.68 (my snuff; has arrived; from England)
+
+Intranasal tobacco use is quite interesting .
+0.83 (Intranasal tobacco use; is; quite interesting)
+
+I've seen the needle , and the damage done .
+0.45 (I; 've seen; the needle)
+0.73 (the damage; done; )
+
+A little part of it in everyone .
+
+But every junkie's like a settin ' sun .
+0.93 (every junkie; 's; like a settin ' sun)
+
+She spreads herself wide open , to let the insects in .
+
+She leaves a trail of < PROPFEMALE > , to show me where she's been .
+0.29 (She; leaves; a trail of < PROPFEMALE; to show me where she's been)
+0.23 Context(She leaves,List([0, 10))):(She; leaves a trail of < PROPFEMALE to show; me; where she's been)
+0.16 Context(She leaves to show,List([0, 46))):(she; 's been; )
+
+She has the blood of reptile , just underneath her skin .
+0.52 (She; has; the blood of reptile)
+
+Seeds from a thousand others drip down from within .
+0.79 (Seeds from a thousand others; drip down; )
+
+There are no more barriers to cross .
+
+All I have in common with the uncontrollable and the insane , the vicious and the evil , all the mayhem I have caused and my utter indifference toward it I have now surpassed .
+0.34 (All; have; I)
+0.52 (I; have caused; All I have in common with the uncontrollable and the insane , the vicious and the evil , all the mayhem I have caused and my utter indifference toward it I have now surpassed .)
+0.88 (All I have in common with the uncontrollable and the insane , the vicious and the evil , all the mayhem I have caused and my utter indifference toward it; have surpassed; T:now)
+
+I want no one to escape , but even after admitting this there is no catharsis , my punishment continues to elude me and I gain no deeper knowledge of myself .
+0.45 (my punishment; to elude; me)
+0.31 (I; gain; no deeper knowledge of myself)
+0.29 (my punishment; continues; )
+0.47 Context(my punishment continues,List([80, 103))):(I; want; no one to escape)
+0.69 Context(I want my punishment continues,List([0, 103))):(no one; to escape; )
+
+This confession has meant nothing .
+0.90 (This confession; has meant; nothing)
+
+Sometimes you see the world so clearly , and you know just what to do , and just when to do it .
+0.35 (you; see so clearly; T:Sometimes)
+0.37 (you; know; just what to do)
+0.27 Context(you know,List([45, 53))):(you; know just what to do just to do; )
+
+Just what you should've done , and when you should've done it .
+0.32 (you; should 've done; )
+0.46 (you; should 've done; it)
+
+Ugh .
+
+The last few days have felt like the same shit , looping and cycling endlessly .
+0.92 (The last few days; have felt; like the same shit , looping and cycling endlessly)
+
+Perhaps tomorrow this veil will lift .
+
+From what I've heard , it's a pretty cool place .
+0.19 (I; 've heard; )
+0.52 (it; 's; a pretty cool place)
+
+A sea of urine where rats eat your face .
+0.70 (rats; eat; your face)
+
+A sadist like me can pursue his vocation ; I'm goin ' to hell because I need a vacation .
+0.45 (I; need; a vacation)
+0.22 (I; 'm goin; to hell; because I need a vacation)
+0.47 Context(I 'm goin,List([43, 51))):(A sadist like me; can pursue; his vocation; because I need a vacation)
+
+Finally obtained a Netflix disc for my playstation ; time to watch every season of the Office in sequential order .
+
+Again .
+
+Six more episodes and I'll have watched all of The Office Season 5 today .
+0.50 (I; 'll have watched; all of The Office Season 5; T:today)
+
+Good God , such a cold morning .
+
+Such a gloomy day .
+
+Measuring a summer's day , \  I only finds it slips away to grey .
+0.26 (I; only finds; it slips away to grey)
+0.46 Context(I only finds,List([30, 42))):(it; slips; away to grey)
+
+\  The hours they bring me pain .
+0.67 (they; bring; me; pain; T:The hours)
+
+Ahhh , I enjoyed watching the sun rise , and now it's a beautiful morning .
+0.66 (it; 's; a beautiful morning; T:now)
+0.39 (I; enjoyed; watching the sun rise)
+0.39 Context(I enjoyed,List([7, 16))):(I; enjoyed watching; the sun rise)
+
+Didn't sleep but I'm feeling surprisingly alert and awake all the same .
+0.23 (I; 'm feeling; surprisingly alert and awake)
+
+Good morning , world .
+
+Another bright , blue , beautiful morning .
+
+Would almost be perfect if it weren't for the cold .
+0.45 (it; were n't; for the cold)
+
+Good morning , world .
+
+Hash brownies and dispensary buds , hell yes .
+
+Happy Thanksgiving , world .
+
+Mmm .
+
+A delightful melange of pungent GDP , sweet , sweet < PROPFEMALE > power , and skunky ( helicopter something or another , can never seem to remember that one's name ) layered in the bowl .
+0.92 (A delightful melange of pungent GDP , sweet , sweet < PROPFEMALE > power , and skunky ( helicopter something or another; can never seem; )
+0.64 (that one's name; layered; L:in the bowl)
+
+Fine way to finally drag myself into complete wakefulness and begin the day .
+
+Ah , a crate of rare and foreign microbrewed beers is on its ' way ; a week or so at the longest and then I can enjoy my christmas present early .
+0.92 (a crate of rare and foreign microbrewed beers; is; on its ' way)
+0.44 (I; can enjoy; my christmas present early; T:then)
+
+So cold .
+
+Awesome , neighbor started his chainsaw at the asscrack of < PROPFEMALE > and he's still fucking around with it while not really accomplishing any sort of work with it beyond being loud .
+0.85 (neighbor; started; his chainsaw; L:at the asscrack of < PROPFEMALE)
+0.49 (he; 's; T:still; fucking around with it; T:while not really accomplishing any sort of work with it beyond being loud)
+
+Thanks for the birthday greetings , everyone .
+
+Pink < PROPMALE > Experience show last night was awesome , dude on the saxaphone was beasting that shit .
+
+And they played Echoes !
+0.66 (they; played; Echoes)
+
+Hells yeah .
+
+Every day is the same day , no better and no worse .
+0.93 (Every day; is; the same day , no better and no worse)
+
+Ahh , I love the rain .
+0.45 (I; love; the rain)
+

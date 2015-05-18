@@ -1,0 +1,10 @@
+My mamaw used to tell me that you should always spend the first day of the new year doing what you would like to be doing the rest of the year .
+0.27 (My mamaw; to tell; me; that you should always spend the first day of the new year)
+0.59 Context(My mamaw to tell,List([0, 21))):(you; should spend; the first day of the new year; T:always)
+
+For her that was anything but laundry and cooking ... for me ... i'm bundling up like the stay puff marshmallow man and hitting the woods .
+0.45 (i; 'm bundling up; like the stay puff marshmallow man)
+0.41 (i; hitting; the woods)
+
+:) 
+

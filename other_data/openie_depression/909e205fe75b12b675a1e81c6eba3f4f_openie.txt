@@ -1,0 +1,764 @@
+Skyping with Steven (:
+
+Just got off of Skypee !! Time for bedd :D  Go here .
+
+Read .
+
+Leave a comment or a question , please please please .
+
+Ill love you forever and ever <3 http://www.paralacrueldad.com
+0.76 (Ill; love forever; you)
+
+Monday , 2:45 in L13 Spanish presentation .
+
+It'd help sooo much if you went (:  Sometimes when im by myself , i sit and wonder ..... Does anyone know where < PROPFEMALE > < PROPFIRST > Hart went ?
+0.38 (you; went; )
+0.20 (i; sit; T:Sometimes; T:when im by myself)
+0.31 Context(i sit,List([66, 71))):(It; 'd help; sooo much if you went)
+0.23 (i; wonder; Does anyone know where < PROPFEMALE > < PROPFIRST > Hart went; T:Sometimes; T:when im by myself)
+
+Ugh .
+
+Almost friday .
+
+I'm so over this week l :  Thirsty .. do I get out of bed ?
+
+Or just go to sleep ?
+
+Hmm .. Decisions .
+
+Just woke uppp .
+
+Blankets make me feel like a burrito (:  5 year old's birthday party tomorrow .
+0.79 (Blankets; make; me feel like a burrito)
+0.40 Context(Blankets make,List([0, 13))):(me; feel; like a burrito)
+
+Chuck-e-cheese .
+
+Oh yeahh :D  Fun day today .
+
+Carlos (: Your amazing .
+
+Thanks for everything .
+
+Its really annoying wanting to trust somebody really badly because its obvious that you can trust them , but for some reason it just doesnt seem possible anymore .
+0.46 (you; can trust; them)
+
+A duck from the park followed me after I saved it from the street (: I woulda taken it home .
+0.87 (A duck from the park; followed; me)
+0.31 (I; saved; it; from the street)
+0.31 (I; would a taken; it; home)
+
+But my mom wouldn't let me ):  ;D  \There's a rooster in my back yard .
+
+\ " \ " Um .. That's not weird at all\ " \ " Random .
+0.22 (That; 's not; weird)
+
+\ " \ " Seriously .
+
+Haha\ " \ " Mmhmm .
+
+\ " \ " Just ignoring it ?
+
+\ " \ " yup .
+
+\ " \ " Okay babe .
+
+\ " \ " Yup .
+
+\ " \ " Come over (: \ " \ " There's two now .. \""  I spilled water on my bed ):  Vegas tonight (:  Home (:  My room gets so warm ):  Free working Sorority Life Brownie Points Helper here http://bit.ly/aDlRpr
+0.94 (Free working Sorority Life Brownie; Points; Helper; L:here)
+0.40 (My room; gets; so warm)
+0.26 Context(My room gets,List([110, 122))):(I; spilled; water; on my bed)
+
+No need to thank :)  Sorority Life cool Brownie Points Helper here ... I just got mine ... http://bit.ly/aDlRpr
+
+Enjoy :)  Armani sunglasses (: <3  Its 2:35 and i have yet to get out of bed and do something .
+0.41 (i; to get; out of bed)
+0.19 (i; have; yet)
+0.30 Context(i have,List([48, 54))):(i; have yet to do; something)
+
+Circle .
+
+Ima go back to sleep untill my aunt gets here ...  My < PROPFEMALE>'s gotta go to the doctor tomorrow .
+0.94 (Ima; go; back to sleep)
+0.45 (my aunt; gets; here)
+0.85 (PROPFEMALE>; ta go; to the doctor; T:tomorrow)
+
+Hopefully he's okay (:  Sooo .
+
+My grandma comes in the living room at 1:30 in the morning with a box of cinnamon rolls telling me to take some .
+0.64 (My grandma; comes; L:in the living room; T:at 1:30 in the morning)
+0.23 (me; to take; some)
+
+Haha .
+
+Ive been being lazy all summer ): My fatass needs to start excersizing .
+
+Gah ... Nobody should ever be this full ...  I post something complaining about how im getting fat and then follow up with cheese its and soda as the first meal of my day .
+0.78 (Nobody; should be; this full; T:ever)
+0.73 (something; complaining; about how im getting fat and then follow up with cheese its and soda as the first meal of my day)
+
+Wow < PROPFIRST > , wow .
+
+Dentist tomorrow !!! D:  Its hot in my room ):  < PROPFEMALE > at 2am with Brittney (:  Ewww .
+
+Summer homework .
+
+18 out of 26 chapters down of the first book .
+
+l :  Hippopotomonstrosesquippedaliophobia - Fear of long words .... Umm .
+
+Judge < PROPFEMALE > is such a bitch !! >.<  Okay , I really need to pick it up on the summer homework .
+0.86 (Judge < PROPFEMALE; is; such a bitch)
+0.26 Context(Judge < PROPFEMALE is,List([0, 23))):(I; really need; to pick it up on the summer homework)
+0.29 Context(Judge < PROPFEMALE is I really need,List([0, 65))):(I; really need to pick up; T:on the summer homework)
+
+Procrastination time is over !
+0.81 (Procrastination time; is; over)
+
+Beauty and the Geek marathon (:  Finally finished The Catcher in the Rye , Now to begin The Old Man and the Sea .
+0.96 (Beauty and the Geek marathon; finished; The Catcher; T:Finally)
+0.94 Context(Beauty and the Geek marathon finished,List([0, 49))):(Beauty and the Geek marathon; finished The Catcher to begin; The Old Man and the Sea; T:Now)
+
+Holy crap !
+
+< PROPFEMALE > < PROPFIRST > Hart is on TV !!!
+0.89 (Hart; is; on TV)
+
+She escaped the twins closet !! xD  Traveling around the house in my rolly chair .
+0.39 (She; escaped; the twins closet)
+0.29 Context(She escaped,List([0, 11))):(She; escaped the twins closet Traveling; around the house)
+
+I may never walk while i'm home again !!!!  Roosters in my back yard again !! xD  8/30/10 Me : \Hello (: \ " Jason : \ " Seriously < PROPFIRST > .
+0.46 (I; may never walk; T:while i'm home again !!!!  Roosters in my back yard again !! xD  8/30/10 Me : \Hello (: \ " Jason)
+0.28 (i; 'm; home; T:again; T:again)
+
+Calm down .
+
+You need to stop yelling at me !
+0.41 (You; need; to stop yelling at me)
+0.41 Context(You need,List([0, 8))):(You; need to stop; yelling at me)
+0.41 Context(You need to stop,List([0, 16))):(You; need to stop yelling; at me)
+
+\ " Me : \ " All I said was hello .... \""  Gah .
+0.34 (All; said; I)
+0.76 (All I said; was; hello; Gah)
+
+Im finally homee .
+
+Ive been at the hospital all day long .
+0.62 (Ive; been; at the hospital; T:all day long)
+
+l :  Dentist tomorrow !! D:  Ahh !
+
+I got some questionss !
+0.52 (I; got; some questionss)
+
+Keep it up pleaseee ?
+
+Formspring.me/SamSinuous
+
+Zomg !
+
+You guys are great !! Haha .
+0.68 (You guys; are; great; Haha)
+
+Although I would enjoy some more serious over sexual questions (: But then again beggars can't be choosers !
+0.45 (I; would enjoy; some more serious over sexual questions)
+
+Keep the questions cominggg !
+
+Formspring.me/SamSinuous  questions on formspringg ?
+
+Pleaseandthankyou :D Formspring.com/SamSinuous  * mom comes into my room to find my looking everywhere * mom : What are you doing ?
+0.79 (mom; comes; into my room; to find my looking everywhere * mom : What are you doing)
+0.62 (mom; to find; my looking everywhere)
+0.16 Context(mom to find,List([50, 80))):(my; looking everywhere; )
+
+me : Momm !!!
+
+I lost my shoes !!!! mom : < PROPFEMALE > ... Theyre in the living room .... me : Oh .
+0.31 (I; lost; my shoes; T:mom)
+0.47 Context(I lost,List([0, 6))):(They; re; L:in the living room .... me)
+
+* walks to living room * found themm !!!  Drivers test !
+
+Behind the wheel !
+
+Oct .
+
+14th .
+
+@9 : 40 am .
+
+Gahh .
+
+I'm excited !
+0.28 (I; 'm; excited)
+
+Haha .
+
+Questionss ?
+
+Formspring.me/SamSinuous
+
+I know you guys have questionss !!!! Formspring.me/SamSinuous
+0.32 (I; know; you guys have questionss)
+0.59 Context(I know,List([0, 6))):(you guys; have; questionss)
+
+Me : ( .
+
+Edgar : ( .? Me : He lost his eye in ' < PROPFEMALE > Edgar : Haha wow babe  I'll answer all your questions on Formspring !! Please&&thankyou (: Formspring.me/SamSinuous  twoo more dayss (:  tomorroww !!! ( :  Mother .
+0.42 (He; lost; his eye; L:in ' < PROPFEMALE)
+0.31 (I; 'll answer; all your questions)
+
+You're such a bathroom hog !! xD  Gahh .
+0.68 (You; 're; such a bathroom hog)
+
+So boredd .
+
+Lets talk yeahh !!  \Hey you there woodchucks !!! Quit chuckin ' my wood !! \ " - Geico commercial "  Guess who just got a carrr !!!! :D  its okay < PROPFEMALE > , just rub your face all over my stuff .
+0.93 (- Geico commercial "  Guess; just got; a carrr)
+
+I dont mind (:  Beginning Winter Dreams .
+0.52 (I; do; nt mind)
+
+Ahh .
+
+What to do .. What to do ?.  Gah .
+
+Im so boreeddd .
+
+Lets talk ?
+
+( :  Kinda nervous for auditions tomorrow .
+
+Haha .
+
+Such a delayed reaction .
+
+You guys should make me like mix CDs for my car !! :D Lol .
+0.49 (You guys; should make; me)
+
+I know .
+0.24 (I; know; )
+
+CD's are old school .
+0.83 (CD's; are; old school)
+
+But that would be AWESOME !
+0.16 (that; would be; AWESOME)
+
+Emergen-C is disgusting .
+0.83 (Emergen-C; is; disgusting)
+
+l :  3 hour nap today .
+
+Lol .
+
+Thank goshh .
+
+I didn't feel so sick afterwards (:  2 1/2 weeks untill my drivers test and i suck at backing up in straight lines !
+0.23 (I; did n't feel; so sick; T:afterwards)
+0.47 (i; suck; at backing up in straight lines)
+0.40 Context(i suck,List([76, 82))):(i; suck at backing up; in straight lines)
+
+D:  Bored !
+
+Let's talk (:  Was the grammar for < PROPFEMALE > homeworkk ??! D:  Gahh .
+
+I'm < PROPFEMALE > maddd !!! D:<  Just finished the Key Terms .
+0.56 (I; 'm maddd; PROPFEMALE)
+
+Not gunna lie .
+
+I kinda forgot about them untill like 20 minutes ago .
+0.31 (I; kinda forgot; about them; T:untill like 20 minutes ago)
+
+Sooo flippen boredd .
+
+New Two and a Half Men (: I <3 that show .
+0.29 (I; <3; that show)
+
+Haha  My < PROPFEMALE>'s mouth is swollen !
+0.46 (My < PROPFEMALE>'s mouth; is; swollen)
+
+D: i'm sad now ):  shesmyherroine 9:27 pm\  ( 9:27:17 PM ): i lovee youu\  \  SamSinuous 9:27 pm\  ( 9:27:19 PM ): Shut the helllll upp\  ( 9:27:22 PM ): I love you to\  ( 9:27:23 PM ): xD\  ( 9:27:26 PM ): Bad timing\  ( 9:27:28 PM ): no you shut the heeellll up  Ahhhh .
+0.55 (you; shut up; the heeellll)
+0.26 Context(you shut up,List([239, 263))):(I; love; you)
+
+I bit myself ):  What are < PROPMALE > girls wearing to the homecoming dance ?? Haha  ?
+0.81 (girls; wearing; to the homecoming dance)
+0.32 (I; bit; myself)
+0.39 (What; are < PROPMALE >; girls)
+
+I can't keep this up much longer without needng more from you ?
+0.16 (I; ca n't keep up; T:much longer)
+
+AP Spanish essay .
+
+Ugh ..  Like this and I'll tell you something that I love , like and dislike about you (:  This is killing me ..  Lets talk (: I'm bored .
+0.87 (something; love; I)
+0.28 (I; 'm; bored)
+
+buenas noches facebook (:  \I kill dinosaurs for a living .
+0.89 (buenas; noches; facebook)
+
+\ " \ " Well .
+
+Evidently your doing an extremely good job because i have not seen any recently .
+0.23 (i; have not seen; T:any recently)
+
+\""  I'm super bored right now .... l :  < PROPFEMALE > ... I was gunna cut my hair today .. hmm l :  Im thinking maybe i cant have relationships ' cus lately they're not makin ' any sense ?
+0.57 (I; was; gunna)
+0.33 (I; cut; my hair; T:today)
+0.43 (Im; thinking; maybe i cant have relationships ' cus lately they're not makin ' any sense)
+
+- 3OH ! 3  Omg .
+
+You guys are all hating on < PROPFIRST > Beiber .
+0.58 (You guys; are hating; on < PROPFIRST > Beiber)
+0.38 (guys; are all hating on; < PROPFIRST > Beiber)
+
+Poor kid .
+
+He's never done anything to you guys .
+0.31 (He; 's never done; anything; to you guys)
+
+If you dont like him so much then don't listen to him .
+0.46 (you; do nt like; him)
+
+Derr .
+
+Like this and I'll write something for each letter of your name :D  At my mommy's work (: free breakfast :D  \You're the worst pony ever ...
+0.31 (I; 'll write; something for each letter of your name)
+0.68 (\You; 're; the worst pony ever)
+
+And I hate you .
+0.31 (I; hate; you)
+
+\""  4 more hours :D  Circa survive is awesome :) < PROPFIRST > green ?
+0.77 (Circa; survive; )
+
+I love you .
+0.31 (I; love; you)
+
+IN FEAR AND FAITH !
+
+:D  < PROPFIRST>'s singing gives me boners .
+0.81 (PROPFIRST>'s singing; gives; me; boners)
+
+xD  I dont think i could be more tired ... Or sweaty .
+0.26 (I; do nt think; i could be more tired)
+0.18 Context(I do nt think,List([4, 16))):(i; could be; more tired)
+
+Concert over .
+
+Purely amazing .
+
+Once again .
+
+< PROPFIRST > Green .
+
+I love you .
+0.31 (I; love; you)
+
+Finally home (: and for those of you who are wondering the show was AMAZING !
+0.62 (those of you; are wondering; the show)
+
+If you can .
+
+Go see them (:  You're Not Alone - Saosin .. \  Its stuck in my head !! xD  i already forget how i used to feel about you .
+0.27 (i; to feel; about you)
+0.36 (You; 're Not; Alone)
+0.34 (i; forget; how i used to feel about you; T:already)
+
+I never wanted a partner , and I never loved you .
+0.45 (I; never wanted; a partner)
+0.31 (I; never loved; you)
+
+Now you are free to leave .
+0.50 (you; are; free to leave; T:Now)
+0.28 (you; to leave; )
+
+?
+
+Time for bed (: Goodnight facebook users !
+0.95 (Goodnight; facebook; users; T:Time for bed)
+
+:D  I thought the jets game was over .
+0.40 (I; thought; the jets game was over)
+0.79 Context(I thought,List([4, 13))):(the jets game; was; over)
+
+I leave .
+0.19 (I; leave; )
+
+And they make a huge comeback !!??!! WTF !!  Alrightt .
+0.62 (they; make; a huge comeback)
+
+Sooo .
+
+Someone talk to me .
+0.86 (Someone; talk; to me)
+
+I need advice l : Girls .
+0.45 (I; need; advice l)
+
+I need a GIRLS advice .
+0.50 (I; need; a GIRLS advice)
+
+Super Salads xD  Crotcheting with Kathya :D We koo .
+0.19 (We; koo; )
+
+\What is this ?
+0.73 (\What; is; this)
+
+\ " \ " A blanket .
+
+\ " \ " You messed up over here .
+0.56 (\; messed up; L:over here)
+
+\ " \ " No .
+
+It has character\ " ( : "  < PROPFEMALE > just gave me cow socks (:  Wooh !
+0.19 (It; has character\; )
+0.73 (PROPFEMALE; just gave; me; cow socks)
+
+Kathya's birthday partayy tomorrow (: Kathyaa .
+
+I'll be there at eleven :D  < PROPFEMALE > much fun at Kathya's birthday (:  Homework time .. l :  Spongebob Movie !
+0.28 (I; 'll be; there; T:at eleven :D)
+
+:D  Hot chocolate (: Because mahh mommy lovess me :D But i burnt my tongue ):  At Kathya's houseeee :D  Its cold here ): Text me (: 1-714-858-0676  I feel sleepy .
+0.86 (mahh mommy; lovess; me; T::D)
+
+Rehearsal took way too long /:  Just finished The < PROPFEMALE > Letter questions (:  I flippen hate the DMV .
+0.80 (Rehearsal; took; way too long)
+0.91 (Rehearsal; Just finished; The < PROPFEMALE > Letter questions (:  I flippen hate the DMV)
+0.44 (I; flippen; hate the DMV)
+0.44 Context(I flippen,List([86, 95))):(I; flippen hate; the DMV)
+
+Straight or wavy ?... Hm .. Decisions /:  Augh .
+
+This is gunna be harder than it seems .
+0.40 (This; is; gunna)
+0.83 Context(This is,List([0, 7))):(gunna; be; harder than it seems)
+
+l :  At our last rehearsall !
+
+Show tomorrow and friday .
+
+Buy tickets :)  First day of show's finally over .
+0.84 (First day of show; 's; T:finally; over)
+
+Haha .
+
+< PROPFEMALE > much fun :) but < PROPFEMALE > much work .
+
+Last showww .
+
+So much drama in advanced drama :)  I got home so early .
+0.84 (So much drama in advanced drama; got; home; T:so early)
+
+It was weird !!!  My computer is fixed :D No more virus !!  And as much as I hate to say it , I'm not even going to try with you anymore .
+0.27 (I; to try; with you; T:anymore)
+0.24 (It; was; weird)
+0.29 Context(It was,List([0, 6))):(My computer; is fixed; )
+0.26 (I; hate; to say it)
+0.26 Context(I hate,List([75, 81))):(I; hate to say; it)
+
+I think its time to do homework before the choir concert (:  I feel < PROPFEMALE > tired tonight ):  A buttload of homework today .
+0.48 (I; think; its time to do homework before the choir concert (:  I feel < PROPFEMALE > tired tonight ):  A buttload of homework today)
+0.30 Context(I think,List([0, 7))):(I; feel tired; T:tonight; T:today)
+
+I've been working on it since like 2:30 .
+0.31 (I; 've been working; on it; T:since like 2:30)
+
+l :  Done !
+
+Finally .
+
+Haha .
+
+Cashier at starbucks is flirting !
+
+xD  first time i've worn my retainer in like ...
+0.44 (i; 've worn; my retainer; L:in like; T:xD  first time)
+
+Over a year !
+
+xD  Pretty good day today (: muchas gracias < PROPFIRST > Vargas !! Me gustan los socks (:  Just woke up from a nap (: Text me ?
+
+( 714)-858-0676  I'm live on Stickam :D COme and join me .
+0.28 (I; 'm; live)
+0.27 (I; join; me)
+
+I'm bored !
+0.28 (I; 'm; bored)
+
+Stickam.com/samsinuous
+
+It is 1:30 am .
+0.52 (It; is; 1:30 am)
+
+Why am i not asleep ?
+
+darnit !
+
+All nighter tonight ?? I think so :D  I think this all nighter is going pretty well so far (:  Who's bored at home ?
+0.24 (I; think; )
+0.24 (I; think; )
+
+I am !
+0.24 (I; am; )
+
+:D  Haha .
+
+My 23 year old cousin made everyone cards !
+0.70 (My 23 year old cousin; made; everyone cards)
+
+(:  Well .. My plans got messed up .
+0.45 (My plans; got; messed up)
+0.34 (My plans; got messed up; )
+
+Shoot .
+
+New haircut today (: Umm .
+
+I'll get new pictures ... eventually :D  School tomorrow !
+0.57 (I; 'll get; new pictures; T:eventually; T:School tomorrow)
+
+Greaaaaaaatttttt .
+
+Time for bedd !! Goodnight facebook (:  Going to Kathya's later on :D I was gunna do my nailssss .
+0.56 (I; was; gunna do my nailssss; T:later on :D)
+0.27 (I; gunna do; my nailssss)
+
+Butt thiss sounds better !! ( :  Kathya'ss housee :D  xD I just noticedd Kathya < PROPFEMALE > Echeverria left her moviess here from like last week .
+0.40 (I; just noticedd; Kathya < PROPFEMALE > Echeverria left her moviess here from like last week)
+0.86 Context(I just noticedd,List([57, 72))):(Echeverria; left; her moviess; L:here from like last week)
+
+Ima watch them !! (:  Basketball !
+0.91 (Ima; watch; them; Basketball)
+
+Go lobos !!  Driving to the block with kathya ! ( :  Going to the LQ game (:  Los amigos yearbook from ' 86 .
+0.86 (Los; amigos; yearbook; from ' 86)
+
+Pretty damn legit (:  Back at the hospital .
+
+This place gets extremely tiring after a while .
+0.93 (This place; gets; extremely tiring; T:after a while)
+
+/:  Kathya's house in a little while ?? Hopefully !! :D  Kathya's house is a go !! I'm on my wayy :D  Kathya's house (: her lazy ass hasn't even gotten out of bed !! -_-  Who thought watching fish swim around a tank could be this interesting .........  < PROPFEMALE > .
+0.60 (her lazy ass; has n't even gotten; out of bed)
+0.31 Context(her lazy ass has n't even gotten,List([120, 151))):(I; 'm; on my wayy)
+0.93 Context(I 'm her lazy ass has n't even gotten,List([83, 151))):(Kathya's house; is; a go)
+
+Uhh .
+
+I locked my keys in my car today .
+0.31 (I; locked; my keys; L:in my car; T:today)
+
+Haha .
+
+Gosh ... This sucks .
+0.19 (This; sucks; )
+
+What to do now ?
+
+Sleep some more !
+
+Wooh !
+
+-_-  Stuck in the car with kathya .
+
+xD  My cat just stepped on my boob trying to walk across me ..... Ouch ):<  First swim practice starting soon ... Like in 5 .
+0.49 (My cat; just stepped; on my boob)
+0.78 (First swim practice; starting; T:soon)
+
+Ah .
+
+/:  I wish my life broke out into random songs that everyone thats there somehow knows all the words to the chorus .
+0.32 (I; wish; my life broke out into random songs)
+0.59 Context(I wish,List([4, 10))):(my life; broke out; T:into random songs)
+0.30 Context(I wish,List([4, 10))):(I; wish somehow knows; all the words to the chorus)
+
+2nd place on my 100 fly .
+
+Lesson learned !
+0.71 (Lesson; learned; )
+
+NEVER GIVE UP !!!  Riding inside the cart at Costco (: special thanks to mommy for pushing me around !  \Hola !
+
+Que pasa ?
+
+The lobos en la casa !! We're burnin ' like hot salsa !! Wooohhhh !!! \ " - < PROPMALE > Cielo (: "  Wicked soon .
+0.19 (We; 're burnin; )
+
+Excited .
+
+Haha .
+
+Annnnnnddddd I can't sleep ... -__-  So .
+0.14 (I; ca n't sleep So; )
+
+My teacher touched me foot today ... Reflex texting ... Awkwarddd ......  Almost time for bed .
+0.42 (My teacher; touched; me; foot; T:today)
+0.72 Context(My teacher touched,List([0, 18))):(Reflex; texting; )
+
+Aughh .
+
+This is so late for me -__-  There's ducks by my pool !!  I would hurt my shoulder ...... -__-  On the last TP-CASTT .. These things are so annoying .
+0.38 (These things; are; so annoying)
+0.29 (I; would hurt; my shoulder; L:On the last TP-CASTT)
+0.18 Context(I would hurt,List([58, 70))):(This; is; so late for)
+
+-__-  < PROPFEMALE > .
+
+Me , < PROPFEMALE > Huynh , < PROPFEMALE > Ho , and < PROPFEMALE > < PROPFEMALE > got caught wandering around Bolsa and this lady like gave us tour of the campus .
+0.84 (Me , < PROPFEMALE > Huynh , < PROPFEMALE > Ho , and < PROPFEMALE; got; caught wandering around Bolsa and this lady like gave us tour of the campus)
+0.81 (this lady; gave; us; tour of the campus)
+
+xD  Eating sushi with mommy (:  I'm officially in love with Maroon 5 <3 I know .
+0.94 (Maroon 5 <3; know; I)
+0.23 (I; 'm; officially)
+0.74 Context(I 'm,List([32, 35))):(xD  Eating; sushi; )
+
+How lame am i right ?
+
+Eating tacos with mommy (:  New Degrassi tonight :D  < PROPFEMALE > .. I just went through my closet and separated old stuff that i never wear and shit and ... I have like no clothes left ... l : I think its clothes shopping time :D  Movie marathon on USA :D my day is made (:  There are no words intense enough to explain how badly i want to punch you in the face !
+0.78 (no clothes; left; )
+0.31 (I; just went; through my closet)
+0.12 (I; separated; old stuff that i never wear and shit)
+0.88 (old stuff; never wear; i)
+0.39 (I; have; like; no clothes left)
+0.35 Context(I have,List([160, 166))):(I; think; its clothes shopping time :D  Movie marathon on USA)
+0.29 Context(I have I think,List([160, 203))):(my day; is made; )
+
+:D  Spinach and cheese omelette (: not usually a fan of eggs but this is bomb :D  Hmm ... Curly .... Or straight ?... Decisions ....  Ugh .
+0.50 (this; is; bomb :D  Hmm)
+
+I cant sleep .
+0.19 (I; ca nt sleep; )
+
+/:  My family almost forgot me in my room to go eat .
+0.49 (My family; almost forgot; me; L:in my room)
+
+Thanks guys .
+
+Feeling the love .... -__-  I'm officially < PROPFIRST > Huynh's horsey (:  < PROPFEMALE > tired .
+0.45 (I; 'm officially; PROPFIRST)
+
+l : I think its time for bed soon .
+0.37 (I; think; its time for bed soon)
+
+-__-  Despicable Me !!! ( :  Well ... Since im bored .
+
+Like this status and ill tell you something i like/dislike about you !
+0.89 (this status and ill; tell; you; something i like/)
+0.87 (something; like; i)
+
+(:  Its such a nice day outside !
+
+( :  Damnit Lakers !
+
+D:<  Hello , I love you .
+0.31 (I; love; you)
+
+Won't you tell me your name ?
+
+(;  Omg .
+
+People have heart attacks when i speak spanish .
+0.82 (People; have; heart attacks; T:when i speak spanish)
+0.45 (i; speak; spanish)
+
+Just because i'm white .... -__-  Me : \Whatch out Noel !
+
+\ " Noel : \ " Oh God ..
+
+He has a tractor .... \ " x ) "  Thank you for lending me your ipod today < PROPFIRST > Rivas (: <3 Life saver !!  wow this works >> http://tiny.cc/zaf41
+0.52 (He; has; a tractor)
+0.46 (you; for lending; me; your ipod; T:today)
+0.28 (He; Thank; you; for lending me your ipod today)
+0.16 Context(He Thank,List([0, 38))):(this; works; )
+
+<< now you can see who your top facebook profile stalkers are !
+0.54 (you; can see; who your top facebook profile stalkers are; T:now)
+0.35 Context(you can see,List([7, 18))):(your top facebook profile stalkers; are; )
+
+I can't believe who was my no1 stalker :D  Grease is on abc family !
+0.36 (I; ca n't believe; who was my no1 stalker :D  Grease is on abc family)
+
+<3  Goshh .
+
+There is nothing to do right now !
+0.75 (nothing; to do; T:right now)
+
+l :  Really Lakers ?? REALLY ??!!!!?!?!?!??!!??  My dad is pushing me around Costco as i sit in the shopping cart (: we lost my mother !
+0.52 (i; sit; in the shopping cart)
+0.37 (we; lost; my mother)
+
+D:  < PROPMALE > Valdez : You suck .
+0.38 (You; suck; )
+
+-__- and you smell .
+0.38 (you; smell; )
+
+But i forgive you <3  Sooo .. I was walking through the grocery store and i saw that juice boxes were on sale .
+0.29 (i; forgive; you; T:<3  Sooo)
+0.39 Context(i forgive,List([4, 13))):(I; was walking; through the grocery store)
+0.24 (i; saw; that juice boxes were on sale)
+0.89 Context(i saw,List([74, 79))):(that juice boxes; were; on sale)
+
+I immediately thought of < PROPFEMALE > Muschinski and bought like 7 packs !! :D  < PROPFIRST > Levine has stolen my heart <3  Kathya < PROPFEMALE > Echeverria : Shall we strike the < PROPFIRST > Bravo pose everytime we're thinking ??? :D  Beach time with Brittney !! <3  Sleep over at < PROPFIRST>'s house !
+0.54 (I; thought; of < PROPFEMALE > Muschinski; T:immediately)
+0.83 Context(I thought,List([0, 21))):(Levine; has stolen; my heart)
+0.39 Context(I thought Levine has stolen,List([0, 113))):(we; strike; PROPFIRST>'s house)
+0.19 (we; 're thinking; )
+0.55 (I; bought; like; 7 packs; T:immediately)
+0.92 (Bravo; pose; everytime)
+
+:D  Had fun today tossing \squid looking things\ " with < PROPMALE > Porras !!! :D "  The scars of your love remind me of us <3  Im bored soo .... \  1st Person To Like This Status - I'll Change My Last Name To Yours For A Week\  2nd Person To Like This Status - I'll Answer Any Question ( Inbox Only )\  3rd Person To Like This Status - I'll Write I Love You On Your Wall For 3 Days  This is gunna be a great easter !! Matching outfits with Kathya < PROPFEMALE > Echeverria !! ( :  Tangled with the fam ! ( :  red finger nails <3   ?
+0.39 (I; 'll Answer; Any Question)
+
+Cousin : \How old are you now ?
+
+\ " Me :\ " 16\ " Other Cousin :\ " < PROPFIRST > Beiber is 16 !!!! \ " Cousin :\ " Heyy .
+0.47 (Me; :\; Cousin)
+
+< PROPFIRST > Beiber .... Maybe you should .... \ " Me :\ " Ah .
+
+No .
+
+I dont dat "   ? e girls .
+0.41 (I; do nt dat; girls)
+
+\ " , 2011-04-27 01:07:03 "  Lakers <3  Like my status and I'll tell you :\  1 .
+0.37 (I; 'll tell; you; T::\  1)
+
+How we met :\  2 .
+0.24 (we; met; 2)
+
+My first impression of you :\  3 .
+
+What I like about you : \  4 .
+0.19 (I; like; )
+
+Favorite memory of you :\  5 .
+
+But if you like this you must put it as your status so I can like your status  < PROPMALE > Esparza : Thank you , for popping my HiChew < PROPFEMALE > today in class .
+0.36 (you; like; this)
+0.31 (I; can like; your status)
+0.47 (you; for popping; my HiChew; T:< PROPFEMALE)
+
+Im very thankful (:  < PROPFIRST > Rivas : Shall we get facebook engaged ??? ( :  flat soda in the morning that i left on my nightstand overnight because i was more tired than i thought when i opened it .
+0.40 (Im very thankful; PROPFIRST Rivas; Shall we get facebook engaged)
+0.31 (i; thought; T:when i opened it)
+0.31 (i; opened; it)
+0.85 (the morning; left; T:on my nightstand; T:overnight; because i was more tired)
+0.37 (i; was; more tired than i thought)
+
+AWESOME !! <3  Purple nail polish <3  really ?.. REALLY ??!!!
+

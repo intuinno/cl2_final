@@ -1,0 +1,85 @@
+Going to ny philharmonic today .
+
+It should be fun 
+0.23 (It; should be; fun)
+
+Everyone should ask their mothers what the Coriolis effect is and see if they know  Like this if u think it's annoying when people tell u that they'll do something if they like ur status  Someone ate my zepolis and now I'm mad  I'm making brownies =)  Watching blues clues with < PROPMALE > !!!  Little cousins b-day party in a little , then rush concert at jones beach after  Rush concert was amazing  Cut most of my hair off , I'll post a pic when I feel like it  I found a spider in my room , and there's no one here to get rid of it .
+0.81 (Everyone; should ask; their mothers; the Coriolis effect is)
+0.81 Context(Everyone should ask,List([0, 19))):(the Coriolis effect; is; )
+0.67 (I; 'm; mad  I'm making brownies =)  Watching blues clues with < PROPMALE > !!!  Little cousins b-day party in a little , then rush concert at jones beach; T:now)
+0.38 (they; know; )
+0.39 (I; 'm making; brownies)
+0.43 Context(I 'm making,List([228, 238))):(I; 'm making brownies =) Watching; blues clues with < PROPMALE)
+0.62 (they; like; ur status)
+0.26 (I; feel; like it)
+0.26 Context(I feel,List([450, 456))):(I; found; a spider in my room)
+0.39 (Rush concert; was amazing Cut most of; my hair)
+
+Looks like I ain't sleeping tonight  New idea- a house m.d.
+0.45 (I; ai n't sleeping; T:tonight)
+
+movie  Schedule =\  1 .
+0.81 (movie  Schedule; =\; 1)
+
+wind symphony\  2 .
+0.61 (wind; symphony\; 2)
+
+project adventure DeCicco(odd)\  chem lab Chingos(even)\  3 .
+
+chem Chingos\  4 .
+
+concert choir\  5 .
+0.75 (concert; choir\; 5)
+
+english 10h McCarthy\  6 .
+
+trig Rosado\  7 .
+
+Global St. 2 Zederbaum\  8 .
+
+French 3R < PROPMALE >  Thank you all for your birthday wishes !!! (: [=  Thank you to all the people who posted birthday wishes !
+0.90 (all the people; posted; birthday wishes)
+
+Cold :/  Haha people in ap euro have hw everyday .
+0.89 (Cold :/  Haha people in ap euro; have hw; T:everyday)
+
+I haven't gotten a single hw assignment in my heavily dumbed down global st2 class .
+0.42 (I; have n't gotten; a single hw assignment in my heavily dumbed down global st2 class)
+
+The class is so boring , I'd rather have the hw  Season primier of house at 8 !!!!! =] =] =]  Like this and I'll slap you  FWD : Describe me using the third letter of your name .
+0.42 (I; 'll slap; you; FWD)
+0.39 (I; 'd rather have; the hw  Season primier of house; T:at 8)
+0.77 Context(I 'd rather have,List([25, 40))):(The class; is; so boring)
+
+Keep this going .
+
+( WARNING ) This gets fun after awhile .
+0.45 (This; gets; fun; T:after awhile)
+
+I want a second wall .
+0.52 (I; want; a second wall)
+
+Why can't I have one ?
+
+Jazz Ensemble !
+
+God-zi-lla !!!  Ky-y-y-ri-i-e --- !
+
+NOOOOOOO !!!!!!!!!!! facebook changed my profile !!!!  Vice president of sound and light !
+
+I'm having a nightmare , about a white Christmas !
+0.50 (I; 'm having; a nightmare; about a white Christmas)
+
+What's with the change in zodiac signs ?
+
+I was a Virgo but now I'm a < PROPFIRST > ?
+0.57 (I; was; a Virgo)
+0.70 (I; 'm; a < PROPFIRST >; T:now)
+
+What the hell ?
+
+Superbowl !!! sucks ...  Godzilla !
+0.93 (Superbowl; sucks; Godzilla)
+
+Goggles today , ogles tomorrow  I'm sick in the middle of a vacation ... 
+

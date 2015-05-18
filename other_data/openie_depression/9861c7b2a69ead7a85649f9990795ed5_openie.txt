@@ -1,0 +1,1092 @@
+How does one fucking work a fucking Face Book ?
+
+Why the fuck's it even called a Face Book ?
+0.50 (it; even called; a Face Book)
+
+Why ?
+
+Question and answer !
+
+I still do not understand , do not com ply with this book of faces .
+0.25 (I; do not understand; T:still)
+0.38 Context(I do not understand,List([0, 25))):(I; do not understand do not com ply; with this book of faces; T:still)
+
+Too much caffeine when every one else is asleep .
+0.83 (every one else; is; asleep)
+
+Fucking bummer .
+
+Is nervous .
+
+Nervous as hell .
+
+Days like this make me not hate this holiday as much as usual .
+0.82 (Days like this; make; me not hate this holiday as much as usual)
+0.40 Context(Days like this make,List([0, 19))):(me; not hate; this holiday; as much as usual)
+
+So , < PROPFEMALE > Christmas , suckas !
+0.74 (Christmas; suckas; )
+
+I really wish I didn't have to go to work for one hour ( and a half ) out of my day off to listen to a moron rant about shit I could learn on my own in five minutes .
+0.32 (I; to go; T:for one hour)
+0.27 Context(I to go,List([14, 33))):(I; to go to listen; to a moron rant)
+0.22 (I; really wish; I could learn on my own in five minutes)
+0.35 Context(I really wish,List([0, 13))):(I; could learn; T:in five minutes)
+
+Finally , a day off !
+
+I think I'll spend it with a drink and my new television .
+0.43 (I; think; I'll spend it with a drink and my new television)
+0.32 Context(I think,List([0, 7))):(I; 'll spend; it)
+
+There was no-thing left to do , so I spent thirty minutes pumping up the tires on < PROPFEMALE > with a near broken bike pump and rode to the store and picked up a six of Bohemia .
+0.41 (I; rode; to the store)
+0.48 (no-thing; left; to do)
+0.46 (I; picked up; a six of Bohemia)
+0.33 (no-thing; to do; )
+0.62 (I; spent; thirty minutes; pumping up the tires on < PROPFEMALE > with a near broken bike pump)
+0.39 Context(I spent,List([35, 42))):(I; spent thirty minutes pumping up; the tires)
+
+It was liberating !
+0.19 (It; was liberating; )
+
+And some guys called me the leopard print OG .
+0.86 (some guys; called; me; the leopard print OG)
+
+I want a car .
+0.52 (I; want; a car)
+
+Those turtles are fucking with me .
+0.83 (Those turtles; are; fucking with me)
+
+Someone actually wrote something to-night .
+0.89 (Someone; actually wrote; something; T:to-night)
+
+Or nothing .
+
+That certain someone will decipher one way or another when he or she is sober .
+0.82 (That certain someone; will decipher; T:when he or she is sober)
+0.48 (he or she; is; sober)
+
+Tomorrow .
+
+Why would I go to work , why ?
+
+Just have to deal with more drama in one day than all of the years of high school combined .
+0.82 (all of the years of high school; combined; )
+
+Right now , I really hate the internet . .
+0.60 (I; really hate; the internet; T:Right now)
+
+I want another spinach and feta wrap .
+0.52 (I; want; another spinach and feta wrap)
+
+Right .... now .
+
+Ish .
+
+I need respite .
+0.45 (I; need; respite)
+
+Apparently , I actually can get sick .
+
+Unhappy .
+
+Does any one notice , that all of these peaople are doing that goddamn first name urban dictionary thing , and not a single one has anything bad said about them ?
+0.80 (all of these peaople; are doing; that goddamn first name urban dictionary thing)
+0.94 (not a single one; has; anything bad)
+
+I mean , really ; am I to believe that everyone who has the free time to do that shit is the coolest , sexiest , most fun , and best person to have around ? ' Cos frankly , that shit don't bite .
+0.19 (I; mean; )
+0.28 (I; to believe; that everyone who has the free time to do that shit is the coolest , sexiest , most fun , and best person)
+0.95 Context(I to believe,List([21, 33))):(everyone who has the free time; is; the coolest , sexiest , most fun , and best person)
+0.78 (everyone; has; the free time to do that shit)
+
+Cough medicine makes me high .
+0.83 (Cough medicine; makes; me high)
+
+Happy day !
+
+Makes me also want to steal < PROPFIRST>'s puppy with a quickness , and hate Starfucksyouover no less .
+
+Let's all drink to the death of a clown !
+
+Yesterday , Birmingham .
+
+Wednsday , Tennessee .
+
+You've got to love a girl with good ideas .
+0.56 (You; 've got; to love a girl with good ideas)
+0.56 Context(You 've got,List([0, 10))):(You; 've got to love; a girl with good ideas)
+
+Don't try t ' dig what we all s-s-s-say  We've been served a raw deal .
+
+We must deal .
+0.19 (We; must deal; )
+
+I let some one down .
+0.52 (I; let; some one down)
+
+I'd almost forgotten the feeling of raw failure .
+0.45 (I; 'd almost forgotten; the feeling of raw failure)
+
+There's nothing better than listening to < PROPFIRST > and drinking a beer mid-day , I've decided .
+0.16 (I; 've decided; )
+
+A continuation !
+
+: now it is drinking and Meloncholy & The Infinite Sadness .
+0.30 (it; is drinking; T:now)
+
+Good times , no better .
+
+I thought I was a radical , but apparently I'm just fanatical .
+0.26 (I; thought; I was a radical)
+0.24 Context(I thought,List([0, 9))):(I; was; a radical)
+
+Thanks for the fucking pick-me-up , < PROPMALE > .
+
+Give me a FUCKING BREAK .
+
+Gah !
+
+So , all of the bars in Montgomery suck .
+0.88 (all of the bars in Montgomery; suck; )
+
+However , the amount of Scotch that < PROPFEMALE > < PROPFEMALE > gives you for six dollars is ... unfathomable .
+0.88 (the amount of Scotch; gives; you; for six dollars)
+0.83 (the amount of Scotch; is; unfathomable)
+
+I'm drunk , and missing my girl .
+0.28 (I; 'm; drunk)
+0.27 (I; missing; my girl)
+
+But , I'm dismantling these phantom limbs whilst waiting for Taco < PROPFEMALE > , so I'm all right .
+0.93 (these phantom limbs; whilst waiting; for Taco < PROPFEMALE)
+
+Just can't wait for the sax solo .
+
+Watching Midnight Express , alone , in my spare time ... I've reached a new level of weird .
+0.45 (I; 've reached; a new level of weird)
+
+< PROPMALE > is mean .
+0.75 (PROPMALE >; is; mean)
+
+I'm drinking by myself and listening to < PROPMALE > Smith , because of one bad day at work .
+0.41 (I; 'm drinking; because of one bad day at work)
+0.46 (I; listening; to < PROPMALE > Smith)
+
+I haven't done that since those worthless motherfuckers in St. < PROPFIRST > made me want to die .
+0.24 (I; have n't done; that; since those worthless motherfuckers in St. < PROPFIRST > made me want to die)
+0.17 (me; to die; )
+
+But , I'm not really feeling THAT bad .
+0.23 (I; 'm not really feeling; THAT bad)
+
+I'm really , really sick and tired of going home just to freeze my balls off some more .
+0.19 (I; 'm really; really sick and tired of going home)
+
+Ouch .
+
+I hate face book .
+0.45 (I; hate; face book)
+
+I've been avoiding it ' cos I'm too much of a sissy to click one part of my life away .
+0.31 (I; 've been avoiding; it)
+0.52 (I; 'm; too much of a sissy)
+
+Today WILL be a much better day for those involved .
+0.76 (Today; WILL be; a much better day for those)
+0.08 (those; involved; )
+
+Beer .
+
+Switching over to Windows 7 is a bitch when you have this much on Itunes .
+0.94 (Switching over to Windows 7; is; a bitch; T:when you have this much on Itunes)
+0.66 (you; have; this; L:much on Itunes)
+
+Well , at least I have JW and hours on my Ipod .
+
+As well as all four Lethal Weapon movies .
+
+Lots and lots of wine .
+
+I only wish it was Malbec instead of Shiraz .
+0.29 (I; only wish; it was Malbec instead of Shiraz)
+0.50 Context(I only wish,List([0, 11))):(it; was; Malbec instead of Shiraz)
+
+It will be mine .
+0.23 (It; will be; mine)
+
+Oh yes , it will be mine .
+0.23 (it; will be; mine)
+
+1985 Chevy Celebrity .
+
+Fuck all of this .
+
+I'm never pleased .
+0.23 (I; 'm never; pleased)
+
+I can't say that in < PROPFIRST > Gourley's voice .
+0.12 (I; ca n't say PROPFIRST; that)
+
+That displeases me .
+0.25 (That; displeases; me)
+
+No alcohol to-day .
+
+I mean it this time .
+0.19 (I; mean; )
+
+I win , motherfuckers !
+0.48 (I; win; motherfuckers)
+
+I'm so sick and fucking tired of not having a car .
+0.64 (I; 'm; so sick and fucking tired of not having a car)
+
+Can't go out and do anything .
+
+Get me out of this fucking place .
+
+Please .
+
+I have it !
+0.31 (I; have; it)
+
+Just a day's worth of fuel pump work , and I'll be set to go to Florida .
+0.50 (I; 'll be set; to go to Florida)
+0.46 (I; to go; to Florida)
+
+Martytrdom has its limits , but I am happy to reach them .
+0.89 (Martytrdom; has; its limits)
+0.37 (I; am; happy to reach them)
+0.27 (I; to reach; them)
+
+Just , when will it be OKAY for me ?
+0.50 (it; be OKAY for; me)
+
+' Cos so far , shit remains shit .
+0.89 (shit; remains; shit; T:so far)
+
+Now the starter doesn't work .
+0.83 (the starter; does n't work; T:Now)
+
+Two windows won't go down .
+0.77 (Two windows; wo n't go; down)
+
+I had to borrow a fucking battery , for fuck's sake .
+0.41 (I; to borrow; a fucking battery; for fuck's sake)
+
+It's like coincidence is trying to keep me from going to St. < PROPFIRST > .
+0.53 (It; 's; like coincidence is trying to keep me from going to St. < PROPFIRST >)
+0.88 (coincidence; is trying; to keep me from going to St. < PROPFIRST >)
+0.82 Context(coincidence is trying,List([10, 31))):(coincidence; is trying to keep; me; from going to St. < PROPFIRST)
+
+O , victory !
+
+Well , TVC 15 is dead below Dothan .
+0.95 (TVC 15; is; dead; L:below Dothan)
+
+Hopefully it has been saved by now ... but Florida is fun !
+0.84 (Florida; is; fun)
+
+I never get hangovers , and now I've had two in a row .
+0.45 (I; never get; hangovers)
+0.60 (I; 've had; two in a row; T:now)
+
+My friends are married .
+0.38 (My friends; are; married)
+0.30 (My friends; married; )
+
+Crazy .
+
+I don't want to go back .
+0.18 (I; do n't want; to go back)
+0.18 Context(I do n't want,List([0, 12))):(I; do n't want to go; back)
+
+Fret not , I will .
+
+Why am I doing this , again ?
+
+Thankyou fr the good times and massive quantities of booze in St. a , every one .
+
+It was much enjoyed , and I'll be back as soon as humanly possible .
+0.19 (It; was much enjoyed; )
+0.28 (I; 'll be; back; T:as soon as humanly possible)
+
+So ... any one want to give me a ride home from work to-day at six ?
+0.54 (any one; want; to give me a ride home from work to-day at six)
+0.35 Context(any one want,List([7, 19))):(any one; want to give; me; a ride home from work; T:to-day)
+
+I thought I was going to be done with this ...  Gah !
+0.46 (I; to be done; with this; T:Gah)
+0.41 (I; thought; I was going to be done with this ...  Gah)
+
+Humidity , I detest you .
+0.31 (I; detest; you)
+
+Starbucks liqueur is too sweet .
+0.86 (Starbucks liqueur; is; too sweet)
+
+Though I am thankful to those who let me have some .
+0.12 (I; am; thankful to those)
+0.13 (those; let; me have some)
+0.18 Context(those let,List([24, 37))):(me; have; some)
+
+Sad state of affairs when you can not afford to support your own light alcohol problems .
+0.40 (you; can not afford; to support your own light alcohol problems)
+0.40 Context(you can not afford,List([26, 44))):(you; can not afford to support; your own light alcohol problems)
+
+Making mix-tapes ( compact discs ) is such a trial .
+0.93 (Making mix-tapes; is; such a trial)
+
+Though , I'm happy to do it .
+0.37 (I; 'm; happy to do it)
+0.27 (I; to do; it)
+
+Wouldn't be able to sleep for an hour , any how .
+
+' Nobody wants to get drunk and get loud , everybody just wants to go back home .
+0.70 (everybody; just wants; to go back home)
+0.75 Context(everybody just wants,List([43, 63))):(Nobody; wants; to get drunk and get loud)
+0.70 Context(everybody just wants,List([43, 63))):(everybody; just wants to go; back home)
+
+'  I like hugs .
+0.45 (I; like; hugs)
+
+And Sparklehorse .
+
+The thing I love about having sushi for dinner is that you always feel amazing the next day .
+0.45 (I; love; about having sushi for dinner)
+0.42 (The thing I love about having sushi for dinner; is; that you always feel amazing the next day)
+0.66 Context(The thing I love about having sushi for dinner is,List([0, 49))):(you; feel; amazing; T:the next day; T:always)
+
+You were a child crawling from yr knees from it .
+0.46 (You; were; a child crawling from yr knees from it)
+0.83 (a child; crawling; from yr knees; from it)
+
+Some of us drank way too much last night .
+0.72 (Some of us; drank; T:way too much last night)
+
+Some of us are really < PROPMALE > over right now .
+0.66 (Some of us; are really; PROPMALE; T:right now)
+
+Ow .
+
+I'm never , ever , ever , ever , ever , ever , ever , ever going to work again .
+0.19 (I; 'm never; )
+
+I am .
+0.24 (I; am; )
+
+So fucking bored .
+
+I am almost obliged to say that I hate days off .
+0.14 (I; am almost obliged; to say that I hate days off)
+0.10 (I; to say; that I hate days off)
+0.39 Context(I to say,List([0, 26))):(I; hate off; days)
+
+Counfound no-car situations !
+
+So , if I already have a head ache , is that normal ?
+0.55 (I; have; a head; T:already)
+
+I never used to be hungover .
+0.17 (I; to be hungover; )
+
+What a shit day .
+
+Why , oh , why can't I seem to ever sleep in the mornings any more ?
+0.45 (I; to sleep; T:in the mornings; T:any more; T:ever)
+
+I get no enjoyment being up at six o ' clock AM .
+0.68 (I; get; no enjoyment being up at six o ' clock AM)
+0.92 (no enjoyment; being; up; T:at six o ' clock AM)
+
+Since my boss is pretty much fucking me in the ass with shitty shifts , can't he just give me a Saturday off ?
+0.49 (my boss; is pretty much fucking; me; L:in the ass)
+
+Like , tomorrow ?
+
+I'm going to regret this , and I am VERY loathe to admit , but ... I think I need a haircut .
+0.20 (I; to regret; this)
+0.28 (I; am; VERY loathe to admit)
+0.17 (I; to admit; )
+0.32 (I; think; I need a haircut)
+0.40 Context(I think,List([67, 74))):(I; need; a haircut)
+
+Who knows how to cut hair ?
+
+Getting drunk and listening to I Am Not Afraid Of You and I Will Beat Your Ass is very , very , very fun .
+0.31 (I; Am Not; Afraid Of You)
+0.35 (I; Will Beat; Your Ass)
+0.39 (Getting drunk and listening; is; very , very , very fun)
+
+O , Hoboken !
+
+Nothing is doing when there's nothing to do .
+0.82 (Nothing; is doing; T:when there's nothing)
+0.71 (nothing; to do; )
+
+So , I think I'm going to watch all three Godfather movies .
+0.46 (I; to watch; all three Godfather movies)
+0.35 (I; think; I'm going to watch all three Godfather movies)
+
+The last time I heard about everyone having an island party , I was in Brooklyn .
+0.60 (I; heard; about everyone having an island party; T:The last time)
+0.89 (everyone; having; an island party)
+0.67 (I; was; in Brooklyn; T:The last time I heard about everyone having an island party)
+
+This time , I'm in Alabama .
+0.70 (I; 'm; in Alabama; T:This time)
+
+I'm going to make it to the next one if I have to hitch-hike .
+0.17 (I; to make; )
+0.41 (I; to hitch; -hike)
+
+All right .
+
+At least six more months of immense debt , no car , and a complete lack of intelectual stimulation .
+
+Then , MAYBE , I'll move back home .
+0.34 (I; 'll move; back home; T:Then)
+
+If any one besides < PROPMALE > cares .
+0.72 (any one besides < PROPMALE; > cares; )
+
+No offense , < PROPMALE > my .
+
+!?  There's a distinct possibility that this may become a long and painful next few weeks .
+0.38 (this; may become; a long and painful next few weeks)
+
+But , it's all for the best .
+0.28 (it; 's; all for the best)
+
+I'd imagine .
+0.19 (I; 'd imagine; )
+
+Right ?
+
+My Alabama friends are amazing .
+0.48 (My Alabama friends; are; amazing)
+
+' Nuff said .
+0.63 (Nuff; said; )
+
+I feel really betrayed .
+0.23 (I; feel; really betrayed)
+0.17 (I; really betrayed; )
+
+I don't like that .
+0.10 (I; do n't like; that)
+
+Oh , hey !
+
+Apparently , a six-pack of pseudo-tallboy PBR gets you drunk !
+
+Ugh , I'm such a lightweight .
+0.52 (I; 'm; such a lightweight)
+
+Featherweight , even .
+
+All of my friends are gone .
+0.39 (All of my friends; are gone; )
+
+All I can possibly afford is a six dollar pint of < PROPFIRST > < PROPMALE > .
+0.34 (All; can possibly afford; I)
+0.76 (All I can possibly afford; is; a six dollar pint of < PROPFIRST)
+
+Sad life , the one i lead .
+0.88 (the one; lead; i)
+
+Why does every one in St. < PROPFIRST > seem to think it's so easy to just pick up yourself and everything you own , walk it down to Florida , conjure a place to live out of nothing , find a job , and live like a god damn teenager ?
+0.90 (everything; own; you)
+
+Stop fucking telling me to move back .
+0.23 (me; to move; back)
+
+I had my < PROPMALE > , it's not going to happen .
+0.17 (it; to happen; )
+0.36 (I; had; my < PROPMALE)
+
+I woke up really early , moved a fuckton of furniture , then went to work .
+0.23 (I; woke up; T:really early)
+0.41 (I; moved; a fuckton of furniture)
+
+I'm exhausted .
+0.28 (I; 'm; exhausted)
+
+So , then , why am I still awake ?
+
+I'm not actually doing anything .
+0.45 (I; 'm not actually doing; anything)
+
+Drunken absolution .
+
+I am one hundred percent redeemed .
+0.52 (I; am; one hundred percent redeemed)
+0.17 (I; redeemed; )
+
+As such , may the future burn alight .
+
+Work all day , keep your rhythm through the night .
+
+\  \  Oh , and House is addictive .
+0.84 (House; is; addictive)
+
+I win .
+0.24 (I; win; )
+
+The government has what they need .
+0.84 (The government; has; what they need)
+0.27 Context(The government has,List([0, 18))):(they; need; )
+
+All I have to do is give Shoe five hundred dollars and rid myself of the useless hunk of rusted metal that destroyed my finances , and then I'll have a clean slate .
+0.86 (the useless hunk of rusted metal; destroyed; my finances)
+0.30 (All; to do; I)
+0.60 (I; 'll have; a clean slate; T:then)
+0.76 (All I have to do; is; give Shoe five hundred dollars)
+
+I really miss those days when I felt like I had a reason to wake up in the morning .
+0.14 (I; really miss; those days when I felt)
+0.28 (I; felt; like I had a reason; T:those days)
+0.52 (I; had; a reason to wake up in the morning)
+
+So .
+
+On my way to work there's this huge storm , right ?
+
+It's raining to the no-visibility-point all of the way until a mile from work .
+
+The clouds are heading straight for the store .
+0.90 (The clouds; are heading; straight; for the store)
+
+The second they get there , they disperse .
+0.27 (they; disperse; )
+0.37 Context(they disperse,List([28, 41))):(they; get; there)
+
+What the fuck .
+
+Show of hands if you like to fuck things up .
+0.56 (you; like; to fuck things up)
+0.55 Context(you like,List([17, 25))):(you; like to fuck up; things)
+
+To-day is going to be ... interesting .
+
+The riceboy sleeps ...  I wrote .
+0.87 (The riceboy sleeps; wrote; I)
+0.69 Context(The riceboy sleeps wrote,List([0, 31))):(The riceboy; sleeps; )
+
+Evidently , it is not currently possible to adjust the truss < PROPMALE > in my guitar .
+
+Why ?
+
+Because there is no truss nut .
+
+Drum set , I fucking miss you .
+0.70 (Drum; set; )
+0.31 (I; fucking; miss you)
+
+I wish I never started smoking ...  I need some whiskey and some headphones that work .
+0.75 (some headphones; work; )
+0.42 (I; wish; I never started smoking ...  I need some whiskey and some headphones)
+0.26 Context(I wish,List([0, 6))):(I; never started; smoking ...  I need some whiskey and some headphones)
+0.22 Context(I wish I never started,List([0, 22))):(I; never started smoking; I need some whiskey and some headphones)
+0.39 Context(I wish I never started smoking,List([0, 30))):(I; need; some whiskey and some headphones)
+
+Stat .
+
+I have decided at the last minute that it is officially Malt Liquor Day .
+0.13 (I; have decided; T:at the last minute; that it is officially Malt Liquor Day)
+0.23 Context(I have decided,List([0, 14))):(it; is; officially)
+
+For me .
+
+Walkin ' shoes , here I come .
+0.69 (Walkin ' shoes; here come; )
+
+Mm ... cheap cab .
+
+If only I was lying in a bar with my drip feed on ...  Mm ... cheap merlot .
+
+Wait .
+
+What !? I am NOT drinking any fucking merlot !
+0.45 (I; am NOT drinking; any fucking merlot)
+
+Thankyou , < PROPFIRST > .
+
+Great , I'm stuck at this horrible place for two hours .
+0.52 (I; 'm; stuck at this horrible place for two hours)
+
+All because my current shift is a stuck-up bitch .
+0.72 (my current shift; is; a stuck-up bitch)
+
+From noir to cab , all levels of wino(-ism ) are to-night to be experienced .
+0.91 (all levels of wino; are; to-night to be experienced)
+0.74 (all levels of wino; to be experienced; )
+
+Blood Brothers assist in ways < PROPFEMALE > known to me previous .
+0.90 (Blood Brothers; assist; in ways)
+0.79 (ways; known previous; to me)
+
+Damn , I miss those crazy fuckers .
+0.29 (I; miss; those crazy fuckers)
+
+Thank < PROPFIRST > < PROPMALE > that I've the day off to-morrow .
+
+Drunk .... by myself , as usual .
+
+However , this time I lost a contact lens .
+0.66 (I; lost; a contact lens; T:this time)
+
+And , I folded my whites in the meantime .
+0.31 (I; folded; my whites; L:in the meantime)
+
+Fresh .
+
+RAGE .
+
+Soon , I shall be quit of this madness .
+0.30 (I; shall be quit; T:Soon)
+
+Well .
+
+It's about fucking time .
+0.52 (It; 's; about fucking time)
+
+All I have to do is survive ' til it's time .
+0.30 (All; to do; I)
+0.63 (All I have to do; is; survive ' til it's time)
+0.52 (it; 's; time)
+
+Don't you love it when you can not save your hometown on facebook , ' cos the damn thing doesn't recognise Rhinebeck as a place ?
+0.46 (you; can not save; your hometown; on facebook)
+
+O ! thank the Lord for High Plains Drifter .
+
+The next two weeks do not exi(s)t .
+0.90 (The next two weeks; do not exi; t)
+
+Does anyone ever get angry at how plane tickets can skyrocket from $139 to $280 in just a couple of days ?
+0.94 (plane tickets; can skyrocket; from $139 to $280 in just a couple of days)
+
+\  Yes , that's right .
+0.07 (that; 's; right)
+
+Looks like I'm taking a Greyhound all of the way to New York .
+0.50 (I; 'm taking; a Greyhound)
+
+Fuck .
+
+To-night , it is Hennessy and Astronautalis .
+0.57 (it; is; Hennessy and Astronautalis)
+
+Haven't listened to him in ages .
+
+Throwback .
+
+\  Oh , and\  ugh .
+
+Hennessy , really ?
+
+At least it's VERY SPECIAL cognac .
+
+DRUNK .
+
+ThIS TIME , I DO SweaR .
+0.70 (I; DO; SweaR; T:ThIS TIME)
+
+REALLY .
+
+I KNOW you all know .
+0.32 (I; KNOW; you all know)
+0.30 Context(I KNOW,List([0, 6))):(you; know; )
+
+Flight to New York at 11:38 am on August 24th .
+
+Then , it is adios to Alafuckingbama .
+0.70 (it; is; adios to Alafuckingbama; T:Then)
+
+How did I show up at a place brimming with yuppies , have a glass of Scotch and ten beers , and converse with law school students for the better part of a night ?
+0.90 (a place; brimming; with yuppies)
+0.46 (I; have; a glass of Scotch and ten beers)
+
+\  Luck .
+
+I absolutely love those reminders that I am NOT the biggest fuck-up that I know .
+0.21 (I; absolutely love; those reminders that I am NOT the biggest fuck-up that I know)
+0.45 (I; am NOT; the biggest fuck-up)
+0.82 (those reminders that I am NOT the biggest fuck-up; know; I)
+
+\  Ah .
+
+La famiglia !
+
+Day off = beer and super nintendo .
+
+\  Also known as : happiness .
+
+Raise yr glass to the arrival of old friends and the departure of me .
+
+I do so wish I could get trashed in the middle of a river somewhere in a state that I know nothing about .
+0.60 (I; get; trashed in the middle of a river somewhere in a state)
+0.36 (I; do so wish; I could get trashed in the middle of a river somewhere in a state)
+0.51 Context(I do so wish,List([0, 12))):(I; could get trashed; T:in the middle of a river somewhere in a state)
+0.47 Context(I do so wish,List([0, 12))):(I; know; nothing)
+
+\  Oh , wait .
+
+I did .
+0.24 (I; did; )
+
+\  Wish it didn't have to end ... thankyou to all of those involved .
+0.17 (it; to end; thankyou; to all of those)
+0.08 (those; involved; )
+
+Thanks for the memories ... \  God , I hate that song .
+0.23 (I; hate; that song)
+
+\  But , seriously .
+
+Fond farewell to the Alabama kids .
+
+To all New Yorkers , I apologise : you just got a fistful of drunk Eamon .
+0.26 (I; apologise; you just got a fistful of drunk Eamon)
+0.60 Context(I apologise,List([21, 32))):(you; just got; a fistful of drunk Eamon)
+
+Fury .
+
+' Nuff said .
+0.63 (Nuff; said; )
+
+I've never been so happy .
+0.23 (I; 've never been; so happy)
+
+I have my AtD-i collection back !
+0.34 (I; have back; my AtD-i collection)
+
+It is a wondrous day/night .
+0.52 (It; is; a wondrous day/night)
+
+Tomorrow , it's off to my actual hometown .
+0.51 (it; 's; off to my actual hometown; T:Tomorrow)
+
+I went there once in twenty years , and only for about an hour .
+0.52 (I; went; there; T:once; T:in twenty years; T:only for about an hour)
+
+\  Awkward .
+
+Yay .
+
+I get to go kayaking again .
+0.41 (I; to go; kayaking; T:again)
+
+It just won't be the same , though .
+0.22 (It; just wo n't be though; the same)
+
+\  Also , it's twenty degrees colder than two weeks ago .
+0.52 (it; 's; twenty degrees colder than two weeks ago)
+
+Shit .
+
+Can you dig it ?
+
+I can dig it .
+0.31 (I; can dig; it)
+
+\  As such , it shall be dug .
+0.19 (it; shall be dug; )
+
+\  Oh .
+
+Hangover .
+
+Y ' been had .
+0.59 (Y; been had; )
+
+Hoodwinked .
+
+Bamboozled .
+
+\  I'm sure you get it by now .
+0.37 (I; 'm; sure you get it by now)
+0.54 (you; get; it; T:by now)
+
+My phone will work again one of these days .
+0.38 (My phone; will work; T:again)
+
+\  I promise .
+0.19 (I; promise; )
+
+Stuck at my father's house for the day .
+
+Well , at least I finally get to take a shower .
+0.41 (I; to take; a shower)
+
+\  Which is a good thing for all humankind .
+0.50 (Which; is a good thing for; all humankind)
+
+Wow .
+
+Band practice .
+
+Crazy .
+
+Don't you love it when the bank tells you that you have thirtysomething dollars , and then you check your account online and it says you have six ?
+0.35 (you; check online; T:then)
+0.65 (the bank; tells; you; that you have thirtysomething dollars)
+0.55 Context(the bank tells,List([23, 37))):(you; have; thirtysomething dollars)
+0.26 (it; says; you have six)
+0.31 Context(it says,List([125, 132))):(you; have; six)
+
+\  Proper fucked , I am .
+0.24 (I; am; )
+
+Well .
+
+Start work to-morrow at 9:30 am .
+
+Wish me luck .
+
+You know , it isn't always a good idea to chug vodka and red bull when you're so tired you are about to pass out .
+0.38 (You; know; )
+0.28 (you; to pass out; )
+0.52 (it; is n't; T:always; a good idea to chug vodka and red bull)
+0.54 (you; 're; so tired you are about to pass out)
+0.36 (you; are; about to pass out)
+
+I love me some Manatee .
+0.31 (I; love; me)
+
+Mm ... tasty ...  Band practice , again .
+
+Evidently , I'm good at harmonica .
+0.57 (I; 'm; good at harmonica)
+
+\  A little .
+
+I think the party I went to last night might have crushed my will to live .
+0.52 (I; went; to last night)
+0.43 (I; think; the party I went to last night might have crushed my will)
+0.55 Context(I think,List([0, 7))):(the party I went to last night; might have crushed; my will to live)
+
+\  It was that bad .
+0.12 (It; was; that bad)
+
+Going downtown to wander aimlessly .
+0.73 (Going downtown; to wander aimlessly; )
+
+\  Again .
+
+\  Ring me up if anybody's getting into things to-night .
+0.90 (anybody's; getting; into things; T:to-night)
+
+Back to the grind .
+
+To all of those expecting to see me at Rendesvous to-night :\  I shall not be present .
+0.60 (I; shall not be; present; T:to-night)
+0.14 (those; expecting; to see me at Rendesvous)
+0.14 Context(those expecting,List([10, 25))):(those; expecting to see; me; L:at Rendesvous)
+
+I'm sure you'll all live .
+0.37 (I; 'm; sure you'll all live)
+0.32 (you; 'll all live; )
+
+So , evidently the answer to the battlefield of love is to adopt a dog .
+
+\  But , naw ; seriously .
+
+Alfie is an amazing movie .
+0.94 (Alfie; is; an amazing movie)
+
+Like High Fidelity from the sixties , and on douche bag pills .
+
+All right .
+
+Slept for eleven hours and woke up to fix my bike .
+
+\  A healthy bicycle is a happy bicycle .
+0.93 (A healthy bicycle; is; a happy bicycle)
+
+\  Now , to find somebody to < PROPFEMALE > me a lock so I can ride it to < PROPFEMALE > Fest .
+0.35 (I; can ride; it; to < PROPFEMALE > Fest)
+
+Let every one know that it's a damn shame when one has no internet .
+0.68 (one; has; no internet)
+
+\  ' Nuff said .
+0.68 (\  ' Nuff; said; )
+
+To all who wished me a happy birthday a week ago ... all thirty-five of you , I say this :\  THANKYOU .
+0.22 (all; wished ago; me; a happy birthday)
+0.50 (I; say; this; THANKYOU)
+
+\  I only wish some random decent soul had bought me the internet for my birthday .
+0.36 (I; only wish; some random decent soul had bought me the internet for my birthday)
+0.83 Context(I only wish,List([3, 14))):(some random decent soul; had bought; me; the internet for my birthday)
+
+Yes , the entire internet .
+
+Anything but Saturday ...  Who throws a mug ?
+0.93 (Saturday; throws; a mug)
+
+Honestly .
+
+So .
+
+Both Tron and True Grit are all right movies .
+0.94 (Both Tron and True Grit; are; all right movies)
+
+\  By all right , of course , I mean fucking awesome .
+0.23 (I; mean; fucking awesome)
+
+I ... miss my Alabama friends .
+0.38 (I; miss; my Alabama friends)
+
+Significantly .
+
+May they all be doing well .
+
+Ugh .
+
+A lot of people are going to be angry with me to-day .
+0.84 (A lot of people; to be; angry with me; T:to-day)
+
+\  Thems the bends , I guess .
+0.19 (I; guess; )
+
+Mixing gin , whiskey , and Harp with late nights is always a good idea .
+0.97 (Mixing gin , whiskey , and Harp with late nights; is; T:always; a good idea)
+
+Waking up for the following day is not .
+0.80 (Waking up for the following day; is not; )
+
+Ah , a glass of Jameson and some green tea with < PROPFEMALE > in it is a beautiful way to start the day .
+0.96 (a glass of Jameson and some green tea with; is; a beautiful way to start the day; L:in it)
+
+Tax returns came in !
+0.77 (Tax returns; came; in)
+
+\  Good thing , ' cos I have somehow managed to go out and live like a mad man every fucking night this week .
+0.50 (I; have somehow managed; to go out and live like a mad man every fucking night this week)
+0.18 Context(I have somehow managed,List([22, 44))):(I; have somehow managed to go; out)
+0.26 Context(I have somehow managed,List([22, 44))):(I; have somehow managed to live; T:every fucking night; T:this week)
+
+Oh , and < PROPMALE > of Limbs , motherfuckers !
+
+Check radiohead.com
+
+for the good deal , if any one has not yet .
+
+Still no sleep .
+
+I fucking hate children .
+0.45 (I; fucking; hate children)
+
+How one can do something , regardless of the feelings of others , is beyond me .
+0.62 (one; can do; something)
+0.41 (How one can do something; regardless is; beyond me)
+
+May they all fucking choke .
+
+Ah , whisky drunk and malediction !
+
+How entertaining .
+
+Oh , life is grand .
+0.80 (life; is; grand)
+
+Well , kind of .
+
+A little .
+
+Beach !
+
+Finally .
+
+When I die , won't you bury me in my high-top Stetson hat ?
+0.19 (I; die; )
+
+I woke up with a small gash on my shoulder and a couple of random cuts on my arm .
+0.19 (I; woke up; )
+
+I was completely sober when I got home in the early morning , and I still could not tell you how the fuck that happened .
+0.37 (I; was; completely sober; T:when I got home in the early morning)
+0.52 (I; got; home; T:in the early morning)
+0.20 (I; could not tell; you; how the fuck that happened; T:still)
+0.72 (how the fuck; happened; )
+
+Am I sleepwalk knife-fighting ?
+
+These motherfuckers better stop deciding that they want fish and chips right before we are about to close the kitchen .
+0.41 (we; to close; the kitchen)
+0.59 (These motherfuckers; better stop; deciding that they want fish and chips)
+0.70 Context(These motherfuckers better stop,List([0, 31))):(These motherfuckers; better stop deciding; that they want fish and chips right before we are about to close the kitchen)
+0.62 Context(These motherfuckers better stop deciding,List([0, 40))):(they; want; fish and chips)
+
+On a slow day .
+
+All right !
+
+Two jobs now .
+
+Goodbye free time , hello capital .
+
+Here's to whisky and weakness .
+0.61 (Here; 's; to whisky and weakness)
+
+Cheers .
+
+Hell of a day .
+
+I love it .
+0.31 (I; love; it)
+
+Someone , just ....
+
+All right , seriously .
+
+You can have my job for one day .
+0.46 (You; can have; my job; T:for one day)
+
+Any one .
+
+Please .
+
+I had a dream last night that i was at Rendezvous .
+0.21 (I; had; a dream; T:last night that i was at Rendezvous)
+0.70 (i; was; at Rendezvous; T:last night)
+
+it was completely empty .
+0.28 (it; was; completely empty)
+
+Not even Amadeus , < PROPMALE > , or < PROPMALE > were there to tend bar .
+0.85 (< PROPMALE; were; there; to tend bar)
+0.85 (< PROPMALE; to tend; bar)
+
+I woke up in a sweat .
+0.45 (I; woke up; T:in a sweat)
+
+\  Ha !
+
+I would sacrifice the left arm of every one I know for an Ibuprofen delivery service right now .
+0.42 (I; would sacrifice; the left arm of every one I know for an Ibuprofen delivery service; T:right now)
+0.91 (every one; know; I)
+
+No offense , guys .
+
+I actually fell asleep as early as 12:30 last night .
+0.45 (I; actually fell; asleep; T:as early as 12:30; T:last night)
+
+Almost eight full hours of sleep .
+
+Go me .
+
+Why am I going out to-night ?
+
+I am about to die .
+0.28 (I; am; about to die)
+0.17 (I; to die; )
+

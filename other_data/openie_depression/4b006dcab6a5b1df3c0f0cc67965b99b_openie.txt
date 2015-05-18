@@ -1,0 +1,86 @@
+I am going to wash Oakey so he is clean for his big show tomorrow !
+0.46 (I; to wash; Oakey)
+
+I will end up the smelly one !
+
+hey you 2 see ya soon !
+0.42 (you; see; ya; T:soon)
+
+no shows this weekend .
+
+NY next weekend !
+
+Aiden looks adorable .
+0.80 (Aiden; looks; adorable)
+
+Headed to work !
+
+I hate night work !
+0.45 (I; hate; night work)
+
+Getting ready to go to Cirque De Soliel in Phila .
+
+Rained out at work .
+
+Now have to do tons of paperwork no excuse .
+
+< PROPFEMALE > , < PROPFEMALE > Christmas everyone !
+
+plain old Black !
+
+I actually do read each one of my posts ... Never doubt that I care for you greatly .
+0.26 (I; actually do read; each one of my posts)
+0.08 Context(I actually do read,List([0, 18))):(I; actually do read each one of my posts Never doubt; that I care for you greatly)
+0.25 Context(I actually do read Never doubt,List([0, 55))):(I; care greatly; for you)
+
+I am not only glad to count you as family , but also glad to count you as friend ....
+0.49 (I; am; not only glad to count you as family , but also glad to count you as friend)
+0.27 (I; to count; you)
+0.27 (I; to count; you)
+
+I care for all of you !!! Let's see who in my Friend's List actually pays attention .
+
+Copy and repost this in your own bulletin .
+
+Lets see who the true friends are  Oakey got a < PROPMALE > today at New Brunswick !
+0.93 (Oakey; got; a < PROPMALE >; T:today)
+
+Thanks < PROPMALE > you did a great job .!  Happy Mothers Day !
+0.72 (you; did; a great job; T:Happy Mothers Day)
+
+The road sign says closed and people still drive around the sign and than get mad when they have to turn around because of the trench across the closed road .
+0.94 (The road sign; says; closed and people still drive around the sign and than get mad)
+0.58 (they; to turn; around; because of the trench across the closed road)
+0.72 (The road sign; closed; )
+0.93 (people; drive; L:around the sign; T:still)
+
+I work in a place  people in Millville think the road closed sign is for someone other than themselves !
+0.93 (people in Millville; think; the road closed sign is for someone other than themselves)
+0.47 Context(people in Millville think,List([19, 44))):(I; work; L:in a place)
+0.87 Context(people in Millville think,List([19, 44))):(the road closed sign; is; for someone other than themselves)
+
+Woo-Hoo < PROPFEMALE > got a Best of Breed today at the shows in NY .
+0.92 (Woo-Hoo < PROPFEMALE; got; a Best of Breed; T:today; L:at the shows in NY)
+
+Congrats Paula , John & < PROPFEMALE > .
+
+Oakey Finished today with a 5 point < PROPMALE > at the GDC of < PROPFEMALE > .
+
+Speciality !
+
+Thanks to < PROPMALE > Urban for a wonderful job handling Oakey and thanks to all my friends for sharing this really special win with me !
+
+76 degrees no rain or snow .
+
+I think I could spend the winter here !
+0.32 (I; think; I could spend the winter here)
+0.40 Context(I think,List([0, 7))):(I; could spend; the winter; L:here)
+
+waiting for flight home .
+
+miss my babies .
+
+Merrry Christmas Everybody !
+
+Happy Birthday < PROPFEMALE > < PROPFEMALE > !
+

@@ -1,0 +1,64 @@
+Hoping GWU classes won't conflict with my vacation ... 
+
+Happy New Years , everyone ! 
+Most of Saturday spent working in freezing server room = well deserved night of relaxing and Long Islands ! 
+Will to study and do homework fading ... 
+It's 6:30 and the sun's still up ... This definitely does not feel normal 
+WTF ? It's hailing here in < PROPMALE > Beach ... in APRIL ... No wait , the fact that it's hailing less than 2 < PROPMALE > from the beach is bad enough 
+Now officially done with 25% of classes . That sounds so much better than saying there are two years left ... So yah , 1/4 of the way done ! W00t ! 
+Dead video card = frustration of currently having a useless 42\ monitor + satisfaction of finally having a legitimate reason to upgrade system " 
+Happy 4th of July , all ! 
+To all the techies out there : If you didn't already know , CompTIA A+ , Network+ , and Security+ certs obtained after < PROPFIRST > . 1 , 2011 will need to be renewed every 3 years . Don't know about you , but getting these credentials \certified for life\ " is incentive enough to take the exams ... NOW ! :: studying review material :: Good luck all ! " 
+\ ... Assemblyman < PROPMALE > Mortenson ... is working on a resolution for the 2011 legislative session to make the ' Ne-VAH-da'\ 
+Drink of choice in hand , check ... Gladiator playing in background , check ... Midterm on a Friday night , :: sigh :: check . Happy start to the weekend , all . Cheers ! 
+Dividing time between work , school , and self study for certs is definitely not working as I had hoped ... Taking time off next week to get first cert out of the way . It will be done , then the next , and then the last . Period . 
+Won $75 on 2 scratchers this morning , which paid for my green fee in the company golf tournament , our team came out 1 under par , and just had Hawaiian food for dinner . Great start to the weekend ! 
+Discovered that without my jacket , I lose my ability to hide in plain sight in the office . Either that or Murphy thought it'd be funny for me to bump into every manager in the hallway today while I'm wearing shorts and sandals ... Today was supposed to have been a vacation day ! 
+Just tried to take a study break by watching the news ... Bad idea , now my head hurts . Back to meaningful study ... It hurts less . 
+Heh I'm getting old ... Can't read 200 pages without feeling tired . Or maybe it's just the bland subject matter ? Yeah , yeah I'll go with that :) 
+OK , gonna throw out a question for anyone to answer : If you had a choice to live in either Alabama , Arizona , California , Colorado , Utah , or < PROPFEMALE > , which state would you choose and why ( e.g. - cost of living , weather , culture , people , etc . ) ? Specifying an area of the state or even a city would be great ! 
+FAIL ... 4 questions away from finishing my final and my laptop with all my class notes decides to have an aneurysm . I'll deal with you in the morning you piece of junk -_- 
+do {\ 
+\ 
+wake_up_every_hour (); \ 
+hours_til_exam -- ;\ 
+wake_count++ ;\ 
+if(wake_count > = 7)\ 
+{\ 
+sanity = FaLSE ;\ 
+}\ 
+}\ 
+while ( hours_til_exam > 2 && sanity = = TRUE ) 
+Woohoo ! Passed both certification tests ! Time for much needed sleep . G'night . 
+Study ... Focus ... Study ... Focus ... Study ... Facebook ... Grrr , stupid attention span ... 
+Awwww yeeeeaaaaah ! Officially Network+ certified ! Two down , one to go . Down-time very much needed until the next test . Errr , given this week's schedule , I'll just imagine I have time to relax ... Meh . 
+Thank you very much , everyone , for all of the birthday messages ! Played it low key this year and kept things simple . Had a nice dinner , watched a movie , and kept the text books closed for the evening . It felt great ! :) 
+is trying to scrape his very last shreds of willpower to get through one last night of studying ... No more tests until 2011 after tomorrow ! 
+Got my TRIFECTA ! A+ , Network+ , AND Security+ certs all in less than a month ! BOOYAH ! Long Island in one hand , a tour book in the other , and my favorite < PROPMALE > Brubeck record playing in the background . Wow , it feels great to finally relax ! 
+Contemplating the paradox of introspection ... Only after looking at how far you've come do you only really begin to grasp how far you have left to go . 
+Going to the office on a Saturday ... What am I thinking ?... Oh yeah , \I miss my relaxing weekends . \"" 
+Bahhh daylight savings time ... Is it 11 o'clock yet ? I'd like to finish this textbook already ... 
+I am the MASTER of complication , and I love what I do ! 
+Happy Thanksgiving , everyone ! 
+Spent all weekend cooking for a chili-cook-off this week . Made 1 ) A spicy beef brisket/pork sausage chili , 2 ) a < PROPFEMALE > lime chicken chili ( tastes more like a spicy minestrone soup ) , and 3 ) my mango curry chicken chili . Haven't really eaten any yet ; just sample tastes . Test meal with friends tonight ! Is it dinner yet ??? 
+Ohhh yeah , had a throw-down challenge today at work for new chili ! I'm making my newest concoction tonight : Angry Drunken Sailor Chili ! Grabbed the hottest peppers I could find at the grocery store ( I'm not saying which ) . I'll only admit to only one other ingredient : an ENTIRE bottle of 92 proof Sailor < PROPFIRST > Spiced Rum ! Mwahahaha !!! 
+No more chili ; no more kitchen . Seriously , after 5 days of cooking , I'm ordering out from now through the weekend ! Chinese sounds so good right now . 
+Ughhhh , interview today ... Too nervous to sleep ... This'll be interesting today -_- 
+We don't finish our current class until tomorrow . BUT , we already have a new class and a new professor lined up ... along with his THIRTEEN < PROPFEMALE > syllabus and a paper due the first week of January ... FAIL !!! 
+Made latkes to share with those few people left in the office today . Mmmmm potato goodness ! 
+< PROPFEMALE > Christmas to one and all ! :) 
+Facebook , why have you taken a hacksaw to my profile ? 
+Short nap after work turned into 4 hrs of sleep XD It's almost 10 and I'm wide awake ... What to do ? 
+Clean apartment = check ! Wash clothes = check ! Take broken iPod out of jacket that went through wash = What ?! Awwwwww :( 
+Woooo ! iPod came back to life ! Go little iPod ! Go ! 
+I have discovered my public speaking Kryptonite ... A camera . Apparently , this simple handheld device has the ability to push my brain into random word association mode . \ 
+Me : \This procurement methodology carries great savings p ... \ " \ 
+New goal : After tomorrow's test , I'm going to pick up something new , like learn an instrument or read a new book . It'll be something totally unrelated to work , school , or tech skills . Something related to that foreign concept I seem to have forgotten ... What was it called again ? Oh yeah ... ' fun ' 
+Okay , any Central Coast drivers who happen to hover at 35 mph for 1/4 mile after entering the freeway : Give up your driver's licenses and stay away from the wheel of any car ! There's a nice line of people behind you who'd be happy to ' assist ' you with this . 
+Days like today , I hate my phone . I get a very important voicemail , and it sounds like the person is talking through a wet sock . I miss all the critical details and now have to wait to somewhere between 1 a.m. and 4 a.m. to talk with someone overseas ... Droid , you're looking like a better choice each day . 
+A cross burning less than 4 < PROPMALE > from my apartment ... In Arroyo Grande ? Really ?!? Bigoted and xenophobic are definitely NOT adjectives that come to mind when I think of people on the Central Coast . What the hell is happening to my college home ?... 
+2 ) I had a lengthy conversation with the announcer for the hula group , an amicable older gentleman . This friendly , soft-spoken man happened to be a retired General Dynamics Electrical Engineer . He's worked on NASA's Mercury program for first-manned space flight ( and met < PROPFIRST > < PROPFIRST > ) , designed systems for the Air Force's F-111 , and helped develop the precursors to modern guidance and tracking systems for ICBMs ! 
+1 ) A performing hula group was kind enough to invite me to sit at their table . < PROPFEMALE > and Chardel - If you're reading this , their performance reminded me of what you both did for my high school graduation . To this day , I'm very thankful for the love and soul that you put into your dancing . I'll never forget your special gift ! It was nostalgic , since this was the first actual hula I've seen in about 10 years . 
+Just got back from a dinner/fund raiser event that a co-worker invited me too . I honestly wasn't expecting much , but I was pleasantly surprised by two things : 
+In any business setting , if someone has a good idea , does it REALLY matter who it came from ? I don't care if it's the CEO or the part time janitor ; a good idea is still a GOOD IDEA . Period . 
+Go away migraine ... You've tormented me enough for one day ... Bleaaaarggghhh ... 

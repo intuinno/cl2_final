@@ -1,0 +1,587 @@
+so basically ... im a SENIOR !
+
+:] 
+
+on these days i miss him the most .
+0.62 (i; miss; the most; T:on these days)
+
+RIP daddy 12/9/06 <3 i miss you .
+0.37 (i; miss; you)
+
+hmmm i dont like house \shopping\ " :/ "  i really dont know anymore .
+0.18 (i; really do nt know; T:anymore)
+0.20 Context(i really do nt know,List([42, 60))):(i; do nt; )
+
+i dont think its worth my time :/  im actaully kinda sad < PROPFIRST > < PROPMALE > died :/ < PROPFEMALE > and i are going to tribute to him once she gets home .
+0.31 (i; do nt think; its worth my time)
+0.72 (PROPFIRST > < PROPMALE >; died; )
+0.27 (i; to tribute; to him; T:once she gets home)
+0.28 (she; gets; home)
+
+:] hehehe  wow today just makes everything seem ok :]  wow wow wow .
+
+now this is the start to something amazing !  last night the american idol concert was amazing !
+0.45 (this; is; the start to something amazing)
+0.96 (the american idol concert; was; amazing; T:last night)
+
+< PROPFIRST > and < PROPFEMALE > and the best people ever :]]  i got my hair cut :] im super happy .
+0.32 (i; got; my hair cut)
+0.35 Context(i got,List([63, 68))):(my hair; cut; )
+
+go check out the new picture ?
+
+please :] and shoot me a text .
+
+im in a postive mood .
+
+things are pretty amazing :] lets hope they can continue improving !
+0.28 (they; improving; )
+
+starts work at the fair today .
+
+come visit me at pizza by the slice :] i work from 8 am till lets say 3 ish ?
+
+or just text me 360.608.8116
+
+ugh !
+
+i hate < PROPMALE>'s website .
+0.45 (i; hate; PROPMALE>'s website)
+
+and idkif i was even able to register for the stupid classes .
+0.60 (i; was even; able to register for the stupid classes; T:idkif)
+0.41 (i; to register; for the stupid classes)
+
+im pissed .
+
+LUAU TONIGHT :] hope to see you there !
+
+text me if you need info :]  luau was great :] thanks everyone for showing up !
+0.62 (you; need; info :]  luau was great)
+0.80 (luau; was; great)
+
+all day debate in gresham .
+
+text me .
+
+2ND PLACE IN NOVICE POLICY DEBATE !
+
+:] today was amazing .
+
+SENIOR PICTURES are up please comment :] i cant choose which one :]  SENIOR PICTURES are up please comment :] i cant choose which one :] this is the guy who did them : www.shawnstpeter.com
+0.85 (the guy; did; them)
+0.35 (i; ca nt choose; SENIOR PICTURES are up please comment)
+0.57 Context(i ca nt choose,List([41, 54))):(SENIOR PICTURES; are; up)
+0.57 Context(i ca nt choose,List([41, 54))):(SENIOR PICTURES; are; up)
+0.39 Context(i ca nt choose,List([41, 54))):(i; ca nt choose; which one)
+0.25 Context(i ca nt choose,List([41, 54))):(this; is; the guy who did them)
+
+hey i lost every single number in my phone so please please please text me so i can get them back :[ 360.608.8116
+0.49 (i; lost; every single number; L:in my phone; so please please please text me so i can get them back :[ 360.608.8116)
+0.30 (i; can get back; them)
+
+leaving for washington dc in lets see less then 48 hours !
+0.91 (leaving for washington dc in; let; s see less then 48 hours)
+0.35 Context(leaving for washington dc in let,List([0, 32))):(s; see; then 48 hours)
+
+scary .
+
+:] debate this weekend was so much fun .
+0.93 (debate this weekend; was; so much fun)
+
+met some amazing people !  is loving not having to go to school !
+
+:] i miss lockwood :/  its my 18th birthday !
+0.27 (i; miss lockwood; its my 18th birthday)
+0.17 (i; lockwood; )
+
+:] im so excited !
+
+ahh geez .
+
+:]  PRAIRIE GIRLS BOWLING 1ST AT DISTRICTS !
+
+ALL 5 OF US IN TOP 20 .
+
+HERE WE COEM STATE !
+
+:]]  Prairie girls bowling got 3rd at state !
+0.79 (Prairie girls; bowling; )
+0.93 (Prairie girls; got; 3rd; L:at state)
+
+:] go us !! and Red < PROPFIRST > is absolutly amazing ahhh for the love of red < PROPFIRST > and their lack of policies :] !
+0.70 (PROPFIRST; is; absolutly)
+0.39 (Red < PROPFIRST >; is absolutly amazing ahhh for; the love)
+
+GOING TO STATE IN ORAL INTERPRETATION .
+
+DUAL INTERPRETATION .
+
+AND PUBLIC FORUM :] along with the rest of the team making it in thier events !
+
+:] we did amazing im super excited  3RD IN STATE FOR DUAL INTERPRETATION !!!! :]]]]] i love you < PROPFEMALE > !!!! Debate is next weekend .
+0.90 (Debate; is; next weekend)
+0.26 Context(Debate is,List([116, 125))):(i; love; you)
+
+Recital today :] at 3 !
+
+be there ?
+
+If you want information let me know .
+0.68 (you; want; information)
+
+thanks !
+
+Mother Daughter tea was fun :] i love my mommy !
+0.84 (Mother Daughter tea; was; fun)
+0.26 Context(Mother Daughter tea was,List([0, 23))):(i; love; my mommy)
+
+wow .
+
+things cant get any better .
+0.23 (things; ca nt get; any better)
+
+ugh fml :/  Last day of high school ever :]  Selling Fireworks allllll dayy every dayy thsi week :] come bye and visit ?
+
+buy some ?
+
+corner of 63rd and Andresen in the Safeway parking lot !
+
+:] or at least shoot me a text !
+
+Tattoo in a couple hours !
+
+:] super exciteddddd :] !!!!!  New phone :) fantastic  Started work yesterday :-] toys r us in < PROPFEMALE > well opens Thursday !
+0.89 (toys; r; us; T:yesterday)
+0.82 Context(toys r,List([82, 88))):(PROPFEMALE; well opens; T:Thursday)
+
+Spent two nights in the er in the last 4 days .
+
+Finally found the problem .
+
+Please keep me in your prayers .
+
+I could use it :]  I just need a break from everything I think .
+0.31 (I; could use; it)
+0.45 (I; just need; a break from everything)
+0.90 (everything; think; I)
+
+:/ Nothing makes sense anymore .
+0.89 (Nothing; makes; sense; T:anymore)
+
+In support or memory of every cancer patient , family member , and friend who continue to conquer cancer or has lost their battle .
+
+Put this up for 1-hour if you know someone who has or had cancer .
+0.68 (you; know; someone who has)
+0.74 (someone; has; )
+
+Many won't copy and paste .
+0.26 (Many; wo n't copy; )
+0.23 (Many; paste; )
+
+I did .
+0.24 (I; did; )
+
+Will you ?
+
+Love to those who are in the fight , < PROPFEMALE > in there  did not start my day off well at all :/ hit my head super hard on concrete stairs ughh .
+0.21 (those; are; in the fight)
+
+I cant wait for my mommy to come home :]  Had an amazing time at the races last night !
+0.38 (my mommy; to come; home)
+
+Thank you Katryn :) then worked and overnight shift .
+0.46 (you; worked; T:then)
+
+Was absolutely horrible Im super duper sleepy now\  wtfff :))  Toys \R\ " Us is open in < PROPFEMALE > < PROPFEMALE > come stop in and get a toy and say hello if im working !
+
+:] First day of class today :] super nervous .
+
+hahaha .
+
+"  so worst day ever .
+
+I am going to destroy my computer , period .
+0.27 (I; to destroy; my computer)
+
+Work and school work and school .
+
+No life :\\  Long week already .
+
+Mommy going out of town this weekend :( I need a break from life Hahaha  Wow shutdown .
+0.50 (I; need; a break from life Hahaha  Wow shutdown)
+
+Wow screw nosey blonde girls on meth .
+
+:) ugh .
+
+You really should sign out sometimes before someone messes with your profile  I will kill you < PROPFIRST > you just wait :] hope you sleep well .
+0.17 (I; just wait; )
+0.31 (I; will kill PROPFIRST; you)
+0.55 Context(I will kill PROPFIRST,List([78, 105))):(You; really should sign out; T:sometimes; T:before someone messes)
+0.23 Context(I will kill PROPFIRST,List([78, 105))):(I; will kill PROPFIRST hope; you sleep well)
+0.27 Context(I will kill PROPFIRST hope,List([78, 129))):(you; sleep well; )
+
+hahaha  Getting my second tattoo tomorrow :] my mommy is getting her first !
+
+Super excited :]  Super long day , but had a great day with my mommy got tattoo's , went shopping , and out to dinner :] wish I could do it all again .
+0.93 (tattoo's; went; shopping)
+
+Why does everything have to be so complicated ?
+0.72 (everything; to be; so complicated)
+
+I just need life to slow down a bit and decisions to become easier .
+0.39 (I; just need; life; to slow down a bit and decisions)
+0.39 Context(I just need,List([0, 11))):(I; just need life to slow down; a bit and decisions)
+
+I hate this time of year :\\ long day .
+0.45 (I; hate; this time of year)
+
+well shit hit the fan .
+0.85 (shit; hit; the fan)
+
+Not what I needed right now .
+
+:/ wow fuck my life dude .
+
+Bahahah got to love working at a toy store wearing little kid backpacks beating each other with balloons and cute kids :)  So basically I want to punch him on the face .
+
+Shut the hell up .
+
+Please .
+
+:)  Pretty much super happy about things :) thank god for < PROPMALE > .
+0.53 (things; thank; god; for < PROPMALE >)
+
+My mommy is the best :] , not feeling well so she made me soup and tea and watched TV with me .
+0.45 (My mommy; is; the best)
+0.27 (she; watched; TV; with me)
+
+Thats what mom's are for !
+0.58 (mom's; are; )
+
+:] and on top of it all i have eliminated extra baggage out of my life !
+0.45 (i; have eliminated; extra baggage)
+
+thank god :]  amazing night :] could not have been better , so happy with the decisions I made ... I was just wasting my time the last few months .
+0.19 (I; made; )
+
+So glad its over and I can move on :] long day tomorrow !
+0.43 (its over and I; can move; on)
+
+Super long day at tournament :] Had a ton of fun , Prairie has a wonderful team !
+0.94 (Prairie; has; a wonderful team)
+
+This is going to be a great year for them :]  A cup of tea and Glee makes everything alright :]  < PROPMALE > < PROPFIRST >  Bahahah oops .
+0.22 (This; to be; a great year for them)
+0.95 (A cup of tea and Glee; makes alright; everything)
+
+Long day and dumb moves .
+
+Dear god :) Hahaha  Long day :] good day .
+
+Ready to kick back and relax :] things are pretty swell .
+0.19 (things; are pretty swell; )
+
+About to go babysit :)) super excited .  is so thankful for the people I get to coach on the Speech and Debate team at Prairie !
+0.63 (I; get; to coach on the Speech and Debate team at Prairie)
+0.86 Context(I get,List([71, 76))):(the people; to coach; L:at Prairie)
+
+:] just had buffalo wild wings with my mommy , now some tea and a long nights sleep is ahead of me :]]  Some days just don't end the way you want , today would have been my Dad's birthday and lost a good family friend this morning RIP < PROPFIRST > , everything will be okay in the long run I just have to remember that .
+0.89 (everything; will be; okay; T:in the long run)
+0.91 (the way; want; you)
+0.08 (I; to remember; that)
+
+I really fucking hate people .
+0.41 (I; hate; people)
+
+While I was in Barns N Nobel today some idiot broke into my jeep by smashing the passenger side window and stole my GPS .
+0.57 (I; was; in Barns N Nobel)
+0.92 (some idiot; broke; into my jeep; T:While I was in Barns N Nobel; T:today)
+0.81 (some idiot; stole; my GPS)
+
+Its going to cost a couple hundred dollars to fix this window now that there is nothing left of it .
+0.77 (nothing; left; )
+
+Wow .
+
+Not what I needed today .
+
+400 hundred dollars out of pocket for my passenger side window that some idiot had to go and break yesterday :/ thanks jerk .
+0.70 (some idiot; to go; )
+0.84 (some idiot; to break; T:yesterday; thanks jerk)
+
+I am up and ready for WORK !
+0.28 (I; am; up)
+
+:] hahaha thank you Toys R Us .
+
+im babysitting the cutest kids ever :]] bad day went good in a way .
+0.17 (im; babysitting ever; the cutest kids)
+0.84 (im babysitting the cutest kids ever; went; good; T:bad day)
+
+send me a message with any number of your choice and I will tell you something I like about you in a status :)  22 : my goodness kidd you are such a fantastic person .
+0.31 (I; like; about you)
+0.26 (I; will tell; you; something I like about you)
+0.55 Context(I will tell,List([53, 64))):(you; are; such a fantastic person)
+
+I always felt like I could trust you with everything .
+0.47 (I; felt; like I could trust you with everything; T:always)
+0.41 (I; could trust; with everything)
+
+You made life much easier for me :] I miss you , text me we will < PROPFEMALE > out .
+0.41 (You; made; life much easier for me)
+0.32 Context(You made,List([0, 8))):(I; miss; you)
+0.19 Context(You made I miss,List([0, 42))):(I; miss you text; me)
+0.44 Context(You made I miss,List([0, 42))):(we; will < out; PROPFEMALE)
+
+I love you to death kidd :]]  21 : honestly , I dont know how to take you alot of the time , you are hard to figure out and we dont talk much now :/ I hope things are going well for you honestly .
+0.26 (I; hope; things are going well for you honestly)
+0.19 Context(I hope,List([149, 155))):(we; do nt talk; much; T:now)
+0.26 Context(I hope,List([149, 155))):(things; are going well honestly; for you)
+0.31 (you; are; hard to figure out)
+0.26 Context(you are,List([93, 100))):(I; love; you)
+
+Sorry for everything .
+
+258 : goodness its been forever since I saw you or even talked to you .
+0.80 (goodness; been; forever; T:since I saw you or even talked to you)
+0.37 (I; saw; you)
+0.27 (I; even talked; to you)
+
+Your such a fun girl :] and im glad I did get to spend some time with you and got to know you .
+0.26 (I; did get; to spend some time with you)
+0.26 Context(I did get,List([36, 45))):(I; did get to spend; some time; with you)
+
+I hope any hard feelings about anything have cleared up .
+0.40 (I; hope; any hard feelings about anything have cleared up)
+0.75 Context(I hope,List([0, 6))):(any hard feelings about anything; have cleared up; )
+
+69 : hahaha you would pick this number .
+0.62 (you; would pick; this number)
+
+You are one of my best friends no matter what , he have had plenty of up's and down's but no matter what we are still friends .
+0.45 (we; are; T:still; friends)
+0.40 (he; have had; plenty of)
+0.40 Context(he have had,List([48, 59))):(You; are no matter up no matter; one of my best friends)
+0.89 (You; are one of; my best friends)
+
+I mglad we have classes together it makes everything more fun :] and you better sign up for soc 101 !!  9875 : wow .
+0.45 (it; makes; everything more fun)
+0.62 (you; better sign up; for soc 101 !!  9875)
+0.32 (I; mglad; we have classes together it makes everything more fun)
+0.19 Context(I mglad,List([0, 7))):(we; have together; T:it makes everything more fun)
+
+I bet you think im just going to say shit about you , but not at all .
+0.09 (im; to say; shit; about you)
+0.22 (I; bet; you think im just going to say shit about you)
+0.25 Context(I bet,List([0, 5))):(you; think; im just going to say shit about you)
+
+I have alot of respect for you as an individual and I valued the friendship we did have .
+0.31 (I; have; alot of respect for you as an individual)
+0.31 (I; valued; the friendship we did have)
+0.88 (the friendship; did have; we)
+
+I guess things will never be the same between us but you got my intentions all mixed up .
+0.26 (I; guess; things will never be the same between us)
+0.19 Context(I guess,List([0, 7))):(things; will never be; the same)
+0.48 (you; got; my intentions all mixed up)
+0.26 Context(you got,List([53, 60))):(my intentions; mixed up; )
+
+I miss your friendship sometimes but alot has happened .
+0.37 (I; miss; your friendship; T:sometimes)
+0.30 (I; has happened; T:alot)
+
+I really hope things are going well for you though :] your a beautiful girl :]  13 : I adore you kidd :] your the very best and I care about you a ton .
+0.25 (I; adore very best; you kidd)
+0.26 Context(I adore very best,List([85, 123))):(I; really hope; things are going well for you though)
+0.25 Context(I really hope I adore very best,List([0, 123))):(things; are going well though; for you)
+0.32 Context(I adore very best,List([85, 123))):(you; kidd; )
+0.26 Context(I adore very best,List([85, 123))):(I; care; about you)
+
+You can put a smile on my face and I can trust you with anything :] I want to see you , I miss you a bunch !
+0.42 (I; miss; a bunch)
+0.41 Context(I miss,List([88, 94))):(You; can put; a smile on my face)
+0.35 (I; can trust; with anything)
+0.31 Context(I can trust,List([35, 46))):(I; want; to see you)
+0.26 Context(I can trust I want,List([35, 74))):(I; want to see; you)
+
+send me a message with any number of your choice and I will tell you something I like about you in a status :) as well as I need alot of prayer at this time .
+0.42 (I; will tell; you; something I like about you in a status :) as well)
+0.82 (something; like as well; I)
+0.45 (I; need; alot of prayer; T:at this time)
+
+Thanks a bunch :)  I cant believe it has been four years .
+0.26 (I; ca nt believe; it has been four years)
+0.39 Context(I ca nt believe,List([19, 33))):(it; has been; four years)
+
+I love you Daddy and I miss you so much .
+0.31 (I; love; you)
+0.37 (I; miss; you; so much)
+
+I hope everything is going well up in heaven .
+0.44 (I; hope; everything is going well up in heaven)
+0.67 Context(I hope,List([0, 6))):(everything; is going well up; )
+
+Ill see you again someday .
+0.76 (Ill; see; you; T:again; T:someday)
+
+RIP < PROPFIRST > Goldsworth November 20 , 1953- December 9 , 2007 <3 I love you .
+0.31 (I; love; you)
+
+Thank you everyone for the happy birthday comments !
+
+It means so much :))) thank you thank you  I just got home from work , it is now time to sleep .
+0.23 (It; means so much; thank you)
+0.47 Context(It means so much,List([0, 16))):(it; is; T:now; time to sleep)
+
+Mmm .
+
+I don't like being up this early , Thank you school .
+0.20 (I; being; up this)
+
+Loved my classes even though my math is way to easy .
+
+:) super < PROPFIRST > time !
+
+Mmm the simple things are just so entertaining .
+
+:))  Ready for the weekend :] yep .
+
+Oh boy !
+
+This is going to be fun :] hahaha .
+0.15 (This; to be; fun)
+
+This weekend was fantastic :]] super sleepy though .
+0.76 (This weekend; was super sleepy though; fantastic)
+
+Time to make dinner and watch the < PROPFEMALE > Globes !
+
+:]  Im pretty sure that is the poofiest green marshmellow coat i have ever seen !
+0.10 (that; is; the poofiest green marshmellow coat i have ever seen)
+0.78 (the poofiest green marshmellow coat; have seen; T:ever)
+
+:) Hahaha  Just got a job !!! :]]  Super great weekend :) now time for class .
+0.92 (Hahaha; Just got; a job; T:now)
+
+Yuck .
+
+Instead of actually calling you queer i described it to you .
+0.40 (you; queer; i described it to you)
+0.26 Context(you queer,List([28, 37))):(i; described; it; to you)
+
+It makes it less demeaning that way .
+0.12 (It; makes; it less demeaning that way)
+0.16 Context(It makes,List([0, 8))):(it; less demeaning; )
+
+Bahahah wow people at wsuv are stupid Hahaha .
+0.93 (people at wsuv; are; stupid; Hahaha)
+
+Super out of it , I think I need more sleep .
+0.31 (I; think; I need more sleep)
+0.39 Context(I think,List([18, 25))):(I; need; more sleep)
+
+hahaha :] homework time .
+
+I hate when everything just hits you at once , and never at the right time .
+0.42 (I; hate; T:when everything just hits you at once , and never at the right time)
+0.82 (everything; just hits; you; T:at once , and never at the right time)
+
+I need a break .
+0.45 (I; need; a break)
+
+:\\  Seriously hate the flu .
+
+:(  Stupid flu >:( time to watch despicable me with my mommy !
+
+can today be over please :] thank you .
+
+I will win this , try me i dare you .
+0.26 (i; dare; you)
+0.18 Context(i dare,List([25, 31))):(I; will win; this)
+0.18 Context(I will win i dare,List([0, 31))):(I; will win this try; me)
+
+Im not joking anymore .
+
+Thank you < PROPFIRST > Theis and Payton Ritenburgh for keeping me up way to late :] hahaha bring on the day :]  Just going to give it a break .
+
+Mmm not loving the half time show .
+
+Time to get back to the game :))  About to get my New piercing done :) !
+
+Super excited about my piercing :] good day overall .
+
+Did she really just write \bros before hoes\ " on the whiteboard ?
+
+I can look past that but really did she end the speech with \ " guys are pretty Damn awesome\ " .
+0.10 (I; can look; past that)
+
+:) "  Super good day :] just got back from a joy ride with Katryn !
+0.78 (Super good day; just got back; )
+
+:] now time to relax .
+
+early morning lab , work from 12- 5:30 , then BEACH with Katryn !
+
+:] lets get this day on the road .
+
+Im prettyy sure im the only person I know that slices their finger open with scissors and has to go to urgency care :/ this is stupid .
+0.26 (Im; prettyy; sure im the only person I know that slices their finger open with scissors and has to go to urgency care :/ this is stupid)
+0.22 (this; is; stupid)
+0.15 (I; know; that slices their finger)
+
+Fantastic weekend :) because of Katryn !
+
+Now time to start the week off , Yuck .
+
+Perfect way to end the day :)) time for sleep .
+
+Fuck the snow >:( i hate this .
+0.23 (i; hate; this)
+
+Huge backup trying to get into wsuv .
+0.90 (Huge backup; trying; to get into wsuv)
+
+Fantastic last couple of days :)) couldn't ask for more .
+0.79 (Fantastic last couple of days; could n't ask; for more)
+
+Can I please just repeat the last 24 hours for the rest of my life ?
+
+:]] thanks .
+
+Fantastic evening with < PROPMALE > :]]] can't wait to see him tomorrow .
+0.75 (PROPMALE >; ca n't wait; to see him tomorrow)
+0.75 (PROPMALE >; to see; him; T:tomorrow)
+
+Butttt did spin out super bad driving home on I-5 , worst moment ever .
+0.87 (Butttt; did spin out ever; T:on I-5)
+
+homework finished :] presentation ready !
+0.88 (homework; finished; presentation ready)
+
+Later going to see < PROPFIRST > :]] super excited .
+
+lab presentation then work :/ not an exciting day to say the least .
+
+Super great time with < PROPFIRST > last night :)) now getting an oil change and spending time with family :))  Great weekend :) spent most of it with < PROPFIRST > .
+0.87 (Great weekend; spent; most of it; with < PROPFIRST)
+
+Ready for school tomorrow :)) then tacoma this weekend .
+
+Not feeling to good today :/ yuckk .
+
+it feels like Friday already :/ not a great week , possibly waiting for < PROPFIRST > to come over :]]  super lazyyy day :] hahaha yoga pants and work .
+
+I'm done with that and movingg on !
+0.10 (I; 'm done; with that and movingg on)
+
+:]  my mom was seriously surprised when I told her I was able to reach the coffee cups out of the cabinet :/ wow thanks mom .
+0.41 (I; to reach; the coffee cups; out of the cabinet)
+0.42 (I; told; her; I was able to reach the coffee cups out of the cabinet)
+0.57 Context(I told,List([40, 46))):(I; was; able to reach the coffee cups out of the cabinet)
+
+hahahah  Best wake up ever :)) made my weekend .
+
+Now to get more sleep :) Hahaha .
+

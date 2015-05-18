@@ -1,0 +1,89 @@
+AHH < PROPFEMALE > NAUSEOUS ALLL DAY :(
+
+I need a ps3 b4 it snows n im trapped home .
+0.14 (I; need; a ps3 b4 it snows n im trapped home)
+0.81 (a ps3 b4; snows; n im trapped home)
+
+getting married on the 15th .
+
+<3 :D : *  34 WEEKS !
+
+ALMOST TILL NICO GETS HERE .
+
+<3 :) :D  8 AND A HALF MONTHS  Playing sims 3 .... Bored .
+0.68 (A HALF MONTHS; Playing; )
+0.82 (<3 :) :D  8 AND A HALF MONTHS; sims; 3)
+
+:(  36 and a half weeks ... bored and tired ... someone come and clean my room for me before nico gets home ... :D  GOT THE WII MODDED !
+0.71 (someone; come; )
+0.82 (someone; clean; my room; for me; T:before nico gets home)
+0.84 (nico; gets; home)
+
+I HAVE 500 WII GAMES !
+0.50 (I; HAVE; 500 WII GAMES)
+
+HAHEEHAAHEEEE  bored waiting for nico to come home so we can go to the doctors appointment ....  14 DAYS :)  38 WEEKS  Ultrasound on Thursday in centralia  the ultrasound lady changed due date to february 18 .
+0.81 (HAHEEHAAHEEEE; waiting Ultrasound; for nico to come home so we can go to the doctors appointment)
+0.82 (nico; to come; home; so we can go to the doctors appointment)
+0.45 (we; can go; to the doctors appointment)
+0.91 (the ultrasound lady; changed; due date; to february 18)
+
+nico < PROPMALE > martinez birthday february 17 , 2011 7:16 am .
+
+:)  4 days old :)  watching < PROPFIRST > lalanne power juicer infomercial .
+
+good times ..  my god nothing else to do today .... baby is sleeping all day again ...  30 oz  BORED .. NO ONE TO TALK TO .
+0.68 (my god nothing else; to do; 30 oz  BORED .. NO ONE TO TALK TO)
+0.89 (baby; is sleeping; T:all day; T:again)
+
+ILL JUST SIT HERE N WATCH < PROPFIRST > SPRINGER N TALK TO MYSELF .
+
+60 oz  aheehaha lost 16.3 pounds this week  baby bear is 3 weeks old today  baby bears a month n one day today :)  I love him  OHMGEE IVE NEVER BEEN THIS BORED .. MY CSECTION HURTS .. BLEH .
+0.93 (baby bear; is; 3 weeks old)
+0.44 (I; love; him; T:n one day)
+0.92 (baby; bears; a month; T:today; T:today)
+
+IT SMELLS LIKE MINTY OLD PEOPLE HERE .
+0.85 (IT SMELLS; LIKE; MINTY OLD PEOPLE; L:HERE)
+
+:(  bandanarama\  :(  BUHAHA MY BANNERS AWESOME .
+
+OH MY GOD THERES A NAKED GIRL ON MY PROFILE !
+
+I need Some GOLD CLIP ON EARRINGS .
+0.50 (I; need; Some GOLD CLIP ON EARRINGS)
+
+NO IDEA WHERE TO BUY SOME .
+
+bored .. bears really grumpy  Your All A Bunch Of Moco Whores  YOU KILLED MY LOVE AND YOU DROWNED ME IN THIS SORROW .
+0.40 (bored; bears really grumpy; Your All A Bunch Of Moco Whores)
+0.72 (YOU; KILLED; MY LOVE)
+0.72 (YOU; DROWNED; ME; L:IN THIS SORROW)
+
+YOU TOOK ME FOR GRANTED BUT ILL BE GONE TOMMARROW .
+
+YOU PLAYED ME LIKE A FOOL AND YOU DID ME WRONG , ID WISH YOU THE WORSE BUT GIRL LIFE GOES ON .
+0.72 (YOU; DID; ME WRONG)
+0.66 (GIRL LIFE; GOES; )
+0.67 (YOU; PLAYED; ME LIKE A FOOL)
+0.85 Context(YOU PLAYED,List([0, 10))):(ME; LIKE; A FOOL)
+
+IM BORED SOMEONE WRITE ME .
+
+Im sorry I don't speak fucktard .
+0.45 (I; do n't speak; fucktard)
+
+here at cesars being a loser by myself cus i do what i want .
+0.50 (cesars; being a loser by; myself)
+
+Oh fucktard , the secret life of the american teenager is new monday .
+0.96 (the secret life of the american teenager; is; new; T:monday)
+0.39 (new monday; is the secret life of; the american teenager)
+
+damn i wish i had cable .
+0.31 (i; wish; i had cable)
+0.46 Context(i wish,List([5, 11))):(i; had; cable)
+
+:(  cant figure out how to post my mobile pics .. 
+0.25 (:(; ca nt figure out; how to post my mobile pics)
+

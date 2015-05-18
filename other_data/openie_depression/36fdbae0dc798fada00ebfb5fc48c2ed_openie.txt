@@ -1,0 +1,2767 @@
+bringing in the new year with cool kids ( and not so cool kids ) at Dna Gaming Center
+
+moo  today should be a pretty good day  I don't care where you live at , just turn around boy lemme hit that  off to dna to meet < PROPFIRST>'s boy  ugh ... so bored at the campaign office !
+0.88 (today; should be; a pretty good day  I don't care where you live at ,)
+0.38 (I; do n't care; where you live at; T:a pretty good day)
+0.29 (me; hit off; to meet < PROPFIRST>'s boy  ugh)
+0.29 Context(me hit off,List([97, 113))):(me; hit off to meet; PROPFIRST>'s boy  ugh)
+
+monday i made 150+ calls , even more today !
+0.64 (i; made; 150+ calls; T:even more today; T:monday)
+
+somebody help me !!!  integrity is a virtue above all others .
+0.82 (somebody; help; me; integrity is a virtue above all others)
+0.90 Context(somebody help,List([0, 13))):(integrity; is; a virtue above all others)
+0.39 (integrity; is a virtue above; all others)
+
+learn it , love it , live it , and you shall live above all others .
+0.62 (you; shall live; L:above all others)
+
+wow , play a game for five minutes and it spams the shit out of my wall .
+0.37 (it; spams; the shit; out of my wall)
+
+\separate but equal\ " didn't fly fifty years ago and it won't fly now you bastards .
+0.31 (it; wo n't fly; T:now; you bastards)
+
+kiss my gay ass .
+
+"  hold the line , love isn't always on time .
+0.92 (love; is n't; T:always; on time)
+
+that they may know love , and not hate .
+0.62 (they; may know; love)
+0.28 (they; not hate; )
+
+that they may know peace , and not war .
+0.62 (they; may know; peace , and not war)
+
+that they would know wisdom , and not ignorance .
+0.62 (they; would know; wisdom , and not ignorance)
+
+that they may know equality and acceptance of all peoples .  is it not strange how such little phrases often < PROPFEMALE > so much meaning ?
+0.62 (they; may know; equality and acceptance of all peoples)
+
+i love you , i hate you , go fuck yourself , i miss you and so on . is it not also strange that they're all three words ?
+0.68 (they; 're; all three words)
+0.18 (i; go; )
+0.23 Context(i go,List([13, 28))):(i; go fuck; yourself)
+0.32 (i; miss; you)
+0.26 Context(i miss,List([45, 51))):(i; hate; you)
+0.26 Context(i hate i miss,List([13, 51))):(i; love; you)
+
+be without fear in the face of your enemies , be brave and upright that your god may love thee , speak the truth always , even if it leads to your death .
+0.59 (your god; speak always; the truth)
+
+safeguard the helpless , and do no wrong .
+
+respect is a commodity to be traded , not to be hoarded or to be pissed away .
+0.92 (respect; is; a commodity to be traded)
+0.73 (a commodity; to be traded; )
+
+i'm so tired of people complaining about that mosque in New York .
+0.52 (i; 'm; so tired of people)
+0.79 (people; complaining; about that mosque in New York)
+
+this is still < PROPFEMALE > .
+0.50 (this; is; T:still; PROPFEMALE)
+
+and besides , comparing all muslims to terrorists is like saying all christians bomb abortion clinics and beat up gay people , or that they belong to the kkk .
+0.85 (comparing all muslims to terrorists; is; like saying)
+0.91 (all christians bomb abortion clinics; beat up; gay people)
+0.62 (they; belong; to the kkk)
+
+but god forbid anybody bitch about those people .
+
+the original suicide bomber was in fact a white christian .
+0.93 (the original suicide bomber; was; a white christian)
+
+keep this in mind next time you want to be a bigot .
+0.68 (you; want; to be a bigot)
+0.58 (you; to be; a bigot)
+
+with heads held high we will go forth into the unknown .
+0.77 (heads; held; )
+0.45 (we; will go; forth; into the unknown)
+
+a new day dawns on the horizon , let's not be late .
+
+we will match up the poor , destitute , orphaned children of this great nation with enthusiastic , qualified teachers to help make this nation great again < PROPFEMALE > .
+0.19 (we; will match up; )
+
+I am president < PROPFIRST > < PROPFIRST > < PROPFEMALE > , president of the enclave , President of < PROPFEMALE > , President of your heart .
+0.52 (I; am; president)
+0.39 (PROPFIRST > < PROPFIRST > < PROPFEMALE >; [is] president of; the enclave)
+0.88 (I; am president <; PROPFIRST > < PROPFIRST > < PROPFEMALE >)
+
+today the last U.S. combat brigade left Iraq .
+0.98 (the last U.S. combat brigade; left; Iraq; T:today)
+
+a welcome change .
+
+thanks goes out to all those who served , and who continue to serve the United States of < PROPFEMALE > domestically and abroad .
+0.36 (thanks; goes out; to all those)
+0.25 (all those; served; )
+
+let us remember all those who have given their lives to secure our freedom .
+0.32 (all those; have given; their lives; to secure our freedom)
+0.32 Context(all those have given,List([16, 40))):(all those; have given their lives to secure; our freedom)
+
+I met < PROPFIRST > Malloy today .
+0.42 (I; met PROPFIRST; Malloy; T:today)
+
+great guy , got some pictures , heloooo new profile pic .
+0.91 (great guy; got; some pictures)
+0.89 (great guy; heloooo; new profile pic)
+
+i even solicited a donation from him .
+0.31 (i; even solicited; a donation; from him)
+
+next governor of connecticut , damned proud to have met him .
+0.84 (next governor of connecticut; to have met; him)
+
+< PROPFEMALE > < PROPMALE > Millin died today .
+0.91 (< PROPFEMALE > < PROPMALE > Millin; died; T:today)
+
+this man led soldiers ashore on D-day playing his pipes , braving a hailstorm of fire from < PROPMALE > guns .
+0.90 (this man; led; soldiers; ashore; T:on D-day)
+0.72 Context(this man led,List([0, 12))):(this man; led soldiers playing; his pipes)
+0.85 Context(this man led,List([0, 12))):(this man; led soldiers braving; a hailstorm of fire from < PROPMALE > guns)
+
+this man was a hero , and shall not be forgotten .
+0.93 (this man; was; a hero)
+0.70 (this man; shall not be forgotten; )
+
+what will happen when the heroes of our time have all passed on ?
+0.41 (the heroes of our time; have all passed on; )
+
+today we lost < PROPMALE > millin .
+0.66 (we; lost; PROPMALE; T:today)
+
+tomorow we could lose < PROPMALE > mandela .
+0.64 (we; could lose; <; T:PROPMALE; T:tomorow)
+
+this generation needs heroes , someone who stands up and does something so great , so selfless as to be remembered for centuries to come .
+0.90 (this generation; needs; heroes)
+0.68 (someone; stands up; )
+0.88 (someone; does; something so great , so selfless)
+0.71 (centuries; to come; )
+
+ask a teenger today who < PROPMALE > mandela is , and chances are they won't even know .
+0.79 (chances; are; they won't even know)
+0.27 Context(chances are,List([54, 65))):(they; wo n't even know; )
+
+Jakkie < PROPFIRST > ripped my < PROPFIRST > malloy sticker DX  honor with < PROPFEMALE > , loyalty with love , disloyalty with vengance .
+0.83 (PROPFIRST; ripped; PROPFIRST; malloy sticker DX  honor; loyalty with love , disloyalty with vengance)
+
+what do you do when all of your strength goes to putting on the facade ?
+0.39 (all of your strength; goes; )
+
+when everything you are is committed to being someone else ?
+0.68 (everything; are; )
+0.72 (everything you are; is; committed to being someone else)
+0.62 (everything you are; to being; someone else)
+
+when you have nothing to give to fix yourself ?
+0.62 (you; have; nothing to give)
+0.82 (nothing; to give; to fix yourself)
+
+you do not see because you are not allowed to .
+0.46 (you; do not see; because you are not allowed to)
+0.32 (you; are not allowed; )
+
+perhaps one day the dam will break , the walls will come down , and you will know .
+0.93 (the dam; will break; T:one day)
+0.32 (you; will know; )
+
+I am Hardy , as tough as bark , \  I am fast , I am strong , I am the dark  if nowhere else ... i am master of my own mind .
+0.32 (i; am; master of my own mind)
+0.39 Context(i am,List([96, 100))):(I; am nowhere else; the dark)
+0.24 Context(I am nowhere else i am,List([61, 100))):(I; am; strong)
+0.18 Context(I am I am nowhere else i am,List([47, 100))):(I; am as tough; Hardy)
+0.24 Context(I am I am nowhere else i am,List([47, 100))):(I; am; fast)
+0.39 (I; am the dark if; nowhere else)
+
+i think .
+0.24 (i; think; )
+
+sometimes i ask myself ... is it worth it to fight for something worthwhile , even when i know i'm going to lose ?
+0.57 (i; ask; myself; is it worth it to fight for something worthwhile , even when i know i'm going to lose; T:sometimes)
+0.17 (i; to lose; )
+0.24 (i; know; )
+
+or should i just fight the fights i know i can win ?
+0.32 (i; know; i can win)
+0.16 Context(i know,List([34, 40))):(i; can win; )
+
+it's so much easier talking to myself sometimes .
+
+i'm always right , i never argue , and my jokes are always funny .
+0.38 (my jokes; are; T:always; funny)
+0.16 (i; never argue; )
+0.24 Context(i never argue,List([19, 32))):(i; 'm; T:always; right)
+
+sometimes i still have awkward moments though =/  the sad thing is , if i fell right now , not one person in this whole world would catch me .
+0.28 (i; fell; T:right now)
+0.49 (i; have; awkward moments; T:sometimes; T:still)
+0.26 Context(i have,List([10, 22))):(i; have awkward moments =/; the sad thing)
+0.76 (sometimes i still have awkward moments though =/  the sad thing; is; if i fell right now , not one person in this whole world would catch me)
+0.87 Context(sometimes i still have awkward moments though =/ the sad thing is,List([0, 66))):(not one person in this whole world; would catch; me)
+
+your forebears were wise to set aside their compassion .
+0.49 (your forebears; were; wise to set aside their compassion)
+0.45 (your forebears; to set; aside; their compassion)
+
+steel themselves for what ... needed to be done .
+
+i see now why they left you behind .
+0.26 (i; see; T:now; why they left you behind)
+0.47 Context(i see,List([0, 5))):(they; left; you; L:behind)
+
+you were weak .
+0.36 (you; were; weak)
+
+gods must be strong .
+0.61 (gods; must be; strong)
+
+who lives in a pineapple under the sea ?
+
+spongebob squarepants !
+
+\  who died in an oil spill because of bp ?
+
+spongebob squarepants !
+
+it's not in the way that you look , or the things that you say that you do !
+0.52 (it; 's not; in the way)
+0.32 (you; look; )
+0.20 (you; say; that you do)
+0.33 Context(you say,List([55, 62))):(you; do; )
+
+\  hold the line !
+
+sometimes life makes me think of those movie scenes when the hero gets shot eighty bajillion times but does something impossible even when you HAVEN'T been shot .
+0.70 (life; makes; me think of those movie scenes; T:sometimes)
+0.24 Context(life makes,List([10, 20))):(me; think; of those movie scenes)
+0.93 (the hero; gets; shot eighty bajillion times but does something impossible)
+0.90 (the hero; gets shot; T:eighty bajillion times)
+0.81 (the hero; does; something impossible even when you HAVEN'T been shot)
+
+They say that true friends can go long periods of time without speaking & never question your friendship .
+0.70 (true friends; without speaking; )
+0.81 (true friends; never question; your friendship)
+0.29 (They; say; that true friends can go long periods of time without speaking & never question your friendship)
+0.88 Context(They say,List([0, 8))):(true friends; can go; long periods of time)
+
+This type of friend picks up like they just spoke yesterday , regardless of how long it's been .
+0.77 (This type of friend; picks up; )
+0.61 (they; just spoke regardless; T:yesterday)
+0.19 (it; 's been; )
+
+They understand that life's busy but , that you'll always love them !
+0.32 (They; understand; that life's busy)
+0.45 Context(They understand,List([0, 15))):(you; 'll love; them; T:always)
+
+Copy & paste if you're blessed to have at least one of these friends .
+0.32 (you; 're blessed; )
+0.58 (you; to have; at least one of these friends)
+
+you once asked me if i would die for you .
+0.50 (you; asked; me; if i would die for you; T:once)
+0.26 Context(you asked,List([0, 14))):(i; would die; for you)
+
+and , without question , i told you the answer was yes .
+0.31 (i; told; you; the answer was yes)
+0.77 Context(i told,List([25, 31))):(the answer; was; yes)
+
+i promised you i would if it meant you'd live .
+0.31 (i; promised; you; i would if it meant you'd live)
+0.26 (it; meant; you'd live)
+0.27 Context(it meant,List([26, 34))):(you; 'd live; )
+
+and because i failed you , you are no longer here .
+0.31 (i; failed; you)
+0.36 (you; are; no longer; L:here)
+
+but now , looking back on it , i think it's because i didn't really mean it , i just didn't have the self respect to say so .
+0.26 (i; did n't really mean; it)
+0.39 Context(i did n't really mean,List([52, 72))):(i; just did n't have; the self respect to say so)
+0.57 (i; think; it's because i didn't really mean it , i just didn't have the self respect to say so .; T:now)
+0.42 Context(i think,List([31, 38))):(it; 's; because i didn't really mean it , i just didn't have the self respect)
+
+burn in hell you bastard .
+0.32 (you; bastard; )
+
+that street fair was a great way to meet people .
+0.93 (that street fair; was; a great way to meet people)
+
+I met < PROPFIRST > Malloy last week , < PROPMALE > Blumenthal today .
+0.42 (I; met PROPFIRST; Malloy; T:last week)
+
+also chatted up the mayor and < PROPFIRST > Caligiuri today .
+
+got pictures !
+
+today a california church court condemned a priest for marrying sixteen couples during the time when same sex marriage was legal .
+0.95 (a california church court; condemned; a priest; T:today)
+0.96 (same sex marriage; was; legal; T:the time)
+
+it's times like these when i just loooooove < PROPFEMALE > .
+0.42 (it; 's; times like these; T:when i just loooooove < PROPFEMALE >)
+0.45 (i; just loooooove; PROPFEMALE)
+
+at the same time the same panel also stated that it needed to reexamine it's own fear and ignorance .
+0.79 (the same panel; stated; that it needed to reexamine it's own fear and ignorance; T:at the same time)
+0.26 Context(the same panel stated,List([17, 43))):(it; needed; to reexamine it's own fear and ignorance)
+0.26 Context(the same panel stated it needed,List([17, 58))):(it; needed to reexamine; it's own fear and ignorance)
+
+then do it , don't talk about it .
+
+love is not simple .
+0.75 (love; is not; simple)
+
+love is not complex .
+0.75 (love; is not; complex)
+
+love is not easy , but it's not difficult either .
+0.75 (love; is not; easy)
+0.22 (it; 's not either; difficult)
+
+love is the greatest feeling in the world , but also the worst .
+0.95 (love; is; the greatest feeling in the world , but also the worst)
+0.89 (love; is the greatest feeling in; the world)
+
+love is kind and gentle , but love hurts doesn't it ?
+0.80 (love; is; kind and gentle)
+0.77 (love; hurts; )
+
+love is nothing , it simply is , so why does everybody try to figure it out ?  for every moment of truth , there's confusion in life .
+
+love can be seen as the answer , but nobody bleeds for the dancer .
+0.89 (love; can be seen; as the answer)
+0.89 (nobody; bleeds; T:for the dancer)
+
+after everything i've done to escape you , to move on , you choose NOW to come looking for me .
+0.75 (everything; 've done; to escape you , to move on)
+0.23 Context(everything 've done,List([6, 26))):(i; to escape; you)
+0.54 (you; choose NOW; to come looking for me; T:after everything)
+0.30 Context(you choose NOW,List([56, 70))):(you; choose NOW looking; for me)
+
+no , you send someone else to do it for you .
+0.54 (you; send; someone else to do it for you)
+0.83 (someone else; to do; it; for you)
+
+and I went for it .
+0.37 (I; went; for it)
+
+I .
+
+AM .
+
+TRUTH !
+
+THE VOICE OF THE COVENANT !!!  ask no questions and thou wilt hear no lies , but ye shall know no truths .
+0.62 (ye; shall know; no truths)
+0.89 (THE VOICE OF THE COVENANT; ask; no questions and thou wilt)
+
+made an important connection today :P after all , it's not who you are , it's who you know , or in this case , who wants in your pants ;)  for better or for worse , whether you asked or not , if i call you friend , i will stand with you , always .
+0.32 (you; asked; )
+0.37 (i; call; you; friend)
+0.31 (i; will stand; with you; T:always)
+
+it's been a long time , and after all that , I still love you .
+0.45 (it; 's been; a long time)
+0.20 (I; love; you; T:after all that; T:still)
+
+and now I know that you love me too , I am invincible .
+0.23 (I; am; invincible)
+0.23 Context(I am,List([38, 42))):(I; know; that you love me too; T:now)
+0.39 Context(I know I am,List([8, 42))):(you; love too; me)
+
+I have something to fight for again .
+0.45 (I; have; something to fight for again)
+0.75 (something; to fight; for again)
+
+Failure is no longer an option .
+0.89 (Failure; is no longer; an option)
+
+I love you boy , and I don't care who the fuck knows it .
+0.31 (I; love; you)
+0.26 (I; do n't care; who the fuck knows it)
+0.84 Context(I do n't care,List([21, 33))):(the fuck; knows; it)
+
+is planning an LGBT all nighter at DNA !
+
+hit me up if you're interested !!!  when i'm with you , time slows down and speeds up at the same time .
+0.43 (you; 're; interested)
+0.37 (i; 'm; with you)
+0.71 (time; slows down; )
+0.88 (time; speeds up; T:at the same time)
+
+my mind races yet i'm calm .
+0.28 (i; 'm; calm)
+
+I smile all the time when I think of you .
+0.31 (I; smile; T:all the time when I think of you)
+0.37 (I; think; of you)
+
+you're more to me than you or I could ever know .
+0.54 (you; 're; more to me than you)
+0.22 (I; could know; T:ever)
+
+I love you Itoshii Hito .
+0.35 (I; love; you; Itoshii Hito)
+
+the time has come at last !
+0.77 (the time; has come; at last)
+
+( secret secret , i've got a secret ) to throw away this mask ! ( secret secret , i've got a secret ) now everyone can see ! ( secret secret , i've got a secret ) my true identity !
+0.82 (everyone; can see; T:now)
+0.40 (i; 've got; a secret)
+0.40 Context(i 've got,List([143, 151))):(i; 've got; a secret)
+0.40 Context(i 've got i 've got,List([82, 151))):(i; 've got; a secret)
+0.30 Context(i 've got i 've got i 've got,List([18, 151))):(i; 've got a secret to throw away; this mask)
+
+i may disagree , but if that is your final say , i shall bend to your will  i'm not a hero !
+0.10 (that; is; your final say)
+0.31 (i; shall bend; to your will)
+0.46 (i; 'm not; a hero)
+0.16 Context(i 'm not,List([76, 83))):(i; may disagree; )
+
+i'm not a saviour !
+0.52 (i; 'm not; a saviour)
+
+forget what you know !
+
+i'm just a man whose , circumstances , went beyond his control !
+
+I used to be one of those ignorant selfish teens who thought my life was the worst .
+0.20 (I; to be; one of those ignorant selfish teens)
+0.80 (those ignorant selfish teens; thought; my life was the worst)
+0.39 Context(those ignorant selfish teens thought,List([20, 60))):(my life; was; the worst)
+
+then I met people with REAL problems and realized how pathetic mine were in comparison .  is extremely happy  has a sticker that fell out of a where's < PROPMALE > book of < PROPMALE > and lady < PROPMALE > sixty-nining !
+0.66 (I; met; people; T:then)
+0.79 (a sticker; fell; out of a)
+0.49 (I; realized; how pathetic mine were in comparison; T:then)
+0.89 Context(I realized,List([5, 49))):(how pathetic mine; were; in comparison)
+
+if you'll excuse an expression i use i'm in love i'm in love i'm in love i'm in love i'm in love with a wonderful guy !!!  the next person to be like \wtf long distance\ " is gonna get torn down "  mandatory drug testing for social welfare programs , yea or nay ?  is finally content with his life , mostly anyway  needs to learn a second language and wants his itoshii to teach him  loves his itoshii so much it's unbelievable .
+0.46 (you; 'll excuse; an expression i use)
+0.88 (an expression; use; i)
+0.91 (the next person; to be; like \wtf long distance\)
+0.97 (is gonna get torn down "  mandatory drug testing for social welfare programs , yea or nay ?  is finally content with his life , mostly anyway  needs to learn a second language and wants his itoshii to teach him; loves; his itoshii; so much)
+0.46 Context(is gon na get torn down " mandatory drug testing for social welfare programs , yea or nay ? is finally content with his life , mostly anyway needs to learn a second language and wants his itoshii to teach him loves,List([172, 389))):(i; 'm; in love)
+0.46 Context(i 'm is gon na get torn down " mandatory drug testing for social welfare programs , yea or nay ? is finally content with his life , mostly anyway needs to learn a second language and wants his itoshii to teach him loves,List([85, 389))):(i; 'm; in love)
+0.46 Context(i 'm is gon na get torn down " mandatory drug testing for social welfare programs , yea or nay ? is finally content with his life , mostly anyway needs to learn a second language and wants his itoshii to teach him loves,List([85, 389))):(i; 'm; in love)
+0.46 Context(i 'm is gon na get torn down " mandatory drug testing for social welfare programs , yea or nay ? is finally content with his life , mostly anyway needs to learn a second language and wants his itoshii to teach him loves,List([85, 389))):(i; 'm; in love)
+0.46 Context(i 'm is gon na get torn down " mandatory drug testing for social welfare programs , yea or nay ? is finally content with his life , mostly anyway needs to learn a second language and wants his itoshii to teach him loves,List([85, 389))):(i; 'm; in love)
+0.23 Context(is gon na get torn down " mandatory drug testing for social welfare programs , yea or nay ? is finally content with his life , mostly anyway needs to learn a second language and wants his itoshii to teach him loves,List([172, 389))):(it; 's; unbelievable)
+
+you make me so happy .
+0.46 (you; make; me so happy)
+
+i'll always love you ^.^  \i've simply no time at present for imbeciles and fools .
+0.34 (i; 'll love; you; T:always)
+0.48 (i; 've; simply no time; L:at present for imbeciles and fools)
+
+i've not the centuries of time or endless < PROPFEMALE > to explain anything to you .
+0.50 (i; 've not; the centuries of time or endless < PROPFEMALE >)
+
+\ " << greatest quote ever !
+
+"  might go see the president endorse atty .
+
+gen .
+
+Blumenthal if i can get excused from school , and get a recommendation .
+0.48 (i; get; excused from school , and get a recommendation)
+0.45 (i; can get excused; from school)
+0.48 (i; get; a recommendation)
+
+i hate school , can't wait ' til it's over and i can move forward  had a good day with < PROPFIRST > , < PROPFEMALE > , and < PROPMALE > .
+0.28 (it; 's; over)
+0.23 (i; can move; forward)
+
+the shop crew :) now if only Ashen would move it and move then things would be perfect .
+0.74 (Ashen; move; )
+0.34 (things; would be; perfect; T:then)
+
+all of the skill in the world is nothing in the face of those odds .
+0.88 (all of the skill in the world; is; nothing in the face of those odds)
+0.39 (the world; is nothing in; the face)
+
+but we did it anyway , and we won .
+0.30 (we; did anyway; it)
+0.24 (we; won; )
+
+I just spent FORTY MINUTES in < PROPMALE>'s closet hiding .
+0.50 (I; just spent; FORTY MINUTES; L:in < PROPMALE>'s closet hiding)
+
+shit that was horrible , now i know what being in the closet is really like XD  don't let go and i'll hold you up for as long as it takes  meeting today at five , then i'm not sure .
+0.63 (shit; was; horrible)
+0.36 (i; know; T:now)
+0.16 (i; 'll hold up; T:for as long)
+0.41 (i; 'm not; sure; T:then)
+0.40 (it; takes; meeting today at five)
+0.40 Context(it takes,List([129, 137))):(it; takes meeting; T:today; L:at five)
+0.77 (what being in the closet; is really; like)
+
+anyone wanna do somethin' ?
+0.88 (anyone; na do; somethin)
+
+you had best un-fuck yourself or I will un-screw your head and shit down your neck !
+0.54 (you; had; best un-fuck; yourself)
+0.31 (I; will un-screw; your head)
+0.33 (I; shit; down; your neck)
+
+now ho < PROPFIRST > < PROPFIRST > is a son of a bitch ! got the blue balls , krabs , and the seven year itch !  drop your cocks and grab your socks ladies !
+0.50 (PROPFIRST > < PROPFIRST >; is a son of; a bitch)
+
+you'd best wipe that grin off of your face , private pile , or i will gouge out your eyes and skull-fuck you !
+0.24 (you; 'd best wipe; that grin; off of your face)
+0.31 (i; will gouge out; your eyes and skull-fuck you)
+
+do none of you disgusting , self-serving cretins want me to be happy ?
+
+go to hell .
+
+now I know who my REAL friends are .
+0.50 (I; know; who my REAL friends are; T:now)
+0.37 Context(I know,List([4, 10))):(my REAL friends; are; )
+
+9/11/2001 ... hard to believe it was nine years ago .
+
+I still remember that day .
+0.31 (I; remember; that day; T:still)
+
+the tears , the anger .
+
+a day that i think , perhaps changed the world .
+0.91 (a day; think; i)
+0.67 (a day that i think; perhaps changed; the world)
+
+now , here again at odds with the Muslim world over a mosque and a burning book , remember that this is a country of freedom , love , tolerance .
+0.39 (this; is a country of; freedom , love , tolerance)
+
+remember what happened that day , yes , but remember who we are as Americans .
+
+I have made few promises in my time , but i'll be damned if I haven't kept each and every one of them .
+0.31 (I; have made; few promises; T:in my time)
+0.28 (i; 'll be; damned)
+0.31 (I; have n't kept; each and every one of them)
+
+i hate that you're so far away .
+0.12 (i; hate; that you're so far away)
+0.37 Context(i hate,List([0, 6))):(you; 're; so far away)
+
+i hate some of the things you do .
+0.45 (i; hate; some of the things)
+0.66 (the things; do; you)
+
+i hate some of the people you associate with .
+0.45 (i; hate; some of the people)
+0.74 (the people; associate; with)
+
+but i love you .
+0.31 (i; love; you)
+
+and that's all that really matters , isn't it .
+0.13 (all; really matters; )
+
+let's compare scars .
+
+i'll who you whose are worse .  is it so difficult for people to be pleasant these days ?
+0.89 (people; to be; pleasant; T:these days)
+
+smile chief , while we still got somethin ' to smile about  Is totally , completely , 100% , without a doubt , in love with Ashen Rosenthal forever and always  If you ask , I will answer without question .
+0.62 (we; got; somethin; to smile about; T:still)
+0.38 (you; ask; )
+0.19 (I; will answer; )
+
+I kneel to your command , bend to your will .
+0.26 (I; kneel; to your command)
+0.19 Context(I kneel,List([0, 7))):(I; kneel bend; to your will)
+
+bound by honor and oath , your every command is my duty .  is it wrong to hit on freshmen ?
+0.58 (your every command; is; my duty)
+
+i'm rude and inconsiderate at times .
+0.52 (i; 'm; rude and inconsiderate; T:at times)
+
+i'm quick to anger .
+0.28 (i; 'm; quick to anger)
+0.17 (i; to anger; )
+
+i say a lot of stupid and mean things .
+0.45 (i; say; a lot of stupid and mean things)
+
+i'm crazy .
+0.28 (i; 'm; crazy)
+
+sometimes I even take you for granted .
+0.44 (I; even take; you; for granted; T:sometimes)
+
+I'm insecure and selfish , and more dramatic than a thirteen year old girl .
+0.28 (I; 'm; insecure and selfish)
+
+after all that you stick around , so among all those things , i'm also yours .
+0.43 (you; stick; L:around)
+0.31 (i; 'm also; yours)
+
+<3  I do damned good work , but don't fuck with me  I have broken people before .
+0.27 (I; do n't fuck; with me)
+0.39 (I; have broken; people; T:before)
+0.39 Context(I have broken,List([52, 65))):(I; do damned; good work)
+
+I have been broken myself , once .
+0.31 (I; have been broken; myself; T:once)
+
+it's easy for someone like me .
+0.28 (it; 's; easy)
+
+what makes you any different ?
+
+Army Regulation 635-200 section 2 chapter 15 : discharge for homosexual conduct .
+
+\  \  appatently being willing to serve isn't enough .
+
+oh well , I guess uncle < PROPFIRST > doesn't need me ;)  so I have come to the conclusion that this new chef is pretty kick-ass and I intend to learn more from him than i have in my previous years in culinary combined .
+0.19 (i; have; )
+0.17 (I; have come; to the conclusion that this new chef is pretty kick-ass and I intend to learn more from him than i have in my previous years in culinary)
+0.39 Context(I have come,List([61, 72))):(I; guess; uncle)
+0.68 Context(I guess I have come,List([10, 72))):(PROPFIRST; does n't need; me)
+0.71 (culinary; combined; )
+0.93 (this new chef; is; pretty kick-ass)
+0.36 (I; intend; to learn more from him than i have in my previous years in culinary)
+0.26 Context(I intend,List([133, 141))):(I; intend to learn; more from him than i have; from him; T:in my previous years in culinary)
+
+I did so much today that I can't remember it all , and I actually enjoyed the work .
+0.45 (I; actually enjoyed; the work)
+0.46 (I; did; so much; T:today)
+0.26 Context(I did,List([0, 5))):(I; ca n't remember; it)
+
+imagine that ...  if you would ask anything of me , take it now .
+0.46 (you; would ask; anything of me)
+
+I know not how long I will be able to answer .  is it bad if the first things I think when somebody says i'm cure are \are you high\ " and \ " what do you want ?
+0.32 (I; know; not how long I will be able to answer)
+0.78 (somebody; says; i'm cure)
+0.46 Context(somebody says,List([91, 104))):(i; 'm; cure)
+0.17 (I; to answer; )
+0.52 (the first things I think; are; \are you high\)
+0.38 (you; high\; )
+0.68 (the first things; think; I)
+
+\""  you wanna piece ' o me boy ?
+0.48 (you; wan; na piece ' o me boy)
+0.37 Context(you wan,List([5, 12))):(you; wan na piece; me boy)
+
+you forget , i've always been better at the game than you are .
+0.32 (you; are; )
+0.48 (you; forget; i've always been better at the game than you are)
+0.43 Context(you forget,List([0, 10))):(i; 've been; better at the game; T:always)
+
+that's why you used to rage quit ^.^  \only call us if it's an emergency\ " \ " well only take my money if you're putting out a fire \""  if I died tonight , what would y'all say at my funeral ?
+0.52 (it; 's; an emergency\ " \)
+0.28 (you; to rage; )
+0.62 (you; 're putting out; a fire \)
+0.28 (you; quit; )
+0.45 (I; died; T:tonight)
+
+( this is assuming that you are asked to speak of course )  no matter how much I wash them ( which is a lot ) ever since shop started , my hands smell like vegetables -.-*
+0.13 (this; is assuming; )
+0.56 Context(this is assuming,List([2, 18))):(you; are asked; to speak of course)
+0.58 (you; to speak; of course)
+0.37 (I; wash; them)
+
+I love you to death , but if you fuck with me too much more then i'm going to flip  you do whatever you want to me and i just sit there and take it .
+0.31 (I; love; you; to death)
+0.54 (you; fuck; with me)
+0.23 (i; just sit; there)
+0.27 (i; take; it)
+0.23 (i; to flip; you do whatever you want to me)
+0.47 Context(i to flip,List([65, 82))):(you; do; whatever you want; to me)
+0.32 Context(i to flip you do,List([65, 90))):(you; want; )
+
+if i did half of what you do , you'd dump me in a second .
+0.37 (i; did; half of what you do)
+0.38 (you; do; )
+0.54 (you; 'd dump; me; T:in a second)
+
+remember that .
+
+wishes something would go right for him  is playing the original starcraft  our lives for ire  seven days , you promised ^.^  semper vigilans  Is confused waay too often lately  what is this country coming to ...  i can't wait to get old , i'll have an excuse for being crazy  needs to find a ride to get to new haven on sunday to see < PROPMALE > < PROPMALE > and < PROPMALE > blumenthal  soo ... I have come to the conclusion that stupidity is in fact a disease .
+0.81 (semper vigilans; Is; confused; T:waay too often; T:lately)
+0.33 (I; have come; to the conclusion that stupidity is in fact a disease)
+0.39 (i; 'll have; an excuse for being crazy  needs)
+0.18 Context(i 'll have,List([240, 249))):(i; ca n't wait; to get old)
+0.68 (something; is playing; )
+0.92 (a ride; to get; to new haven; T:on sunday; to see < PROPMALE > < PROPMALE >)
+0.42 (the original; starcraft; our lives; for ire; T:seven days)
+0.20 (i; to get; old)
+0.32 (you; promised; )
+0.90 (stupidity; is; a disease)
+
+after all , for something to be a disease , it needs to do things like be infectious and kill people , and people die because of stupidity all the time , right ?  is trying to decide his favourite bolt action ... karabiner ' 98 , Carcano , Enfield , Arisaka model 1898 , mauser , springfield , so many to choose from ... T.T  do exactly as I tell you and everything will be fine  I am extremely pissed now .
+0.89 (something; to be; a disease)
+0.89 (people; die; because of stupidity; T:all the time)
+0.37 (I; tell; you)
+0.39 (it; needs; to do things like be infectious and kill people)
+0.39 Context(it needs,List([44, 52))):(it; needs to do; things like be infectious and kill people)
+0.63 (T.T; do exactly; )
+0.28 (I; am; extremely pissed; T:now)
+0.75 (everything; will be; fine)
+
+because my bitch mother wouldn't drive me , I couldn't find a ride to new haven for sunday's blumenthal/clinton rally .
+0.51 (my bitch mother; would n't drive; me)
+0.61 (I; could n't find; a ride to new haven for sunday's blumenthal/clinton rally)
+
+fuck .
+
+this .
+
+game .
+
+there is no need to be fearful if one is mindful  I am so tired that i'm incapable of saying what I mean T.T I had to check this status three times to make sure it said what i wanted  everybody gets one  the technocratic beaurocratic people's social democratic republic of the United States of < PROPFEMALE > .
+0.23 (i; of saying; what I mean)
+0.16 Context(i of saying,List([69, 92))):(I; mean; )
+0.51 (it; said; everybody gets one  the technocratic beaurocratic people's social democratic republic of the United States of < PROPFEMALE >)
+0.16 Context(it said,List([161, 168))):(i; wanted; )
+0.76 Context(it said,List([161, 168))):(everybody; gets; one)
+0.31 (one; is; mindful)
+0.25 Context(one is,List([34, 40))):(I; am; so tired that i'm incapable of saying what I mean T.T I had to check this status three times)
+0.35 (I; to check; this status; T:three times; to make sure)
+0.11 Context(I to check,List([109, 123))):(I; to check this status to make; sure)
+0.53 (i; 'm; incapable of saying what I mean T.T I had to check this status three times)
+
+who's with me ?  the outcome will remain the same , no matter the obstacle .
+
+the only thing that will change will be the cost .
+0.33 (the only thing; will change; )
+0.72 (the only thing that will change; will be; the cost)
+
+be sure you're prepared to pay up .
+0.43 (you; 're; prepared to pay up)
+0.32 (you; prepared; to pay up)
+0.28 (you; to pay up; )
+
+Vaginas are a myth , just like Canada  today was a bit surreal ...  I think someone should make plans with me ^.^  soo ... i HATE people who use \q\ " as \ " g\ " they're separate letters for a reason retards "  \this here is 66 tons of 90 mm deevine intervention\ " - sgt .
+0.88 (people; use; \q\; as \)
+0.39 (i; HATE; people who use \q\ " as \)
+0.62 Context(i HATE,List([123, 129))):(they; 're; separate letters for a reason)
+0.31 Context(i HATE,List([123, 129))):(I; think; someone should make plans with me ^.^  soo)
+0.77 Context(I think i HATE,List([68, 129))):(someone; should make soo; with me)
+
+Black guy .
+
+he will be missed T.T "  i often wonder if it is possible to be in love with more than one person at a time ...  tomorrow ... is going to be a great day  today wasn't all that bad , even though it rained .
+0.45 (i; wonder; if it is possible to be in love with more than one person at a time ...  tomorrow ... is going to be a great day; T:often)
+0.43 Context(i wonder,List([25, 39))):(he; will be missed; T.T)
+
+< PROPMALE > out with a cute boy today ^.^  knife 236 bearing 140 angels four  double standards and hypocrites ... * spits *  I wish for something ... i don't know what , or why , i just do .
+0.42 (I; wish; for something; i don't know what , or why , i just do)
+0.16 Context(I wish,List([126, 132))):(i; do n't know; )
+
+I wish , for once , someone would offer me something .
+0.28 (I; wish; for once , someone would offer me something)
+0.87 Context(I wish,List([0, 6))):(someone; would offer; me; something; T:for once)
+
+i grow tired of being a statue , a stepping stone .
+0.52 (i; grow; tired of being a statue , a stepping stone)
+0.41 (i; of being; a statue , a stepping stone)
+
+i am not invincible .
+0.23 (i; am not; invincible)
+
+several hours of d&d today with cool peoples !
+
+today was okay at first ... ended terrible .
+
+got shot down , nothing new there , business as usual ... sometimes i wonder if it wouldn't be worth it to give into the craziness that's always there .
+0.79 (the craziness; 's; T:always; there)
+0.50 (i; wonder; if it wouldn't be worth it to give into the craziness; T:sometimes)
+0.26 Context(i wonder,List([68, 76))):(it; would n't be; worth it to give into the craziness)
+
+i wish i had no emotions ... i've decided to cut myself off , i'm tired of getting hurt .
+0.24 (i; 'm; tired of getting hurt)
+0.43 Context(i 'm,List([62, 65))):(i; wish; i had no emotions ... i've decided to cut myself off)
+0.26 Context(i wish i 'm,List([0, 65))):(i; 've decided; to cut myself off)
+0.47 Context(i wish i 've decided i 'm,List([0, 65))):(i; had; no emotions)
+0.26 Context(i wish i 've decided i 'm,List([0, 65))):(i; 've decided to cut off; myself)
+
+don't talk to me unless you know you can help .
+0.48 (you; know; you can help)
+0.27 Context(you know,List([24, 32))):(you; can help; )
+
+FIRST registration opened noon today !
+
+Children with special needs only want what we all want - to be accepted .
+0.74 (Children with special needs; to be accepted; )
+0.83 (Children with special needs; only want; what we all want)
+0.17 Context(Children with special needs only want,List([0, 37))):(we; want; )
+
+Can I \  make a request of anyone willing to post this and leave it on your status for at least an hour ?
+0.45 (I; \ make; a request of anyone willing to post this)
+0.27 (I; leave; it; L:on your status; T:for at least an hour)
+
+It is Special Education week , and this is in honour of all children who learn a little differently .
+0.57 (It; is; Special Education week)
+0.45 (this; is; in honour of all children)
+0.73 (all children; learn differently; a little)
+
+yes , burn !
+
+into the fire !
+
+you will be cleansed , vermin !
+0.32 (you; will be cleansed; vermin)
+
+M-I-C-K-E-Y M-O-U-S-E we play fair and we work hard and we're in < PROPFEMALE > M-I-C-K-E-Y M-O-U-S-E < PROPFIRST > mouse ( < PROPFIRST > mouse ! ) < PROPFIRST > mouse ( < PROPFIRST > mouse ? ) forever let us hold our banner high high high high !
+0.23 (we; play; fair)
+0.19 (we; work hard; )
+0.67 (we; 're PROPFIRST; in < PROPFEMALE > M-I-C-K-E-Y M-O-U-S-E < PROPFIRST > mouse ( < PROPFIRST > mouse)
+0.88 (mouse; let; us hold our banner high high high high; T:forever)
+0.31 Context(mouse let,List([162, 205))):(us; hold; our banner high high high high)
+
+down by the river , where we took a little walk .
+0.60 (we; took; a little walk; L:the river)
+
+ran into < PROPFEMALE > , and we had a little talk .
+0.52 (we; had; a little talk)
+
+we pushed ' em , we shoved ' em , we threw ' em in the river , and laughed as they drowned .
+0.40 (we; laughed; T:as they drowned; L:in the river)
+0.32 (they; drowned; )
+0.32 (we; pushed; em , we shoved ' em , we threw ' em in the river , and laughed)
+0.32 Context(we pushed,List([0, 9))):(we; shoved; em , we threw ' em in the river , and laughed)
+0.28 Context(we pushed we shoved,List([0, 26))):(we; threw; em; in the river)
+
+we don't need no commies , hangin ' around  fucked up my knee today chasing < PROPFIRST > Matthews at the competition .
+0.42 (we; do n't need; no commies , hangin ' around  fucked up my knee today)
+0.80 (hangin; around fucked up; my knee; T:today)
+
+* sigh * hello crutches and pills X.X  broken kneecap ... crutches , knee brace , probably physical therapy ... on the plus side , no gym for at least 6 weeks and a pack bitch to < PROPFEMALE > my stuff at school !
+0.86 (X.X; broken; kneecap)
+
+72 cc of blood in my knee ... wtf  just realized that Russian Tank divisions still occupy the republic of < PROPFEMALE > , South Ossettia province .
+0.70 (wtf; just realized; that Russian Tank divisions still occupy the republic of < PROPFEMALE > , South Ossettia province)
+0.95 Context(wtf just realized,List([30, 48))):(Russian Tank divisions; occupy; the republic of < PROPFEMALE; T:still)
+
+why aren't we fighting THAT war ?
+
+oh wait ... there's nothing in it for us .
+
+has tickets to the gubernatorial debate on the 25th  facebook chat is a filthy cunt and won't show up  I hear ya callin'! a callin ' to me !
+0.30 (I; hear; ya callin)
+0.96 Context(I hear,List([103, 109))):(has tickets to the gubernatorial debate on the 25th  facebook chat; is; a filthy cunt)
+
+o < PROPFEMALE > of battle !
+
+Airborne infantry !
+
+R.I.P. Asher  I just lost ( no , not the game , which you all just lost ) to < PROPMALE > Giroux  i want a pet ghost  yeah , i am just that good .
+0.37 (I; just lost; no , not the game , which you all just lost)
+0.88 (not the game; just lost; you)
+0.52 (i; want; a pet ghost  yeah)
+0.12 (i; am; just that good)
+
+to all Nobel Prize winners , past and present : I would would like to thank you for what you have done .
+0.32 (you; have done; )
+0.26 (I; would would like; to thank you for what you have done)
+0.26 Context(I would would like,List([48, 66))):(I; would would like to thank; you; for what you have done)
+
+without you our world wouldn't be the same , there would be no light in the darkness  instead of giving up on humanity , commit to making a difference , changing lives .
+0.38 (our world; would n't be; the same)
+
+be that beacon of hope so many long for .
+
+that dream is what gets me through the day .
+0.84 (that dream; is; what gets me through the day)
+
+i absolutely hate being incapacitated , i can't do anything i want to do .
+0.17 (i; being incapacitated; )
+0.26 (i; ca n't do; anything i want to do)
+0.18 Context(i ca n't do,List([40, 50))):(i; absolutely hate; being incapacitated)
+0.24 (i; want; to do)
+0.82 Context(i want,List([60, 66))):(anything; to do; i)
+
+walking two blocks kills me , and i am forced to rely on my mother to drive me .
+0.88 (walking two blocks; kills; me)
+0.31 (i; am forced; to rely on my mother to drive me)
+0.23 (i; to rely; on my mother; to drive me)
+0.23 Context(i to rely,List([34, 53))):(i; to rely on my mother to drive; me)
+
+furthermore , i may very well be developing a slight addiction to my vicodin ... so now i have to cut back just in case .
+0.17 (i; to cut back; )
+
+joy ...  had a great day today ^.^  Don't anger your alarm clock .
+0.90 (joy; had; a great day; T:today)
+
+They will ruin your life .
+0.46 (They; will ruin; your life)
+
+look around you .
+
+look at everything .
+
+look at roads , buildings , cars .
+
+look at electronics , a light switch , a bed .
+
+all of those things you see that aren't plants , dirt , and animals were imagined by someone .
+0.37 (you; see; that aren't plants , dirt , and animals)
+0.60 (those things; are n't; plants , dirt , and animals)
+0.64 (all of those things; were imagined; by someone)
+
+someone whose idea might've seemed impossible at first .
+
+follow your heart , mind , and dreams and let them take you where you want to be .
+0.28 (you; to be; )
+
+you could very well change the world .
+0.62 (you; could very well change; the world)
+
+today was awesome ^.^  physical therapy three times a week -.- yay  you know what I hate ?
+0.48 (you; know; what I hate)
+0.16 Context(you know,List([68, 76))):(I; hate; )
+
+Idiots that make no effort to spell properly or use proper grammar .
+0.88 (Idiots; make; no effort to spell properly or use proper grammar)
+
+we made the most bitchin ' three course meal today ^.^  is no longer a < PROPMALE > horror show virgin  according to our station , all without exception  no school tomorrow mwahahahahahaha  has decided to master use of < PROPFIRST>'s rules for his own profit  www.formspring.me/ifonlyitwaseasy
+0.45 (we; made; the most bitchin ' three course meal; T:today)
+0.80 (we made the most bitchin ' three course meal today; is no longer; a < PROPMALE > horror show virgin)
+0.90 (no school tomorrow mwahahahahahaha; has decided; to master use of < PROPFIRST>'s rules for his own profit  www.formspring.me/ifonlyitwaseasy)
+0.90 Context(no school tomorrow mwahahahahahaha has decided,List([154, 201))):(no school tomorrow mwahahahahahaha; has decided to master; use of < PROPFIRST>'s rules for his own profit  www.formspring.me/ifonlyitwaseasy)
+
+ask me something  It : \why are you wearing a scarf Ed ?
+
+\ " Me : \ " why not ?
+
+\ " Bystander : \ " it's for the gay teenagers that committed suicide\ " It : \ " oh .
+0.52 (it; 's; for the gay teenagers)
+0.72 (the gay teenagers; committed suicide\; )
+
+why'd the homos kill themselves ?
+
+\ " \  has decided to write a book on issues facing < PROPFEMALE > today .
+0.91 (issues; facing; < PROPFEMALE >; T:today)
+
+a revolutionary idea for such a book , as well .
+
+something un-biased , factual , objective , and pragmatic .
+
+wish me luck !
+
+you know what I hate ?
+0.48 (you; know; what I hate)
+0.16 Context(you know,List([0, 8))):(I; hate; )
+
+thinking someone might be at least mildly intellectually stimulating only to find out that they are in fact idiots .
+
+such a let down .
+
+I often wonder if people realize that there are Nations other than the United States on this planet .
+0.27 (I; wonder; if people realize that there are Nations other than the United States on this planet; T:often)
+0.71 Context(I wonder,List([0, 14))):(people; realize; that there are Nations other than the United States on this planet)
+
+don't get me wrong , I love < PROPFEMALE > , I believe in < PROPFEMALE > , but I also realize that there are other nations out there .
+0.44 (I; believe; in < PROPFEMALE)
+0.16 Context(I believe,List([45, 54))):(I; love; )
+0.11 (I; also realize; that there are other nations out there)
+
+this is a global economy , a diverse and complicated world , especially as we become more connected .
+0.45 (this; is; a global economy)
+
+maybe it's time to open our eyes .
+
+\let's see how much you hate cops when your house gets broken into\ " \ " you know what ?
+0.56 (your house; gets; broken into\ " \ " you know what)
+0.34 (your house; gets broken; )
+0.43 (you; know; what)
+0.74 (\let's; see; how much you hate cops)
+0.53 Context(\let 's see,List([0, 10))):(you; hate; cops when your house gets broken into\ " \ " you know what)
+
+if there's a burgler in my house it's going to take the cops five to ten minutes to get there .
+
+by that time that burgler's gone and i'm probably dead on the floor riddled with bullet holes .
+0.82 (burgler; 's gone; T:by that time)
+0.45 (i; 'm probably; dead; L:on the floor)
+0.73 (the floor; riddled; )
+
+\""  solve world hunger ; eat the hungry  debate tonight !
+
+so pumped !
+
+still have one extra ticket , lemme know if anyone wants to go .
+
+blood is just red sweat  tonight was great .
+
+met some cool people ( young democrats ) and had a great time .
+
+Mr. Malloy , as usual , did not fail to impress .
+0.79 (Mr. Malloy; did not fail; to impress)
+0.76 (Mr. Malloy; to impress; )
+
+Mr. Foley on the other hand ... well let's just say I know how to pick ' em .
+
+i'm not a member of an organized political party , i'm a democrat  wonders if it's bad for people to become mindless killing machines * cough * < PROPFIRST > * cough *  checking out NCCC tonight ^.^  NCCC seems like a great fit for me .
+0.90 (cough; checking out; NCCC; T:tonight)
+0.58 (NCCC; seems; )
+0.32 Context(NCCC seems,List([200, 210))):(i; 'm; a democrat  wonders if it's bad)
+0.47 Context(i 'm NCCC seems,List([51, 210))):(i; 'm not; a member of an organized political party)
+0.28 (it; 's; bad)
+0.75 (people; to become; mindless)
+0.88 (people; killing; machines)
+
+a relatively inexperienced student government ( meaning someone enthusiastic about politics such as myself will do well ) , a good financial aid program for an already inexpensive school , and a seamless transfer to uconn or any CSU for the last two years .
+0.88 (a relatively inexperienced student government; meaning; someone enthusiastic about politics such as myself will do well)
+0.40 Context(a relatively inexperienced student government meaning,List([0, 55))):(someone enthusiastic about politics such as myself; will do well; )
+
+saw < PROPMALE > and < PROPFEMALE > today , actually understood most of what went on .
+0.48 (<; actually understood; most of what went on; T:today)
+
+on the blood of our fathers , on the blood of our sons .
+
+let not such be shed in vain .
+
+Quid sum miser tunc dicturus ?
+
+what shall i , frail man , be pleading ?
+
+\  Quem patronum rogaturus , who for me be interceding , \  Cum vix iustus sit securus ?
+0.19 (me; be interceding; )
+0.47 (me; \; Cum vix iustus sit securus)
+0.81 Context(me \,List([37, 58))):(Cum vix iustus; sit; )
+
+when the just are mercy needing ?
+
+I let the people I \care\ " about get away with way too much ... "  More weight is added .
+0.88 (the people; \care\; I)
+0.43 (I; let; the people I \care\ " about get away with way too much)
+0.30 Context(I let,List([0, 5))):(the people I \care\; about get away; too much)
+0.69 Context(I let,List([0, 5))):(More weight; is added; )
+
+No matter .
+
+I shift my shoulders and stoop a little lower .
+0.37 (I; shift; my shoulders)
+0.20 (I; stoop; a little lower)
+
+I only wonder how long before I collapse from the weight of it all .
+0.42 (I; only wonder; how long before I collapse from the weight of it)
+
+apparently , I rate rather low on peoples ' priority lists , especially for those whom I shouldn't ...  Tomorrow is Election day .
+
+everyone get out to vote , and encourage your friends and family as well .
+0.80 (everyone; get; out; to vote)
+0.68 (everyone; to vote; )
+0.79 (everyone; encourage as well; your friends and family)
+
+good luck to < PROPFIRST > Blumenthal , < PROPFIRST > Malloy , Congressman < PROPFIRST > Murphy , and < PROPFEMALE > Cook .
+
+all great candidates and great people , I can't wait to see you all in office .
+0.31 (I; ca n't wait; to see you all in office)
+0.86 (all great candidates and great people; to see; you; L:in office)
+
+well ... In CT things went rather well .
+
+everyone but < PROPFIRST > Malloy and O'brien on my list won , and it looks as though Malloy might pull through okay too .
+0.53 (everyone but < PROPFIRST > Malloy and O'brien on my list; won; )
+0.50 (it; looks; as though Malloy might pull through okay too)
+0.80 (Malloy; might pull through too; okay)
+
+thanks to everyone who voted .
+0.68 (everyone; voted; )
+
+oro supplex et acclinis , cor contritum quasi cinis , gere curam mei finis  Japan vs .
+0.93 (cor contritum; quasi; cinis; T:oro)
+0.92 Context(cor contritum quasi,List([26, 45))):(curam mei; finis vs; Japan)
+
+Russia , wonder how that's going to work out ?
+0.04 (that; to work out; )
+0.50 (Russia; wonder; how that's going to work out)
+
+Japan should give up now .
+0.80 (Japan; should give up; T:now)
+
+nobody fights wars anymore except the U.S. ... why would that be ?
+
+because we do it for them .
+0.37 (we; do; it; for them)
+
+makes all kinds of sense doesn't it ?
+
+low I kneel , with heart submission\  see like ashes , my contrition ;\  help me in my last condition .
+0.81 (heart submission\; see; my contrition)
+
+Congratulations to Mr. < PROPFIRST > Malloy , unofficially officially the Governor Elect of Connecticut .
+
+can one be elected mayor at seventeen ?
+
+why do we all martyr ourselves , in all that we do ?
+0.40 (all; do; we)
+
+just some food for thought .
+
+you are , all of you , vermin , cowering in the dirt thinking , what , I wonder .
+
+hanging out with my awesome nerd brethren tonight <3  burn in the everlasting fire of your eternal vice  sometimes , oftentimes one could argue , it is more beneficial to cut your losses and redirect your efforts elsewhere , than to piss them away on a lost cause .
+0.32 (one; could argue; )
+
+don't you agree ?
+
+now the gate has been unlatched , headstones pushed aside .
+0.73 (the gate; has been unlatched; )
+0.94 (headstones; pushed; aside; T:now the gate has been unlatched)
+
+corpses shift and offer room , a fate you must abide .
+0.77 (corpses; shift; )
+0.88 (corpses; offer; room)
+0.88 (a fate; must abide; you)
+
+a lot of things , they just haunt you .
+0.46 (they; just haunt; you)
+
+you can't escape them , you don't forget them , and they don't fade .
+0.32 (they; do n't fade; )
+0.40 (you; do n't forget; them)
+0.40 Context(you do n't forget,List([24, 40))):(you; ca n't escape; them)
+
+they're always there , hovering over you like a pervasive cloud .
+0.43 (they; 're; T:always; there)
+0.42 (they; hovering; over you)
+
+< PROPMALE > Foley conceded today , finally .
+0.88 (PROPMALE > Foley; conceded; T:today; T:finally)
+
+arrogant jackass , I hope he knows he's committed political suicide by waiting this long .
+0.41 (he; by waiting; T:this long)
+0.36 (I; hope; he knows he's committed political suicide by waiting this long)
+0.31 Context(I hope,List([19, 25))):(he; knows; he's committed political suicide by waiting this long)
+
+found my ipod ... at least my mother didn't run over it like she did my headphones  you know ... nowadays people ALL complain about stupidity , EVERYONE thinks that they hate every other human on earth and all the emotions that come with it , and EVERYONE hates drama , even if they cause it .
+0.60 (EVERYONE; thinks; that they hate every other human on earth and all the emotions that come with it , and EVERYONE hates drama)
+0.56 Context(EVERYONE thinks,List([144, 159))):(they; hate; every other human on earth and all the emotions)
+0.37 (she; did; my headphones)
+0.72 (all the emotions; come; )
+0.38 (you; know; )
+0.81 (EVERYONE; hates; drama)
+
+it's like a fad , soon hating everything will go out of style , then just we original \we hate everything\ " people will be left .
+0.49 (\we; hate; people will be left; T:then)
+0.46 Context(\we hate,List([86, 94))):(it; 's; like a fad)
+0.66 Context(\we hate,List([86, 94))):(people; will be left; )
+
+"  today is the 235th anniversary of the USMC people , pay your respects .
+0.50 (today; is the 235th anniversary of; the USMC people)
+
+\the USMC : providing the opportunity for the enemies of < PROPFEMALE > to die since 1775 \""  well ... off to < PROPMALE>'s for the night ^.^  they volunteered their time , so you could have the freedom to do with yours what you will .
+
+they volunteered their bodies and minds , so yours may remain secure .
+
+some of them , well they gave their lives so that you can keep yours .
+0.24 (they; gave; their lives; so that you can keep yours)
+0.46 (you; can keep; yours)
+
+today is THEIR day , so if you speak to a veteran , shake their hand and say thank you .
+0.93 (today; is; THEIR day)
+0.42 (you; shake; their hand)
+0.42 (you; say; thank you)
+
+you should be damned proud , I know I am .
+0.32 (I; know; I am)
+0.20 Context(I know,List([29, 35))):(I; am; )
+
+< PROPMALE>'s first law : an object in motion stays in motion until acted upon by another force .
+0.88 (PROPMALE>'s first law; stays; in motion; T:until acted upon by another force)
+
+don't pee in space , you're ruining somebody's day somewhere sometime .
+0.62 (you; 're ruining; somebody's day; T:somewhere sometime)
+
+If you were in my head , heh , well we'll see how long you last .
+0.46 (you; were; in my head)
+0.31 (we; 'll see; how long you last)
+
+I have nothing , if not my mind .
+0.45 (I; have; nothing)
+
+I am nothing , without the ambition to use it .
+0.52 (I; am; nothing; without the ambition)
+
+there is nothing else but business and gain .
+
+there is no emotion , there is no life , nothing but what is tangible .
+
+today was shitty , though the evening was better .
+0.81 (the evening; was; better)
+
+I think tomorrow's lined up to be worse than today though ... anybody wanna do something ?
+0.88 (tomorrow; to be; worse than today)
+0.47 (I; think; tomorrow's lined up to be worse than today)
+0.67 Context(I think,List([0, 7))):(tomorrow; 's lined up; )
+
+or am I just going to end up at dna ... like usual .
+0.41 (I; to end up; at dna)
+
+I'm a rather bland , unexciting person , aren't I ?
+
+they say Justice is blind ... now I know why the court fucks up so often .
+0.57 (they; say; Justice is blind ... now I know why the court fucks up so often)
+0.81 Context(they say,List([0, 8))):(Justice; is; blind; T:now)
+0.47 (I; know; why the court fucks up so often)
+0.72 Context(I know,List([34, 40))):(the court; fucks up; T:so often)
+
+who < PROPMALE > thou , to pass judgment upon man , as though he were naught more than a simple plaything ?
+0.74 (PROPMALE; thou to pass; judgment; T:upon man; T:as though he were naught more than a simple plaything)
+0.19 (he; were naught more; )
+
+who < PROPMALE > thou to look upon such as I with disdain , knowing not why you do so .
+0.30 (thou; to look; upon)
+0.46 (such as I with disdain; knowing; not why you do so)
+
+who < PROPMALE > thou ?
+
+answer for me that question , before you do such things as require the answer .
+0.63 (you; do; such things as require the answer)
+0.46 Context(you do,List([37, 43))):(you; do as require; the answer)
+
+stand tall , stand strong , stand proud as though you were an iron adonis off to war .
+0.34 (stand tall; stand; strong)
+0.62 (you; were; an iron adonis off to war)
+0.73 (an iron; adonis; )
+
+stand , in all of your beauty , before all of the world , pure and just as a newborn .
+
+see how far that gets you .
+
+those who fight fair never win .
+0.27 (those who fight fair; never win; )
+0.09 Context(those who fight fair never win,List([0, 30))):(those; fight; fair)
+
+this is our reward .
+0.31 (this; is; our reward)
+
+this is our curse .
+0.31 (this; is; our curse)
+
+it is a fight where the only goal is survival .
+0.52 (it; is; a fight where the only goal is survival)
+0.96 (the only goal; is; survival; L:a fight)
+
+listening to our interview with < PROPMALE > about Vietnam ... is it odd that I enjoy it ?
+
+be at peace , child .
+
+take a moment , calm down , rationalize .
+
+nothing is ever as difficult as it may seem .
+0.86 (nothing; is; ever as difficult as it may seem)
+
+be at peace , child .
+
+move forward inexorably , never falter , nor give ever to your enemies even a fleeting < PROPMALE > to oppose you .
+
+keep it clean and tight ;)  so ... I think the word \Praetor\ " sounds more badass than \ " Governor \""  for failure such as this , no punishment is too great .
+0.63 (I; think; the word \Praetor\ " sounds more badass than \ " Governor \""  for failure such as this)
+0.92 Context(I think,List([35, 42))):(the word; sounds; more badass than \ " Governor \""  for failure such as this)
+0.78 Context(I think,List([35, 42))):(no punishment; is; too great)
+
+woo ... six < PROPFEMALE > essay for being injured for gym , physics poster , ten essay questions on a book I haven't read for english , aaaannnnd a math packet to finish ... guess who's not sleeping tonight .
+0.90 (a book; have n't read; for english)
+
+that's right , this guy .
+0.07 (that; 's; right)
+
+I might seem erratic , but I can assure you there's a method to almost everything that I do and say .
+0.52 (to almost everything that; say; I)
+0.26 (I; can assure; you; there's a method)
+
+I can't help but think of how many times i've told someone everything will be okay , and then it wasn't .
+0.19 (I; ca n't help; )
+0.33 (I; think; of how many times i've told someone)
+0.56 (i; 've told; someone everything will be okay , and then it wasn't .; T:how many times)
+0.75 (everything; will be; okay)
+0.36 (it; was n't; T:then)
+
+if you think about it ... depending on circumstance , a large dose of epinephrine can be a fix-it akin to duct tape >.>  the problem with modern combat tactics : they aren't adapted to conventional or guerilla warfare , they're a hybrid of both .
+0.54 (you; think; about it)
+0.62 (they; 're; a hybrid of both)
+0.55 Context(they 're,List([220, 227))):(they; are n't adapted; to conventional or guerilla warfare)
+0.89 Context(they are n't adapted they 're,List([162, 227))):(a large dose of epinephrine; can be; a fix-it akin to duct tape >.>  the problem with modern combat tactics)
+
+my birthday's tomorrow ... if anyone wants to do something then or something bigger friday night into saturday let me know .
+0.94 (anyone; wants; to do something then or something bigger friday night into saturday)
+0.87 Context(anyone wants,List([30, 42))):(anyone; wants to do; something; T:then; T:friday night)
+
+this birthday is playing out like a rather average day actually  make me smile ?
+0.73 (this birthday; is playing out; )
+
+it's my birthday after all ...  you want me to fight for people I don't know , against an enemy nobody's ever bested , by means no one has ever survived ?
+0.76 (no one; has survived; T:ever)
+0.52 (I; do n't know; people I don't know , against an enemy nobody's ever bested ,)
+0.78 (an enemy nobody; 's bested; T:ever)
+0.31 (it; 's; my birthday; after all)
+0.47 Context(it 's,List([0, 4))):(you; want; me to fight for people)
+0.39 Context(it 's you want,List([0, 40))):(me; to fight; for people)
+
+i'm in .
+0.28 (i; 'm; in)
+
+there are few things i'd do anything for .
+0.52 (i; 'd do; anything; for)
+
+you ?
+
+you are one of them .
+0.46 (you; are; one of them)
+0.89 (you; are one of; them)
+
+is tired of being led on and cut loose .
+
+happens often , doesn't it ?
+
+it's always the same .
+0.28 (it; 's; T:always; the same)
+
+I like them , they like me , then they change their mind for no reason .
+0.54 (they; change; their mind; for no reason; T:then)
+0.40 Context(they change,List([34, 45))):(they; like; me)
+0.26 Context(they like they change,List([14, 45))):(I; like; them)
+
+every time , every guy , without fail .
+
+now tell me all about your pain , down to the detail .
+
+now don't say it's love , your fragile heart feeds my contempt .
+0.45 (your fragile heart; feeds; my contempt)
+
+http://www.formspring.me/ifonlyitwaseasy
+
+someone should ask me something >.>  oftentimes , change takes place slowly .
+0.77 (someone; should ask oftentimes; me; something >)
+0.86 Context(someone should ask oftentimes,List([0, 47))):(change; takes slowly; place)
+
+think of evolution , or the inner workings of a beaurocracy .
+
+occasionally , however , change makes a great leap , be it backward or forward .
+0.94 (change; makes; a great leap; T:occasionally)
+
+think of the collapse of the romans , the bubonic plague , or the development of nuclear weaponry .
+
+I get the feeling that we are currently living during one of those great leaps .
+0.26 (I; get; the feeling that we are currently living during one of those great leaps)
+0.26 (we; are living; T:during one of those great leaps; T:currently)
+
+let's make sure it's for the better this time around .  this is the world we live in , and these are the hands we're given .
+0.39 (these; are; the hands we're given)
+0.88 (the hands; 're given; we)
+0.24 (it; 's; for the better)
+0.39 Context(it 's,List([16, 20))):(this; is; the world we live in; T:this time around)
+0.23 (we; live; L:in)
+
+stand up and let's start trying to make this a place worth fighting for .
+
+If I told you i'd be dead in 24 hours , how would you react ?
+0.37 (I; told; you)
+
+< PROPFIRST > Zandi , chief economist at Moody's Analytics , calculated that when higher earners get an extra dollar of after-tax income , they spend just 40 cents of it .
+0.93 (higher earners; get; an extra dollar of after-tax income)
+0.63 (< PROPFIRST > Zandi; calculated; that when higher earners get an extra dollar of after-tax income , they spend just 40 cents of it)
+0.73 Context(< PROPFIRST > Zandi calculated,List([0, 71))):(they; spend; just 40 cents of it; T:when higher earners get an extra dollar of after-tax income)
+0.88 (< PROPFIRST > Zandi; [is] chief economist at; Moody)
+
+Middle-income Americans spend 66 cents .
+0.95 (Middle-income Americans; spend; 66 cents)
+
+The poor spend almost all of it .
+0.49 (The poor; spend; almost all of it)
+
+HA !
+
+eat it reaganomics supporters , the < PROPMALE > spend less on the dollar .
+
+turn the beat around ;) ... ' twas a good day , would've been better if < PROPMALE > Girouxhadn't leeched so much money off of me >.>  aaah < PROPMALE > , secretly murdering innocent scientists for no reason since November , 2010 .
+0.86 (Girouxhad; n't leeched; so much money; off of me)
+
+you could take me higher , so you said and I trusted you .
+0.31 (I; trusted; you)
+0.46 (you could take me higher; so said; you)
+0.40 Context(you could take me higher so said,List([0, 38))):(you; could take higher; me)
+
+I may be a liar , but betrayal lies on you .
+0.45 (I; may be; a liar)
+0.82 (betrayal; lies; on you)
+
+we must face the fact that the United States is neither omnipotent nor omniscient , ... that we cannot impose our will upon ... mankind , that we cannot right every wrong or reverse each adversity , and that therefore there cannot be an American solution to every world problem  it's good to know that , after all this , you still think of me as Itoshii hito .
+0.24 (we; must face; the fact that the United States is neither omnipotent nor omniscient , ... that we cannot impose our will upon ... mankind , that we cannot right every wrong or reverse each adversity , and that therefore there cannot be an American solution to every world problem)
+0.85 (the United States; is; neither omnipotent nor omniscient , ... that we cannot impose our will upon ... mankind , that we cannot right every wrong or reverse each adversity , and that therefore there cannot be an American solution to every world problem)
+0.31 (we; can not impose; our will; upon ... mankind)
+0.45 (we; can not right; every wrong)
+0.41 (we; reverse; each adversity)
+
+some things never change .
+0.34 (some things; never change; )
+
+time halts for no man .
+0.92 (time; halts; for no man)
+
+change is the law of life .
+0.92 (change; is; the law of life)
+0.89 (change; is the law of; life)
+
+those who live only in the past or present , are certain to miss the future .
+0.07 (those; live; )
+0.69 (those who live only in the past or present; are; certain to miss the future)
+0.69 (those who live only in the past or present; to miss; the future)
+
+ATTENTION ALL OWTS STUDENTS : over the next few days I will be collecting signatures against Mr. Axon to be submitted to state elected and state education officials along with a letter detailing precisely why Mr. Axon should NOT be principal anymore .
+0.64 (I; will be collecting; signatures against Mr. Axon; T:over the next few days)
+0.94 (signatures against Mr. Axon; to be submitted; to state elected and state education officials)
+0.88 (state; elected; state education officials)
+0.90 (a letter; detailing; precisely why Mr. Axon should NOT be principal anymore)
+0.78 Context(a letter detailing,List([176, 194))):(Mr. Axon; should NOT be; principal; T:anymore)
+
+STUDENTS OF OWTS : if you want to make your voice heard , if you want your opinion to count for something , if you want to be a part of something , if you want to speak out against Axon , come see me in the morning at the first table in the cafeteria seven o'clock until homeroom  guess who's having chips and nutty bars for dinner .
+0.48 (you; want; to make your voice heard)
+0.41 Context(you want,List([22, 30))):(you; want to make; your voice heard)
+0.29 Context(you want to make,List([22, 38))):(your voice; heard; )
+0.68 (you; want; to be a part of something)
+0.58 (you; to be; a part of something)
+0.71 (STUDENTS OF OWTS; come see; me; T:in the morning; L:at the first table; T:in the cafeteria seven o'clock)
+0.67 (you; want; to speak out against Axon)
+0.61 Context(you want,List([151, 159))):(you; want to speak out; against Axon)
+0.48 (you; want; your opinion to count for something)
+0.29 Context(you want,List([61, 69))):(your opinion; to count; )
+
+that's right , this guy .
+0.07 (that; 's; right)
+
+wikileaks ... how can people condone nations such as the United States bringing their policies on freedom of expression into line with those of < PROPFEMALE > ? the international community is moving to censor freedom of press , speech , and expression , and nobody is doing anything about it .
+0.90 (the international community; to censor; freedom of press , speech , and expression)
+0.82 (nobody; is doing; anything about it)
+
+not even the U.S. I guess \democracy\ " and \ " freedom\ " only matter when we make money off of it .
+0.19 (I; guess; )
+0.12 (I; \ only matter; )
+0.31 (we; make; money; off of it)
+
+"  Anybody know exactly what happened on water street today ?
+0.90 (Anybody; know; exactly what happened on water street today)
+
+I'm hearing an off-duty cop was murdered .
+0.40 (I; 'm hearing; an off-duty cop was murdered)
+0.75 Context(I 'm hearing,List([0, 11))):(an off-duty cop; was murdered; )
+
+the walking dead <3  today I had two teeth pulled the roots alone were a bit more than an inch long , roughly at the base of my nose .
+0.60 (I; had; two teeth; T:the walking dead <3  today)
+0.39 Context(I had,List([27, 32))):(I; had two teeth pulled; the roots; alone)
+
+seven shots of painkillers on the left and six on the right , I still felt it .
+0.47 (I; felt; it; T:still)
+
+a lot .
+
+good thing I have vicodin left over ...  has lost copious amounts of blood  it's always easy to destroy a bridge , burn it or destroy the supports .
+0.16 (I; have; )
+0.73 Context(I have,List([11, 17))):(vicodin; left over; )
+
+it takes an extremely small amount of time .
+0.45 (it; takes; an extremely small amount of time)
+
+it's always easy to close a door , just push it a little .
+
+what's not as easy is building a bridge , it takes months , if not years .
+0.45 (it; takes; months)
+
+it takes time to open a locked door without the key .
+0.45 (it; takes; time to open a locked door without the key)
+
+I miss the days ...  lunch time , even though I ate breakfast an hour ago ...  Christiano Ronaldo is considered to be the most annoying soccer player out there by top referees , including the one who was head ref at several of this year's champions league games .
+0.94 (Christiano Ronaldo; to be; the most annoying soccer player out there by top referees , including the one)
+0.91 (the one; was; head ref)
+0.27 (who; was head ref at; several)
+
+told you so .
+
+sure mom , I totally wanted you to call me worthless trash and kick me out .
+0.46 (you; to kick out; me)
+0.32 (I; wanted; you to call me worthless trash and kick me out)
+0.40 Context(I wanted,List([11, 27))):(you; to call; me; worthless trash)
+
+I totally wanted you to try locking me out , and I most definitely wanted you to call me a selfish asshole when I walked in .
+0.23 (I; walked; in)
+0.26 (I; most definitely wanted; you to call me a selfish asshole)
+0.40 Context(I most definitely wanted,List([49, 73))):(you; to call; me; a selfish asshole when I walked in)
+0.26 (I; totally wanted; you to try locking me out)
+0.40 Context(I totally wanted,List([0, 16))):(you; to try; locking me out)
+0.39 Context(I totally wanted you to try,List([0, 27))):(you; to try locking out; me)
+
+<--- good parenting skills right there .
+
+< PROPFIRST > Phelps needs to give me his shirt  setting up for christmas by myself ... wouldn't be surprised if i've got to cook dinner christmas day either .
+0.34 (his shirt; setting up; )
+0.40 (i; 've got; to cook dinner christmas day either)
+0.39 Context(i 've got,List([113, 121))):(i; 've got to cook either; dinner christmas day)
+
+alright i'm giving in .
+0.30 (i; 'm giving in; T:alright)
+
+i'll do this number thing I suppose , y'all know the rules .  2 : we used to be really good friends and you're still a pretty cool kid to talk to .
+0.80 (a pretty cool kid; to talk; to)
+0.41 (we; to be; really good friends)
+0.68 (you; 're; T:still; a pretty cool kid to talk to)
+
+I enjoy making fun of people with you in the back of kiszka's class and \sharing\ " answers with you .
+0.31 (I; enjoy making; fun; of people with you)
+
+your mom STILL says hello to me after all these years :) "  3340 : I remember you from all those years ago when you lived on Beechwood ave .
+0.66 (you; lived; L:on Beechwood ave)
+0.25 (I; remember ago; you)
+0.38 Context(I remember ago,List([67, 106))):(your mom; says; hello; to me; T:after all these years)
+
+you were always different but really nice .
+0.36 (you; were; T:always; different but really nice)
+
+I remember when < PROPFIRST > michaud almost kicked your ass and I stopped him .
+0.31 (I; stopped; him)
+0.36 (I; remember; when < PROPFIRST > michaud almost kicked your ass and I stopped him)
+
+I don't think you liked me much your freshman and sophmore years , and i'm not sure why , but I think we're cool now so it's all good .
+0.28 (it; 's; all good)
+0.28 (i; 'm not; sure why)
+0.26 (I; do n't think; you liked me much your freshman and sophmore years)
+0.40 Context(I do n't think,List([0, 13))):(you; liked; me; much; T:your freshman and sophmore years)
+0.32 (I; think; we're cool now so it's all good)
+0.24 Context(I think,List([94, 101))):(we; 're; cool; T:now)
+
+you're quite the brave person , it DOES take a lot to be different .
+0.77 (a lot; to be; different)
+0.40 (it; DOES take; a lot to be different)
+0.63 Context(it DOES take,List([32, 44))):(you; 're; quite the brave person)
+
+123 : sometimes you're a bit odd , but that's what makes you cool .
+0.79 (you; 're; a bit odd; T:sometimes)
+0.08 (that; 's; what makes you cool)
+
+I miss most of your group in shop , especially compared to the ones last year .
+0.37 (I; miss; most of your group; L:in shop)
+
+you live around the corner from me , so we should do some gaming like we used to .
+
+come visit us in the restaurant next time we're in shop .
+0.66 (we; 're; in shop; T:next time)
+
+69 : you would pick this number ... you're a great person and I'll always remember you , for reasons i'm certain you'll understand .
+0.34 (I; 'll remember; you; for reasons; T:always)
+0.37 (i; 'm; certain you'll understand)
+0.32 (you; 'll understand; )
+0.63 (you; 're; a great person)
+0.56 Context(you 're,List([36, 42))):(you; would pick; this number)
+
+I enjoy how we still talk sometimes , and I regret our falling out , but what's done is done .
+0.30 (what's done; is done; )
+0.26 (I; enjoy; how we still talk sometimes)
+0.32 Context(I enjoy,List([0, 7))):(we; talk; T:sometimes; T:still)
+0.26 (I; regret; our falling out)
+0.31 Context(I regret,List([42, 50))):(our; falling; out)
+
+you're extremely smart and you know what you want , so reach for the stars , i'm absolutely sure you won't miss .
+0.32 (you; wo n't miss; )
+0.48 (you; know; what you want)
+0.33 Context(you know,List([27, 35))):(you; want; )
+0.32 (i; 'm; absolutely sure you won't miss)
+0.37 Context(i 'm,List([77, 80))):(you; 're; extremely smart)
+
+17 : you're a great friend to me , even if we rarely talk anymore .
+0.54 (you; 're; a great friend to me)
+
+you've got a lot going for you and i'm excited to see you take it and run .
+0.46 (you; 've got; a lot going for you)
+0.35 (you; run; )
+0.83 (a lot; going; for you)
+0.37 (i; 'm; excited to see you take it and run)
+0.23 (i; to see; you take it and run)
+0.41 Context(i to see,List([35, 53))):(you; take; it)
+
+sometimes you make what i'd see as poor decisions , but they're yours to make and sometimes you prove me wrong .
+0.68 (they; 're; yours to make and)
+0.61 (you; prove; me; T:sometimes)
+0.54 (you; make; what i'd see as poor decisions; T:sometimes)
+0.39 Context(you make,List([10, 18))):(i; 'd see; as poor decisions)
+
+you're one of the smartest people I know , we should < PROPFEMALE > out more .
+0.68 (you; 're; one of the smartest people)
+0.92 (the smartest people; know; I)
+
+13 : first off , i'd like to say that without you shop wouldn't be nearly as clean and organized XD ... that being said , you're a great friend .
+0.68 (you; 're; a great friend)
+0.03 (that; being said; )
+
+we've had our ups and downs and i'm pretty sure your mother hates my guts .
+0.31 (we; 've had; our ups and downs)
+0.16 (i; 'm pretty sure; )
+0.43 Context(i 'm pretty sure,List([32, 47))):(your mother; hates; my guts)
+
+what's happened has happened and i'm glad be can still talk to each other and work together .
+0.30 (what's happened; has happened; )
+0.28 (i; 'm; glad be)
+0.21 (i; be; )
+
+I can't wait to see some of your baked creations after < PROPMALE > .
+0.46 (I; ca n't wait; to see some of your baked creations after < PROPMALE)
+0.27 (I; to see; some of your baked creations)
+
+554556 : I don't know you incredibly well , but it's fun to < PROPFEMALE > out with you and talk about hot guys we know/want . of course , it's also fun to make fun of people we hate XD we should definitely < PROPFEMALE > out more next time you're in torrington .
+0.30 (I; do n't know incredibly well; you)
+0.23 (it; 's also; fun)
+0.50 (we; hate; XD)
+0.24 (we; know; )
+0.87 (hot guys; want; /)
+
+42 : you're one of my nerd buddies .
+0.54 (you; 're; one of my nerd buddies)
+
+I enjoy hanging out with you , you're a pretty fun guy .
+0.63 (you; 're; a pretty fun guy)
+0.26 Context(you 're,List([31, 37))):(I; enjoy; hanging out with you)
+
+I think you could do some pretty awesome stuff with your hair and style if your dad would let you .
+0.49 (your dad; would let; you)
+0.43 (I; think; you could do some pretty awesome stuff with your hair and style if your dad would let you)
+0.56 Context(I think,List([0, 7))):(you; could do; some pretty awesome stuff)
+
+i'm sorry I shot you in the eye with a BB while you were playing black ops .
+0.53 (i; 'm; sorry I shot you in the eye with a BB)
+0.37 (I; shot; you; L:in the eye; T:while you were playing black ops)
+0.62 (you; were playing; black ops)
+
+420 : this is the perfect number for you , I must say .
+0.69 (420 : this is the perfect number for you; must say; I)
+0.25 Context(420 : this is the perfect number for you must say,List([0, 53))):(this; is; the perfect number for you)
+0.39 (this; is the perfect number for; you)
+
+you're one of the most awesome people i've met in quite some time .
+0.68 (you; 're; one of the most awesome people)
+0.91 (the most awesome people; 've met; T:in quite some time)
+
+one confession , I often don't know when you're high and when you're not , just to let you know .
+0.52 (I; do n't know; T:when you're high and when you're not , just to let you know; T:often)
+0.43 (you; 're; high)
+0.32 (you; 're not; )
+
+we should < PROPFEMALE > out sometime soon considering you have no life .
+0.13 (we; should < out; T:sometime soon)
+0.18 Context(we should < out,List([0, 28))):(we; should < out considering; you have no life)
+0.55 Context(we should < out considering,List([0, 54))):(you; have; no life)
+
+74 : taking my number ?
+
+you whore .
+0.32 (you; whore; )
+
+you're like my gigantic older brother/bodyguard .
+0.54 (you; 're; like my gigantic older brother/bodyguard)
+
+you're always there for me and I for you when it's necessary , otherwise we're at each others ' throats most of the time .
+
+I really do love you like a brother , and you're a great person , if a bit lazy .
+0.31 (I; really do love; you)
+0.68 (you; 're; a great person)
+
+p.s. you need to give kotor 2 back to < PROPMALE > so he'll give me fable 3 .
+0.26 (he; 'll give; me; fable 3)
+0.60 Context(he 'll give,List([54, 64))):(you; need; to give kotor 2 back to < PROPMALE)
+0.55 Context(you need he 'll give,List([5, 64))):(you; need to give back; kotor; 2)
+
+1357 : I don't know you very well at all but i'm glad that you confided one of your secrets in me .
+0.30 (I; do n't know very well at all; you)
+0.26 (i; 'm; glad that you confided one of your secrets in me)
+0.46 (you; confided; one of your secrets; in me)
+
+I hope you'll be comfortable with yourself enough soon to be open about it .
+0.42 (you; to be; open about it)
+0.36 (I; hope; you'll be comfortable with yourself enough soon to be open about it)
+0.48 Context(I hope,List([0, 6))):(you; 'll be; comfortable with yourself; T:enough soon to be open about it)
+
+always be true to yourself first , remember that .
+
+I will provide the means , but you must provide the will .
+0.45 (I; will provide; the means)
+0.62 (you; must provide; the will)
+
+I will provide the will , but you must provide the means .
+0.45 (I; will provide; the will)
+0.62 (you; must provide; the means)
+
+neither of us is strong enough alone , yet together we will be invincible .
+0.40 (neither of us; is alone; strong enough)
+0.34 (we; will be; invincible; T:together)
+
+21 : you're an enigma to me .
+0.54 (you; 're; an enigma to me)
+
+you go against the grain in almost every way and I love you for it .
+0.68 (you; go; against the grain)
+0.31 (I; love; you)
+
+you're steady , calm , and intelligent , if a bit quiet .
+0.43 (you; 're; steady , calm , and intelligent)
+
+even though you're often in the background , things would never be the same without you .
+0.31 (things; would never be; the same; without you)
+
+I wish you would talk a little more sometimes .
+0.32 (I; wish; you would talk a little more sometimes)
+0.31 Context(I wish,List([0, 6))):(you; would talk; T:a little more sometimes)
+
+you're beautiful in a manly kind of way .
+0.43 (you; 're; beautiful)
+
+127 : you're one of my card bros !
+0.54 (you; 're; one of my card bros)
+
+it's fun hanging out with you when you're around , so come around more often .
+0.52 (it; 's; fun)
+0.27 (it; hanging out; with you; T:when you're around)
+0.43 (you; 're; around)
+
+you STILL have to take us with you for a night of paranormal investigating sometime soon !
+0.42 (you; to take; us; with you; T:for a night of paranormal investigating sometime soon)
+0.75 (paranormal; investigating; T:sometime soon)
+
+884 : I used to just lump you together with those other shop bitches until I realized you weren't like them .
+0.27 (I; to just lump together; you)
+0.26 (I; realized; you weren't like them)
+0.41 Context(I realized,List([75, 85))):(you; were n't; like them)
+
+you're really sweet and fun to be around , if a little hyper .
+0.77 (you; 're; really sweet and fun to be around , if a little hyper)
+0.32 (you; to be; around)
+
+i'll never forget our conversations about \him\ " or when you were fucking wasted in shop and chef didn't even notice .
+0.31 (i; 'll never forget; our conversations about \him\)
+0.62 (you; were fucking wasted; L:in shop and chef)
+0.40 (i; did n't even notice; T:when you were fucking wasted in shop and chef)
+
+"  89 1/2 : i'm pretty sure I did one of these for you already but fb didn't post it I guess ... you're another of my card buddies .
+0.49 (i; 'm; pretty sure I did one of these for you already)
+0.37 (I; did; one of these; for you; T:already)
+0.76 (fb; did n't post; it)
+0.23 (I; guess; you're another of my card buddies)
+0.48 Context(I guess,List([85, 92))):(you; 're; another of my card buddies)
+
+it's great fun playing all the different games and I wish you'd come back to D&D .
+0.52 (it; 's; great fun playing all the different games)
+0.90 (great fun; playing; all the different games)
+0.36 (I; wish; you'd come back to D&D)
+0.61 Context(I wish,List([51, 57))):(you; 'd come; back to D&D)
+
+without you i'd never know card values .
+0.45 (i; 'd never know; card values)
+
+your dad makes the most bitchin ' pizza ever .
+0.64 (your dad; makes; the most bitchin ' pizza ever)
+
+616 : there's so much to say .
+0.28 (so much; to say; )
+
+I love you , first of all , and I always will .
+0.30 (I; love first; you)
+
+you mean so much to me , you have no idea .
+0.32 (you; mean; )
+0.62 (you; have; no idea)
+
+you've always been there when I needed someone who cared .
+0.50 (you; 've been; there; T:when I needed someone; T:always)
+0.45 (I; needed; someone who cared)
+0.68 (someone; cared; )
+
+you're such a unique person , you've been through so much , but you're back on your feet .
+0.68 (you; 're; such a unique person)
+0.36 (you; 've been; through so much)
+0.54 (you; 're; back on your feet)
+
+you'll always be my itoshii , that'll never change .
+0.03 (that; 'll never change; )
+0.51 Context(that 'll never change,List([30, 50))):(you; 'll be; my itoshii; T:always)
+
+there's so much more , but i'm running out of room .
+0.45 (i; 'm running; out of room)
+
+why oh why don't people just listen to me ?
+
+I need money  it must be with a heavy heart that we send our youth to lands unknown , knowing full well that their intent must be , for our sake , none other than to kill , maim , and destroy our enemies , for that is what our enemies intend to do to us .
+0.40 (I; need; money)
+0.40 Context(I need,List([0, 6))):(it; must be; with a heavy heart)
+0.37 (we; send; our youth; to lands unknown)
+
+if we do not realize what we have done , we are no better than the very enemies we seek to destroy .
+0.45 (we; are; no better than the very enemies)
+0.26 (we; do not realize; what we have done)
+0.16 Context(we do not realize,List([3, 20))):(we; have done; )
+0.19 (we; seek; to destroy)
+0.85 Context(we seek,List([80, 87))):(the very enemies; to destroy; we)
+
+checking out the register citizen's new cafe newsroom thingy , pretty nice . of course , letting me use fb is getting them bonus points  I want to learn latin  tron legacy was pretty bitchin '  doing absofuckinglutely nothing today other than dna , which is of course what I do when there's nothing else to do .
+0.73 (nothing else; to do; )
+0.83 (dna; is; of course)
+
+fml .
+
+falling back to tertiary defensive positions  < PROPMALE > < PROPMALE > AKA queefy the swashbuckling wublet is over , he locked himself out  we are not measured by our few successes , but by the number of failures before we got to the succeeding .
+0.52 (we; got; to the succeeding)
+0.25 (he; locked out; himself)
+0.90 Context(he locked out,List([118, 139))):(AKA; queefy; the swashbuckling wublet is over)
+0.79 Context(AKA queefy he locked out,List([72, 139))):(the swashbuckling wublet; is; over)
+0.26 Context(he locked out,List([118, 139))):(we; are not measured; by our few successes)
+
+http://www.formspring.me/EdwardCorey
+
+someone should ask me something !
+0.82 (someone; should ask; me; something)
+
+we are often surprised at how far a simple thought or idea becomes a dream , and at just how far it takes us .
+0.57 (we; are; T:often; surprised at how far a simple thought or idea becomes a dream)
+0.93 (a simple thought or idea; becomes; a dream)
+
+i'm evil , but y'all didn't know though , now you're stuck with a president y'all didn't vote for .
+0.28 (i; 'm; evil)
+0.32 (y'all; did n't know though; )
+0.36 (y'all; did n't vote; for)
+
+unemployment is up , the economy's in a ditch , our country's at war but I don't give a shit i'm < PROPMALE > .
+0.56 (I; do n't give; our country's at war but I don't give a shit i'm < PROPMALE >)
+0.52 (i; 'm; PROPMALE)
+0.91 (the economy; 's; in a ditch)
+0.76 Context(the economy 's,List([21, 34))):(unemployment; is; up)
+
+aah , JWB ...  I needs a cute boy  I didn't know who you were or anything about you .
+0.42 (I; needs; a cute boy  I didn't know who you were or anything about you)
+0.26 (I; did n't know; who you were or anything about you)
+0.27 Context(I did n't know,List([35, 48))):(you; were; )
+
+and now , i'll never get the < PROPMALE > .
+0.64 (i; 'll never get; the < PROPMALE >; T:now)
+
+you were young , had a whole life ahead of you .
+0.36 (you; were; young)
+
+and now , it's gone in an instant .
+0.60 (it; 's gone; L:in an instant; T:now)
+
+if you were religious , may your god give peace unto you , your friends , and your family .
+0.36 (you; were; religious)
+
+finally winter break !!!  people are so ... self-destructive  canada is what you get when you put french people in the woods  is waiting for fox news to talk some shit about President Obama's christmas vacation as costing more than the federal deficit each day .
+0.92 (fox news; to talk; some shit about President Obama's christmas vacation)
+0.91 (self-destructive  canada; is; what you get when you put french people in the woods)
+0.71 Context(self - destructive canada is,List([44, 71))):(finally winter break; are; so)
+0.48 Context(self - destructive canada is,List([44, 71))):(you; get; T:when you put french people in the woods)
+0.68 (you; put; french people; in the woods)
+
+life is such an elegant dance  someone come last minute shopping with me !  is now in posession of a T-shirt that says \Republicans : the other white meat \""  someone tell me what's so wrong with the social democratic party  how many times can someone \fall in love\ " in two months ?
+0.71 (someone; come; )
+0.67 (last minute shopping with me; is; T:now; in posession of a T-shirt)
+0.90 Context(last minute shopping with me is,List([44, 78))):(life; is; such an elegant dance  someone come)
+0.92 (a T-shirt; says; \Republicans)
+0.88 (someone; tell; me; what's so wrong with the social democratic party  how many times can someone \fall in love\ " in two months)
+
+get over yourselves .
+
+"  I do so try to be thought provoking  PETA is just gangsters with hard-ons for nature  quality is so rare in humans these days  I wonder if you realize quite how much I care .
+0.56 (I; do so try; to be thought provoking  PETA is just gangsters with hard-ons for nature  quality)
+0.56 Context(I do so try,List([3, 14))):(I; do so try to be thought; provoking  PETA is just gangsters with hard-ons for nature  quality)
+0.93 Context(I do so try to be thought,List([3, 28))):(provoking  PETA; is; just gangsters with hard-ons for nature  quality)
+0.26 (I; wonder; if you realize quite how much I care)
+0.93 Context(I wonder,List([130, 138))):(I do so try to be thought provoking  PETA is just gangsters with hard-ons for nature  quality; is; so rare in humans; T:these days)
+0.41 Context(I wonder,List([130, 138))):(you; realize; quite how much I care)
+0.16 Context(I wonder you realize,List([130, 153))):(I; care; )
+0.39 (PETA; is just gangsters with; hard-ons)
+
+maybe it's because i'm one of few who do , maybe it's because YOU don't care .
+0.28 (i; 'm; one of few)
+0.17 (few; do; )
+0.32 (YOU; do n't care; )
+
+whatever the reason , you're asleep , and you need to wake the fuck up .
+0.43 (you; 're; asleep)
+0.56 (you; need; to wake the fuck up)
+0.55 Context(you need,List([42, 50))):(you; need to wake up; the fuck)
+
+the game has changed  plans are moving forward nicely  I was sick yesterday , I even left school early , which I never do  may very well be homeless within a few months ... yay .
+0.60 (the game; are moving nicely; )
+0.45 (I; even left; school; T:early)
+0.19 (I; never do; )
+0.46 (I; was; sick; T:yesterday)
+
+we may get to keep our place until december , the lease agreement appears to be airtight .
+0.75 (the lease agreement; appears; )
+0.72 (the lease agreement; to be airtight; )
+0.26 (we; may get; to keep our place until december)
+0.26 Context(we may get,List([0, 10))):(we; may get to keep; our place; T:until december)
+
+i'm unsure for the moment , though .
+0.44 (i; 'm though; unsure for the moment)
+
+the ONLY legal way for her to break our lease : move in a family member and kick us out .
+0.31 (her; to break; our lease)
+0.76 (the ONLY legal way for her to break our lease; move; in a family member)
+
+no worries , we've got a new place , it's bigger and nicer than our current one .
+0.32 (it; 's; bigger and nicer than our current one)
+0.40 Context(it 's,List([37, 41))):(we; 've got; a new place)
+
+today was one big clusterfuck ... doesn't look better in the days ahead .
+
+ah well , gung ho and all that .
+
+too many problems , not enough solutions .
+
+time to prioritize .
+
+fall into line , you are as all the rest .
+0.62 (you; are; as all the rest)
+
+you will submit , or you will break , as all the rest .
+0.32 (you; will submit; )
+0.57 (you; will break; as all the rest)
+
+if anyone knows if it's shop or academics on monday , please let me know which A.S.A.P.  tell me of the shattered remains you left behind .
+0.43 (you; left; behind)
+0.83 (anyone; knows; if it's shop or academics on monday)
+0.47 Context(anyone knows,List([3, 15))):(it; 's; shop or academics on monday)
+
+tell me of the pieces you < PROPFEMALE > with you , tell me of the consumed  the ability to reason seems to be suffering from rapid generational decay .
+
+( in other words : kids these days )  touch me , i'll gut you .
+0.31 (i; 'll gut; you)
+
+touch him , i'll do to you worse than any words can describe .
+0.73 (any words; can describe; )
+0.25 (i; 'll do worse; to you)
+
+decisions decisions .
+
+i'm a trooper .
+0.52 (i; 'm; a trooper)
+
+worked all day at robotics , still there .
+
+my mother has the audacity to be pissed off at me for having commitments to things like that .
+0.43 (my mother; has; the audacity to be pissed off at me for having commitments to things like that)
+0.75 (the audacity; to be; pissed off at me for having commitments to things like that)
+
+some people .. they're just imbecilic .
+0.43 (they; 're; just imbecilic)
+
+stand and deliver  guess who's having spicy chicken for dinner .
+
+SCORE !!!  looks like southern sudan will soon be a new nation .
+
+best of luck to all of them , they'll need it .
+0.46 (they; 'll need; it)
+
+where was your god when your neighbour's house burned ?
+0.39 (your neighbour's house; burned; )
+
+where was your god when the child down the street was struck and killed on his bike ?
+0.79 (the child down the street; was struck; )
+0.85 (the child down the street; killed; L:on his bike)
+
+where was your god when that cop was shot in the parking lot ?
+0.90 (that cop; was shot; L:in the parking lot)
+
+wherever he was then , he's sure to be when YOU need something .
+0.28 (he; was; T:then)
+0.62 (YOU; need; something)
+
+touch the lives of many , and you may yet leave an impression on a few  this is some fucked up repugnant shit  I love when people tell me what my sexual orientation is ... I always lol  shoveled at < PROPMALE>'s , maybe hanging out with peoples later  If I extend to you my hand , will you take it ?
+0.65 (you; may leave; an impression on a few; T:yet)
+0.71 (I; lol; shoveled at < PROPMALE>'s , maybe hanging out with peoples later; T:always)
+0.25 Context(I lol,List([172, 184))):(this; is; some fucked up repugnant shit  I love)
+0.31 (I; extend; to you; my hand)
+0.71 (I; shoveled; L:at < PROPMALE>'s , maybe hanging out with peoples later; T:always)
+0.85 (some fucked up repugnant shit; love; T:when people tell me what my sexual orientation is)
+0.86 (PROPMALE>'s; maybe hanging out; with peoples; T:later)
+0.82 (people; tell; me; what my sexual orientation is)
+0.37 Context(people tell,List([123, 134))):(my sexual orientation; is; )
+0.39 (a few this; is some fucked up; repugnant shit)
+
+that is the question I am perpetually asking .
+0.10 (that; is; the question I am perpetually asking)
+0.88 (the question; am perpetually asking; I)
+
+wham bam thank you ma'am!
+
+I want a dog ... I will name him quintus and he shall eat people for me .
+0.45 (he; shall eat; people)
+0.26 (I; will name; him; quintus)
+0.46 Context(I will name,List([17, 28))):(I; want; a dog)
+
+his tag will say \wublet \""  I'M TIRED !
+0.51 (I; 'M; TIRED)
+0.54 Context(I 'M,List([30, 33))):(his tag; will say; \)
+
+tell me what I want to hear , whisper it into my ear , lie to me , just give me solace  today ... I dumped hot oil on my right hand .
+
+lots of it .
+
+the next few days are gonna be soooo fun !
+0.77 (the next few days; na be; soooo fun)
+
+good thing I can kind of use my right hand , or i'd be screwed , my left one is helpless .
+0.31 (I; can kind of use; my right hand)
+0.19 (i; 'd be screwed; )
+0.48 (my left one; is; helpless)
+
+UPDATE : I have acquired aid from a doctor , I will be fine within a few days .
+0.45 (I; have acquired; aid; from a doctor)
+0.45 (I; will be; fine; T:within a few days)
+
+except the second degree burns ... maybe a week for those .
+
+omegle is my new friend  they are the righteous , champions of the just .
+0.83 (omegle; is; my new friend)
+0.56 Context(omegle is,List([0, 9))):(they; are; the righteous , champions of the just)
+0.39 (they; are the righteous , champions of; the just)
+
+but who now stands for them ? the just they serve ?
+
+no , they stand alone , abandoned , sentinels of a lifeless ungrateful master , bound by honour , consumed by hatred .
+0.43 (they; stand; alone)
+0.28 (they; abandoned; )
+0.88 (honour; consumed; by hatred)
+
+the day will come when you are no longer protected by your title  legislative bullshit , that's what my mother has arbitrarily titled my career choice .
+0.50 (you; are protected; by your title  legislative bullshit; T:no longer)
+0.08 (that; 's; what my mother has arbitrarily titled my career choice)
+0.87 Context(that 's,List([89, 95))):(the day; will come; T:when you are no longer protected by your title  legislative bullshit)
+0.43 Context(that 's,List([89, 95))):(my mother; has arbitrarily titled; my career choice)
+
+thanks for the confidence mom .
+
+I do damned good work , just don't fuck with me .
+
+bed and all that wot  the world is shaking , the walls are breaking , power is yours for the taking .
+0.73 (the walls; are breaking; )
+0.90 (power; is; yours for the taking)
+0.92 Context(power is,List([70, 78))):(bed and all that; wot; the world is shaking , the walls are breaking)
+0.69 Context(bed and all that wot power is,List([0, 78))):(the world; is shaking; )
+
+are you there to sieze it , or will you falter like all the rest ?
+0.42 (you; to sieze; it)
+
+well ... off to robotics .
+
+woo .
+
+don't be such an irrational jackass , it's unbecoming  I need a job ASAP if anybody knows of any openings anywhere please tell me .
+0.92 (anybody; knows; of any openings)
+0.44 (I; need; a job ASAP)
+0.24 Context(I need,List([55, 61))):(it; 's; unbecoming)
+
+i'll do anything to not end up homeless .
+0.52 (i; 'll do; anything; to not end up homeless)
+
+it's extremely important .
+0.28 (it; 's; extremely important)
+
+thanks in advance .
+
+why is it always me ? is it because I refuse to break ?
+0.19 (I; refuse; to break)
+0.16 Context(I refuse,List([36, 44))):(I; refuse to break to break; )
+
+I need something to do , make plans with me someone , before I die of boredom  raping a hooker is theft  Like My Status For A Report Card :\  Style :\  Personality :\  Funniness :\  Cuteness :\  ... Sweetness :\  Teachers note :\  Teachers note :  dear Oreo Corporation , \  you have no idea how important you are to me , please always stay in business .
+0.71 (something; to do; )
+0.46 (you; are; to me)
+0.45 (I; die; of boredom)
+0.41 (I; raping; a hooker)
+0.39 (a hooker; is theft Like; My Status)
+
+\  love , < PROPMALE >  Hu Jintao , President of the People's Democratic Republic of < PROPFEMALE > , is beginning his official visit to the United States today .
+
+let's hope President Obama can avoid insulting him as much as Former President < PROPFIRST > W . Bush did .
+0.70 (Bush; did; )
+
+I hate that the new profile doesn't show my links for easy access  Non confractus concedere non vinci .
+0.86 (Non; confractus; concedere non vinci)
+0.17 (I; hate; that the new profile doesn't show my links for easy access)
+0.82 Context(I hate,List([0, 6))):(the new profile; does n't show; my links for easy access)
+
+Stabo et pugna ad ultimam .
+
+Volo videre te coram me mori optime video me .
+0.92 (Volo; videre; te)
+0.85 (Volo videre te; coram; me; mori optime video me)
+0.80 Context(Volo videre te coram,List([0, 20))):(mori optime; video; me)
+
+my eye will NOT stop twitching T.T  so today the United States and < PROPFEMALE > , the two world superpowers , took a very important step toward cooperation in advancing mutual interests .
+
+so far President Obama has done pretty well , hope the state dinner tonight is a home run .
+0.87 (President Obama; has done pretty well; T:so far)
+0.90 (President Obama; hope; the state dinner tonight is a home run)
+0.94 Context(President Obama hope,List([7, 50))):(the state dinner; is; a home run; T:tonight)
+
+off to dna * skips happily down icy road *  oh < PROPFEMALE > 419 , how I loved you !
+0.31 (I; loved; you)
+
+you took me to all sorts of excitingly deadly places .
+0.46 (you; took; me; to all sorts of excitingly deadly places)
+
+( to those of you who get this reference , like this if you agree )  I have too many wublets  here we go , on the move , in the groove , here we go !
+0.69 (those of you; get; this reference)
+0.32 (you; agree; )
+0.24 (we; go; )
+
+all the way , every day , every way !
+
+hua !
+
+haha !
+
+ATTENTION ERRBODY : I will now begin to address everyone by their rightful prefix and their last name .
+0.39 (I; will begin; to address everyone by their rightful prefix and their last name; T:now)
+0.29 Context(I will begin,List([20, 36))):(I; will begin to address; everyone)
+
+for example I would be \ Mr. Corey .
+0.45 (I; would be; Mr. Corey)
+
+\""  I want a < PROPFEMALE > who I shall name Colonel < PROPMALE > Toritomo .
+0.32 (I; want; who I shall name Colonel < PROPMALE > Toritomo)
+0.44 Context(I want,List([5, 11))):(I; shall name; Colonel < PROPMALE > Toritomo)
+
+off to bed so i'm not as fucked as the rest of you if we have school  robotics then wublet's house  I like to think i'm a practical , down to earth , rational person , yes ?
+0.45 (we; have; school  robotics)
+0.26 (I; like; to think i'm)
+0.43 Context(I like,List([100, 106))):(i; 'm not; as fucked as the rest of you if we have school  robotics)
+0.26 Context(I like,List([100, 106))):(I; like to think; i'm)
+0.20 Context(I like to think,List([100, 115))):(i; 'm; )
+
+until my dying breath I will do what I can .
+0.40 (I; will do; T:until my dying breath)
+
+nobody deserves to go without someone to help them , ever .
+0.82 (someone; to help ever; them)
+0.87 (nobody; deserves; to go without someone)
+0.67 Context(nobody deserves,List([0, 15))):(nobody; deserves to go without someone to go; )
+
+like this if you're glad you met me :) post this as your status and see how many likes you get .
+0.54 (you; 're; glad you met me)
+0.47 (you; met; me)
+0.40 Context(you met,List([25, 32))):(you; met me :) post; this; as your status)
+0.30 Context(you met,List([25, 32))):(you; met me see; how many likes you get)
+
+shall such grace be vainly brought me ?
+
+teach me how to have fun ?
+
+war ?
+
+war is inevitable .
+0.67 (war; is; inevitable)
+
+it happens with little provocation .
+0.19 (it; happens; )
+
+peace ?
+
+peace is fickle , it requires coaxing and work , something we humans seem to do poorly .
+0.17 (we; seem; )
+0.85 (something; to do poorly; we)
+0.40 (it; requires; coaxing and work)
+0.76 Context(it requires,List([18, 29))):(peace; is; fickle)
+
+* sigh * if only everyone just did what I told them .
+0.80 (only everyone; just did; what I told them)
+0.31 Context(only everyone just did,List([12, 34))):(I; told; them)
+
+So now it ends .
+0.36 (it; ends; T:now)
+
+How ... deliciously interesting , I must say ; and as of late , it takes a lot to pique my interest .
+0.19 (I; must say; )
+0.31 (it; takes; a lot to pique my interest)
+
+what else is there after all ?
+0.89 (what else; is there after; all)
+
+knowledge is everything .
+0.92 (knowledge; is; everything)
+
+you know what they say , knowledge is power , yes ?  is currently preparing a scathing open letter to our illustrious speaker of the house .
+0.82 (knowledge; is preparing; a scathing open letter; to our illustrious speaker of the house; T:currently)
+0.90 (knowledge; is; power)
+0.48 Context(knowledge is,List([25, 37))):(you; know; what they say)
+0.27 Context(you know knowledge is,List([0, 37))):(they; say; )
+
+standby for facebook publishing .
+
+I totally just saw an ad for < PROPFEMALE > on T.V. .... it was literally just for < PROPFEMALE > .
+0.24 (it; was; literally)
+0.44 Context(it was,List([57, 63))):(I; totally just saw; an ad for < PROPFEMALE > on T.V.)
+
+sight ?
+
+what use have I of sight ?
+
+what we see constantly decieves us , what we have seen constantly haunts us , and what we will see constantly eludes us .
+0.23 (we; see; T:constantly)
+0.54 (what we will see; constantly eludes; us)
+0.59 (what we see constantly; decieves; us; what we have seen constantly haunts us , and what we will see constantly eludes us)
+0.47 Context(what we see constantly decieves,List([0, 31))):(what we have seen; constantly haunts; us)
+0.19 (we; have seen; )
+0.19 (we; will see; )
+
+off to robotics .
+
+woo .
+
+then off to dna .
+
+then ... home I guess .
+
+at wublet's house  I am NEVER playing a game with < PROPFIRST > Sorensen ever again  \war is nothing more than a product of human vanity\ " - < PROPFIRST > < PROPFIRST > "  it's too late to salvage it all , but of course i'll try and fail anyway .
+0.52 (I; am NEVER playing PROPFIRST ever again; a game)
+0.17 (i; fail anyway; )
+0.89 (\war; is; nothing more than a product of human vanity\)
+0.37 (it; 's; too late to salvage it)
+0.62 (i; 'll try; T:of course)
+
+how ... unfortunate .
+
+ah well , we will endure as we ever have .
+0.31 (we; will endure; T:as we ever have)
+0.30 (we; have; T:ever)
+
+be my friend ?
+
+life update : perhaps there is yet a < PROPMALE >  i'm not Jewish .
+0.28 (i; 'm not; Jewish)
+
+I just have a big nose and like money .
+0.45 (I; just have; a big nose)
+
+\what do you usually do when i'm gone ?
+0.19 (i; 'm gone; )
+
+\ " \ " wait for you to come back \""  save me from myself , I beg you .
+0.36 (you; to come; back)
+0.32 (I; beg; you)
+
+I sit here idly by as my world collapses around me .
+0.22 (I; sit idly; here)
+0.49 (my world; collapses; around me)
+
+what should I do ?
+
+laugh ?
+
+cry ?
+
+dance ?
+
+I honestly don't know .
+0.19 (I; honestly do n't know; )
+
+maybe i'll just ... watch it all burn .
+
+not much else to do eh ?
+0.34 (not much else; to do; eh)
+
+white boys have no ass : c  i've seen enough suffering for a while  they can't all be winners I suppose  inbox me a number with a question , i'll totally answer it .
+0.51 (they; ca n't be; winners)
+0.23 (i; 'll answer; it)
+0.39 (i; 've seen; enough suffering; T:for a while)
+0.88 Context(i 've seen,List([28, 37))):(white boys; have; no ass)
+
+note : if it's disgusting you'll just get witty sarcasm ;D  12340987 : I don't know you too well , but you seem okay .
+0.28 (it; 's; disgusting)
+0.62 (you; 'll just get; witty sarcasm)
+0.30 (I; do n't know too well; you)
+
+i'm always there to listen , you're alright .
+0.17 (i; to listen; )
+0.37 (you; 're; alright)
+0.24 Context(you 're,List([29, 35))):(i; 'm; T:always; there; to listen)
+
+28 : I fucking LOVE them !
+0.26 (I; fucking; LOVE them)
+0.26 Context(I fucking,List([5, 14))):(I; fucking LOVE; them)
+
+I want a house shaped like one .
+0.52 (I; want; a house shaped like one)
+0.77 (a house; shaped; like one)
+
+8675309 : probably ?
+
+117(such a nerdy number , Chief ): it was my second choice .
+0.37 (it; was; my second choice)
+
+it's also an important life skill .
+0.45 (it; 's also; an important life skill)
+
+i'm hungry  off to robotics , fun fun .
+0.52 (i; 'm; hungry  off to robotics , fun fun)
+
+105 : i'd do it for a solid $ 200,000  69 : a few hundred , i've tested it ;D  someone new should talk to me  \nothing is your own but the few cubic centimeters inside your skull\ " - name the quotee without looking it up and you'll be mah bestest friend .
+0.68 (you; 'll be; mah; T:bestest friend)
+0.77 (D; is; your own but the few cubic centimeters inside your skull\)
+0.80 Context(D is,List([76, 121))):(someone new; should talk; to me)
+0.26 Context(D someone new should talk is,List([76, 121))):(i; 've tested; it)
+0.31 Context(i 've tested D someone new should talk is,List([60, 121))):(i; 'd do; it; T:for a solid $ 200,000  69)
+0.68 Context(D someone new should talk is,List([76, 121))):(someone new; should talk to me \nothing; )
+
+"  crack .
+
+click .
+
+< PROPFEMALE > .
+
+click clack .
+
+whoosh .
+
+crack .
+
+okay so on the walk home I saw four people talking on the sidewalk by the bank next to cvs .
+0.71 (I; saw; four people talking on the sidewalk by the bank next to cvs; L:on the walk home)
+0.88 Context(I saw,List([25, 30))):(four people; talking; on the sidewalk; L:by the bank next to cvs)
+
+one sees me , says something quietly to the others , and their group breaks up .
+0.34 (their group; breaks up; )
+
+three of them , two men and a woman , get in a car parked facing the road ( blocking the driveway ) and speed off .
+0.69 (three of them; get; in a car)
+0.92 (a car parked facing the road; blocking; the driveway)
+0.33 (three of them; speed off; )
+
+they were wearing badges ( local or fed I don't know ) but driving an unmarked silver car .
+0.62 (they; were wearing; badges)
+0.19 (I; do n't know; )
+0.58 (they; driving; an unmarked silver car)
+
+intriguing stuff .
+
+am I truly so cold ?
+
+if a guy has frostbite ( black ) , bruises ( purple ) , hypothermia ( blue ) , jaundice ( yellow ) , gangreen ( green ) , and is bleeding ( red ) , would people call him gay because he's rainbow coloured ?
+0.95 (a guy; has; frostbite ( black ) , bruises ( purple ) , hypothermia ( blue ) , jaundice ( yellow ) , gangreen ( green ) , and is bleeding ( red)
+0.52 (he; 's; rainbow coloured)
+0.71 (rainbow; coloured; )
+
+anybody know what's going on on main street in torrington ?
+0.90 (anybody; know; what's going on on main street in torrington)
+
+seven officers and a supervisor placed at three spots within a mile looking for somebody named < PROPMALE > .
+0.90 (a supervisor; placed; at three spots within a mile)
+0.90 (a mile; looking; for somebody)
+0.89 (somebody; named; PROPMALE >)
+
+any further info would be appreciated , as i'm just nosey like that .
+0.75 (any further info; would be appreciated; )
+0.28 (i; 'm; just nosey)
+
+woke up late , so off to robotics late ; and guess what !? i'll probably be THERE until late too x.x
+0.22 (i; 'll probably be late too; T:until)
+
+I have decided that Halo : Reach mad hunters TOO hard  when did senseless vulgarity become cool ?
+0.22 (I; have decided; that Halo : Reach mad hunters TOO hard)
+0.84 Context(I have decided,List([0, 14))):(Halo; Reach TOO hard; T:when did senseless vulgarity become cool)
+
+so i'm thinking i'm going to run for city council if i'm legally qualified after I graduate .
+0.41 (i; to run; for city council)
+0.31 (i; 'm legally; qualified; T:after I graduate)
+0.19 (I; graduate; )
+0.26 (i; 'm thinking; i'm going to run for city council)
+
+thoughts ?
+
+you know , I wouldn't mind going to school for nine am and coming home later .
+0.38 (you; know; )
+0.57 (I; would n't mind; going to school for nine am and coming home later)
+0.14 (I; am coming; home; T:later)
+
+i'd be okay with that .
+0.12 (i; 'd be; okay with that)
+
+there are rarely excuses , there are mostly just reasons .
+
+* collapses into peals of insane laughter *  some of the adverts are so tempting , I even think about clicking them .
+0.80 (some of the adverts; are; so tempting)
+0.31 (I; even think; about clicking them)
+
+then I remember that they're adverts  whatever happened to respect and dignity ?
+0.68 (adverts; to respect; )
+0.18 (I; remember; that they're adverts; T:then)
+0.62 Context(I remember,List([5, 15))):(they; 're; adverts  whatever happened to respect and dignity)
+
+good thing having no life ends after tuesday .
+0.76 (good thing having no life; ends; T:after tuesday)
+
+slept through my alarm and woke up drastically later than I had intended  On Wisconson , think about this : 1933 - Hitler abolishes labour unions  i'm just a pessimistic cynic old before my time I suppose  my house clangs loudly every twenty minutes O_o  I wish I could become invisible and intangible , but have coherent senses of sight and sound and a coherent mind while doing so .
+0.28 (i; 'm; just a pessimistic cynic old)
+0.65 (my house; clangs loudly; T:every twenty minutes O_o  I wish I could become invisible and intangible , but have coherent senses of sight and sound and a coherent mind)
+0.53 (I; have; coherent senses of sight and sound and a coherent mind; T:while doing so)
+0.50 (I; had intended; On Wisconson)
+0.32 (I; wish; I could become invisible and intangible)
+0.19 Context(I wish,List([255, 261))):(I; could become; invisible and intangible)
+
+one can only do just so much patching  now taking bets on how long it will take before a massive resource shortage and population boom result in global facism  if only I wasn't in school ... i'd be right out there with them in Wisonsin .
+0.58 (one; can only do; just so much patching  now taking bets on how long it will take before a massive resource shortage and population boom result in global facism)
+0.94 (just so much patching; taking; bets; T:now)
+0.57 (it; will take; T:before a massive resource shortage and population boom result in global facism)
+0.37 (i; 'd be; right; L:out there; with them)
+
+I think my motto ( and , coincidentally that of ONI ) says it all : semper vigilans  they say it's always darkest before < PROPFEMALE > .
+0.25 (I; think; my motto ( and , coincidentally that of ONI ) says it all : semper vigilans)
+0.63 Context(I think,List([0, 7))):(my motto ( and , coincidentally that of ONI; says; it)
+0.46 (they; say; it's always darkest before < PROPFEMALE >)
+0.51 Context(they say,List([85, 93))):(it; 's; T:always; darkest; L:before < PROPFEMALE >)
+
+the thing is , you never know if it's going to get darker or if the < PROPFEMALE > is right around the corner .
+0.57 (it; to get; darker or if the < PROPFEMALE > is right around the corner)
+0.89 (the < PROPFEMALE; is; right around the corner)
+
+I would gladly die for what I believe in , would you ?
+0.31 (I; would gladly die; for what I believe in)
+0.19 (I; believe; )
+
+wait , don't answer that .
+
+i'd be there to take your place , for all of YOU are what I believe in .
+0.37 (i; 'd be; there; to take your place)
+0.27 (i; to take; your place)
+
+what would it be , to be immortal ?
+0.20 (it; to be; immortal)
+
+what I would give to know .
+0.18 (I; would give; to know)
+0.16 Context(I would give,List([5, 17))):(I; would give to know to know; )
+
+so everyone knows beforehand , this really happened : when < PROPMALE > Caesar was beginning his invasion of Britain , his men refused to disembark their ships during the amphibious landing .
+0.82 (PROPMALE > Caesar; was beginning; his invasion of Britain)
+0.85 (everyone; knows beforehand; this really happened : when < PROPMALE > Caesar was beginning his invasion of Britain)
+0.12 Context(everyone knows beforehand,List([3, 28))):(this; really happened; )
+0.43 (his men; refused; to disembark their ships during the amphibious landing)
+0.43 Context(his men refused,List([119, 134))):(his men; refused to disembark; their ships; T:during the amphibious landing)
+
+the standard bearer of one of the legions jumped overboard , carrying his standard , and advanced alone .
+0.81 (the standard bearer of one of the legions; advanced alone; )
+0.87 (the standard bearer of one of the legions; jumped; overboard; carrying his standard)
+0.82 Context(the standard bearer of one of the legions jumped,List([0, 48))):(the standard bearer of one of the legions; jumped carrying; his standard)
+
+the legionaires jumped ship in droves to follow him ... never underestimate the power of symbols .
+
+' tis but a cold , cold path I have walked these last years .
+0.45 (I; have walked; T:these last years)
+
+it has been nearly a year now .
+0.45 (it; has been; nearly a year; T:now)
+
+no end in sight .
+
+oh well ... optimism seems appropriate , if only I had any to offer .
+0.26 (any; to offer; )
+
+great event with our Governor , Dannel Malloy .
+
+stand by for a brief question and answer summary  just take my hand , give it a < PROPMALE >  a sacrifice is not what we had in our minds  I abso-fucking-lutely hate it when people capitalize every word they type .
+0.37 (we; had; L:in our minds)
+0.82 (people; capitalize; every word they type)
+0.88 (every word; type; they)
+
+envy : it wears a coat and hangs out in hallways  \an agnostic is just an atheist without balls \""  oh , the sardonically ironic , sarcastically morbid humour of it all !
+0.45 (it; wears; a coat)
+0.41 (it; hangs out; L:in hallways)
+0.92 (agnostic; is; just an atheist without balls)
+0.39 (agnostic; is just an atheist without; balls)
+
+I will die as I have lived , for better or worse .
+0.31 (I; will die; T:as I have lived , for better or worse)
+0.19 (I; have lived; )
+
+one day , not today of course .
+
+what is in a name ?
+
+nothing .
+
+everything .
+
+ugh ... this happens every time  my mind is the point of no return kid , you sure you want in ?
+0.81 (my mind; is; the point of no return kid; T:every time)
+0.41 (you; sure; you want in)
+0.30 Context(you sure,List([73, 81))):(this; happens; T:every time  my mind is the point of no return kid)
+0.37 Context(you sure,List([73, 81))):(you; want; in)
+0.39 (my mind; is the point of; no return kid)
+
+I don't have fun like you people do .
+0.45 (I; do n't have; fun)
+0.41 (you people; do; )
+
+fun to me is appreciating humour while working . of course winning is fun too ^.^  sure .
+0.41 (fun to me; is appreciating; humour; T:while working)
+
+i'm the rat in the corner to you right now , but i'm going to be the guy controlling your life in the future .
+0.37 (i; 'm; the rat in the corner to you; T:right now)
+0.27 (i; to be; the guy controlling your life in the future)
+0.83 (the guy; controlling; your life; T:in the future)
+
+my mom is stalking our mailman as he goes down the street  some people ... they just need a good stabbin '  I love the smell of burnt , charred flesh in the morning .
+0.45 (he; goes; down the street)
+0.45 (I; love; the smell of burnt)
+0.52 (they; just need; a good stabbin '  I love the smell of burnt ,)
+0.42 Context(they just need,List([75, 89))):(my mom; is stalking; our mailman; T:as he goes down the street)
+
+smells like victory .
+
+why am I always the social stepping stone ?
+
+me : \thirteen year old guys today sound like little girls .
+
+\ " Julius : \ " it's cause they're bitches !
+0.37 (it; 's; cause they're bitches)
+0.68 (they; 're; bitches)
+
+\""  great night , though the best part was only twenty minutes long , it was all great  if only ...  Operation : Hierarch under way .
+0.24 (it; was; all great)
+0.92 Context(it was,List([71, 77))):(the best part; was; only twenty minutes long)
+0.39 (it; was all great if; only)
+
+stand by for sit-rep  Operation : Hierarch phase one and phase two completed .
+
+entering phase three .
+
+phase three of Operation : Hierarch has been completed successfully .
+0.77 (Hierarch; has been completed successfully; )
+
+beginning the fourth phase .
+
+Go to your profile .
+
+The first five friends in the sidebar are your team for the Zombie Apocalypse .
+0.91 (The first five friends in the sidebar; are; your team for the Zombie Apocalypse)
+0.38 (the sidebar; are your team for; the Zombie Apocalypse)
+
+How screwed are you ?
+
+Ashen Rosenthal , < PROPFIRST > T .
+
+< PROPFEMALE > , < PROPMALE > < PROPFEMALE > , < PROPFEMALE > Watts , and < PROPFIRST > < PROPFIRST >  i'd be alright if I lost myself , so long as I found you .
+0.37 (i; 'd be; alright; T:so long as I found you)
+0.37 (I; lost; myself)
+0.31 (I; found; you)
+
+I will be your spectral guide in the troubling times ahead .
+0.31 (I; will be; your spectral guide in the troubling times ahead)
+
+I will show you the way , but you must choose the paths that open , and walk them unto their end .
+0.31 (I; will show; you; the way)
+0.37 (you; must choose; the paths that open)
+0.49 (you; walk; them; T:unto their end)
+
+in order to truly claim victory we must go forth with the absolute conviction that we are right . to realize what the meaning of that victory is we must understand that our enemies came to face us with that very same conviction . in order to hold that victory , we must realize that we won does not mean we were right or wrong , merely victorious .
+0.17 (we; must go; forth; with the absolute conviction that we are right; to realize what the meaning of that victory is we must understand that our enemies came)
+0.12 Context(we must go,List([32, 42))):(we; must go to realize; what the meaning of that victory is we must understand that our enemies came)
+0.79 Context(we must go to realize,List([32, 108))):(the meaning of that victory; is; )
+0.17 Context(we must go to realize the meaning of that victory is,List([32, 144))):(we; must understand; that our enemies came to face us with that very same conviction)
+0.21 Context(we must go to realize the meaning of that victory is we must understand,List([32, 163))):(our enemies; came; to face us with that very same conviction)
+0.11 (we; must realize; that we won)
+0.20 Context(we must realize,List([262, 277))):(we; won; )
+0.23 (we; are; right)
+0.45 (our enemies; to face; us)
+
+chugged the last of our orange juice like it was liquid crack .
+0.52 (it; was; liquid crack)
+
+wherever do people get it in their heads the notion that fucking with me is a good idea ?
+0.72 (fucking with me; is; a good idea)
+
+\the American taxpayers are the jews for Obama's ovens\ " - tea party protestor sign .
+0.95 (\the American taxpayers; are; the jews for Obama's ovens\ " - tea party protestor sign)
+0.88 (\the American taxpayers; are the jews for; Obama)
+
+classy right ? "  plans made in dark rooms , officers appointed in the shadows , a whisper runs through the crowds .
+0.89 (officers; appointed; L:in the shadows)
+0.93 (a whisper; runs; through the crowds)
+
+hope at last comes to the hopeless .
+0.78 (hope at last; comes; to the hopeless)
+
+ridiculous : worthy of ridicule  I still have a lingering cough , but the worst is gone and i'm sure i'm not contagious .  is waiting for things in wisconsin to go down in one of two ways : a court trial or violence .
+0.55 (I; have; a lingering cough; T:still)
+0.38 (the worst; is; gone)
+0.25 (the worst; gone; )
+0.37 (i; 'm; sure i'm not contagious)
+0.28 (i; 'm not; contagious)
+
+\scientific explanations are what scientists always come up with when they can't explain things\ " - crazy jesus lady on youtube .
+0.66 (they; ca n't explain; things\ " - crazy jesus lady on youtube)
+0.89 (\scientific explanations; are; what scientists always come up with when they can't explain things\ " - crazy jesus lady on youtube)
+0.91 Context(\scientific explanations are,List([0, 28))):(scientists; come up; T:when they can't explain things\ " - crazy jesus lady on youtube; T:always)
+
+christianity has some great followers .
+0.92 (christianity; has; some great followers)
+
+"  my stance on world news update : my heart goes out to the patriots in Libya fighting to wrest their rightful democracy from Colonel Gadhafi , particularly the commandos currently holding out on the northern coast protecting the oil from Gadhafi's troops .
+0.68 (my heart; goes; out to the patriots in Libya)
+0.91 (the patriots in Libya; fighting; to wrest their rightful democracy from Colonel Gadhafi)
+0.94 (particularly the commandos; holding out; L:on the northern coast; T:currently)
+
+everyone please do anything you are able to do to ease the suffering of the Japanese people , they are in dire need of assistance .
+0.84 (everyone; do; anything you are able to do)
+0.36 (you; are; able to do)
+0.62 (they; are; in dire need of assistance)
+0.85 (anything; to do; to ease the suffering of the Japanese people)
+0.51 Context(anything to do,List([19, 46))):(you; to ease; the suffering of the Japanese people)
+
+Former President < PROPFIRST > W . Bush speaks out against nativism and isolationism : either he's gotten a fuck of a lot smarter , or the republicans we have now are so bat-shit crazy that he looks sane in comparison .
+0.79 (the republicans; have; T:now)
+0.77 (the republicans; are; so bat-shit crazy that he looks sane in comparison)
+0.45 (he; looks; sane in comparison)
+
+thank you amazing atheist for this genius theory .
+
+you see , the reason I always beat people at the game ( which you all just lost , if you play , which I happen not to anymore ) is that i've always got hidden pieces .
+0.32 (you; see; )
+0.55 (I; beat; people; L:at the game; T:always)
+0.28 (you; just lost; )
+0.32 (you; play; )
+0.19 (I; happen; )
+
+I am considering organizing some sort of collection of donations for Japan , thoughts ?
+0.56 (I; am considering; organizing some sort of collection of donations for Japan , thoughts)
+0.56 Context(I am considering,List([0, 16))):(I; am considering organizing; some sort of collection of donations for Japan , thoughts)
+
+don't get high kids , you might fuck a corpse  come with me , for I am fear incarnate boy .
+0.46 (you; might fuck; a corpse; for I am fear)
+0.42 (you; come; with me)
+0.52 (I; am; fear)
+
+at my side , what have you to fear but yourself ?
+
+age does NOT equal automatic respect .
+0.89 (age; does NOT equal; automatic respect)
+
+if anything , it raises the bar .
+0.45 (it; raises; the bar)
+
+I feel mildly alive again , thanks to you ^.^  me and < PROPMALE > about deadliest warrior : \I could beat you with one hand on my < PROPMALE > and the other in your mom's crusty vag .
+0.18 (I; feel; mildly alive; T:again)
+0.29 Context(I feel,List([0, 6))):(\I; could beat; you; L:on my < PROPMALE)
+
+\""  some people ... they need to be rigidly controlled .
+0.36 (they; need; to be rigidly controlled)
+0.28 (they; to be rigidly controlled; )
+
+their speech , their actions , all of it .
+
+like my mother .
+
+she's always doing and saying things that I don't want her to or that are unnecessary , and going places she shouldn't when she shouldn't .
+0.22 (she; 's doing; T:always)
+0.12 (she; saying; things that I don't want her to)
+0.31 (I; do n't want; her)
+
+the lines are drawn , we have done everything I can to prepare .
+0.26 (we; have done; everything I can; to prepare)
+0.68 Context(we have done,List([22, 34))):(the lines; are drawn; )
+0.16 Context(we have done,List([22, 34))):(we; have done everything I can to prepare; )
+
+now , the hard part , we wait .
+0.30 (we; wait; T:now)
+
+it's their move .
+0.37 (it; 's; their move)
+
+Mother : only one of us is the parent here , and it's not you ; my response : only one of us is the rational one here , and it's not you ; Mother : ....................  \the punishment I will deal unto you will be a thousand thousand times worse than your ' god ' could ever have dreamed of .
+0.54 (\the punishment I will deal unto you; will be; a thousand thousand times worse than your ' god)
+0.62 Context(\the punishment I will deal unto you will be,List([170, 214))):(only one of us; is here; the parent)
+0.44 (only one of us; is; the rational one here)
+0.32 Context(only one of us is,List([78, 95))):(it; 's not; you)
+0.37 (it; 's not; you)
+0.31 (I; will deal; unto you)
+
+\""  whalage , lose some ;D  you know not what these eyes have seen .
+0.38 (you; know; )
+
+what these hands have touched , what they've broken .
+0.27 (they; 've broken; )
+0.69 Context(they 've broken,List([37, 51))):(these hands; have touched; )
+
+you know not where these legs have carried me , where they have yet to go .
+0.38 (you; know; )
+0.30 (they; have; yet)
+0.27 Context(they have,List([54, 63))):(they; have yet to go; )
+
+you must ask , and you may be invited in , but never assume .
+0.32 (you; must ask; )
+0.36 (you; may be invited; in)
+0.28 (you; never assume; )
+
+faith is hope's retarded little brother .
+0.92 (faith; is; hope's retarded little brother)
+
+and hope is strategy's down syndrome son .
+0.92 (hope; is; strategy's down syndrome son)
+
+a nice fun but lazy weekend .
+
+I ate burger kind WAY too many times though .
+0.44 (I; ate though; T:WAY too many times)
+
+very rarely will I ever allow anyone to know all of my reasons for anything .
+
+some foods just smell revolting  looks like we've found a nice place on south main , shocking for the location but great landlords and new interior .
+0.77 (some foods; just smell; revolting)
+0.70 (some foods; revolting; )
+0.57 (we; 've found; a nice place on south main , shocking for the location but great landlords and new interior)
+
+Things have changed in 55 years .
+0.45 (Things; have changed; T:in 55 years)
+
+Now , when a < PROPMALE > in a uniform asks for your papers , it's because he wants to recycle them .
+0.67 (it; 's; because he wants to recycle them; T:Now; T:when a < PROPMALE > in a uniform asks for your papers)
+0.32 (he; wants; to recycle them)
+0.26 Context(he wants,List([75, 83))):(he; wants to recycle; them)
+
+take my hand , I will fight alongside you .
+0.31 (I; will fight; L:alongside you)
+
+leave it , and you are alone .
+0.36 (you; are; alone)
+
+others will need me more than you .
+0.82 (others; will need; me; T:more than you)
+
+interesting day , to say the very least  oh Dr. Richtofen , you're just the best .
+
+I am now taking bets on which arab nation is next to fall .
+0.49 (I; am taking; bets; T:now)
+0.81 (arab nation; is; next to fall)
+0.70 (arab nation; to fall; )
+
+everyone wave bye bye to < PROPFIRST > Harper , soon to be -former- conservative prime minister of Canada * cough * jackass * cough *  who's off to do data entry for four hours ?
+0.90 (cough; 's; off; to do data entry for four hours)
+
+that's right , this guy !
+0.07 (that; 's; right)
+
+ugh ...  Ladies and Gentlemen , there has been a change of contingency .
+
+the contingency is : minor transgression  we got the keys to our new place today ... wednesday may well be my last night here .
+0.78 (wednesday; may well be; my last night here)
+0.89 Context(wednesday may well be,List([85, 106))):(the contingency; is; minor transgression)
+0.31 Context(the contingency is wednesday may well be,List([0, 106))):(we; got; the keys to our new place; T:today)
+
+twelve years ... a lot of memories .
+
+oh Mandorallen , where are you now ?
+
+:/  whiteout x.x  new apartment is much smaller than expected with all out stuff 
+0.90 (whiteout; is; much smaller than expected with all out stuff)
+

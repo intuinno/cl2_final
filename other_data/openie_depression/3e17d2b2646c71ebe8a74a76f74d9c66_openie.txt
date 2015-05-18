@@ -1,0 +1,233 @@
+Sorry there's a huge lack of content on here .
+
+I'm not into these \social\ " sites since I'm not exactly a social person .
+0.37 (I; 'm not; into these \social\; since I'm not exactly a social person)
+0.52 (I; 'm not; exactly a social person)
+
+:) " 
+
+Well , here's my \monthly\ " visit to Facebook ... about as often as I visit my parents .
+0.51 (here; 's; my \monthly\ " visit to Facebook; T:about as often as I visit my parents)
+0.31 (I; visit; my parents)
+
+* tongue in cheek * "  I hate social networking sites .
+0.45 (I; hate; social networking sites)
+
+The only reason I created a profile here is so I could have some kind of contact with my daughters !! Anyway ... to all my family who have been wondering , yes , I am still very much alive .
+0.45 (I; created; a profile; L:here)
+0.26 (I; could have; some kind of contact with my daughters; Anyway)
+
+:)  What's on my mind ... hmm .
+
+Nothing & everything , and many things in between .
+
+< PROPFEMALE > Christmas to anyone out there who thinks holidays are happy .
+0.91 (< PROPFEMALE > Christmas to anyone out there; thinks; holidays are happy)
+0.70 Context(< PROPFEMALE > Christmas to anyone out there thinks,List([0, 55))):(holidays; are; happy)
+
+LOL .
+
+Love & glad tidings to my family and friends .
+
+24 hours before the party starts ... 29 hours ' til the year ends .
+0.91 (the party; starts; T:til the year ends)
+0.78 (the year; ends; )
+
+Why is it considered racist to think there should be a < PROPFIRST > F .
+
+Kennedy day if there's a < PROPFIRST > < PROPMALE > < PROPMALE > , Jr. day ?
+
+Thank you to everyone who wished me Happy Birthday yesterday .
+0.80 (everyone; wished; me; Happy Birthday; T:yesterday)
+
+:) 364 more days ' til I'm FORTY .
+0.57 (I; 'm; FORTY)
+
+( I bet that makes my parents feel old , LOL ! )  Apparently , my lil cousins are all growed up now .
+0.17 (I; bet; that makes my parents feel old , LOL)
+0.08 Context(I bet,List([2, 7))):(that; makes; my parents feel old , LOL)
+0.63 Context(I bet that makes,List([2, 18))):(my parents; feel; old; LOL)
+
+* sigh * The babies , < PROPMALE > and < PROPFIRST > , have had CHILDREN .
+
+I remember when they were so little that they couldn't play block tag with all the rest of us cousins , and could ride their daddy's pet pit bull , < PROPMALE > , like he was a pony .
+0.21 (I; remember; when they were so little that they couldn't play block tag with all the rest of us)
+0.34 (they; were; so little that they couldn't play block tag with all the rest of us)
+0.62 (they; could n't play; block tag)
+0.52 (he; was; a pony)
+
+:) Congrats , cousins , on your recent arrivals .
+
+Buncha damn idiots screaming at the TV in the other room , while watching a group of grown men in colorful tights chasing each other around and squabbling over a little brown inflated piece of leather .
+0.85 (a group of grown men in colorful tights; chasing; each other; around)
+0.93 (a group of grown men in colorful tights; squabbling; over a little brown inflated piece of leather)
+
+The Stupid Bowl is lame .
+0.87 (The Stupid Bowl; is; lame)
+
+Gonna go play Wizard 101 for a while now ...  The older I get , the more I turn into my parents .
+0.24 (I; get; )
+0.44 (the more; turn; into my parents)
+
+20 years ago , that would've been a fate worse than death ( because they didn't know anything about anything when I was a teenager ) , but now ~ it lets me know I didn't get to where I am if it hadn't been for who showed me the way .
+0.62 (they; did n't know; anything about anything)
+0.24 (I; am; )
+0.52 (I; was; a teenager)
+0.31 (it; had n't been; for who showed me the way)
+0.43 (it; let; s me know I didn't get to where I am)
+0.32 Context(it let,List([145, 151))):(me; know; I didn't get to where I am)
+0.26 Context(it let me know,List([145, 160))):(I; did n't get; to where I am)
+
+:) XOXO to my mom & dad .
+
+I didn't watch the Stupid Bowl , so I missed this , but < PROPFEMALE > Aguilera SCREWED UP the words to the National Anthem !
+0.92 (PROPFEMALE > Aguilera; SCREWED UP; the words to the National Anthem)
+
+I learned the words in elementary school , andb we also said the Pledge of Allegiance every single day before classes started .
+0.45 (I; learned; the words in elementary school)
+0.50 (we; also said; the Pledge of Allegiance every single day)
+0.71 (classes; started; )
+
+Sad how unpatriotic our country has become ... and what's even sadder , the star-spangled skank they get to sing the anthem doesn't even know the words !
+0.34 (our country; has become; )
+0.81 (the star-spangled skank they get to sing the anthem; does n't even know; the words)
+0.63 (they; get; to sing the anthem)
+0.56 Context(they get,List([96, 104))):(they; get to sing; the anthem)
+
+Shameful .
+
+OMG < PROPFIRST > Forsberg is retiring .
+0.77 (Forsberg; is retiring; )
+
+:( I fell in love with ice hockey because of him .
+0.37 (I; fell; in love with ice hockey; because of him)
+
+Watched < PROPMALE > (\The Rock \") < PROPMALE > come back to WWE last night on Monday Night RAW .
+
+I hope he's still going to make movies ~ he's awesome .
+0.41 (he; to make; movies)
+0.28 (he; 's; awesome)
+0.26 (I; hope; he's still going to make movies)
+
+:) "  Amazing how people who don't have jobs and have no income at all always seem to have the most materially .
+0.88 (people; do n't have; jobs)
+0.88 (people; have; no income at all)
+0.88 (people who don't have jobs and have no income at all; to have; the most materially)
+
+A house , a new(ish ) car , vacationing and concert-going , the latest and greatest technology ... never wanting for anything and never EARNING any of what they have .
+0.77 (a new(ish ) car; vacationing; )
+0.89 (greatest technology; never wanting; for anything)
+0.32 (they; have; )
+
+Must be nice to be a professional loser .
+
+Sidetracked w/ auction yesterday , LOL , my 1st one !
+
+Bought a car .
+
+More rambles on my new BFFs ( the pro-losers ): habitual DRUG offenders w/ NO jail time ( EVER ! ) , makes you wonder if they are narcs , right ?
+
+AND ~ icing on the cake , child services gives them their kids ( plural ) back after a failed home exam and positive drug tests .
+0.79 (child services; gives back; them; their kids ( plural)
+
+What the H-E-double-hockey-sticks is this world coming to ??  BUMPERSTICKER : Raising teenagers is like trying to nail jello to a tree .
+0.93 (Raising teenagers; is; like trying to nail jello to a tree)
+0.90 (the H-E-double-hockey-sticks; like trying; to nail jello to a tree)
+0.90 Context(the H-E-double-hockey-sticks like trying,List([5, 110))):(the H-E-double-hockey-sticks; like trying to nail; jello)
+
+\All the police are going to get me for is running a funeral parlor without a license .
+0.81 (the police; to get; me; T:for is running a funeral parlor without a license)
+
+\ " ~ < PROPFIRST > < PROPMALE > Gacy "  < PROPFEMALE > , pineapple , lemon .
+
+Every day of the week ~  Want to feel humanitarian and charitable ?
+0.60 (~; Want; to feel humanitarian and charitable; T:Every day of the week)
+0.18 Context(~ Want,List([22, 29))):(~; Want to feel; humanitarian and charitable)
+
+How about finding a cause to support that is within < PROPFEMALE>'s own borders , rather than one in some far-off country ?
+0.55 (a cause; to support; that)
+
+< PROPFEMALE > has more than enough problems right here in our own backyard - so why do we worry more about what's going on somewhere else where we can't even see it ?
+0.31 (we; ca n't even see; it)
+0.86 (PROPFEMALE >; has; more than enough problems right here in our own backyard - so)
+
+Look around ...  < PROPFIRST > Sheen , 47 , is all over the news because he's a celebrity drug addict with drama that he brought onto himself due to his personal choices .
+0.87 (Look around ...  < PROPFIRST > Sheen; is; all over the news; because he's a celebrity drug addict with drama)
+0.52 (he; 's; a celebrity drug addict with drama)
+0.80 (drama; brought; onto himself; due to his personal choices)
+
+< PROPFIRST > Wilfahrt , 31 , < PROPFIRST > Tabada , 21 , < PROPMALE > Hizon , 22 , Chauncy May , 25 , are soldiers who gave their lives this week with no media mention at all .
+0.95 (PROPMALE > Hizon , 22 , Chauncy May , 25; are; < PROPFIRST > Wilfahrt , 31 , < PROPFIRST > Tabada , 21 , < PROPMALE > Hizon , 22 , Chauncy May , 25 , are soldiers who gave their lives this week with no media mention at all)
+0.80 (soldiers; gave; their lives; this week)
+
+Please honor them , and every other soldier who has shed blood or died for YOU and me , by reposting this as your status .
+0.90 (every other soldier; has shed; blood)
+0.82 (every other soldier; died; for YOU and me)
+
+Can't believe it's SNOWING again .
+
+I was getting SO used to the high 50's , low 60's weather .
+0.56 (I; was getting; SO used to the high 50's , low 60's weather)
+
+Does snow a few days after the beginning of March count as its \coming in like a lion \"?"
+
+When I was a kid , we could go to Grandma's for the weekend and leave our front door unlocked ; mom could leave us in the car at the bank ( with the car running & windows down ); we walked to a bus stop unescorted on the other side of the neighborhood ; we ate dinner together at 6pm every day & watched TV together at night .
+0.52 (I; was; a kid)
+0.91 (a bus stop; unescorted; L:on the other side of the neighborhood)
+0.40 (we; leave; our front door; unlocked; T:When I was a kid)
+0.29 (we; ate together; T:at 6pm; T:every day)
+0.39 Context(we ate together,List([254, 276))):(we; walked; to a bus stop)
+0.74 Context(we walked we ate together,List([179, 276))):(mom; could leave; us; L:in the car; L:at the bank ( with the car running & windows down)
+0.43 Context(mom could leave we walked we ate together,List([96, 276))):(we; could go; to Grandma's; T:for the weekend; T:When I was a kid)
+0.31 (we; watched together; T:at night)
+0.73 (the car; running; down)
+
+What happened to < PROPFEMALE>'s notion of tradition and values ?
+
+Smarmy bumpersticker pick-me-uppers and motivational \life is perfect and I'm ok\ " jibberish is just too flaked out for words .
+0.53 (Smarmy bumpersticker pick-me-uppers; is; perfect)
+
+You'd think people would be a bit more individual and not sound quite so much like a friend-to-friend Hallmark card or a \ " gee that sounds cool so I'll steal that person's original thoughts and get praised for it\ " sort of thing .
+0.76 (You; 'd think; people would be a bit more individual and not sound quite so much like a friend-to-friend Hallmark card or a \)
+0.93 Context(You 'd think,List([0, 11))):(people; would be; a bit more individual and not sound quite so much like a friend-to-friend Hallmark card or a \)
+0.25 (I; get; praised)
+0.05 (that; sounds; cool)
+
+"  Bliss is finding an website that has all the seasons and episodes of Criminal Minds that you can watch online for free .
+0.81 (Bliss; is finding; an website that has all the seasons and episodes of Criminal Minds)
+0.93 (an website; has; all the seasons and episodes of Criminal Minds)
+0.95 (all the seasons and episodes of Criminal Minds; can watch online; you)
+
+:) * happy happy joy joy *  One of the grossest odors in the world is \wiener water .
+0.93 (happy happy joy joy; is; \wiener water)
+
+\ " The water that's left in the pot after you've finished heating up hot dogs .
+0.91 (The water; 's left; L:in the pot)
+0.56 (you; 've finished; heating up hot dogs)
+0.56 Context(you 've finished,List([43, 58))):(you; 've finished heating up; hot dogs)
+
+It smells like sweaty gym socks have been simmering in a pot of boiling water ... ugh .
+0.64 (It; smells; like sweaty gym socks have been simmering in a pot of boiling water ... ugh)
+0.91 (sweaty gym socks; have been simmering; L:in a pot of boiling water)
+
+:( "  Still waiting on summer to finally get here .
+
+High 70's one day , low 50's the next .
+
+Where's the warm ?? * whimper *  Had a great time today at the family reunion ... was really awesome that so many showed up for it .
+0.60 (the warm; Had; a great time; T:today; L:at the family reunion)
+0.42 (so many; showed up; for it)
+
+:) Too bad we don't do it more often like we used to ( don't blame ME this time if < PROPFIRST > makes it an \annual\ " event !!! ) .
+0.31 (we; do n't do; it; T:more often like we used to)
+0.78 (PROPFIRST >; makes; it an \annual\ " event)
+
+LOVE to all my family .
+
+"  I'm overdosing on family exposure and social gatherings !
+0.45 (I; 'm overdosing; on family exposure and social gatherings)
+
+Easter dinner today at my sister's house with mom , dad , brother , and sister's family .
+
+Have I reached my quota yet for socializing !?!? :) More good times and good food !
+

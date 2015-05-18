@@ -1,0 +1,143 @@
+going to brandons party !
+
+should be fun :) \  Happy New Year !
+
+ha yay i finally got a facebook !! :)  just got an env touch !! ha my old phone was broken so i WAS using my grandma's lol  lol i just drank soy milk for the first time !! :)  arg im sick and my voice sounds like a man ... :/  Yay i'm free !!! not grounded anymore :D  omg i just acted all protective and big sister like :D one of < PROPMALE > s good friends was being a jerk to him at school lately and so tonight when he called to talk to < PROPMALE > i gave him a little talk haha  is in VEGAS !!!! :D soooo much fun !
+0.41 (i; just got; an env touch)
+0.64 (my voice; sounds; like a man)
+0.14 (i; anymore :D omg; )
+0.55 Context(i anymore :D omg,List([231, 272))):(i; just acted; all protective and big sister like :D one of < PROPMALE >)
+0.18 (he; called; to talk to <)
+0.18 Context(he called,List([420, 429))):(he; called to talk; to <)
+0.83 (good friends; was being; a jerk to him; L:at school; T:lately)
+0.18 (i; 'm anymore :D omg; free)
+0.56 Context(i 'm anymore :D omg,List([231, 272))):(i; got; a facebook; T:finally)
+0.31 Context(i got i 'm anymore :D omg,List([7, 272))):(my old phone; was broken; )
+0.45 (i; just drank; soy milk; T:for the first time)
+
+so idk why ive thought roller coasters were horrible all these years ...?? but i now LOVE them !!! ;) went on the one at the hotel new york , new york  i liked vegas more ... whats up with the rain ??! :/  Happy Earth Day everybody !! did you know that every 20 < PROPFEMALE > an animal goes extinct ...? :(  is goin to volleyball :)  yay !
+0.40 (i; LOVE; them; T:now)
+0.53 (i; liked; vegas; more; T:new york)
+0.78 (the rain; ??!; )
+
+CST's are finalyyy done ;)  < PROPFEMALE>'s always late ...  if the world is ending im throwing a party !! ;)  OMG !! panda express is OPENNNN !! lol im a little too excited hahah  im bored !
+0.66 (CST's; are finalyyy done; )
+0.77 (the world; is ending; im throwing a party)
+0.71 (panda; express; )
+
+haha i want to play egyptian rablahblah with people fron camp !! :/  just got back back from the flower festival and now i'm hanging out with < PROPFEMALE > :D  saw the midnight show of eclipse last night =] didnt get home till 2:30 am and had volleyball practice at 7:30 ... arggg but it was sooo worth it haha  argg summer is suposed to be fun .. not boring !!  i love toy story !!! it was < PROPFEMALE > cute <3  life is like a coin : \  you can spend it however you want\  but you only get to spend it once  bow wow -- < PROPFEMALE > <3 haha i'm still laughing about that \  haha somtimes old people at church can be < PROPFEMALE > funny and cutee ;)  is on vacation but i already miss all my friends !!!  went canoeing yesterday !! it was really fun .. even thought i got sunburned ;)  ok so maybe i should stop looking at facebook and finally do my summer reading ...  band camp today !! AHH !! im really nervous and excited at the same time ;)  \you can do it !! \ " \ " i know i can but anyone who messes this up is just gay !!!!! \ " lol band camp .. good times :) "  band seemed extra fun today !! its actually not as hard as i expected =D andd i got claimed !! love you < PROPFIRST > !!!!!  i got contacts !!!!  ok so maybe sllepovers before band camp isnt the best idea ... im < PROPFEMALE > tired !
+0.46 (i; want; to play egyptian rablahblah with people fron camp)
+0.39 Context(i want,List([5, 11))):(i; want to play; egyptian rablahblah; with people; L:fron camp)
+0.45 (i; love; toy story)
+0.85 (anyone who messes this up; is; just gay)
+0.28 (it; was; really fun)
+0.38 (you; want\; )
+0.17 (i; sunburned; )
+0.74 (argg summer; to be; fun)
+0.44 (i; \; \)
+0.47 (i; miss; all my friends; T:already)
+0.31 (it; was sooo; worth it)
+0.30 (i; expected; =D andd i got claimed)
+0.38 Context(i expected,List([1136, 1146))):(=D andd i; got claimed; )
+0.70 (i; 'm hanging out; T:> :D  saw the midnight show of eclipse last night; T:now)
+0.37 (i; know; i can)
+0.11 (i; 'm laughing; about that; T:still)
+0.47 (i; do; my summer; reading ...  band camp today; T:finally)
+0.28 (it; was; <)
+0.55 (=D andd i; got; claimed)
+0.23 (i; even thought; i got sunburned)
+0.23 Context(i even thought,List([5, 770))):(i; got; sunburned)
+0.73 (argg summer; is suposed; )
+0.71 (anyone; messes up; this)
+0.89 (:D; saw; the midnight show of eclipse; T:last night)
+0.40 (you; only get; to spend it once)
+0.40 Context(you only get,List([481, 493))):(you; only get to spend; it; T:once)
+0.39 (it; was < PROPFEMALE >; cute <3 life)
+
+haha but i had a lot of fun rubyy !
+0.52 (i; had; a lot of fun rubyy)
+
+:]  heres my schedule ... tell me what classes we have together !
+
+\  0 band\  1band\  \  2 biology- poquette\  3 health- osborne\  4 english- boortz\  5 geometry- vacca\  6 spanish 2- hanson\  7 pe < PROPMALE >  mall yeaterday with < PROPFEMALE > and mall tody with < PROPFEMALE > :) awesome last weekend before school ! it would be even better if i had money .... haha  waffles for dinner !
+0.23 (it; would be; even better)
+0.52 (i; had; money)
+
+;)  sometimes people are bipolar .... :/  had funnn at the dance last night !!!! :) even if the music wasnt so great ... haha  last night wwas fun !
+0.84 (people; are; bipolar; T:sometimes)
+0.90 (people; had; funnn; L:at the dance; T:last night)
+
+first time to play with the band at the game :) \  everybody needs to come to the village 76 station for the band car wash !!!  got a new flute !!! =]  today was wierd ...  got to march in rain for the first time today !! ;)  got a flu shot today and now my arm is really sore !! :'( ha  got my dress for homecoming today !! :) \  and i like it on the desk  thinks band geeks are pretty awesome !
+0.59 (\  and i; like; it; L:on the desk)
+0.98 (first time to play with the band at the game :) \  everybody; needs; to come to the village 76 station for the band car wash)
+0.97 (first time to play with the band at the game :) \  everybody; to come; to the village 76 station for the band car wash)
+0.97 (first time to play with the band at the game :) \  everybody; got; a new flute)
+0.60 (my arm; is; really sore; T:now)
+0.71 (today; was wierd; )
+
+;)  the band did pretty good at simi yesterday !
+0.93 (the band; did; pretty good; L:at simi; T:yesterday)
+
+my first competition ;) \  whooo !
+
+trich or treating tonight haha i will never be too old for it !
+0.60 (i; will never be; too old; T:trich or treating tonight haha)
+
+people should just tell the truth cause it will usually find its way out anyway ...  whos going to the big game after party ?? haha probably everybody ..  whoo big weekend .. moorpark on staurday for a band comp , turlock on sunday for < PROPFEMALE>'s baby shower , and now we are home and have family over and yet i still have water polo practice every morning !! dangg ;)  om had fun at championships yesterday haha what was it sbcoabsoabc ??! haha CHANUKKAH !! -me < PROPFIRST > and < PROPFEMALE > what the heck is chanukkah ?
+0.34 (we; are; home; T:now)
+0.41 (we; have; family)
+
+what did i sit in it ?? - < PROPFIRST > \  animal fries .. lol i guess they arent just fries shaped like animals :P \  < PROPFEMALE > is a vampire !! haha\  mr p brought us < PROPFEMALE > !! \  omg sorry < PROPFIRST > i wouldnt let you sleep ha every time you got close i started talking again .. oops ;)  if you could describe me in one word , what would it be ?
+0.79 (you; got; close; T:every time)
+0.46 (you; could describe; me)
+0.32 (they; talking; T:again)
+0.44 (i; started; talking again; T:every time you got close)
+
+wow thanks i feel so loved guys !! \  i had a fun bday and today i got to deliver poinsettas in the pouring rain so that was fun haha especially when the water got like into my flute and so it decided to stop working ... good times guys ;)  happy birthday JESUS !!! < PROPFEMALE > christmas everybody i hope you all have a wonderful day :)  on my way to disneyland !! :D  we found a clan !!!! ;)  school ... :/  i scored a goal at our game today !! :D  league champs !! :D  wasnt it easier in your lunchbox days ?
+0.52 (i; had; a fun bday)
+0.26 (i; hope; you all have a wonderful day)
+0.51 Context(i hope,List([301, 307))):(you; have; a wonderful day)
+0.81 (:D; was nt; it easier in your lunchbox days)
+0.92 (guys; ;); happy birthday)
+0.18 (it; decided; to stop working)
+0.18 Context(it decided,List([190, 200))):(it; decided to stop; working)
+0.16 Context(it decided to stop,List([190, 208))):(it; decided to stop working working; )
+0.39 Context(it decided,List([190, 200))):(we; found; a clan)
+0.26 (i; scored; a goal; L:at our game; T:today)
+0.46 Context(i scored,List([412, 420))):(i; got; to deliver poinsettas in the pouring rain)
+0.39 Context(i got i scored,List([65, 420))):(i; feel; so loved guys)
+0.39 Context(i got i scored,List([65, 420))):(i; got to deliver; poinsettas; L:in the pouring rain)
+
+;)  so whats the new limewire ?
+
+i needd new music !
+0.45 (i; needd; new music)
+
+little kids just have a way of making you feel better :)  had to swim a 500 at our FIRST swim meet yesterday !
+
+bio packets ... :/  Happy pi day !
+
+3.14159265 ........................... :D  what has a bottom on its top ?
+
+\\n \\nlegs !
+
+;) haha !
+
+blehh i have a bad case of procrastination ... :P  guys can we please stop hatin on mrs.
+
+poquette ?! i mean shes not my favorite teacher in the world but just deal with it !
+0.19 (i; mean; )
+0.80 (poquette; just deal; with it)
+
+just grow up guys\  sorry ..  i wana read your mind , but i cant , so i wont .
+0.31 (i; wana read; your mind)
+
+;)  had a TON of fun this weekend with the band !! \  haah < PROPMALE > ... i didnt know there was water in the pacific .
+0.88 (;); had; a TON of fun; T:this weekend)
+0.26 Context(;) had,List([0, 7))):(i; did nt know; there was water in the pacific)
+0.39 (there; was water in; the pacific)
+
+scilence usually means nothing , but you never know ... ;) 
+0.93 (scilence; means; nothing; T:usually)
+0.32 (you; never know; )
+

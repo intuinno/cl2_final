@@ -1,0 +1,294 @@
+I was just curious ... I am not yet impressed .
+0.18 (I; am not; T:yet; impressed)
+0.23 Context(I am not,List([23, 31))):(I; was; just curious)
+
+I apparently never post ... lol .
+0.41 (I; apparently never post; lol)
+
+I just found out about Facebook Lite ( http://lite.facebook.com/) .
+0.50 (I; just found out; about Facebook Lite)
+
+There is much less chatter about games and gifts and awards and fish and pretzels .
+0.89 (There; is much less chatter about; games and gifts and awards)
+
+It's quieter and more peaceful .  is about to wath the Pixar Shorts .
+0.28 (It; 's; quieter and more peaceful)
+
+I am so excited .... seriously geeking out .
+0.28 (I; am; so excited)
+
+I need to get a life .
+0.40 (I; need; to get a life)
+0.40 Context(I need,List([0, 6))):(I; need to get; a life)
+
+LOL !
+
+For some very odd reason , I spend more time on Twitter than on Facebook ( @jtanner28 for you Twitter fans ) .
+0.53 (I; spend; more time; on Twitter than on Facebook ( @jtanner28 for you)
+
+It doesn't make sense .
+0.45 (It; does n't make; sense)
+
+Facebook has pictures and games and is full of people I know and like .
+0.94 (Facebook; has; pictures and games)
+0.93 (Facebook; is; full of people)
+0.90 (people; know; I)
+0.85 (people; like; I)
+
+Twitter is like shouting into an empty barrel .
+0.61 (Twitter; is; like shouting into an empty barrel)
+
+I guess the < PROPFEMALE > amuses me .
+0.30 (I; guess; the < PROPFEMALE > amuses me)
+0.72 Context(I guess,List([0, 7))):(the < PROPFEMALE; amuses; me)
+
+I think that I prefer a social networking site where no one ever responds to me .
+0.88 (no one; responds; to me; L:a social networking site; T:ever)
+0.15 (I; think; that I prefer a social networking site)
+0.36 Context(I think,List([0, 7))):(I; prefer; a social networking site where no one ever responds to me)
+
+Is there such a thing as an \anti-social networking\ " site ?
+
+"  I am slowly being dragged into the gravity field of Facebook despite my natural anti-social inertia .
+0.50 (I; am slowly being dragged; into the gravity field of Facebook)
+
+I woke up today , got a bowl of oatmeal , sat down at my computer , scanned over my immense list of bookmarks and chose for the coveted day-opener < PROPFEMALE > ... Facebook .
+0.45 (I; woke up; T:today)
+0.48 (I; got; a bowl of oatmeal)
+0.27 (I; sat down; L:at my computer)
+0.27 (I; scanned; over my immense list of bookmarks)
+
+Don't tell any !
+
+It would ruin my reputation .
+0.31 (It; would ruin; my reputation)
+
+I just downgraded back to Linux Mint 7 ( which I love and will never leave again ) .
+0.50 (I; just downgraded; back to Linux Mint 7)
+0.19 (I; love; )
+0.20 (I; will never leave; T:again)
+
+However , a funny thing happened on the way to the downgrade : my computer now speaks British .
+0.42 (my computer; speaks; British; T:now)
+0.31 Context(my computer speaks,List([63, 85))):(a funny thing; happened; )
+
+Seriously .
+
+The keyboard layout is set up for English ( British Isles ) and I don't know how to change it back to god-fearing-apple-pie-eating-star-and-stripes-red-blooded American .
+0.75 (The keyboard layout; is set up; )
+0.31 (I; do n't know; how to change it back to)
+
+( continued in comments )  Tweeting from Gwibber in Ubuntu 10.04 LTS ... somewhat cool  is going to eat Chinese food and then on to a funfilled night of < PROPFEMALE>'s Got Talent .  is upset that the afore-mentioned fun-filled night of < PROPFEMALE>'s Got Talent was interupted by an epic-recording-fail due to operator error .... BTW , I have kidnapped the remote control .
+0.96 (PROPFEMALE>'s Got Talent; was interupted; by an epic-recording-fail due to operator error; T:the afore-mentioned fun-filled night of)
+0.53 (somewhat cool; to eat; Chinese food)
+
+If you want to see your precious remote again , leave a bag full of unmarked sandwiches in the mailbox ... The chinese food was good though .  is extremely agitated with himself !! I just went from a whooping great lead in an online poker tourney to placing 6th ... IT ONLY PAID 1ST TO 5TH !! @ !! I terrorized the tables for an hour and then turned into a donkey in two hands .
+0.48 (you; want; to see your precious remote again)
+0.41 Context(you want,List([3, 11))):(you; want to see; your precious remote; T:again)
+0.57 (I; just went; from a whooping great lead in an online poker tourney)
+0.55 (I; turned; into a donkey; L:in two hands; T:then)
+0.86 (The chinese food; is; extremely agitated with himself)
+
+That , my friends is called a pokerfacepalm .
+
+just got home ... It's 12:41 AM .
+0.47 (It; 's; 12:41 AM)
+
+Sixteen hour work days get old real quick .
+0.94 (Sixteen hour work days; get; old real quick)
+
+just made a high score on the Wal-Mart blood pressure chair game !
+
+145/93 Stage 1 hypertension achievement unlocked !  is having fun playing with Facebook apps .
+0.90 (145/93 Stage; is having; fun playing with Facebook apps)
+0.56 (fun; playing; )
+
+There is a lot of neat stuff on here .
+0.89 (There; is a lot of; neat stuff)
+
+GRRR !
+
+Argh .
+
+Wells Fargo is about to lose a customer .
+0.94 (Wells Fargo; is; about to lose a customer)
+0.91 (Wells Fargo; to lose; a customer)
+
+is super excited to get xkcd as a tab on my profile .
+
+I guess I can do that with any FB app , but I just noticed it .
+0.31 (I; just noticed; it)
+0.14 (I; guess; I can do that with any FB app)
+0.08 Context(I guess,List([0, 7))):(I; can do; that)
+
+is kind of embarrassed about not sending responses to FB messages .
+
+I don't really have an excuse .
+0.45 (I; do n't really have; an excuse)
+
+So here is the list of people that this half-hearted excuse for and apology this is directed to : < PROPFIRST > , < PROPFIRST > , < PROPFIRST > , < PROPFEMALE > , and < PROPFEMALE > .
+0.61 (here; is; the list of people)
+0.18 (this; is directed; to)
+
+Talking to me is like talking to a three year old : three minutes of frenzied random conversation followed by an afternoon of chasing butterflies ... I'll catch one of them some day !  is slightly less miffed at this last poker sit-n-go : 3rd .
+0.77 (Talking to me; is; like talking to a three year old : three minutes of frenzied random conversation)
+0.32 Context(Talking to me is,List([0, 16))):(I; 'll catch; one of them; T:some day)
+
+I ended in the money and completely on top on the hand that I busted out .
+0.45 (I; ended; L:in the money)
+0.88 (the hand; busted out; I)
+
+92% favorite .
+
+I had Jacks with and Ace kicker and a dry board .
+0.57 (I; had; Jacks)
+
+He had 10's ( middle pair ) with an Ace kicker .
+0.52 (He; had; 10's)
+
+I had been bullying him out of pots and he was tilted and loose .
+0.31 (I; had been bullying; him; out of pots)
+0.19 (he; was tilted; )
+
+I would have won but he caught one of the last two miracle 10's in the deck .
+0.19 (I; would have won; )
+0.57 (he; caught; one of the last two miracle 10's in the deck)
+
+Damn the luck .
+
+got up late .
+
+BOOOO !!!
+
+I was hoping to get out and mow the yard under conditions that did not require a radiation suit and a Geiger counter .
+0.20 (I; to get; out)
+0.92 (the yard under conditions; did not require; a radiation suit and a Geiger counter)
+0.40 (I; was hoping; to get out and mow the yard under conditions)
+0.23 Context(I was hoping,List([0, 12))):(I; was hoping to mow; the yard under conditions that did not require a radiation suit and a Geiger counter)
+
+Oh well .
+
+Lobster red is a good color for me anyway .
+0.87 (Lobster red; is anyway; a good color for me)
+0.89 (Lobster red; is a good color for; me)
+
+Archaeological fun fact of the day : Dinosaurs don't like butter .
+0.92 (Dinosaurs; do n't like; butter)
+
+( e raised to the power of ( pi times i )) plus 1 = 0 .
+0.79 (e; raised; to the power of ( pi times i )) plus 1 = 0)
+
+If that doesn't cook your noodle , nothing will .
+0.08 (that; does n't cook; your noodle)
+
+There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here , it will instantly disappear and be replaced by something even more bizarre and inexplicable .
+0.30 (it; will disappear; T:why it is here; T:instantly)
+0.70 (a theory; states; that if ever anyone discovers exactly what the Universe is for and why it is here , it will instantly disappear and be replaced by something even more bizarre and inexplicable)
+0.92 Context(a theory states,List([9, 30))):(anyone; discovers; exactly what the Universe is for and why it is here , it will instantly disappear and be replaced by something even more bizarre and inexplicable; T:ever)
+0.79 Context(a theory states anyone discovers,List([9, 60))):(the Universe; is; )
+0.41 (it; be replaced; by something even more bizarre and inexplicable)
+0.28 (it; is; here)
+
+There is another theory which states that this has already happened .
+0.44 (another theory; states; that this has already happened)
+0.14 Context(another theory states,List([9, 36))):(this; has happened; T:already)
+
+-- Fit the Seventh , the radio broadcast of The Hitchhiker's Guide to the Galaxy  A simple math problem : How many squares of all sizes are in a 3x3 square grid ?
+0.92 (Fit the Seventh; are; in a 3x3 square grid)
+
+( Answer : 14 ) 4x4 grid ?
+
+( A : 30 ) You get the picture .
+0.68 (You; get; the picture)
+
+Now derive a formula for for an AxB grid where A and B are not necessarily equal .... Now expand the formula to X dimensions !
+0.96 (A and B; are not necessarily; equal; L:an AxB grid)
+
+The first derivation is a good exercise .
+0.93 (The first derivation; is; a good exercise)
+
+The second one is torture !
+0.93 (The second one; is; torture)
+
+:)  OK so that stung .
+
+I just lost a cool million on WSOP Poker .
+0.50 (I; just lost; a cool million; L:on WSOP Poker)
+
+Misread the turn .
+
+I am now down to 1.22 Million .  is going to the doctor this afternoon .
+0.28 (I; am; T:now; down to 1.22 Million)
+
+Have to have my cholesterol checked , my blood pressure checked , possible kidney stones , upper back pain due to thoracic arthritis , probable plantar fasciitis , issues with concentration and memory ... and something else ... getting old sucks .
+0.62 (my blood pressure; checked; possible kidney stones , upper back pain)
+
+busted out of a single table sit-n-go poker tournament last night in 3rd place .
+
+I had queens , he had 5's .
+0.47 (he; had; 5's)
+0.47 Context(he had,List([15, 21))):(I; had; queens)
+
+The flop was 5-2-5 .... quads for my opponent .
+0.81 (The flop; was; 5-2-5)
+
+I typed into the chat box \That's no way to treat a pair of ladies !
+0.45 (I; typed; into the chat box)
+0.92 (the chat box; 's; no way to treat a pair of ladies)
+
+\""  If there is such a thing as facebook , is there a Facelibrary ?.... CAN A BROTHA GET A < PROPMALE > DECIMAL SYSTEM HERE ?
+0.50 (there; is such a thing as; facebook)
+
+:)  must stay home from work tomorrow and take care of my girls ....
+0.38 (:); must stay; home; from work; T:tomorrow)
+
+There is simply no justice in the world !
+0.89 (There; is simply no justice in; the world)
+
+I just found out that bacon is bad for me .
+0.11 (I; just found out; that bacon is bad for me)
+0.82 Context(I just found out,List([0, 16))):(bacon; is; bad for me)
+
+It is apparently created whenever a salt molecule and a cholesterol molecule fall in love .
+
+Curse you , cruel cruel world !  is getting the jitters !
+
+I have been facebook-less for almost 9 hours now .
+0.45 (I; have been; facebook-less; T:for almost 9 hours; T:now)
+
+Our network at work was having a bad hair day .
+0.68 (Our network at work; was having; a bad hair day)
+
+AND ANGELS DESCENDED FROM HEAVEN AND GRANTED < PROPMALE > A JOB !
+
+Can I get a hallelujah , my brethren ?
+
+F# @k it , we're celebrating !
+0.19 (we; 're celebrating; )
+
+I'm thinking steak and lobster ... ( please excuse the profanity , but it was seriously called for in this case ! )  is flying higher than a kite !
+0.45 (I; 'm thinking; steak and lobster)
+0.41 (it; was seriously called; L:in this case)
+
+The good news just keeps rolling in .
+0.78 (The good news; just keeps; rolling in)
+0.75 (The good news; rolling; in)
+
+It's the anti-Friday-the-13th .
+0.52 (It; 's; the anti-Friday-the-13th)
+
+I somehow reversed the polarity of the fields !  is being tortured from the inside out today .
+0.45 (I; somehow reversed; the polarity of the fields)
+0.41 (I; is being tortured; from the inside out; T:today)
+
+:( Working from home .
+0.38 (:(; Working; from home)
+
+took his shot at a < PROPMALE > tournament and didn't make it .
+
+BOO !
+
+There's always next year .
+
+Updating my Facebook through the Wii ... really slow ... 
+

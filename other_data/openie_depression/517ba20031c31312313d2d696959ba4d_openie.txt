@@ -1,0 +1,693 @@
+is loving being back in the detroit area
+
+michael ... gummy worms ?
+
+you are a dork ... but you are still my favorite dork  Ugh ... I have to drive to grand rapids today , and not looking forward to it at all .
+0.51 (you; are; T:still; my favorite dork  Ugh)
+0.41 (I; to drive; to grand rapids; T:today)
+
+I hate driving .
+0.19 (I; hate; driving)
+0.16 Context(I hate,List([0, 6))):(I; hate driving driving; )
+
+Oh well , I get to see some friends while i'm there , so not all bad  Happy New Year to all my facebook friends and family  < PROPFIRST > < PROPMALE > Aoccdrnig to a rscheearch at Cmabrigde Uinervtisy , it dseno't mtaetr in waht oerdr the ltteres in a wrod are , the olny iproamtnt tihng is taht the frsit and lsat ltteer be in the rghit pclae .
+0.73 (the olny iproamtnt tihng; is taht; )
+0.93 Context(the olny iproamtnt tihng is taht,List([263, 295))):(the frsit and lsat ltteer; be; in the rghit pclae)
+0.41 (I; to see; some friends)
+0.57 (i; 'm; there; T:so not all bad  Happy New Year)
+0.54 (it; dseno't; T:Aoccdrnig to a rscheearch at Cmabrigde Uinervtisy)
+
+Tihs is bcuseae the huamn mnid deos not raed ervey lteter by istlef , but the wrod as a wlohe .
+0.89 (Tihs; is; bcuseae the huamn mnid deos)
+0.80 (Tihs; bcuseae; the huamn mnid deos)
+0.91 Context(Tihs bcuseae,List([0, 15))):(the huamn; mnid; deos not raed ervey lteter by istlef)
+
+If you can ... raed tihs , psot it to yuor wlal .
+0.85 (raed tihs; psot; it; to yuor wlal)
+
+Olny 55% of plepoe can !
+
+the thoughts of working today just made me nautious  stuff  am i the only person that thinks < PROPFEMALE > Palin is fantastic ?
+0.84 (the thoughts of working today; just made; me nautious  stuff  am i the only person)
+0.54 Context(the thoughts of working today just made,List([0, 39))):(me nautious  stuff; am; the only person that thinks < PROPFEMALE > Palin is fantastic)
+0.91 (the only person; thinks; < PROPFEMALE > Palin is fantastic)
+0.72 Context(the only person thinks,List([65, 92))):(PROPFEMALE > Palin; is; fantastic)
+
+be nice ....  why am i still up at 4 a.m.
+
+?
+
+< PROPFEMALE > Petrillo is HOT !
+0.84 (Petrillo; is; HOT)
+
+I need some more flattering pics on here !
+0.45 (I; need; some more flattering pics on here)
+0.54 (more; flattering; pics on here)
+
+I just don't know how to do all the technical stuff  waiting for summer .... i know ... long ways away  i have a boring life ... i am doing facebook quizzes again !
+0.92 (all the technical stuff; waiting; for summer)
+0.39 (i; am doing; facebook quizzes; T:again)
+0.11 Context(i am doing,List([129, 139))):(i; know away; )
+0.39 Context(i know away i am doing,List([77, 139))):(I; just do n't know; how to do all the technical stuff)
+0.39 Context(i know away i am doing,List([77, 139))):(i; have; a boring life)
+
+what the hell ... i am computer challenged , everytime i just figure this shit out , they change it .
+0.17 (i; challenged; )
+0.40 (they; change; it)
+0.38 Context(they change,List([85, 96))):(i; just figure out; this shit)
+0.46 Context(i just figure out they change,List([55, 96))):(i; am; computer challenged)
+
+it is prolly good with most of you all , but facebook is becoming very unuser friendly to me .... should i just say what the hell and give it up ?
+0.82 (facebook; is becoming; very unuser friendly to me)
+0.27 (i; give up; it)
+
+This weather really wants to take my dad up on his offer ... moving to Florida ... but I don't think I would tolerate his wife too well !
+0.88 (This weather; really wants; to take my dad up on his offer ... moving to Florida)
+0.79 Context(This weather really wants,List([0, 25))):(This weather; really wants to take up; my dad)
+0.26 (I; do n't think; I would tolerate his wife too well)
+0.25 Context(I do n't think,List([87, 100))):(I; would tolerate too well; his wife)
+
+this weather really makes me want to take my dad up on his offer to move to florida , but i don't think i would tolerate his wife for too long of a time !
+0.36 (i; do n't think; i would tolerate his wife for too long of a time)
+0.26 Context(i do n't think,List([90, 103))):(i; would tolerate; his wife; T:for too long of a time)
+0.86 (this weather; really makes; me want to take my dad up on his offer)
+0.31 Context(this weather really makes,List([0, 25))):(me; want; to take my dad up on his offer)
+0.18 Context(this weather really makes me want,List([0, 33))):(me; want to take up; T:on his offer)
+
+crown < PROPMALE > and < PROPFEMALE > ale  family  well ... yup ... that's about it !
+0.10 (that; 's; about it)
+
+hi ho hi ho it's off to work i go ... happy < PROPFIRST > day to me !
+0.23 (it; 's; off)
+0.20 Context(it 's,List([12, 16))):(i; go PROPFIRST; T:day; to me)
+
+sick ... feel like crap !  had friends over for dinner ... dug out my mom's recipe for pasties ... was handed down from my dad's mother ... pain in the ass to make , but everyone loved them !
+0.82 (everyone; loved; them)
+
+and any of my relatives know how good they are !
+0.54 (any of my relatives; know; how good they are)
+0.27 Context(any of my relatives know,List([4, 28))):(they; are; )
+
+I need a maid !
+0.45 (I; need; a maid)
+
+I need a tan !
+0.45 (I; need; a tan)
+
+it's getting warm out ... got warm weather cloths out .... damn ....!!!!!!!!!!!!!!
+
+I gained too much weight over the winter !
+0.45 (I; gained; too much weight; T:over the winter)
+
+I wish I could get out of this habit of staying up til 4 a.m.
+0.43 (I; wish; I could get out of this habit of staying up til 4 a.m.)
+0.51 Context(I wish,List([0, 6))):(I; could get; out of this habit of staying up til 4 a.m.)
+
+!
+
+what's on my mind .... stuff !
+
+looking forward to having a sunday night off .. first one in 6 months !
+
+i sometimes feel lonely ... i like being alone most of the time ... but i am afraid to let people get to know me ... as i am fearful of rejection if i let people get to know the real me .... therefore , i choose to be alone  i am being wierd right now , but i am wondering how people can be so harsh and judge when we all know that God is the only judge .
+0.80 (people; to know; the real me)
+0.40 (i; like; being alone most of the time)
+0.26 Context(i like,List([28, 34))):(i; feel; lonely; T:sometimes)
+0.37 (i; am being; T:right now; i am wondering how people can be so harsh and judge)
+0.41 (i; being alone; most of the time)
+0.20 (i; to be; alone)
+0.52 (i; am; fearful of rejection)
+0.49 (i; am; afraid to let people get to know me; if i let people get to know the real me .... therefore , i choose to be alone  i am being wierd right now , but i am wondering how people can be so harsh and judge)
+0.24 (we; know; that God is the only judge)
+0.86 Context(we know,List([315, 326))):(God; is; the only judge)
+0.32 (i; let; people get to know the real me)
+0.33 (i; to let; people get to know me ... as i am fearful of rejection)
+0.83 Context(i to let,List([72, 90))):(people; get; to know me)
+0.79 Context(i to let people get,List([72, 101))):(people; get to know; me)
+
+just another day  Holiday is over , I missed my family , I am over my pitty party , i know that you will love that one < PROPFEMALE > fisher , i am happy that i am old , healthy , and have a job !
+0.26 (I; missed; my family)
+0.95 Context(I missed,List([36, 44))):(Holiday; is; over; T:just another day)
+0.24 Context(I missed,List([36, 44))):(i; know; that you will love that one < PROPFEMALE > fisher , i am happy that i am old , healthy , and have a job)
+0.31 Context(I missed i know,List([36, 90))):(I; am; over my pitty party)
+0.14 Context(I missed i know,List([36, 90))):(you; will love; that)
+0.28 (i; am; old)
+
+So someone at work told me I was getting fat , which I am , but i was able to use a saying that I have always wanted to use ....
+0.85 (someone at work; told; me; I was getting fat , which I am)
+0.39 Context(someone at work told,List([3, 23))):(I; was getting; fat)
+0.21 (I; have wanted; to use; T:always)
+0.83 Context(I have wanted,List([96, 116))):(a saying; to use; I)
+0.24 (I; am; )
+0.52 (i; was; able to use a saying)
+0.12 (i; to use; a saying that I have always wanted to use)
+
+I might be fat , but you are ugly , and I can diet !
+0.23 (I; might be; fat)
+0.36 (you; are; ugly)
+0.19 (I; can diet; )
+
+Let's see what kind of things Thursday has to bring !
+0.74 (Thursday; to bring; )
+
+what's on your mind ?
+
+I would rather know what's on your mind !
+0.26 (I; would rather know; what's on your mind)
+
+Work .... Yuck  Church was a moving experience today  Monday Monday la la la la la la la can't trust that day  80 tomorrow !
+0.90 (Monday Monday la la la la la la la; ca n't trust; that day; T:80 tomorrow)
+
+Looking forward to it  I can't believe I let myself get addicted to Farmville !
+0.72 (myself; get; addicted to Farmville)
+0.29 (I; ca n't believe; I let myself get addicted to Farmville)
+0.35 Context(I ca n't believe,List([23, 38))):(I; let; myself get addicted to Farmville)
+0.60 Context(I ca n't believe I let,List([23, 44))):(myself; get addicted; to Farmville)
+
+Oh well , i guess there are worse things .
+0.26 (i; guess; there are worse things)
+
+So here is my bitch for the day ....
+0.49 (So here; is; my bitch for the day)
+
+I hate it when I get a text message , or a phone call , and don't respond within 10 minutes .
+0.42 (I; hate; it; T:when I get a text message , or a phone call)
+0.52 (I; get; a text message , or a phone call)
+0.52 (I; do n't respond; T:within 10 minutes; T:when I get a text message , or a phone call)
+
+Then I get a call/text back within that ten minute time period , from the same person .
+0.22 (I; get back; T:Then)
+
+I don't hold my phone in my hand all day .
+0.31 (I; do n't hold; my phone; L:in my hand; T:all day)
+
+will respond when convenient .
+
+Life is Good !
+0.80 (Life; is; Good)
+
+Got a complete physical last week , even the embarrasing part .. went back to Dr. today ... everything was great !
+0.76 (everything; was; great)
+0.92 Context(everything was,List([92, 106))):(even the embarrasing part; went; back to Dr.; T:today)
+
+except for the asthma and cholesteral a bit high ... he told me to lose a few pounds .
+0.37 (he; told; me; to lose a few pounds)
+0.45 (me; to lose; a few pounds)
+
+how rude !
+
+My liver even functions normal ... Amazing on that one !
+
+.............................  Tuesday Afternoon .... Moody Blues  < PROPFEMALE > Amos ..... Wednesday ..... great song !
+
+Thursday .... found a great song for this day too !
+
+Thursdays Child by < PROPFIRST > Bowie ... actually a great song if you youtube it and listen to the lyrics ... I obviously have too much time on my hands !
+0.46 (you; youtube; it)
+0.58 (you; listen; to the lyrics)
+0.45 (I; obviously have; too much time)
+
+I'll quit after sunday's song ....
+0.50 (I; 'll quit; T:after sunday's song)
+
+I will have covered all the days of the week .
+0.45 (I; will have covered; all the days of the week)
+
+I know , I am a dork !
+0.24 (I; know; )
+0.52 (I; am; a dork)
+
+It takes 7 seconds for food to pass from mouth to stomach .
+
+A human hair can hold 3 kg .
+0.91 (A human hair; can hold; 3 kg)
+
+The length of the penis is three times the length of the thumb .
+0.94 (The length of the penis; is; three times the length of the thumb)
+
+The femur is as hard as concrete .
+0.93 (The femur; is; as hard as concrete)
+
+A woman's heart beats faster than the man .
+0.77 (A woman's heart; beats faster; )
+
+Women blink twice as much as men .
+0.92 (Women; blink; twice as much as men)
+
+We use 300 muscles just to hold the balance when we stand .
+0.45 (We; use; 300 muscles; just to hold the balance)
+0.24 (we; stand; )
+
+The woman has read this entire text .
+0.90 (The woman; has read; this entire text)
+
+The man is still looking at his thumb .
+0.85 (The man; is looking; at his thumb; T:still)
+
+Happy Earth Day !
+
+everyone knows the friday song .... especially you < PROPFEMALE > !
+0.92 (everyone; knows; the friday song)
+
+Saturday in the park .... lame ...  Saturday in the park .... lame ... and it isn't the 4th of July  we could go with saturday night's alright for fighting ... but i'm not violent !... or i could go back to 6th grade with bay city rollers .... i'm gonna rock it up roll it up do it all have a ball saturday night .. or ... another saturday night and i ain't got nobody ... got some money cuz i just got paid ... then we have sunday ... after that i promise i'll quit being a dork  Good Morning World !
+0.50 (it; is n't; the 4th of July)
+0.39 Context(it is n't,List([75, 83))):(we; could go; with saturday night's alright for fighting)
+0.27 (i; na rock up; it)
+0.25 (i; got; paid)
+0.68 (another saturday night and i ain't got nobody; got; some money cuz i just got paid)
+0.18 (i; promise; i'll quit being a dork; T:after that)
+0.39 Context(i promise,List([447, 456))):(i; 'll quit; being a dork)
+0.52 (i; 'm not; violent !...)
+0.88 (some money; just got paid; i)
+0.45 (i; ai n't got; nobody)
+0.41 (i; being; a dork)
+
+3:30 sunday morning .... can't believe i'm still awake .
+
+I have two songs for sunday ... one is the obvious , U2 , the other is sunday morning by < PROPFEMALE > underground .
+0.58 (the other; is; sunday morning)
+0.31 Context(the other is,List([58, 70))):(one; is; the obvious)
+0.40 Context(one is the other is,List([32, 70))):(I; have; two songs; T:for sunday)
+0.38 (the other; is sunday morning by; < PROPFEMALE)
+
+Has anyone else ever heard of the latter song ?
+0.83 (anyone else; heard; T:ever)
+
+It is quite odd , but good music to sleep with  I hate gloomy days .
+0.45 (I; hate; gloomy days)
+0.24 (It; is; quite odd)
+0.80 Context(It is,List([0, 5))):(good music; to sleep; T:with  I hate gloomy days)
+
+Makes me lazy  when my mom was my age , she crochetted .. don't know if that is a word , but you get it , babysat for < PROPMALE > and < PROPFEMALE > ( grandkids ) now i play farmville !
+0.54 (you; get; it)
+0.56 (my mom; was; my age)
+0.62 (you; babysat; for < PROPMALE)
+0.60 (i; play; farmville; T:now)
+
+not far from home , as she lived out on stedman road .... middle of nowhere , for those of you who are unfamiliar  hence farmville hit share too quick !
+0.37 (those of you; are; unfamiliar)
+0.62 (those of you; hence farmville; hit share too quick)
+
+Sunshine !
+
+.............
+
+I think i am going to do as the friday song suggests , then take my happy ass to work !
+0.43 (I; think; i am going to do as the friday song suggests , then take my happy ass to work)
+0.17 (i; to do; )
+0.75 (the friday song; suggests; )
+
+I understand that parents raise their children , pay for this and that , but i don't understand parents that never provided for their children when they were young , they get old , have alot of money stashed , and when one of their kids needs help ( my sister ) , they turn the other way .
+0.36 (they; were; young)
+0.67 (they; turn; the other way; T:when one of their kids needs help)
+0.37 (they; get; old)
+0.17 Context(they get,List([166, 174))):(I; understand; that parents raise their children , pay for this and that)
+0.79 Context(I understand they get,List([0, 174))):(parents; raise; their children)
+0.68 (one of their kids; needs; help)
+0.48 (parents; pay; for this and that)
+0.58 (they; have alot; of money)
+0.14 (i; do n't understand; parents that never provided for their children)
+0.80 (parents; never provided; for their children; T:when they were young)
+
+Just glad that I am able to help my sister out when she needs it .
+0.37 (I; am; able to help my sister out)
+0.20 (I; to help out; T:when she needs it)
+0.31 (she; needs; it)
+
+wish I could do more .
+
+Never mistake my kindness as a sign of weakness  Today I truly hated my job .
+0.44 (I; truly hated; my job; T:Today)
+
+I need to quit letting it get to me so much .
+0.26 (I; need; to quit letting it get to me so much)
+0.26 Context(I need,List([0, 6))):(I; need to quit; letting it get to me so much)
+0.26 Context(I need to quit,List([0, 14))):(I; need to quit letting; it get to me so much)
+0.32 Context(I need to quit letting,List([0, 22))):(it; get; to me; so much)
+
+to all my friends in < PROPFEMALE > arbor ... I hope grad weekend was a success for you !
+0.26 (I; hope; grad weekend was a success for you)
+0.84 Context(I hope,List([46, 52))):(grad weekend; was; a success for you)
+0.39 (grad weekend; was a success for; you)
+
+I don't understand facebook lately ... i have comcast high speed , brand new computer , and facebook is so slow !
+0.45 (i; have comcast; high speed , brand new computer)
+0.80 (facebook; is; so slow)
+0.18 (I; do n't understand; facebook; T:lately)
+0.18 Context(I do n't understand,List([0, 18))):(I; do n't understand facebook facebook; T:lately)
+
+Any suggestions would be appreciated  I still don't understand why kids in CA were expelled for wearing a shirt with the American flag on it to school .
+0.86 (kids in CA; for wearing; a shirt with the American flag on it)
+
+Happy Mother's Day to all of you moms out there !
+
+Oh my goodness ... I am too old to work 16 hours straight !
+0.52 (I; am; too old to work 16 hours straight)
+0.40 (I; to work straight; 16 hours)
+
+My dogs are screaming dirty names at me !
+0.49 (My dogs; are screaming; dirty names; L:at me)
+
+Gorgeous weather we've been having !
+0.19 (we; 've been having; )
+
+Listening to old music ... just heard a song that reminded me of my Mother ... Sweet Child of Mine .
+0.84 (a song; reminded; me; of my Mother)
+
+Her hair reminds me of a warm safe place where I as a child I'd hide .... Mom ... you never won the mother of the year award , but in my heart , I know you did your best !
+0.55 (I; 'd hide; L:a warm safe place)
+0.55 (you; never won; the mother of the year award)
+0.42 Context(you never won,List([82, 95))):(Her hair; reminds; me; of a warm safe place)
+0.45 (I; know; you did your best; L:in my heart)
+0.47 Context(I know,List([145, 151))):(you; did; your best)
+
+Where is summer ?
+
+I am tired of listening to my furnace suck money out of my wallet !
+0.37 (I; am; tired of listening to my furnace)
+
+look at craigs list detroit , under rants and raves ... titled ... i am glad the little girl is dead ... can someone find out who this sick fu .. er is and have him executed !
+0.72 (rants and raves; titled; )
+0.75 (someone; have; him executed)
+0.16 Context(someone have,List([109, 160))):(him; executed; )
+0.83 (the little girl; is; dead)
+
+isn't the muslim religion fantastic ?
+
+or absolutely horrifying  ok .. done now ... i need to get a life and stop researching shit !
+
+Work Work Work and more Work !
+
+Oh well , keeps me young and out of trouble !
+
+It's a great day out .... Finally !
+0.14 (It; 's out; T:Finally)
+
+It's amazing how something as simple as a text message that says \Hey\ " can make you smile :) "  what's on my mind ... In loving memory of my beautiful mother on memorial day .
+0.28 (It; 's; amazing)
+0.85 (a text message; says; \Hey\ " can make you smile :) "  what's on my mind ... In loving memory of my beautiful mother on memorial day)
+
+Not a day goes by that I don't think of you and miss you .
+0.33 (I; miss; you)
+0.74 (Not a day; goes; by)
+0.26 Context(Not a day goes,List([0, 14))):(I; do n't think; of you)
+
+I will be with you again someday mom , but i'm not ready yet !
+0.31 (I; will be; with you; T:again; T:someday; T:mom)
+0.28 (i; 'm not; ready; T:yet)
+
+In loving memory of my mother on memorial day .
+
+Picture is of her and my niece < PROPFEMALE > White  I promise I will post a recent pic as soon as I lose weight and get a tan !
+0.92 (Picture; is; of her and my niece < PROPFEMALE > White  I promise I will post a recent pic as soon as I lose weight and get a tan)
+0.31 (I; will post; a recent pic; T:as soon as I lose weight)
+0.45 (I; lose; weight)
+0.48 (I; get; a tan)
+
+Does anyone really car that < PROPMALE > Gore and his wife Tipper separated ?
+0.38 (Does anyone really car that < PROPMALE > Gore and his wife; separated; )
+
+It's topping the headlines ... what a waste of news space  just was listening to some old music ... if you're going to san fransisco be sure to wear some flowers in your hair ... never caught the irony of that song before  Damn it ... my older me died ... old < PROPFEMALE > from the < PROPFEMALE > Girls !
+0.61 (it; ...; my older me died ... old < PROPFEMALE > from the < PROPFEMALE > Girls; T:before  Damn)
+0.31 Context(it ...,List([228, 234))):(my older me; died; )
+0.58 (you; to san; fransisco)
+
+Ikes !
+
+Tornado Warning !
+
+Why do reporters continue to refer to the President as Mr. Obama ?
+
+I am not a huge fan , but I still think it is very disrespectful to not address him properly .
+0.45 (I; am not; a huge fan)
+0.41 (I; think; it is very disrespectful to not address him properly; T:still)
+0.31 Context(I think,List([26, 39))):(it; is; very disrespectful to not address him properly)
+
+sounds silly , but i miss grand rapids ... thought i would be happier by detroit , but i thought wrong !
+0.52 (i; miss; grand rapids)
+0.50 (i; would be; happier by detroit)
+0.23 (i; thought; wrong)
+
+Life is amazing .... if you make the effort to make it that wah  if you make it that way  wah sounds like a whiney bitch  good night .. sweet dreams to anyone who may see this  What the hell !
+0.80 (Life; is; amazing)
+0.72 (anyone; may see; this)
+0.24 (you; make; the effort to make it that wah)
+0.27 (you; make; )
+
+To anyone who is a father ... Happy Father's day , be a good dad , leave your kids with their baby's mamma and have a good time !
+0.90 (anyone; is; a father)
+
+I don't really look like the pillsbury dough boy yet , as my pic portrays ... was on roller coaster in cedar point ... the wind kind of \blew\ " me up !
+0.34 (my pic; portrays; )
+
+"  I just received a message from < PROPFEMALE > Fox ... she isn't even on my friends list .
+0.31 (she; is n't; even on my friends)
+0.43 Context(she is n't,List([57, 66))):(I; just received; a message from < PROPFEMALE > Fox)
+
+subject was : your ass got caught too !
+0.45 (your ass; got; caught too)
+0.80 (subject; was; your ass got caught too)
+0.29 Context(subject was,List([0, 11))):(your ass; got caught too; )
+
+only all the words were spelled in a scrambled way .
+0.77 (only all the words; were spelled; )
+
+Many of you , seems mostly classmates , were on the sent to list .
+0.62 (Many of you; were; on the sent to list)
+
+Anyone know anything about this ?
+0.92 (Anyone; know; anything about this)
+
+I promised myself that I am going to have a great day .... and this is one promise I will not break !
+0.41 (I; to have; a great day)
+0.31 (this; is; one promise I will not break)
+0.88 (one promise; will not break; I)
+0.11 (I; promised; myself; that I am going to have a great day)
+
+ok .. mr.
+
+heinitz ... listen to this song  Today I thank God for my life ... and air conditioning !... but more important .. my life !
+0.42 (I; thank; God; for my life)
+
+< PROPFEMALE > J Munkacsy Did you ever make a mistake that you were embarassed about ?
+0.70 (a mistake; were embarassed; )
+
+Have you ever really messed up ?
+
+Don't judge ...... don't throw rocks in you live in a glass house !
+
+We are human , we all make HUGE mistakes at some time in our lives !
+0.26 (we; make; HUGE mistakes; T:at some time in our lives)
+0.18 Context(we make,List([15, 26))):(We; are; human)
+
+Do unto others as you would have them do unto you !
+0.40 (you; would have; them do unto you)
+0.31 Context(you would have,List([18, 32))):(them; do; unto you)
+
+I took this from < PROPFEMALE > Sprague .. thank you < PROPFEMALE > ... it is so TRUE !  this is the anniversary of my mother's passing ... sad day for me ... but tomorrow will be a new day ....  < PROPFEMALE > is on letterman ... looks like she's had a little surgery ..  I really like my job .. most of the time .. but my body hates it !
+0.89 (tomorrow; will be; a new day)
+0.43 (my body; hates; it)
+0.26 Context(my body hates,List([321, 334))):(I; really like; my job)
+0.87 (PROPFEMALE; is; on letterman)
+0.39 (this; is the anniversary of; my mother)
+
+I love Boston Legal reruns ... but why the hell do they have to air them at 2:30 a.m.
+0.50 (I; love; Boston Legal reruns ... but why the hell)
+0.42 (they; to air; them; T:at 2:30 a.m.)
+
+?
+
+night  The reason the grass seems greener on the other side is because it's been fertilized with bullshit .
+0.73 (the grass; seems; )
+0.96 (The reason the grass seems greener on the other side; is; because it's been fertilized with bullshit; T:night)
+0.19 (it; 's been fertilized; )
+
+Not sure what to think right now ... Me and my dad are going to camp in the U.P. First time in 30 years that we have spent more than two hours together .
+0.64 (Me and my dad; to camp; T:in the U.P. First time in 30 years)
+0.39 Context(Me and my dad to camp,List([37, 68))):(we; have spent together; more than two hours)
+
+I am kind of excited to spend time with him , although not sure of the outcome !
+0.37 (I; am; kind of excited to spend time with him)
+0.27 (I; to spend; time; with him)
+
+I wish me the best !
+0.37 (I; wish; me; the best)
+
+Dad is 75 , I am still 29 ... lol ... should be interesting .
+0.50 (lol; should be; interesting)
+0.23 Context(lol should be,List([30, 47))):(I; am; T:still; 29)
+0.68 Context(I am lol should be,List([12, 47))):(Dad; is; 75)
+
+sometimes i just want to run up to a stranger on the street and say ' YOU'RE IT!!' and then run away !
+0.37 (i; run; away; T:then)
+0.50 (i; just want; to run up to a stranger on the street and say ' YOU'RE IT; T:sometimes)
+0.39 Context(i just want,List([10, 21))):(i; just want to run up; to a stranger on the street)
+0.16 Context(i just want,List([10, 21))):(i; just want to say; YOU'RE IT)
+0.47 Context(i just want to say,List([10, 67))):(YOU; 'RE; IT)
+
+once again , i stole this from someone , and it made me laugh ... hope it does the same for you !
+0.60 (i; stole; this; from someone; T:once again)
+0.31 (it; does; the same; for you)
+0.36 (it; made; me laugh ... hope it does the same for you)
+0.23 Context(it made,List([45, 52))):(me; laugh; hope it does the same for you)
+
+Who ever said money doesn't bring happiness , I mean it would certainly make me happy right now .
+0.19 (I; mean; )
+0.31 (it; would certainly make; me happy; T:right now)
+
+Obviously that person has never been broke lol  Go Connecticut !
+
+It is so < PROPFEMALE > outside !
+0.28 (It; is; so)
+
+I do enjoy listening to it thought , very peaceful  Let us pause this day to remember the fallen , those innocent people taken by the extreme violence we witnessed this day in 2001 , and those who died attempting to save innocent victims .
+0.17 (I; do enjoy; listening to it thought , very peaceful  Let us pause this day to remember the fallen , those innocent people taken by the extreme violence we witnessed this day in 2001 , and those)
+0.26 Context(I do enjoy,List([0, 10))):(I; do enjoy listening; to it)
+0.83 (those innocent people taken by the extreme violence we witnessed this day in 2001; to save; innocent victims)
+0.45 (we; witnessed; this day; T:in 2001)
+0.21 (those; died attempting; to save innocent victims)
+
+You will never be forgotten .
+0.32 (You; will never be forgotten; )
+
+ok ... so what is this i like it shit ?
+0.31 (i; like; it; T:shit)
+0.39 (what; is this i like; it)
+
+gettin on my nerves !
+
+GO GREEN !!!!  My parents were MEAN to me when I was a kid !
+0.78 (GO GREEN; were; MEAN; T:when I was a kid)
+0.52 (I; was; a kid)
+
+They made me go to school and do chores .
+0.48 (me; do; chores)
+0.41 (They; made; me go to school and do chores)
+0.47 Context(They made,List([0, 9))):(me; go; to school)
+
+They gave me a curfew , taught me to get a job , and earn the things I wanted .
+0.46 (They; gave; me; a curfew)
+0.45 (me; to get; a job)
+0.23 (me; to earn; the things I wanted)
+0.59 (the things; wanted; I)
+
+They taught me to treat my neighbor as myself .
+0.46 (They; taught; me; to treat my neighbor as myself)
+0.31 (me; to treat; my neighbor; as myself)
+
+They insisted I do my best at school and work .
+0.41 (They; insisted; I do my best at school and work)
+0.32 Context(They insisted,List([0, 13))):(I; do; my best; L:at school and work)
+
+I grew up with ... morals , a good work ethic , and respect for the law .
+0.19 (I; grew up; )
+
+I thank God everyday for my MEAN parents  Here goes .
+0.35 (I; thank; God; T:everyday; for my MEAN parents  Here)
+
+This October has 5 Fridays , 5 Saturdays and 5 Sundays .
+0.94 (This October; has; 5 Fridays , 5 Saturdays and 5 Sundays)
+
+This happens once every 823 years .
+0.38 (This; happens; T:once every 823 years)
+
+This is money bags .
+0.45 (This; is; money bags)
+
+So Copy this to your status and money will arrive within 4 days .
+
+Based on Chinese Feng Shui .
+
+The one ......... who ... does not copy , will be without money .
+0.25 (The one; does not copy; )
+0.72 (The one ......... who ... does not copy ,; will be; without money)
+
+I cannot let that person be ... me .
+0.11 (I; can not let; that person be ... me)
+0.81 Context(I can not let,List([0, 12))):(that person; be; me)
+
+... Copy within 11 < PROPFEMALE > .
+
+Good luck  I just got off the phone with your Great Grandfather and told him what a wonderful girl you are .
+0.35 (I; just got; off the phone; with your Great Grandfather)
+0.28 (I; told; him; what a wonderful girl you are)
+0.27 Context(I told,List([11, 72))):(you; are; )
+
+He would love to meet you someday ... hopefully before it's not too late !
+0.28 (it; 's not; too late)
+0.25 (He; would love hopefully; to meet you someday)
+0.29 Context(He would love hopefully,List([0, 47))):(He; would love hopefully to meet; you; T:someday; T:before it's not too late)
+
+Regardless , you still have great uncle < PROPFIRST > .
+
+I love you .
+0.31 (I; love; you)
+
+Give your mom a hug , and telll her it is from me please and thank you  If it's gonna be this cold , it should be snowing  < PROPFEMALE > < PROPFIRST > is on < PROPFIRST > Lopez ... she is a < PROPFEMALE > cow !
+0.20 (it; na be; this cold)
+0.57 (she; is; a < PROPFEMALE > cow)
+0.39 (she; is a < PROPFEMALE >; cow)
+
+I try to leave politics out of my facebook thoughts ... but Huckabee is an ass ...  < PROPFEMALE > Osbourne is crackin my ass up right now !
+0.32 (I; try; to leave politics out of my facebook thoughts)
+0.26 Context(I try,List([0, 5))):(I; try to leave; politics; out of my facebook thoughts)
+0.92 (Huckabee; is; an ass)
+0.68 Context(Huckabee is,List([60, 71))):(Osbourne; is crackin up; T:right now)
+
+< PROPFEMALE > White\  Red is rockin it out !  Yuck ... I have to get ready to go the bad place today ... Work  Time for me to fly .. oh I've got to set myself free ... Yep , time to get my shit together and realize what is important in my life ... me and my Family !
+0.84 (White\  Red; is rockin out; it)
+0.29 (I; 've got; to set myself free ... Yep , time)
+0.26 Context(I 've got,List([137, 145))):(I; 've got to set; myself; free)
+0.57 (I; to get; ready to go the bad place today ... Work  Time)
+0.19 (me; to fly; )
+
+Many new days coming , and I am going to take advantage of each and every one of them .
+0.75 (Many new days; coming; )
+0.27 (I; to take; advantage; of each and every one of them)
+
+November 30 and 60 degrees !
+
+What more could you ask for !
+
+Finally snowing !
+
+Getting me in the mood to put up a CHRISTMAS tree !  will someone in farmville please send me a check button ... thank you  Work was fantastic !
+
+I drove in the parking lot just in time to get a phone call from the boss telling me to stay home !
+0.45 (I; drove; L:in the parking lot; T:just in time)
+0.88 (a phone call from the boss; telling; me; to stay home)
+0.23 (me; to stay; home)
+
+Now I have no excuse for not putting up my Christmas Tree !
+0.60 (I; have; no excuse; T:Now)
+
+< PROPFEMALE > White Enjoyed my conversation with the best uncle ever .
+0.86 (White; Enjoyed; my conversation with the best uncle ever)
+
+So glad he called .
+0.19 (he; called; )
+
+Put a happy ending to my day .
+
+Love you Uncle < PROPFIRST > !!  ???? ?? ??? ???? ?????! ???? ???? ??? ?????  Sometimes you just wonder why and pray that God will take care of it .
+0.46 (you; just wonder; why and pray that God will take care of it; T:Sometimes)
+
+Florida , watch out !
+
+I'm so excited ... I get to see my dad and his wonderful wife in two days !
+0.27 (I; to see; my dad and his wonderful wife; T:in two days)
+
+75 and < PROPFEMALE > here today  Yuck .
+
+Back to snow and cold .
+
+Oh poop .
+
+I just opened up the washing machine to put in downy ... only to discover i washed red boxers with my white work shirts !
+0.36 (I; just opened up; the washing machine; to put in downy; only to discover i washed red boxers with my white work shirts)
+0.39 Context(I just opened up,List([0, 16))):(I; just opened up the washing machine to put in; downy)
+0.18 Context(I just opened up,List([0, 16))):(I; just opened up the washing machine only to discover; i washed red boxers with my white work shirts)
+0.26 Context(I just opened up only to discover,List([0, 73))):(i; washed; red boxers; with my white work shirts)
+
+ugh 
+

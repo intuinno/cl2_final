@@ -1,0 +1,152 @@
+I'm on facebook ! at the apple store !
+0.52 (I; 'm; on facebook; L:at the apple store)
+
+I learned smells like teen spirit !!! My first bass song !!!!
+0.45 (I; learned; smells like teen spirit)
+
+If anybody goes on facebook at < PROPFIRST>'s house , CHAT WITH ME  ITS IMPORTANT SO DO IT U LAZY BASTARDS  I'm grounded over spring break ... but i have PAD THAI AND DUMPLINGS !!!  yo I just set up a ladder in order to kill a moth .
+0.71 (anybody; goes; )
+0.45 (I; 'm grounded; T:over spring break)
+0.44 (i; have; PAD THAI AND DUMPLINGS)
+0.40 Context(i have,List([147, 153))):(I; just set up; a ladder; in order)
+
+Feeling brave today =]  http://www.youtube.com/watch?v=CJ-dtOBbx3s  Nah , you playing Kobe !
+0.66 (you; playing; Kobe)
+
+I lost the game .
+0.52 (I; lost; the game)
+
+Sorry .
+
+http://www.memedepot.com/uploads/0/406_what_the_fark_is_this.jpg
+
+I have a computer in my room again .
+0.31 (I; have; a computer in my room; T:again)
+
+hahahaha  < PROPFEMALE > call me nd ill go on aim  LABDS  LABS  I just had the most amazing fattening meal with my brother .
+0.81 (PROPFEMALE; call; me; LABDS  LABS)
+0.31 (I; just had; the most amazing fattening meal; with my brother)
+
+5 guys ...  rode < PROPFIRST>'s bike 2 williamsburg !
+0.89 (5 guys; rode; PROPFIRST>'s bike 2 williamsburg)
+
+=D  The Karlin family Shopping Expedition !
+0.38 (Shopping Expedition; [is] family [of]; Karlin)
+
+Ho !
+
+doing apush  Red Dead Redemption  94 bucks from a coinstar muthafuckassssss  Beacon's closet  Dual Survival .
+0.97 (doing apush  Red Dead Redemption  94 bucks from a coinstar; muthafuckassssss; Beacon's closet)
+
+THAT HIPPIE PUT HIS FEET IN WATER WITH FUCKING SNAKES IN IT  Staying up all night 2 beat < PROPMALE > Potter and The Sorcerer's Stone .
+
+Gamecube .
+
+Filming a babelicious booty-bang in Italy without her consent .
+
+\I feel like a pilgrim from the freakin twenties !
+0.86 (\I; feel; like a pilgrim from the freakin twenties)
+
+\ " -Snooki .
+
+Jersey Shore Premiere "  ;) < PROPFEMALE > Diaz  Sweet damage  http://chzderp.files.wordpress.com/2010/07/5f3975f9-5a83-4be3-97b4-bb14bc9943b7.jpg
+
+MGMT Radio City Music Hall .
+
+Camping in Acadia National Park , Maine ! for the next few days  Back in nyc  Stole the pillow from the hotel in New Hampshire- a whole new world of comfort .
+
+Thank's guys =]  I now own the complete works of The New Pornographers !
+
+Ho !
+
+Veckatimest Island , Our haven on the southern point .
+
+\  http://www.danamorris.net/BB/veckatimest3.jpg  Dear Sweet Saiour , bring me a boy i can cuddle with on long , lonely nights .
+0.87 (a boy; can cuddle; T:on long , lonely nights)
+
+< PROPMALE > - men .
+
+Going to guitar center to demand my money back .
+
+Got my name in the book of life , good for another year .
+
+Yes you did < PROPFIRST > , yes you did .
+0.33 (you; did; )
+0.63 Context(you did,List([32, 39))):(you; did; PROPFIRST)
+
+Woke up at two , Five Guys for breakfast .
+
+I am the water at the foot of the palms , or I am sand and wind , and a shitty mirage , but either way , I'm a man of many nations !
+0.52 (I; am; sand and wind)
+0.47 (I; 'm; a man of many nations)
+0.47 Context(I 'm,List([105, 108))):(I; am; the water at the foot of the palms)
+0.89 (I; am the water at; the foot)
+
+We need to < PROPFEMALE > out bro .
+0.44 (We; need; to < PROPFEMALE > out bro)
+0.30 Context(We need,List([0, 7))):(We; need to < out; T:bro)
+
+Donuts , spicy sweet Doritos , and < PROPMALE > Potter 7 .
+
+Mad productivity .
+
+I like it in the booty .
+0.31 (I; like; it; L:in the booty)
+
+I'm sorry , I had to .
+
+It's hailing in my living room .
+0.31 (It; 's hailing; L:in my living room)
+
+First thought , status update !
+0.63 (First; thought; )
+
+Have you heard the names ?
+
+I have , because I'm Mr. Frisch and I'm too good for the morning announcements , and I felt I had to interrupt 9th period instead with a completely random advertisement .
+0.19 (I; have; )
+0.41 (I; to interrupt; 9th period)
+0.57 (I; 'm; Mr. Frisch)
+0.52 (I; 'm; too good for the morning announcements)
+0.43 (I; felt; I had to interrupt 9th period instead with a completely random advertisement)
+
+Tigers playing with pumpkins .
+0.71 (Tigers; playing; )
+
+\  \  http://www.youtube.com/watch?v=UcT4paZfflg  Ok .
+
+There are three people who keep poking me on facebook .
+0.77 (three people; keep; poking me on facebook)
+0.77 Context(three people keep,List([10, 31))):(three people; keep poking; me; L:on facebook)
+
+Three people , you know who you are .
+0.48 (you; know; who you are)
+0.27 Context(you know,List([15, 23))):(you; are; )
+
+You poke me like every day .
+0.46 (You; poke; me; T:every day)
+
+Stop the freakin poking !!!  \You've got romance coming out of your ass .
+0.73 (the freakin; poking; )
+0.42 (\You; coming; out of your ass)
+
+Not everyone has that .
+0.61 (Not everyone; has; that)
+
+\""  \No one wanted them .
+0.39 (one; wanted; them)
+
+So I HAD them !
+0.37 (I; HAD; them)
+
+\""  \I believe you've had something that's mine all this time .
+0.84 (something; 's; mine; T:all this time)
+0.65 (\I; believe; you've had something)
+0.20 Context(\I believe,List([5, 15))):(you; 've had; something that's mine all this time)
+
+Fork it over .
+
+\ " - A.C. Newman "  Precious reciprocity .
+
+Wide-eyed and up in arms !
+

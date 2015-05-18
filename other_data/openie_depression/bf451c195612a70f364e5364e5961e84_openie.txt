@@ -1,0 +1,641 @@
+Good Monday Morning , hope it goes smooth for all today !
+0.45 (it; goes; smooth for all; T:today)
+
+Well my Monday is about to Start , Talk to everyone later !
+0.76 (my Monday; is; about to Start , Talk to everyone later)
+
+I love all this quizes !
+0.23 (I; love; all this quizes)
+
+Thursday is a long day , when is Friday getting here ?
+0.95 (Thursday; is; a long day , when is Friday getting here)
+
+Friday is almost here , can't wait for the weekend .
+
+I Can't Wait until Tomorrow I'm going to see < PROPFEMALE > and < PROPFIRST > !
+0.45 (I; Ca n't Wait; T:until Tomorrow)
+0.41 (I; to see; PROPFEMALE)
+
+I had a fabulous weekend !
+0.52 (I; had; a fabulous weekend)
+
+Spent Saturday with an old friend and today with my two favorite guys .
+
+Nothing better than having a filled weekend .
+
+Happy Fathers day to all you dads reading this !
+0.38 (you dads; reading; this)
+
+A long weekend full of cleaning and yard work , hope the rain holds out !
+0.93 (A long weekend full of cleaning and yard work; hope; the rain holds out)
+0.69 Context(A long weekend full of cleaning and yard work hope,List([0, 52))):(the rain; holds out; )
+
+My computer is having issues , I'll get with you all when I get it fixed !
+0.31 (I; 'll get; with you; T:when I get it fixed)
+0.58 Context(I 'll get,List([31, 39))):(My computer; is having; issues)
+0.31 (I; get; it fixed)
+0.16 Context(I get,List([58, 63))):(it; fixed; )
+
+Stopped into work for a quick minute , then back home to clean for company !
+
+Mondays suck !
+0.82 (Mondays; suck; )
+
+Happy Hump Day everyone , hope it goes smoothly foe all !
+0.23 (it; goes smoothly; foe all)
+
+Happy Hump Day , Hope it goes smoothly for all !
+0.19 (it; goes smoothly; )
+
+I love Fridays !
+0.50 (I; love; Fridays)
+
+Had a great weekend with some old friends of my husband , now off to a friends B-day party !
+
+Monday again and off to work !
+
+Almost half though the week , come on Friday !
+0.94 (Almost half; come on; T:Friday; T:though the week)
+
+I have a stomach bug that is kicking my tail !
+0.14 (I; have; a stomach bug that is kicking my tail)
+0.82 (a stomach bug; is kicking; my tail)
+
+Slept in and is going to see a movie , Have a great weekend !
+0.90 (Slept in; to see; a movie)
+0.85 Context(Slept in to see,List([0, 28))):(Slept in; to see a movie Have; a great weekend)
+
+I have no real politcal views , I listen for what sound best for my future , but with all the double talk out there who it telling the you what they really mean ?
+0.26 (I; listen; for what sound best for my future)
+0.40 Context(I listen,List([32, 40))):(I; have; no real politcal views)
+
+< PROPFEMALE > is where Love meet Wisdom , anyone with kids will understand !
+0.75 (anyone with kids; will understand; )
+0.86 (PROPFEMALE; is; where Love meet Wisdom)
+0.92 Context(PROPFEMALE is,List([2, 17))):(Love; meet; Wisdom)
+
+It is always one thing or another going arye in my life .
+0.37 (It; is; T:always; one thing or another going arye in my life)
+
+I just can't seem to get ahead of this black cloud that is following me these days !
+0.19 (I; just ca n't seem; )
+0.41 (I; to get; ahead of this black cloud)
+0.82 (this black cloud; is following; me; T:these days)
+
+I'm tired today , haven be sleeping well lately !
+0.52 (I; 'm; tired today , haven be sleeping well lately)
+0.94 (haven; be sleeping well; T:lately; T:today)
+
+Can't wait to see my husband tomorrow , it has been a long week !
+0.45 (it; has been; a long week)
+
+Got the grass mowed before the rain comes in , Ya me !
+0.77 (the rain; comes; in)
+
+Still really tired but handleing the Meds better , only a few week til surgery , and a few months til all better :)  I have uterin cancer and need to have a hysterectomy on 9/21/09 .
+0.75 (a few months; til all better; )
+0.45 (I; have uterin; cancer)
+0.41 (I; need; to have a hysterectomy on 9/21/09)
+
+I did find out yesterday that I will not need to take Kemothreapy that the cells are not speading beyond the Uterus .
+0.20 (I; did find out; T:yesterday; that I will not need to take Kemothreapy that the cells are not speading beyond the Uterus)
+0.31 Context(I did find out,List([0, 14))):(I; will not need; to take Kemothreapy that the cells are not speading beyond the Uterus)
+0.43 Context(I did find out I will not need,List([0, 45))):(I; will not need to take; Kemothreapy)
+0.90 Context(I did find out I will not need to take,List([0, 53))):(the cells; are not speading; L:beyond the Uterus)
+
+HAPPY LABOR DAY WEEKEND EVERYONE !
+
+It would be easier to get ahead in life if I were single than it is being married .
+0.20 (It; to get; ahead)
+0.23 (I; were; single)
+0.19 (it; is being married; )
+
+Lokking forward to a relaxing weekend , I'm so tired !
+0.28 (I; 'm; so tired)
+
+I have surgery on Monday , just wrapping up some house work before I'm out of commission for a few weeks , I'll miss you all !
+0.52 (I; 'm; out of commission for a few weeks)
+0.31 (I; 'll miss; you)
+0.43 Context(I 'll miss,List([107, 116))):(I; have; surgery on Monday)
+0.26 Context(I have I 'll miss,List([0, 116))):(I; have surgery on Monday just wrapping up; some house work; T:before I'm out of commission for a few weeks)
+
+Well , I survived surgery .
+0.45 (I; survived; surgery)
+
+The pain is alot wrost than I expected .
+0.87 (The pain; is; alot wrost than I expected)
+0.19 (I; expected; )
+
+Go Steelers !
+
+Still love ya Browns !
+
+Not healing as fast as I hoped , 2 more weeks rest !
+0.19 (I; hoped; )
+
+I am feeling back to normal but , I still have a few more weeks before I can start getting out and seeing everyone , miss you all !
+0.23 (I; am feeling; back to normal)
+0.33 (I; miss; you)
+0.40 (I; have; a few more weeks; T:before I can start getting out and seeing everyone; T:still)
+0.39 (I; can start; getting out and seeing everyone)
+0.29 Context(I can start,List([71, 82))):(I; can start seeing; everyone)
+0.20 (I; getting; out)
+
+Good Night All , I'm going to take some cough meds and go to bed !
+0.41 (I; to take; some cough meds)
+0.31 (I; to go; to bed)
+
+Was up at 4am to drive to Culpeper to drop my husband off at work because one of his employees backed into his truck with a piece of heavy equipment and we had to put his truck in the shop .
+0.27 (we; to put; his truck; in the shop)
+0.39 (one of his employees; backed; )
+
+Driving 4 hour before 8 am make for a long morning .
+
+I don't know how he does it everyday !
+0.26 (I; do n't know; how he does it everyday)
+0.26 Context(I do n't know,List([0, 12))):(he; does; it; T:everyday)
+
+Got the kids off to school , time for some housework , anyone know a maid ?
+0.92 (anyone; know; a maid)
+
+My kids think I'm the maid !
+0.50 (My kids; think; I'm the maid)
+0.47 Context(My kids think,List([0, 13))):(I; 'm; the maid)
+
+I hate having more bills than money !
+0.40 (I; hate; having more bills than money)
+0.40 Context(I hate,List([0, 6))):(I; hate having; more bills than money)
+
+I miss having fun and going out with friends !
+0.47 (I; miss; having fun and going out with friends)
+0.40 Context(I miss,List([0, 6))):(I; miss having; fun)
+
+I am all cleared by the doctor , just no lifting over 15lbs until the new year !
+0.45 (I; am all cleared; by the doctor; T:until the new year)
+
+Here is a current picture of me for all those who said I needed to post a new pic !
+0.24 (Here; is; a current picture of me for all those)
+0.32 (all those; said; I needed to post a new pic)
+0.39 Context(all those said,List([36, 54))):(I; needed; to post a new pic)
+0.39 Context(all those said I needed,List([36, 63))):(I; needed to post; a new pic)
+
+Small towns and local businesses p#### me off , I'm tired of being screwed over by small business owners , that make up the rules as they go along !
+0.92 (Small towns and local businesses; p; ### me off , I'm tired of being screwed over by small business owners)
+0.51 (I; 'm; tired of being screwed over by small business owners; T:# me off)
+0.82 (small business owners; make up; the rules; T:as they go along)
+0.43 (they; go; along)
+
+No wonder small businesses close up over night , if they all treat their customers the way I was treated then they get what they deserve !
+0.90 (small businesses; close up; T:over night)
+0.42 (they; treat; their customers; the way I was treated)
+0.88 (the way; was treated; I)
+0.61 (they; get; what they deserve; T:then)
+0.27 Context(they get,List([110, 118))):(they; deserve; )
+
+The worst thing about moving is all the packing !
+0.76 (The worst thing about moving; is; all the packing)
+
+I am dog tired and sore , Moving is kidding my a** !
+0.52 (I; am; dog tired and sore)
+0.17 (I; Moving; )
+0.17 (I; is kidding; )
+
+Good Night All !
+
+One day closer to MS .
+
+Another day of packing and maybe a dump run !
+
+Well my house is all packed away in storage , and I have great friends , Thanks to all who showed up to help .
+0.64 (my house; is all packed away; L:in storage)
+0.45 (I; have; great friends)
+0.15 (all; showed up; to help)
+0.13 (all; to help; )
+
+Happy Thanksgiving All !
+
+Wondering at what age boys stop being helpless ?
+0.83 (what age boys; stop; being helpless)
+0.75 (what age boys; being; helpless)
+
+Down to one week til I move Home to Mississippi !  4 Day until I move , I'll miss you all !
+0.19 (I; move; )
+
+The snow covered trees are beautiful !
+0.88 (The snow; covered; trees are beautiful)
+0.70 Context(The snow covered,List([0, 16))):(trees; are; beautiful)
+
+Another OP Surgery today , I'm tired of surgery , Everyonehave a great weekend !
+0.66 (I; 'm; tired of surgery; T:today)
+
+Happy 14th Anniversary < PROPMALE > , I'd do it all over agian !
+0.30 (I; 'd do all over agian; it)
+
+I love this much .........  < PROPFEMALE > Christmas to all and to all a good night !
+0.23 (I; love; this much)
+
+We got about 27 inches of snow , I can even walk in it !
+0.26 (I; can even walk; L:in it)
+0.46 Context(I can even walk,List([33, 48))):(We; got; about 27 inches of snow)
+
+Who knew sledding could be so dangerous ?
+
+< PROPFIRST > crash going down hill at the park , bit through his lip , spranded his < PROPFEMALE > and brused his ribs .
+0.71 (crash; spranded; his < PROPFEMALE)
+0.67 (crash; brused; his ribs)
+
+After 2 1/2 hrs at the ER he is druged and I'm tired , good night and safe sledding !
+0.19 (he; is druged; )
+0.70 (I; 'm; tired; T:good night and safe sledding; T:After 2 1/2 hrs at the ER)
+
+I'm so glad to be home with my family in mississippi but I do miss you all in VA , Maybe I'll come back and visit sometime soon !
+0.49 (I; 'm; so glad to be home with my family in mississippi)
+0.20 (I; to be; home)
+0.35 (I; do miss; you; L:in VA)
+0.20 (I; visit; T:sometime soon)
+
+Have a great time and Drive SAFE all !
+
+BROWNS SUCK GO STEELERS  Much Love to All !
+
+The south is so cold , were did the sun go ?
+
+No School today :( It snowed here in MS and they don't get snow here and can drive in it !
+0.64 (It; snowed; L:here in MS; T:today)
+0.62 (they; do n't get; snow; L:here)
+0.42 (they; can drive; L:in it)
+
+Lavender  I miss you < PROPMALE > come home soon !
+0.31 (I; miss; you)
+0.58 Context(I miss,List([10, 16))):(PROPMALE; come; home; T:soon)
+
+Kids are at school , Housework is done , Now what ........, I need a job !
+
+< PROPFEMALE > 9lbs 2oz , < PROPMALE > & < PROPFIRST > 7lbs 3oz , < PROPFEMALE > 6lb 3oz , Kamron 5lbs 8oz  Miss you < PROPMALE > !
+
+This status is being tracked , the owners of facebook have confirmed they will send $1 to the rescue fund for the Haiti earthquake disaster for everytime this is cut and paste as a status .
+0.15 (this; is cut; )
+0.34 (this; paste; as a status)
+0.90 (the owners of facebook; have confirmed; they will send $1 to the rescue fund for the Haiti earthquake disaster for everytime)
+0.69 Context(the owners of facebook have confirmed,List([31, 68))):(This status; is being tracked; )
+0.71 Context(the owners of facebook have confirmed,List([31, 68))):(they; will send; $1; to the rescue fund for the Haiti earthquake disaster for everytime)
+
+You only have to leave it for a minimum of 1 hour .
+0.42 (You; to leave; it; for a minimum of 1 hour)
+
+Lets all do our bit to help .
+
+Rain , Rain , Go , Away  If you here of a job opening in NE MS let me know I'm still looking !!  Today's game .... MIDDLE NAME ONLY .. Everyone please play this game !
+0.62 (Rain , Rain; Go Away; )
+0.88 (Everyone; play; this game)
+0.47 (you; here let; me know I'm still looking !!  Today's game .... MIDDLE NAME ONLY .. Everyone please play this game)
+0.48 Context(you here let,List([28, 66))):(me; know; I'm still looking !!  Today's game .... MIDDLE NAME ONLY .. Everyone please play this game)
+0.39 Context(you here let me know,List([28, 74))):(I; 'm looking; Today's game; T:still)
+
+You will find it interesting to know what your FB friends middle name is .. Copy and paste this on your profile before you put your middle name at the end of this sentence ..... < PROPFEMALE >  < PROPFEMALE >  Farve , What happened ?
+0.63 (You; will find; it interesting to know what your FB friends middle name is .. Copy and paste this on your profile)
+0.64 (PROPFEMALE >  Farve; happened; )
+0.54 (you; put; your middle name; at the end of this sentence)
+
+I hate getting dresssed up for a job interview , just for the drive to be longer than the interview .
+0.45 (I; hate getting; dresssed up for a job interview)
+0.41 (I; dresssed up; for a job interview)
+
+You have my resume , did you even read it ?
+
+Is anyone else having problems with your facebook pages tonight ?
+
+Good Morning all off to a parent teacher conference , can anyone tell me why kids are so mouthy these days ?
+
+Maybe I need to slap their faces more often !
+
+My truck is running again , Thank Dew and Jermey !
+
+Rumor has it ....
+0.89 (Rumor; has; it)
+
+I love you !
+0.31 (I; love; you)
+
+Going to bed early , start my new 60 hr a week job in the morning !
+
+Wish me luck , good night all !
+
+Factory work is SO MUCH HARDER than I ever though , my whole body hurts and I still have three days left this week .
+0.55 (I; have; three days left this week; T:still)
+0.93 (three days; left; T:this week)
+0.38 (my whole body; hurts; )
+0.92 Context(my whole body hurts,List([52, 71))):(Factory work; is; SO MUCH HARDER)
+0.89 (Factory work; is SO MUCH HARDER than; I)
+
+30 hrs down 30 to go , Wish me luck or send me pain meds .!? *  $0 hrs down 20 to go , then a day off , Go Colts !
+0.77 (30 hrs down 30; to go; )
+0.80 (30 hrs down 30; to Wish; me; luck)
+
+40 HRS DOWN 20 TO GO , THEN A DAY OFF , GO COLTS !
+
+My first week of work at the factory is complete , all and all it hardwork and I'm very tired , but its a paycheck and a new start !
+0.60 (My first week of work at the factory; is; complete , all and all)
+0.34 (all; hardwork; it)
+0.28 (I; 'm; very tired)
+
+GO COLTS !
+
+Ilove you and Miss you < PROPMALE > !
+
+Does anyone know what the best shoes are for standing on your feet all day are ?
+0.72 (the best shoes; are; )
+
+I need something with good arch support and comfort ..... My feet are killing me , I know am walking with a limp and my hip is clicking when I walk .... Help !!! Please !!  Why do you need to shedule an appointment at a salon if you still need to wait an hour when you get there !
+0.24 (I; walk; )
+0.42 (you; to wait; T:an hour; T:when you get there)
+0.49 (My feet; are killing; me)
+0.57 (you; need; to wait an hour when you get there; T:still)
+0.24 (I; know; )
+0.43 (you; get; there)
+0.49 (my hip; is clicking; T:when I walk)
+
+Needless to say I'm a little irritated and I missed out on a great lunch with my famliy because I was waiting for something I sheduled an appointment for ...  What makes children with everything steal , my two youngest sons stole magic cards from walmart earlier tonight , not like they don't have 100's of them already , WTF !
+0.72 (my two youngest sons; stole; magic cards; from walmart; T:earlier tonight)
+0.31 (I; missed out; on a great lunch; because I was waiting for something)
+0.46 (they; do n't have; 100's of them; T:already)
+0.45 (I; was waiting; for something)
+0.57 (I; sheduled; an appointment for ...  What makes children with everything steal)
+
+Only one more week until I get to see my < PROPFEMALE > again !  4 days to go , until my babe gets here !  2 days and a few hour untilI pick up my < PROPFEMALE > poo .
+0.31 (I; to see; my < PROPFEMALE; T:again)
+0.81 (my babe; gets; here; T:2 days and a few hour untilI pick up; T:until I get to see my < PROPFEMALE > again)
+0.77 (untilI; pick up; )
+
+from the airport :)  Thanks to all of you remebered my Birthday !
+
+Had a great weekend with my < PROPFEMALE > can't wait for his next trip home !
+0.73 (PROPFEMALE; ca n't wait; for his next trip home)
+
+What a beautiful day .....
+
+And I did not have to work ...... watching TV  Back to work tomorrow :( :( :(  I do not like slackers .....  My feet and back are killing me .... 60hrs a week is killing me ...... looked at a house for rent today , not bad but needs alot of work  I have a sinus , double ear and upper respiratory infection , I feel like death warmed over and work is not slowing down , Almost time for bed , hope everyone is doing well !
+0.71 (death; warmed over; )
+0.17 (I; to work; )
+0.40 (I; feel; like death)
+0.40 Context(I feel,List([309, 315))):(I; have; a sinus , double ear and upper respiratory infection)
+0.71 (everyone; is doing well; )
+0.85 (work; is not slowing down; Almost time for bed , hope everyone is doing well)
+
+I miss my < PROPFEMALE > so much !
+0.42 (I; miss; my < PROPFEMALE; so much)
+
+Spent an hour on the phone with an old friend last night , it was good to talk to her .
+
+Took < PROPMALE > to the doctor and got new meds today , hope that helps him .
+0.84 (hope; helps; him)
+
+Good night to all of those poorsuckers like me who have to work tomorrow , for the rest of you lucky dogs have fun !
+0.64 (those poorsuckers like me; to work; T:tomorrow)
+
+Today was one of the worst I've had in a while , and to top it off I have to work tomorrow !
+0.80 (Today; was; one of the worst)
+0.53 (the worst; 've had; T:in a while)
+0.41 (I; to work; T:tomorrow)
+0.89 (Today; was one of; the worst)
+
+I love my family but the drama is going to kill me .
+0.31 (I; love; my family)
+0.81 (the drama; to kill; me)
+
+Good night all !
+
+Monday ..... thats all I need to say !
+0.19 (I; need; to say)
+0.25 Context(I need,List([23, 29))):(all; to say; I)
+
+Worked a half day and then two doctors appointments for the kids , finally got home about the same time as if I worked all day just made less money .
+0.96 (two doctors appointments for the kids; got; home; T:as if I worked all day just made less money; T:then; T:finally)
+0.45 (I; worked; T:all day)
+
+My baby had his first surgery today and did wonderful , other than being a little sore he came out no worse for the wear .
+0.56 (My baby; had; his first surgery; T:today)
+0.37 (My baby; did; )
+0.19 (he; came out; )
+
+The end table  I HATE working Saturdays and the longer you know about it the worse it makes everyday leading up to it !
+0.50 (I; HATE working; Saturdays)
+0.67 (you; know; about it; T:the longer)
+0.26 (it; makes; everyday leading up to it)
+0.26 Context(it makes,List([83, 91))):(it; makes everyday leading; up to it)
+
+Loves my family !
+
+Hot dogs ... yummy !
+
+\  chilli , cheese and chips  Stuffed Pepper anyone ?
+
+Home from work today , my babysitter fell out of tree and sprained ankle last night trying to help the boys get the football down .
+0.73 (my babysitter; sprained; ankle; T:last night; T:today)
+
+Home from work and cooking dinner .
+
+10 years ago today my last baby was born , HAPPY BIRTHDAY LOGAN :)  Its Monday , what else can I say !
+
+Saturday night , went to my cousin < PROPFEMALE > and new husband < PROPFIRST>'s beautiful wedding , Congrats and best wishes !
+
+Migraine ... landed me in the hospital , with an IV and pain meds .
+0.84 (Migraine; landed; me; L:in the hospital)
+
+< PROPFIRST > Furniture is tring to kill me .... 115 degrees in the factory today and no relief in sight .
+0.89 (Furniture; is tring; to kill me .... 115 degrees in the factory today and no relief in sight)
+0.89 Context(Furniture is tring,List([14, 32))):(Furniture; is tring to kill; me; 115 degrees in the factory today and no relief in sight)
+
+102 degrees outside tomarrow so like ... 115-120 degrees in the factory .
+0.78 (102 degrees outside; tomarrow; so)
+
+I need an air conditioned job .
+0.45 (I; need; an air conditioned job)
+0.89 (air; conditioned; job)
+
+Happy Birthday Mom !! Happy 4th of July everyonr else !
+
+Does life ever get easier or do we just get by saying it going to ?
+0.23 (we; by saying; it going to)
+
+I wish this movie would go off so I can go to sleep !
+0.43 (I; wish; this movie would go off so I can go to sleep)
+0.80 Context(I wish,List([0, 6))):(this movie; would go off; so I can go to sleep)
+
+Hello Facebook friends .....
+
+The weather was nicer here today not so hot !
+0.90 (The weather; was not so hot; L:here; T:today)
+
+Every single one of you is on my friend list as the result of a conscious decision .
+0.73 (Every single one of you; is; on my friend list as the result of a conscious decision)
+
+I wanted you there .
+0.31 (I; wanted; you; L:there)
+
+I am not only glad to count you as friends , but also as family !!! Lets see who in my friends list actually pays attention .
+0.31 (I; am not; only glad to count you as friends)
+0.27 (I; to count; you)
+
+Copy and paste this in your status .
+
+I will be watching to .
+0.23 (I; will be watching; to)
+
+see who really does this  Hello Facebook Land , long time no see !
+
+I have a 4 day weekend and No $ , woohoo !
+0.45 (I; have; a 4 day weekend and No; woohoo)
+
+Another loss for the church softball team .
+
+Had my CT scan today ... results will be in Thursday or Friday .... on day 12 of this headache ... my husband said maybe they'll find my brain , HAHA  Hope today's anniversary has everyone thankful for thier freedom , Thank you to our military , fireman and police officers .
+0.29 (my husband; said; )
+0.89 Context(my husband said,List([99, 114))):(results; will be; in Thursday; T:on day 12 of this headache)
+0.92 (HAHA  Hope today's anniversary; has; everyone thankful for thier freedom)
+
+Another Migraine .... 3rd one this month .
+
+I see the doctor on the 29th , he better be able to fix my head .
+0.27 (he; to fix; my head)
+0.26 (he; better be; able to fix my head)
+0.39 Context(he better be,List([31, 43))):(I; see; the doctor; T:on the 29th)
+
+During October , we remember all babies born sleeping , or whom we have carried but never met , those we have held but could not take home , or the ones that came home but didn't stay .
+0.45 (we; remember; all babies born)
+0.20 (those; have held; we)
+0.91 (all babies; born; sleeping , or whom we have carried but never met)
+0.21 (those; could not take; home)
+0.71 (all babies born; sleeping; )
+0.16 Context(all babies born sleeping,List([29, 53))):(we; have carried; )
+0.74 (the ones; came; home)
+0.93 (the ones; did n't stay; T:During October)
+0.17 (we; never met; )
+
+Make this your status if you or someone you know has suffered a miscarriage or the loss of a baby .
+0.38 (you; know; )
+0.62 (you or someone; has suffered; a miscarriage or the loss of a baby)
+
+The majority won't do it because the loss of a baby is still a taboo subject .
+0.89 (The majority; wo n't do; it; because the loss of a baby is still a taboo subject)
+0.94 (the loss of a baby; is; T:still; a taboo subject)
+
+In memory of all lost angels .
+
+I have a headache .......  Two days off what to do ...... cook , clean and sleep !
+0.39 (I; have off; a headache)
+0.11 Context(I have off,List([0, 39))):(I; have off to do; )
+
+GO STEELERS !
+
+Happy Birthday KAMRON .... To all lse HAppy Veterans Day !
+
+DearMr .
+
+President , I hear you would like to freeze pay rates for soldiers starting next year .
+0.89 (soldiers; starting; T:next year)
+0.26 (I; hear; you would like to freeze pay rates for soldiers)
+0.55 Context(I hear,List([12, 18))):(you; would like; to freeze pay rates for soldiers)
+0.55 Context(I hear you would like,List([12, 33))):(you; would like to freeze; pay rates for soldiers)
+
+Would you also consider cutting your own pay to savemore money for our country ?
+
+While you're at it , let us cut down congressman's pay too .
+0.54 (you; 're; at it)
+
+If the people who risk their lives don't get an increase in pay , why would we continue ... raising pay for those who take no risks and reap the benefits ?
+0.21 (those; reap; the benefits)
+0.21 (those; take; no risks)
+0.67 (the people who risk their lives; do n't get; an increase in pay)
+0.81 Context(the people who risk their lives do n't get,List([3, 44))):(the people; risk; their lives)
+
+if you agree repost .
+0.36 (you; agree; repost)
+0.28 (you; repost; )
+
+11  I had a wonderful Thanksgiving wth family and good friends .
+0.70 (I; had; a wonderful Thanksgiving wth family and good friends; T:11)
+
+Tomorrow I'm going to an old friend .. can't wait !
+
+HAPPY BIRTHDAY TO MY HUBBY !
+
+Back to the doctor tomorrow for another MRI to make sure the blood clot in my bain is gone ... or back to the meds I go !
+0.82 (another MRI; to make; sure)
+0.91 (the meds; go; I)
+
+Wish me luck !!  Well back to work tomorrow .
+
+Can't wait for a three day weekend .
+
+We will be back to six days a week after the holidays .
+0.45 (We; will be; back to six days a week; T:after the holidays)
+
+Well I started with tendonitis in my left shoulder about 3 weeks ago , now every joint in my body hurts from jaws to toes .
+0.31 (I; started; with tendonitis in my left shoulder; T:about 3 weeks ago)
+0.85 (every joint in my body; hurts; from jaws to toes; T:now)
+
+The doctor ran a blood work up on thursday to see what is going on .
+0.58 (The doctor; ran up; to see what is going on)
+0.62 Context(The doctor ran up,List([0, 30))):(The doctor; ran up to see; what is going on)
+
+He's think RA ... lupus ... gout ... ect .
+0.57 (He; 's think; RA ... lupus ... gout)
+
+How did I go from a sore shoulder to to a possible auto immune disease ?
+
+WTH ...........  Well it turns out that I do have RA and it'll be up to 6 weeks before the RA droctor cav see me .
+0.42 (it; 'll be; up to 6 weeks; T:before the RA droctor cav see me)
+0.89 (the RA droctor cav; see; me)
+
+Just great , I bet if they were in pain I could get a sooner appointment .
+0.62 (they; were; in pain)
+0.43 (I; bet; if they were in pain I could get a sooner appointment)
+0.40 Context(I bet,List([13, 18))):(I; could get; a sooner appointment)
+
+\  I love Wheel of Forture .
+0.50 (I; love; Wheel of Forture)
+
+12.5 hours at work today sucks and it sucks even more that I have to be back in the am  BEER ......  Thanks to all my Friends for the Birthday wishes , I miss you all !!  5:55 make a wish , I wish for the economy of five years ago !
+0.41 (I; to be; back in the am  BEER)
+0.17 (it; sucks even more; that I have to be back in the am  BEER)
+0.47 (I; wish; for the economy of five years ago)
+0.32 Context(I wish,List([190, 196))):(I; miss; you)
+0.80 Context(I miss I wish,List([152, 196))):(12.5 hours at work today; sucks; )
+
+Bored to Death  < PROPFIRST > Sheen 47 , is all over the news beacause he's a celebrity drug addict .
+0.52 (he; 's; a celebrity drug addict)
+
+While < PROPFIRST > Wilfahrt 31 , < PROPFIRST > Tabada 21 , < PROPMALE > Hizon 22 , Chauncy May 25 are Soliders who gave their lives this week w/ no media mention .
+0.80 (Soliders; gave; their lives; this week)
+
+Please Honor them by posting this as your status for a little while .
+
+May they rest in peace  I get to go to the Spa all day tomorrow , my < PROPFEMALE > loves me !
+0.46 (I; to go; to the Spa; T:all day; T:tomorrow)
+
+I got a new I phone and is still figuring it out  Miss my < PROPFEMALE > !
+0.37 (I; got; a new I phone)
+0.35 (I; is figuring out; T:Miss my < PROPFEMALE >; T:still)
+
+I see the doctor again Monday if all goes well I can be back to work next week .
+0.50 (I; see; the doctor; T:again; T:Monday)
+0.13 (all; goes; )
+0.40 Context(all goes,List([33, 41))):(I; can be; back to work; T:next week)
+
+Just worried weather or not I can still do it at the same pace I was before .
+0.28 (I; was; T:before)
+
+No good news at the doctors today , but I go back to work tomorrow !
+0.52 (I; go; back to work; T:tomorrow)
+
+Well made it through my first day back to work , sore but I'll get better !
+0.28 (I; 'll get; better)
+
+Well as another weekend comes to an end I hope everyone had a great weekend and a safe productive week .
+0.90 (another weekend; comes; to an end)
+0.51 (I; hope; everyone had a great weekend and a safe productive week)
+0.90 Context(I hope,List([40, 46))):(everyone; had; a great weekend and a safe productive week)
+
+Goodnight !
+

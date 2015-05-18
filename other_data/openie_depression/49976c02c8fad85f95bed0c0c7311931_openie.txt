@@ -1,0 +1,11 @@
+vines block your vision , and u try to cut them down , eventually some regrow-eager to diminish your integrity-you must keep on trying no one said it was easy , approach it in a new way , insanity is doing the same thing over and over and expecting a differen
+0.88 (insanity; expecting; a differen)
+0.83 (vines; u try; to cut them down , eventually some regrow-eager to diminish your integrity)
+0.74 Context(vines u try,List([0, 35))):(vines; u try to cut down; them)
+0.37 (you; said; it was easy)
+0.24 Context(you said,List([111, 146))):(it; was; easy)
+0.87 Context(you said,List([111, 146))):(insanity; is doing over; the same thing)
+0.27 (you; must keep; )
+0.82 Context(you must keep,List([111, 124))):(vines; block; your vision)
+0.55 Context(you must keep,List([111, 124))):(you; must keep on trying; no one)
+

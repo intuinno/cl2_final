@@ -1,0 +1,414 @@
+someone stole my brand new g3 touch wtf
+0.82 (someone; stole; my brand new g3 touch wtf)
+
+umm can you say BORED !!!!  omg bored txt me message me something  life is so complicated and i wonder if its even worth it sometimes ... :,(  last night was great you smexy smexy beast !
+0.62 (you; smexy; smexy beast)
+0.59 (omg bored txt me; message; me; something  life is so complicated and i wonder if its even worth it sometimes ... :)
+0.75 Context(omg bored txt me message,List([28, 52))):(life; is; so complicated)
+0.31 (i; wonder; if its even worth it sometimes)
+0.66 (its even worth it sometimes ... :,(  last night; was; great)
+
+i mean you wray !
+0.19 (i; mean; )
+0.32 (you; wray; )
+
+i dont care anymore !  it burns but doesnt really hurt ...  ya ummmm ok idk  wish i was blowing fire works off this year instead of watching them but o well atleast i get to spend it with my love !!  rip < PROPMALE >  im fucking bored ugh !!  just made an awesome dinner with the boyfriend now playing video games maybe a movie later then sleep i need it so tired ...  not working bores me !!!!!  kill me now ....  13 weeks gone but that much closer to having to push the damn thing out !  wow im slow i forgot my own number when i was filling out an app lol  kisses and hugs make the world go mushy !!! ( its a good thing )  rain rain go away !!!  631-403-2022 call this number it might entertain you !!  blah  Baby shower has an official date of February 26th or that is the plan right now if your NOT immediate family of mine or < PROPFIRST>'s that would get an invite already and would like to come message me !! i no its still far away but my mom is like i need addresses !!!  hope my baby get this job he had the interview today and it went awesome there sending him for a piss test n then we hope he has the job it would be a great relief and would make him ouber happy !! which makes me happy !
+0.23 (it; would make; him ouber happy)
+0.18 Context(it would make,List([1119, 1160))):(him; ouber; happy)
+0.91 (rain rain; call; this number)
+0.37 (it; went; awesome; L:there; sending him for a piss test)
+0.39 (it; might entertain; blah; Baby shower)
+0.45 (i; was filling out; an app lol  kisses and hugs)
+0.27 (it; sending; him; for a piss test)
+0.97 (so tired ...  not working bores me !!!!!  kill me now ....  13 weeks gone but that much closer to having to push the damn thing out !  wow im slow i forgot my own number; make; the world go mushy)
+0.78 Context(so tired ... not working bores me !!!!! kill me now .... 13 weeks gone but that much closer to having to push the damn thing out ! wow im slow i forgot my own number make,List([355, 580))):(the world; go; mushy)
+0.45 (i; need; addresses)
+0.27 (i; to spend; it)
+0.23 (i; hope; my baby get this job)
+0.11 Context(i hope,List([917, 986))):(that; would get; an invite)
+0.50 Context(i hope,List([917, 986))):(my baby; get; this job he had the interview today)
+0.17 (that; is; the plan; T:right now)
+0.73 (13 weeks; gone; )
+0.93 (the boyfriend; playing; video games; T:now)
+0.81 (rain rain; go; away)
+0.52 (he; had; the interview; T:today)
+
+tomorrow is my babies birthday hurray for him !!! loves him bunches happy birthday bay .
+0.89 (tomorrow; is my babies birthday hurray for; him)
+
+alright so first off its two days till halloween and i stil dont have a costume wth but the worst thing is that me and my sister had the two blue monopoly peices from mcdonalds which is a million dollars and our stupid asses ended up throwing them away !!!  baby boy !!! i told < PROPFIRST > it wasnt gunna be a girl !! lol luv u hun  message me a number 1-500 and i will tell u what i think of u without any names .
+0.61 (a million dollars and our stupid asses; ended up; throwing them away)
+0.93 (lol luv; u; hun  message)
+0.48 (it; be; a girl)
+0.40 (the worst thing; is; that me and my sister had the two blue monopoly peices from mcdonalds)
+0.69 Context(the worst thing is,List([88, 106))):(me and my sister; had; the two blue monopoly peices)
+0.22 (i; will tell; what i think of u without any names)
+0.46 Context(i will tell,List([365, 376))):(i; think; of u)
+0.89 (mcdonalds; is; a million dollars and our stupid asses ended up throwing them away)
+
+3 loved to work with dont really talk much anymore tho  199 amazing !!! miss hanging out with you awesome friend  take it one day at a time i guess .... maybe after the baby's born and we have time apart we can work it out :,(  o and i have a crib now i just have to go pick it up im so excited the first thing i have for the baby !
+0.45 (i; have; a crib; T:now)
+0.61 (the first thing; have; i)
+0.55 (i; guess; T:a time)
+0.14 (i; to go; )
+0.04 Context(i to go,List([252, 269))):(i; to go pick up; T:im)
+0.45 (we; have; time)
+
+poop im hungry but i dont want anything  everything sound like poop  omg that was close all this stuff started popping up on my comp .
+0.80 (poop; im; hungry)
+0.72 (all this stuff; popping up; )
+0.39 (i; do nt want; anything)
+0.87 Context(i do nt want,List([19, 30))):(everything; sound; like poop  omg)
+0.74 (poop  omg; was; close)
+0.70 Context(poop omg was,List([63, 81))):(all this stuff; started; )
+
+and it was like virus stuff and i had to do a system recovery upside all better no more virus down side i lost all of my pics and all the stuff < PROPFIRST > wanted to save poop ... i feel so bad that stuff got deleted  every time we touch i get this feeling every time we kiss i swear i could fly !
+0.31 (i; get; this feeling; T:every time we kiss)
+0.19 Context(i get,List([240, 245))):(i; feel; so bad that stuff got deleted  every time)
+0.46 Context(i feel i get,List([182, 245))):(it; was; like virus stuff)
+0.55 (we; touch; T:every time)
+0.40 (i; to do upside all better; a system recovery)
+0.26 (i; swear; i could fly)
+0.16 Context(i swear,List([278, 285))):(i; could fly; )
+0.76 (stuff; got; deleted; T:every time we touch)
+0.51 (i; lost; all of my pics; L:down side)
+0.62 (we; kiss; T:every time)
+0.70 (stuff; got deleted; T:every time we touch)
+0.81 (< PROPFIRST; wanted; to save poop)
+0.81 Context(< PROPFIRST wanted,List([144, 164))):(< PROPFIRST; wanted to save; poop)
+
+fuck i hate not having a job and no credit cause no one will give me any !!!! fml 2011 better be a hell of alot better o ya and happy new year to everyone !!  poop now to walk home and hopefully find something to eat at my house ... i think sissypoo is coming with me we might watch marley and me  ok so get this everyone else there said that they could use some help that they where short staffed yet he claims he is not hiring and to call back and talk to him in a month or two kind of funny that s around the time im due .... hmm can u say suspicious  u no what i hate is when people call the father of there children babydadys when there still together if they are your boyfriend then thats what they are regardless of if u have a kid with them  when that ball drops im gunna grab a slut and pee in her butt !
+0.51 (ya and happy; to walk; home; T:now)
+0.50 (we; might watch; marley)
+0.32 (they; are regardless; )
+0.46 (u; have; a kid with them  when that ball drops)
+0.15 (short; staffed; )
+0.19 (i; hate; )
+0.23 (i; cause; no one will give me any)
+0.80 Context(i cause,List([5, 48))):(no one; will give; me; any)
+0.37 (ya and happy; to hopefully find; something to eat at my house)
+0.92 (people; call; the father of there children babydadys)
+0.56 (im gunna; grab; a slut and pee in her butt)
+0.75 (new year to everyone !!  poop; said; that they could use some help that they where short staffed yet he claims he is not hiring and to call back and talk to him in a month or two kind of funny that s around the time im due .... hmm can u say suspicious  u no what i hate is when people call the father of there children babydadys when there still together if they are your boyfriend then thats what they are regardless of if u have a kid with them  when that ball drops im gunna grab a slut and pee in her butt !)
+0.40 Context(new year to everyone !! poop said,List([134, 337))):(i; hate not having; a job)
+0.56 Context(new year to everyone !! poop said,List([134, 337))):(they; could use; some help)
+0.82 (something; to eat; L:at my house)
+0.40 (he; to talk kind of funny; T:in a month)
+0.41 (me; so get; this everyone else there)
+0.78 (that ball; drops; )
+0.48 (i; think; sissypoo is coming with me we might watch marley and me  ok so get this everyone else there)
+0.79 Context(i think,List([233, 240))):(sissypoo; is coming; with me)
+0.54 (2011; better be; a hell of alot better)
+
+lmao  woo !
+
+tri-c bookstore interview went great the lady said as long as my refrences are good i can have the job !! even though im pregnant !! hurray for college lol !! xD  poop have to leave my baby tonight cus i gosta go home ...  Had orientation today !!!
+0.83 (tri-c bookstore interview; went; great)
+0.80 (poop; to leave; my baby; T:tonight)
+0.80 (the lady; said; T:as long as my refrences are good; i can have the job)
+0.39 Context(the lady said,List([37, 50))):(i; can have; the job)
+0.74 (poop; cus; )
+0.38 (my refrences; are; good)
+
+It was good and I got to work over my first day was suppose to get off at 2 didn't get off till 3 lol only an hour but feels good to say at work today ...
+0.28 (It; was; good)
+0.32 (I; got; to work over my first day)
+0.26 Context(I got,List([16, 21))):(I; got to work; T:over my first day)
+0.68 (was suppose to get off at 2; did n't get off; T:till 3 lol; T:only an hour)
+
+And class starts next week finally I have stuff to do again lol so far my new year is awesome  Poop I'm tired but its not even late yet wth  ya so i skipped my doctor app .
+0.85 (class; starts; T:next week)
+0.24 (I; 'm; tired)
+0.61 (stuff; to do; T:again)
+0.62 (my new year; is; awesome; T:so far)
+
+and rescheduled it for next week ... im such a procrastinator  work tomorrow !! very psyched love working  ur sign only changes if you where born after 2009 anything before that u r still the same im still a Gemini !
+0.37 (you; where born; T:after 2009 anything; T:before that u r)
+
+< PROPFEMALE > foxtrot yankee < PROPFIRST > uniform < PROPFIRST > < PROPFEMALE > november uniform november < PROPFEMALE > < PROPFEMALE > < PROPMALE > < PROPFEMALE > tango < PROPFEMALE > november < PROPFEMALE > tango hotel < PROPFEMALE > < PROPFEMALE > < PROPFIRST > < PROPFIRST > papa yankee < PROPFEMALE > november < PROPFEMALE > papa < PROPFEMALE > < PROPFEMALE > tango < PROPFEMALE > tango < PROPFIRST > yankee < PROPFIRST > uniform < PROPMALE > < PROPFEMALE > tango < PROPFEMALE > tango uniform < PROPFEMALE > ( lets see who gets it and follows the instructions )  woooh !! ur signs dont change unless you where born 2009 or later !! < PROPFEMALE > for all of us 2008and back we stay the same !
+0.83 (PROPFEMALE; foxtrot PROPFIRST PROPFIRST; yankee)
+0.79 (PROPFEMALE > tango uniform; let; s see who gets it and follows the instructions)
+0.26 Context(PROPFEMALE > tango uniform let,List([472, 519))):(s; see; who gets it and follows the instructions)
+
+school starts tomorrow !! only thing is i dont no where the hell my first class is ... lmao o and work in the am for a bit  miss you love you cant wait to see you and yes < PROPFIRST > im talking to u !! and no one else  Stupid hospitals atleast they have the net poop I'm bored  idk  Heartburn from da baby poop I don't like heartburn  I may not be the most beautiful , or the sexiest , nor do I have the perfect body .
+0.92 (school; starts; T:tomorrow)
+0.66 (only thing; is; the hell)
+0.46 (you; ca nt wait; to see you)
+0.80 (Stupid hospitals; atleast; they have the net poop)
+0.41 Context(Stupid hospitals atleast,List([221, 245))):(they; have; the net poop I'm)
+0.23 (I; may not be; the most beautiful)
+0.43 (my first class; is; )
+0.36 (I; do n't like; heartburn  I may not be the most beautiful , or the sexiest)
+0.42 (you; to see; you)
+0.77 (the net poop; 'm; )
+
+I might not be someone's first choice , but I am a great choice .
+0.45 (I; might not be; someone's first choice)
+0.52 (I; am; a great choice)
+
+I don't pretend to be someone I'm not , because I'm good at being me .
+0.45 (I; do n't pretend; to be someone)
+0.27 (I; to be; someone I'm not ,)
+0.33 (I; 'm not; because I'm good at being me)
+0.37 (I; 'm; good at being me)
+
+I might not be proud of some of the things I've done in the past ...... but I'm proud of who I am today .
+0.45 (I; might not be; proud of some of the things)
+0.60 (the things; 've done; T:in the past)
+0.37 (I; 'm; proud of who I am today)
+0.52 (I; am; T:today)
+
+Take me as I am ... or watch me as I walk away ?
+0.24 (I; am; )
+0.28 (I; walk; away)
+
+Post this if you're proud of being you ...  finished all of my math homework finally now i have to write a narrative essay 2-3 pages long and study for my stupid speech exam that im gunna fail because my teacher sux  grrr no heartburn all day and now its getting close to \bedtime\ " and it in full force !! i thought i was gunna go a whole day with out it "  melt !! was so good and the sandwiches are huge !! i also got Godiva chocolate cheescake but i was so full i havnt even tried it yet its in the fridge but ima eat that in like 10 minutes !! had a great time with my baby !
+0.20 (i; to study; for my stupid speech exam)
+0.77 (the sandwiches; are; huge)
+0.65 (you; 're; proud of being you ...  finished all of my math homework finally now)
+0.71 (gunna; fail; )
+0.26 (i; thought; i was gunna go a whole day with out)
+0.47 Context(i thought,List([308, 317))):(i; was; gunna go a whole day with out)
+0.18 Context(i thought,List([308, 317))):(it; melt; )
+0.26 (i; havnt even tried; it; T:yet)
+0.11 Context(i havnt even tried,List([467, 485))):(i; havnt even tried it its; )
+0.72 (my teacher sux; grrr; no heartburn; T:all day)
+0.26 (i; was; so full i havnt even tried it yet its in the fridge but ima eat that in like 10 minutes !! had a great time with my baby)
+0.34 (its; getting; close to; T:now)
+0.79 (ima; eat; that in like 10 minutes !! had a great time with my baby; L:in the fridge)
+0.41 (i; to write; a narrative essay 2-3 pages long)
+0.50 (i; also got; Godiva chocolate cheescake)
+
+i really wish i could fit into my jeans i havnt been able to where jeans in for ever or atleast it seeems like it :( i miss my low rise jeans ...  bout to get off got heart burn again ... gotta brush my hair then catch the bus at 148 to get to school by 3  might be getting our own place soon ... cant wait cus living between two house suck big ass !! trying to find out bought this place on Detroit but they didnt answer :( o and hopefully il get called for an interview at robex the guy said they where getting ready to hire in march or april !! im due in april but after that im free !! to work  i just found out in class today that while women use both sides of there brain men only use half of there brain .... that explains ALOT !!  well no school today but i still have to study for my speech test do a ca trillion pages of math homework and write a narrative essay for English ...  So , let me get this straight .
+0.81 (cus; living; L:between two house)
+0.13 (that; explains; ALOT !!  well no school)
+0.86 Context(that explains,List([716, 729))):(the guy; said; they where getting ready to hire in march or april)
+0.27 Context(the guy said that explains,List([481, 729))):(i; just found out; L:in class; T:today; that while women use both sides of there brain men only use half of there brain)
+0.88 Context(the guy said i just found out that explains,List([481, 729))):(brain men; only use; half of there brain)
+0.89 (women; use; both sides of there)
+0.86 (jeans in for ever or atleast; might be getting; our own place; T:soon)
+0.23 (i; to study; L:for my speech test)
+0.10 Context(i to study,List([764, 785))):(i; to study do; )
+0.58 (they; to hire; T:in march or april)
+0.32 (they; did nt answer; )
+0.31 (it; seeems; like it)
+
+< PROPFIRST > < PROPMALE > is on his 8th divorce , < PROPFEMALE > < PROPFIRST > is possibly getting married for a 9th time , < PROPFEMALE > Spears had a 55 hour marriage , < PROPFIRST > < PROPFIRST > and Tiger Woods , while married , were having sex with EVERYONE ; yet the idea of SAME-SEX marriage is going to destroy the institution of marriage ?
+0.90 (the idea of SAME-SEX marriage; to destroy; the institution of marriage)
+0.92 (Spears; had; a 55 hour marriage)
+0.79 Context(Spears had,List([140, 150))):(PROPMALE >; is; on his 8th divorce)
+0.92 (< PROPFIRST > < PROPFIRST > and Tiger Woods; were having; sex)
+
+Really ?? Repost to your < PROPFEMALE > if you agree -Proud to support equal rights for ALL  stupid glands and there swolleness they are stupid for attacking my throat !
+0.46 (they; are; stupid for attacking my throat)
+0.56 (you; agree; Proud to support equal rights for ALL  stupid glands)
+0.90 Context(you agree,List([43, 52))):(Proud; to support; equal rights for ALL  stupid glands)
+
+poop i have alot of math homework to do by tomorrow im a tupid procrastinator if i would have done it 3 days ago like i planned i wouldnt have this problem  stupid football !
+0.33 (i; have; alot of math homework to do by tomorrow im a tupid procrastinator)
+0.31 (i; would have done; it; T:3 days ago)
+0.26 (i; planned; i wouldnt have this problem)
+0.40 Context(i planned,List([118, 127))):(i; would nt have; this problem)
+
+finnaly mmm food ~ !
+
+hmm class today should i go or skipp it ??  can somebody please explain the point in having a cell phone if when u leave the house you leave it at home on purpose or u do take it with you and you just dont answer it for anybody !
+0.61 (you; leave; it; L:at home; T:when u leave the house)
+0.33 (i; skipp; it)
+0.46 (you; just do nt answer; it; for anybody)
+
+get a fucking house phone or get rid of the phone in general apparently u want to fall offf the face of the earth so please just do so  poop on ur head !
+
+i have to leave for school at 130 and i < PROPFEMALE > even have class till 3 this is stupid i will have a car with or without insurance !
+0.41 (i; to leave; for school; T:at 130)
+0.24 (i; <; )
+0.35 (i; even have; class till 3)
+0.39 Context(i even have,List([0, 64))):(i; will have; a car with or without insurance)
+0.18 Context(i even have i will have,List([0, 104))):(this; is; stupid)
+
+stupid busses lol  sissypoo got her tattoo !! it looks awesome !
+0.80 (stupid busses; lol sissypoo got; her tattoo)
+0.18 Context(stupid busses lol sissypoo got,List([0, 31))):(it; looks; awesome)
+
+hmm any cheap apartments people no about ?
+
+other then parma woods or broadview gardens  ya apartments r to expensive !
+0.62 (ya; apartments; r; to expensive)
+
+i found an up and down ihave an appointment to go see it tuesday !
+0.45 (i; found; an up)
+
+ok so possible apartment- check\  A car - workin on it  woohoo 2 possible apartments 1is a one bedroom which to me is poop cus it only 1 bed\  the other is a two bedroom if someone didnt beat me to it !! but i have to wait and here about that one  there comes a time when u have to learn to put ur foot down ... o but watch out for that steaming pile of poo !  1 more hour then hes off of work ... so like 2 or 3 more hours before i get to see him ..  gotta call aunt delorus again today see if there is anymore news .. talked to her yesterday and uncle < PROPFIRST > was chowing down lol hope he is doing well !
+0.81 (so possible apartment- check\  A car - workin on it; woohoo; 2 possible apartments)
+0.91 (a one bedroom; is; poop cus it only 1 bed\  the other is a two bedroom)
+0.17 (i; to wait; )
+0.75 (u; to learn; to put ur foot down)
+0.75 Context(u to learn,List([272, 287))):(u; to learn to put; ur foot; down)
+0.95 (1 more hour; hes; so like 2 or 3 more hours before i get to see him ..  gotta call aunt delorus again today see if there is anymore news; T:then)
+0.19 (he; is doing well; )
+0.64 (the other; is; a two bedroom)
+0.82 (someone; did nt beat; me; to it)
+0.23 (i; to see; him ..  gotta call aunt delorus again)
+0.43 Context(i to see,List([431, 443))):(him; got; ta call aunt delorus again)
+0.36 Context(i to see him got,List([431, 455))):(him; got ta call; aunt delorus; T:again)
+0.39 (the other; is a two bedroom if; someone didnt)
+
+my mommy got me a pair of jeans for valentines day i am so excited and i hope they fit because i havnt been able to wear jeans in months .. sad face plus the ones she got are really cute  mmmm i want more jerky WRAY !!!  woo thanks to sissypoo wray and < PROPFEMALE > we all have to go to an open interview tomorrow !!  wow facebook has been boring today no one has really been on today and there is nothing to do  Trying to sleep longer before my doctors appointment at 9 ish but I cNt fall back asleep it's like 340 in the morning ... Ugh and I have heartburn !
+0.52 (it; 's; like 340 in the morning)
+0.28 (i; am; so excited)
+0.38 (Ugh and I; have heartburn; )
+0.88 Context(Ugh and I have heartburn,List([537, 561))):(no one; has really been; on today)
+0.89 (facebook; has been; boring; T:today)
+0.35 (i; hope; been able to wear jeans in months)
+0.48 Context(i hope,List([71, 77))):(they; fit; because i havnt)
+0.41 (we; to go; to an open interview; T:tomorrow)
+0.91 (the ones; got; she)
+0.71 (nothing; to do; )
+0.37 (I; cNt fall; back; asleep it's like 340 in the morning)
+0.24 (i; havnt; )
+
+So sometime this week o have to go home and start packing to move !
+0.20 (o; to go; home)
+0.14 (o; to start; packing to move)
+
+And I need to pack my hospital bag soon ..  Wish I could call my baby and tell him what the doctor said :( but I don't have a phone or his work number  Poop gotta catch the bus soon  Boo ?
+0.29 (I; need; to pack my hospital bag soon ..  Wish)
+0.26 Context(I need,List([4, 10))):(I; need to pack; my hospital bag; T:soon)
+0.45 (I; do n't have; a phone)
+0.31 (I; could call; my baby)
+0.66 (his work number; ta catch; the bus; T:soon; T:Boo)
+0.28 (I; tell; him; what the doctor said)
+0.68 Context(I tell,List([49, 78))):(the doctor; said; )
+
+I hate the word boo its retarded my cus said it the other day ugh only say boo if ur trying to scare someone  I need to do laundry it's rediculus I have no more clean socks !!!!
+0.40 (I; need; to do laundry)
+0.40 Context(I need,List([110, 116))):(I; need to do; laundry)
+0.56 (I hate the word boo; said; T:the other day)
+0.39 Context(I hate the word boo said,List([0, 44))):(I; hate; the word; boo)
+0.20 Context(I hate the word boo said,List([0, 44))):(it; only say boo; it's rediculus I have no more clean socks)
+0.78 (ur; trying; to scare someone)
+0.65 Context(ur trying,List([82, 91))):(ur; trying to scare; someone  I need to do laundry)
+
+And I have alot of socks  Pooooooop  WOOOO !! got a travel set from an awesome lady named < PROPFIRST >  poop on sulley and his stupid science work he ran away to play yugioh so now no science work is getting done !
+0.22 (I; have alot; he)
+0.85 Context(I have alot,List([4, 15))):(Pooooooop  WOOOO; got; a travel set from an awesome lady)
+0.90 Context(I have alot Pooooooop WOOOO got,List([4, 49))):(a travel; set; from an awesome lady)
+0.75 (no science work; getting; done)
+0.46 (he; ran; away; to play yugioh; so now no science work is getting done)
+0.29 Context(he ran,List([148, 154))):(he; ran to play; yugioh)
+
+big giant turd balls !!! i have to write a stupid 10 < PROPFEMALE > paper by thursday and memorize the important stuff about it to do a speech that is 7-10 minutes long or some shit !
+0.42 (i; to write; a stupid 10 < PROPFEMALE > paper by thursday and memorize the important stuff about it)
+0.91 (a speech; is; 7-10 minutes long or some shit)
+
+ugh i already failed the class i think .. what is the point  ultra sound friday and baby shower on saturday poop on the heads of all the people who have not rsvp'd  34 wks ... so im 8 1/2 months il be 35 wks on sunday .. only a bit more time to go but he still hasnt turned his ass upside down !! wth is he doin in there  my night was just made awesome due to my friends !
+0.20 (i; think; what is)
+0.40 (he; has nt turned; his ass; upside down; T:wth; T:still)
+0.72 (all the people; have not rsvp; )
+0.39 (what; is the point ultra sound friday and baby shower on; saturday poop)
+
+im very excited for the baby shower !
+
+night fb  school today !
+
+math class again .... gotta write an essay for speech class tomorrow too poop other then that i am determined to have an awesome day today so plz no one piss me off !!!  ok poop on it send me < PROPFIRST > biatches  POOOP i have to get off in a couple gotta go catch the bus soon  867530 : sissypoo is the most awesome amazing person i no aside from her sometimes bitchy attitude !
+0.79 (no one; piss off; me)
+0.82 Context(no one piss off,List([146, 164))):(math class; again got; ta write an essay for speech class tomorrow)
+0.82 Context(math class again got no one piss off,List([0, 164))):(math class; again got ta write; an essay for speech class; T:tomorrow)
+0.35 Context(no one piss off,List([146, 164))):(ok poop on it; got; )
+0.90 Context(no one piss off,List([146, 164))):(sissypoo; is; the most awesome amazing person)
+0.41 (i; to get off; T:in a couple)
+0.30 (too; poop; other)
+0.41 (i; to have; an awesome day; T:today)
+0.39 (sissypoo; is the most awesome amazing person i; no aside)
+
+lmao and i will be smacking that spider very soon  Describe me using one word -Put this as your status and see what you get  I DO NOT WADDLE !!  Ultrasound tomorrow in the am !! i get to see more pics of my baybay !!! he is gunna kick the shit out of the ultrasound thingy tho  i love my baby watching a movie with him now !!!  o how lovely it is to find out that ur going to < PROPFEMALE > up to 2 weeks over ur due date because ur child wants to be stubborn i just wanna start working again and he is making it impossible !  and the job hunt begins .. cant start till almost may but i have to start turning in applications so iv been on snag a job !
+0.43 (lmao and i; will be smacking; that spider)
+0.56 Context(lmao and i will be smacking,List([0, 27))):(lmao and i; will be smacking that spider Describe; me; T:very soon)
+0.26 (i; love; my baby)
+0.40 Context(i love,List([278, 284))):(i; love my baby watching; a movie; T:now)
+0.36 (i; to start; turning in applications)
+0.36 Context(i to start,List([585, 600))):(i; to start turning in; applications)
+0.26 (he; is making; it impossible)
+0.75 (the job hunt; begins; )
+0.41 (he; gunna kick; the shit; out of the ultrasound thingy)
+0.18 (i; just wan; na start working again)
+0.18 Context(i just wan,List([460, 470))):(i; just wan na start; working again)
+0.18 Context(i just wan na start,List([460, 478))):(i; just wan na start working; T:again)
+0.27 (i; to see; more pics of my baybay)
+0.74 (ur child; to be; stubborn)
+0.57 (so iv; been; on snag)
+0.81 (ur child; wants; to be stubborn)
+
+38 wks as of today only 2 more to go but my doc says im guna be late ... poop on that !
+0.76 (38 wks as of today; to go; )
+
+i will be on time !
+0.45 (i; will be; on time)
+
+woohoo my pregnant ass has an interview !
+0.72 (my pregnant ass; has; an interview)
+
+cant wait ! and yes the guy nos im pregnant i hope i get the job id start probably after the baby was born and then i wont feel like a lazy fat bum !
+0.73 (the baby; was born; )
+0.83 (the guy nos; im; pregnant)
+0.60 (i; wo nt feel; like a lazy fat bum; T:then)
+0.26 (i; hope; i get the job id start probably)
+0.43 Context(i hope,List([44, 50))):(i; get; the job id start probably after the baby was born and then i wont feel like a lazy fat bum)
+0.88 Context(i hope i get,List([44, 56))):(the job id; start probably; T:after the baby was born and then i wont feel like a lazy fat bum)
+
+robex said they will let me no on sunday !! and then steak and shake called and i have an interview on friday with them ahaha !! yes they will fight over me !
+0.83 (robex; said; they will let me no on sunday)
+0.41 Context(robex said,List([0, 10))):(they; will let; me no; T:on sunday)
+0.41 Context(robex said,List([0, 10))):(they; will fight; over me)
+0.84 (steak and shake; called; T:then)
+0.31 (i; have; an interview on friday with them)
+
+poop  went to the mall to window shop ... plus my doctor said i have to start walking a bunch to enduse labor ... now movie or bed with my baby ..  < PROPFEMALE >  one more week to go till my due date anyways .. also found a possible car not my favorite pick but pretty cheap as long as it chcks out when i have it looked at ..  hoping robex calls today .. there suppose to if i got the job ..  so far no call from robex they were suppose to call o well on to my next job interview whenever i get one !
+0.92 (poop; went; to the mall; to window shop)
+0.42 (they; to call o well; on; T:whenever i get one)
+0.88 (poop; to window; shop)
+0.90 (a bunch; to enduse; labor)
+0.19 (it; chcks out; )
+0.58 (they; were suppose; to call o well on to my next job interview whenever i get one)
+0.43 (my doctor; said; i have to start walking a bunch)
+0.65 Context(my doctor said,List([47, 61))):(now movie or bed with my baby; also found as long; a possible car)
+0.52 (i; got; the job)
+0.36 (i; to start; walking a bunch)
+0.36 Context(i to start,List([62, 77))):(i; to start walking; a bunch to enduse labor)
+0.28 (i; get; one)
+
+I have litterly put in like 30 apps in the past 2 days I officially hate apps  Holy poop covered crackers !!!  ughh does anyone no of a car for sale for like1000-1300 ????  only a little longer n < PROPFIRST > will be home ... then il be less bored ! 5 more days till my due date  doctor appointment tomorrow morning at ten just so they can tell me im not progressing at allll  almost dilated 2 cm .. but still nothing progressive  ughh i keep having these dreams that im at home with the baby for some reason im living with my dad again .. also i still havnt seen the babys face and i have the same dream everynight .. o and i still havnt made it into the room to feed the baby its like im to busy and keep forgettting about him i keep trying to get in there and people keep giving me more stuff to do wth :(  i want food !!!  ughh idk ... i get to see < PROPFIRST > today love hims big giant puppy self !
+0.91 (these dreams; im; L:at home)
+0.52 (i; want; food)
+0.45 (i; have; the same dream everynight)
+0.93 (Holy poop; covered; crackers)
+0.20 (i; to get; in there)
+0.31 (i; to see; T:PROPFIRST; today love hims big giant puppy self)
+0.94 Context(i to see,List([841, 853))):(love; hims; big giant puppy self; T:today)
+0.82 (people; keep giving; me; more stuff to do wth)
+0.17 (i; keep; having these dreams that im at home with the baby for some reason im living with my dad again)
+0.19 Context(i keep,List([437, 443))):(i; keep having; these dreams that im at home with the baby)
+0.29 (i; havnt; made it into the room to feed the baby its like im to busy and keep forgettting about him i keep trying to get in there and people keep giving me more stuff to do wth :(  i want food !!!  ughh idk; T:still)
+0.12 Context(i havnt,List([626, 639))):(i; havnt made; into the room; to feed the baby its like im to busy and keep forgettting about him i keep trying to get in there and people keep giving me more stuff to do wth :(  i want food !!!  ughh idk)
+
+I really wish there was a dislike button god dammit  Grrr it is his due date and he won't cum out I say get out sir !! O and I want nerds and sour patch kids and Chinese food  bored cant sleep slept all day off and on worst idea ever ...  ok so both cars that i wanted to look at have been sold son of a bitch  sooo who wants to buy me and < PROPMALE > some chipotle ??  I'm sleepy just finished movie withy one and only now sleep !
+0.36 (I; really wish; a dislike button god dammit  Grrr it is his due date and he won't cum out I say get out sir !! O and I want nerds and sour patch kids and Chinese food  bored)
+0.31 Context(I really wish,List([0, 13))):(it; is; his due date)
+0.29 (I; want; nerds and sour patch kids and Chinese food  bored cant sleep slept all day off and on worst idea ever ...  ok so both cars that i wanted to look at have been sold son of a bitch  sooo who wants to buy me and < PROPMALE > some chipotle ??  I'm sleepy just finished movie withy one and only now sleep !)
+0.19 (i; wanted; to look at)
+0.19 Context(i wanted,List([260, 268))):(i; wanted to look; at)
+0.83 (a bitch  sooo; wants; to buy me)
+0.78 Context(a bitch sooo wants,List([302, 325))):(a bitch  sooo; wants to buy; me)
+0.73 (Chinese food; bored; )
+0.19 (he; wo n't cum out; )
+0.72 (just finished movie withy; only sleep; T:now)
+0.23 Context(just finished movie withy only sleep,List([382, 430))):(I; 'm; sleepy)
+0.94 (nerds and sour patch kids and Chinese food  bored; have been sold; son of a bitch  sooo)
+0.45 (I; say; get out sir)
+0.39 (there; was a dislike button god dammit Grrr; it)
+
+April 6th 2011 6:44 am 8lbs 7oz 21 inches long < PROPMALE > Zych Grayson has arrived and it only took sence 4pm ish yesterday 
+0.79 (Zych Grayson; has arrived; )
+0.45 (it; only took; sence; T:yesterday)
+

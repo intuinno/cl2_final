@@ -1,0 +1,98 @@
+I am in < PROPFEMALE >
+0.57 (I; am; in < PROPFEMALE)
+
+I am in < PROPFEMALE > + PINK LEMONADE !!  < PROPFIRST > ?????? (??) ?? Facebook ?
+0.57 (I; am; in < PROPFEMALE; T:PROPFIRST)
+
+blarg !!!!  >>>>>>>>>>>>>>>>>>>>>>>>>>>> !
+
+There's a city in Germany called Cologne .
+0.95 (a city in Germany; called; Cologne)
+
+Me and my brother < PROPFIRST > got cell phones that are pay as you go  just got COD5 WaW in the mail  ordered mw2 on eBay  18 people online !
+0.81 (cell phones; are pay; T:as you go)
+0.38 (you; go; )
+0.31 (Me and my brother; PROPFIRST got; cell phones that are pay)
+0.59 Context(Me and my brother PROPFIRST got,List([0, 35))):(Me and my brother; PROPFIRST got cell phones that are pay just got; COD5 WaW; L:in the mail)
+
+new record .  4 1/2 hours of sleep  Ein prosit ein prosit der gemutlichkeiit , ein prosit , ein pr o-o ooosit der gemutlich keit .
+
+\  Eins swei SUFFAAA !!!!  mw2 hasn't come yet  I'm gonna have to re-order mw2 from someone else on eBay  Mw2 is coming in four dayz !
+0.92 (\  Eins; swei; SUFFAAA)
+0.58 Context(\ Eins swei,List([0, 12))):(mw2; has n't come; )
+0.46 (I; to re-order; mw2; from someone else on eBay  Mw2)
+
+Look up a guy on youtube called Xbox Ahoy .
+0.72 (a guy on youtube; called; Xbox Ahoy)
+
+MW2 weapon guides .
+
+Modern Warfail 2 just came in the mail !!!!!!  kids loving all night long .
+0.93 (Modern Warfail 2; just came; L:in the mail)
+0.81 (kids; loving; all night; L:long)
+
+pre-ordered black ops for PC .
+
+ballz of fiyuh  black ops came today  zzzzzx  hamburger with soy sauce ..................................................................................................................................  just bought BFBC2 from < PROPFIRST > Meyers  white man rice .
+0.96 (ballz of fiyuh  black ops; came; T:today; L:zzzzzx  hamburger with soy sauce; T:just bought BFBC2 from < PROPFIRST > Meyers  white man rice)
+
+I just bought a game .
+0.45 (I; just bought; a game)
+
+Called Breach .
+
+On Steam .
+
+For $12 .
+
+It is a pretty realistic FPS .
+0.52 (It; is; a pretty realistic FPS)
+
+BC2 vietnam .
+
+i bought MoH and < PROPFEMALE > of war 2 a while ago , today < PROPFEMALE > awar2 came but the cdkey didnt work , i asked if they had another one they ripped me off . the title said \as-is\ " which in my miind meant unopened .
+0.46 (they; ripped off; me)
+0.90 (the title; said; \as-is\)
+0.59 Context(the title said,List([167, 181))):(awar2; came; T:today)
+0.44 Context(awar2 came the title said,List([76, 181))):(i; bought; MoH and < PROPFEMALE; T:a while ago)
+0.26 (i; asked; if they had another one)
+0.69 Context(i asked,List([114, 121))):(the cdkey; did nt work; )
+0.48 Context(i asked,List([114, 121))):(they; had; another one they ripped me off)
+
+mofo .
+
+"  i bought Assassin's Creed #1 at freddys for $10 .
+0.50 (i; bought; Assassin's Creed #1; L:at freddys for $10)
+
+' Tis awesomesauce  falling onto the invisible chair in science today was fun stuff .
+0.86 (Tis; awesomesauce falling; onto the invisible chair; L:in science; T:today)
+0.97 (Tis awesomesauce  falling onto the invisible chair in science today; was; fun stuff)
+
+MoH 2010 came in the mail .
+0.93 (MoH 2010; came; L:in the mail)
+
+it was from a canadian on eBay .
+0.57 (it; was; from a canadian on eBay)
+
+Chinese new year celebration on sunday .
+
+earthquake today .
+
+i bought < PROPFEMALE > war 2 plus chaos rising expansion 2 dayz ago .
+0.41 (i; bought; war 2 plus chaos; T:rising expansion 2 dayz ago)
+
+' twas 50% off .
+
+was only 20$ total  i are an angry hater panda that thinks COD black ops is a piece of 5h1ttles .
+0.92 (an angry hater panda; thinks; COD black ops is a piece of 5h1ttles)
+0.93 Context(an angry hater panda thinks,List([26, 58))):(COD black ops; is; a piece of 5h1ttles)
+0.39 (COD black ops; is a piece of; 5h1ttles)
+
+almost like skittles  I actually had funz playing Black Ops todai .
+0.50 (I; actually had; funz playing Black Ops todai)
+0.84 (funz; playing; Black Ops todai)
+
+Oi !
+
+Deploy the bacon !!!!!!!!!!!!!!!!!!
+

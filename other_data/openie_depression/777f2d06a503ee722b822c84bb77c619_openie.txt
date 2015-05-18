@@ -1,0 +1,190 @@
+still has no phone and i have to work tonight :(
+0.41 (i; to work; T:tonight)
+
+went to bed smiling and woke up smiling :)  good morning , goodnight , its all the same  suddenly has a curfew again .... thanks mom  going to the river :) Happy 4tb !
+0.77 (its all the same; has; a curfew; T:again; T:suddenly)
+
+ice cream <3 then out !  with the taste of your lips i'm on a ride , you're toxic , i'm slipping under .... gotta love me some < PROPFEMALE > lol  Life don't go quite like you planned it , We try so hard to understand it Irrefutable , indisputable , The fact is psssh it happens  bistro and then wedding !
+0.77 (Life; do n't go; )
+0.45 (it; happens; T:bistro; T:then wedding)
+0.46 (you; planned; it)
+0.91 (The fact; is; psssh)
+0.11 Context(The fact is,List([250, 261))):(We; try so hard indisputable; )
+
+katey comes home tonight !!  Right now I need a change of scenery .
+0.40 (I; need; a change of scenery)
+0.87 Context(I need,List([39, 45))):(katey; comes; home; T:tonight; T:Right now)
+
+People never cease to amaze me and not always in the way I expect .
+0.78 (People; never cease; to amaze me)
+0.78 Context(People never cease,List([0, 18))):(People; never cease to amaze; me)
+
+i'm sorry for the way I let go , from everything I wanted since you came along , but I am beaten , broken , not defeated , I know next to you is not where i belong  better off i < PROPFEMALE > on my own :)  beach <3  IS boss .... according to zanzan :)  survived round one .... round two tonight !
+0.52 (i; 'm; sorry for the way)
+0.19 (I; am beaten; )
+0.23 (i; belong; better off)
+0.28 (I; let; go)
+0.17 (I; broken; )
+0.75 (the way; go; )
+0.87 (everything; wanted; I)
+0.24 (I; know; )
+0.36 (you; came; along)
+
+one chapter ending , another is about to begin !
+0.73 (one chapter; ending; )
+0.36 (another; is; about to begin)
+0.23 (another; to begin; )
+
+has one full day left in GAVA and just said bye to < PROPFEMALE > :(  heading to Charlottesville :) goodbye < PROPMALE > < PROPFIRST > !
+0.94 (one full day; left; L:in GAVA)
+
+loves UVA <3  loves her classes and her hallmates :)  phrase of the night : t-r-o-u-b-l-e  just got home from ballroom dancing !! :)  is happy happy happy :)  < PROPFEMALE > dresses and presents from home :) good day that will continue into a fantastic evening !
+0.93 (< PROPFEMALE > dresses and presents from home :) good day; will continue; T:into a fantastic evening)
+0.87 (t-r-o-u-b-l-e; just got; home; T:from ballroom dancing)
+
+\i may hate him but i still want to kiss him \"- ohhh L3L how i love thee :) "  discovered that taking a shower midday is a perfect way to start a day over !
+0.41 (i; want; to kiss him; T:still)
+0.23 Context(i want,List([20, 32))):(i; want to kiss; him)
+0.31 (i; love; thee)
+
+good night .
+
+broken phone .
+
+ughhh  game day <3 go hoos !
+0.59 (<3; go; hoos; T:ughhh  game day)
+
+thinks that cat snider rocks at life .
+
+the end .
+
+just made a pro/con list with her hallmates , ra , and sr :) loving life in L3L !  its a good day to go apple picking :)  i hate my phone , screens broken again :( gahhh verizon store tomorrow !
+0.89 (screens; broken; T:again; T:gahhh verizon store tomorrow)
+
+< PROPFEMALE > is coming !!! yay friday :)  is looking forward to the good ole GAVA with Cat and < PROPFEMALE > !!! ( oh and U2 )  ' s day has taken a turn for the better :)  love my Hoos :)  hot cocoa and movie night with < PROPFEMALE > <3  can you turn my black roses red ?
+0.81 (PROPFEMALE; is coming; T:yay friday)
+0.91 (PROPFEMALE; is looking forward; to the good ole GAVA with Cat and < PROPFEMALE)
+0.94 (U2 )  ' s day; has taken; a turn)
+
+purse is found !!!!!! :)  correction : just my wallet ... purse and camera lost forever  Tough girls come from New York , sweet girls , they're from < PROPFEMALE > .
+0.80 (purse and camera; lost; )
+0.93 (forever  Tough girls; come; from New York)
+0.66 (they; 're; from < PROPFEMALE)
+0.66 Context(they 're,List([136, 143))):(purse; is found; )
+
+But us < PROPFEMALE > girls we have fire and ice in our blood .
+0.31 (we; have; fire and ice; L:in our blood)
+
+We can ride horses , be a debutante , throw left hooks , and drink with the boys , all the while making sweet tea , darlin ' .
+0.45 (We; can ride; horses)
+0.48 (We; be; a debutante)
+0.60 (We; throw; left hooks , and drink with the boys , all the while)
+0.48 (We; drink; with the boys)
+
+And if we have an opinion , you know you're gonna hear it .
+0.45 (we; have; an opinion)
+0.38 (you; know; )
+0.42 (you; na hear; it)
+
+has the best mommy EVER !
+
+:)  remember those walls i built ?
+0.88 (those walls; built; i)
+
+well baby they're tumbling down  my school is prettier than your school in the fall <3  STAY CLASSY !
+0.46 (they; 're tumbling; down; my school)
+0.69 (well baby they're tumbling down  my school; is; prettier than your school in the fall <3)
+
+< PROPFIRST > < PROPMALE > is coming today !! yay :) :)  heading back to my love GAVA <3  wonderful evening <3 gava  Cville- Christmas time is here !
+0.81 (< PROPFIRST > < PROPMALE >; heading; back to my love)
+0.90 (<3  wonderful evening <3 gava  Cville- Christmas time; is; here)
+0.88 Context(<3 wonderful evening <3 gava Cville - Christmas time is,List([86, 142))):(< PROPFIRST > < PROPMALE >; is coming; T:today)
+
+still smiling on a rainy day :)  If you look for it , I've got a sneaking suspicion ... love actually is all around- best movie ever !
+0.46 (you; look; for it)
+0.89 (love; actually is all; around- best movie ever)
+0.50 (I; 've got; a sneaking suspicion ... love actually is all around- best movie ever)
+
+study club 307 represent  when you put two inexperienced monkeys together in a room , shit is going to go bananas .....  hello GAVA ... nice to see you again :)  had a wonderful evening with her people <3  < PROPMALE > Dunham and < PROPFEMALE > Richardson singing \She Got a Donk\ " makes my day !
+0.68 (you; put; two inexperienced monkeys; together; L:in a room)
+0.77 (Richardson; singing; )
+0.35 (\She; Got; a Donk\; T:makes my day)
+
+"  ADPi <3  Mellow with the Alphas <3  < PROPFIRST > SWIFT !!!!  duke :)  its a beautiful mess , yes it is , it's like we're picking up trash in dresses  loves waking up to drunken wall posts .
+0.24 (it; is; )
+0.45 (we; 're picking up; trash)
+0.32 (it; 's; like we're picking up trash in dresses)
+0.92 Context(it 's,List([109, 113))):(ADPi <3  Mellow with the Alphas <3  < PROPFIRST > SWIFT !!!!  duke; :); its a beautiful mess)
+
+THE BEST  beach week oh heyyyyy :)  < PROPFEMALE > Wronski is coming tomorrow !!!  charlottesville for the weekend :)  Hotlanta here I come :)  \Can you not step on my woofer ?
+0.92 (Wronski; is coming; T:tomorrow; T:charlottesville; T:for the weekend)
+0.46 (you; not step; on my woofer)
+
+\"- < PROPMALE > Chappell .
+
+< PROPFIRST > Krash please appreciate "  You are the only exception , and I'm on my way to believing .
+0.37 (I; 'm; on my way to believing)
+
+Happiness is not the absence of problems but the ability to deal with them .
+0.89 (Happiness; is not; the absence of problems but the ability)
+
+i love it when tv shows < PROPFEMALE > your life situation .
+0.35 (i; love; it; T:when tv shows < PROPFEMALE > your life situation)
+0.85 (tv; shows; PROPFEMALE)
+
+< PROPFEMALE > Wronski is my ferret lover .
+0.89 (Wronski; is; my ferret lover)
+
+Atlanta didnt lose to the Giants , they lost to < PROPMALE > < PROPMALE > .
+0.66 (they; lost; to < PROPMALE; PROPMALE)
+0.91 Context(they lost,List([35, 44))):(Atlanta; did nt lose; to the Giants)
+
+< PROPMALE > , go back to Little League and learn how to field a damn ball .
+0.91 (< PROPMALE >; go; back to Little League)
+
+thanks < PROPMALE >  Dear < PROPFIRST > , thanks for the good times .
+
+Atlanta wont be the same without you .
+0.86 (Atlanta; wo nt be; the same; without you)
+
+dont change me , dont change me , dont change me , dont change me , i cant be tameddddddd  go go power rangers :) SO ready for tonight !!  best part of the night ? the boyfriend bringing me pita pit and somehow knowing exactly what i get :) without me to tell him what to order since i fell asleep ... win .
+0.37 (i; go go; SO ready for tonight; best part of the night)
+0.83 (the boyfriend; bringing; me; pita pit)
+0.31 (me; to tell; him; what to order since i fell asleep ... win)
+0.52 (i; fell; asleep; T:win)
+0.22 (i; ca be tameddddddd; T:nt)
+
+get the heck out < PROPFEMALE > .
+
+oh and same goes to Brotzman .
+0.59 (same; goes; to Brotzman)
+
+that was embarrassing .
+0.07 (that; was; embarrassing)
+
+Hermitage played better tonight than the number four college team in the country .
+
+good job .
+
+To the men of the Hermitage Football Team : thank you for playing your hearts out tonight and you all with do amazing things with your lives from this moment on .
+0.51 (you; for playing out; T:tonight)
+0.64 (you; do; amazing things; T:from this moment)
+
+Panther Born , Panther Bred , Panther Dead .
+
+i heart < PROPFIRST > bray  has had a wonderful break :) thanks for all the birthday wishes -off to Cville tomorrow !
+
+its the best day of the year girl ... BBN 2011 !
+
+< PROPFEMALE > Engel love youu  You are the only exception .
+0.62 (You; are; the only exception)
+0.88 (youu; [is] love [of]; < PROPFEMALE > Engel)
+
+Majoring in sass with a minor in class .
+
+TSM .
+
+defeated .
+
+good day :) SO pumped to live in the ADPI house next year with my beautiful sisters !
+

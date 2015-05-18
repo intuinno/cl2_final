@@ -1,0 +1,236 @@
+is on vacation for 10 days !!!!
+
+I'm so sick and tired of people trying to create drama when there really is no need for it .
+0.52 (I; 'm; so sick and tired of people)
+0.88 (people; trying; to create drama when there really is no need for it)
+
+But i guess that is just the way it goes when you work with a bunch of imature people that don't seem to have anything better to do with there time .
+0.19 (i; guess; that is just the way)
+0.06 Context(i guess,List([4, 11))):(that; is just; the way it goes)
+0.81 (imature people; to have; anything better to do with there time)
+0.83 (anything better; to do; with there time)
+0.81 (the way; goes; T:when you work with a bunch of imature people)
+0.68 (you; work; with a bunch of imature people)
+0.70 (imature people; do n't seem; )
+
+As for me from now on I'm just going to work and gonna do the best job that I can and stay out of it all .
+0.75 (the best job; can stay; out of it)
+
+I'm not there to be anyones friend .
+0.52 (I; 'm not; there; to be anyones friend)
+0.41 (I; to be; anyones friend)
+
+Had a very busy day and tomorrow is looking like it may be just as busy ...  Thank you everyone for your Birthday wishes , for those of you that didn't wish me a happy birthday that's ok there is always next year ;)  Stuff is so messed up right now ..... not sure what I'm gonna do !
+0.23 (it; may be; just as busy)
+0.17 (I; na do; )
+0.25 (those of you; did n't wish; me; a happy birthday that's)
+0.77 (a happy birthday; 's; )
+
+can't wait till tomorrow it's my friday !!  I try so hard to make others happy , I think I'm gonna try to make myself happy .... Does that make me a selfish person ?
+0.23 (I; na try; to make myself happy)
+0.23 Context(I na try,List([89, 102))):(I; na try to make; myself happy)
+
+sitting here getting my tat done .
+
+its gonna be a long day !
+0.64 (its gon; na be; a long day)
+
+Hope < PROPFIRST>'s tests turn out alright .
+0.74 (PROPFIRST>'s tests; turn out; alright)
+
+Doc says he has a good strong ticker !
+0.72 (Doc; says; he has a good strong ticker)
+0.47 Context(Doc says,List([0, 8))):(he; has; a good strong ticker)
+
+Just hope the brain scan turns out good too !
+
+Happy Birthday to my baby boy T.J. !!!!!!! 16 years old today !
+0.39 (T.J.; [is] boy [of]; baby)
+
+I feel so old right now !  3 day weekend here I come !!!  How do you love a person\  who never got to be , \  or try to envision a face \  you never got to see ?
+0.30 (you; never got; to see)
+0.39 Context(you never got,List([139, 152))):(I; feel; so old; T:right now; T:3 day weekend here)
+0.27 Context(you never got,List([139, 152))):(you; never got to see to see; )
+0.70 (a person\; to be; )
+
+\  How do you mourn the death of one\  who never got to live .
+0.66 (one\; never got; to live)
+0.62 Context(one\ never got,List([33, 52))):(one\; never got to live to live; )
+
+\  Ah !
+
+My little baby , \  you lived like anyone !
+0.32 (you; lived; )
+
+\  Life's a burst of joy and pain .
+0.94 (\  Life; 's; a burst of joy and pain)
+
+\  And then like yours , it's done .
+0.30 (it; 's done; T:then)
+
+\  I love you , my little baby , \  just as if you'd lived for years .
+0.31 (I; love; you)
+
+\  No more , no less , I think of you , \  the Angel of my tears  Bitch ass neighbor threatened my son and dog with a gun !!!
+0.70 (the Angel of my tears  Bitch ass neighbor; threatened; my son and dog; with a gun)
+
+I hope she goes to jail !
+0.26 (I; hope; she goes to jail)
+0.40 Context(I hope,List([0, 6))):(she; goes; to jail)
+
+Sat in the E.R. for 4 hrs last night with a sick kid , and now I have the crap !!!  making split pea soup !
+0.53 (I; have; the crap; T:now)
+0.29 Context(I have,List([63, 69))):(I; have the crap making; split pea soup)
+
+yummy  had an awesome night at work !
+0.94 (yummy; had; an awesome night at work)
+
+I had an amazingly awesome day at work ... must have been the good oldies music .
+0.52 (I; had; an amazingly awesome day at work)
+0.41 (I; must have been; the good oldies music)
+
+My baby turned 12 today !
+0.64 (My baby; turned; T:12 today)
+
+man i feel so old right now !!!
+0.23 (i; feel; so old; T:right now)
+
+I like it on the computer desk  This week we remember all babies born sleeping or whom we carried but never met , or those we have held , but could not take home , or the ones that came home , but didn't stay .
+0.17 (we; never met; )
+0.40 (we; remember; all babies born)
+0.26 Context(we remember,List([42, 53))):(I; like; it; L:on the computer desk; T:This week)
+0.20 (those; have held; we)
+0.76 (the ones that came home; did n't stay; )
+0.87 (all babies; born; sleeping or whom we carried but never met)
+0.64 (those we have held; could not take; home)
+0.74 (the ones; came; home)
+0.19 (we; carried; )
+
+Make this your profile status if you or someone you know has suffered the loss of a baby .
+0.38 (you; know; )
+0.62 (you or someone; has suffered; the loss of a baby)
+
+The majority won't do it because unlike cancer , baby loss is still a taboo subject .
+0.89 (The majority; wo n't do; it; because unlike cancer , baby loss is still a taboo subject)
+0.93 (baby loss; is; T:still; a taboo subject)
+
+Break the Silence .
+
+In memory of all lost angels !
+
+Please\  put this on your status if you know or love someone who is gay .
+0.89 (Please\; put; this; on your status)
+0.38 (you; know; )
+0.58 (you; love; someone who is gay)
+0.77 (someone; is; gay)
+
+My wish\  for 2010 is that people will understand that being gay is not a disease\  nor a choice -people who are gay are not looking for a cure but \  ACCEPTANCE and EQUAL RIGHTS !! 93% won't copy and paste this .
+0.56 (My wish\  for 2010; is; that people will understand that being gay is not a disease\  nor a choice -people)
+0.79 Context(My wish\ for 2010 is,List([0, 21))):(people; will understand; that being gay is not a disease\  nor a choice -people)
+0.50 Context(My wish\ for 2010 is people will understand,List([0, 49))):(being gay; is not; a disease\  nor a choice -people)
+0.68 Context(My wish\ for 2010 is,List([0, 21))):(93%; wo n't copy; )
+0.74 (93%; paste; this)
+0.91 (a choice -people; are; gay)
+
+Will you \  ...... make it your status for at leas ... t one hour ?
+
+....? Promote LOVE \  & Acceptance , not hate !
+0.68 (Promote LOVE \  & Acceptance; not hate; )
+
+I wont be doing that again .....
+0.10 (I; wo nt be doing; that; T:again)
+
+Not for awhile at least !!!!
+
+I lost my phone last night so I need everyones < PROPFIRST >  I got to see the most wonderful person this morning !!!
+0.47 (I; got; to see the most wonderful person this morning)
+0.32 Context(I got,List([62, 67))):(I; lost; my phone; T:last night)
+0.40 Context(I got,List([62, 67))):(I; got to see; the most wonderful person; T:this morning)
+
+I love you < PROPFEMALE > you made my day !!!  What do you want to do before you die ?
+0.32 (you; die; )
+0.37 (you; made; What do you want to do before you die)
+0.26 Context(you made,List([26, 34))):(I; love; you)
+
+Blah !
+
+Cousins are there as childhood friends , and are there when we are older as forever friends ....
+0.75 (Cousins; are; there)
+0.80 (Cousins; are; there; T:when we are older as forever friends)
+0.45 (we; are; older as forever friends)
+
+No one will ever understand your crazy family like your cousins .
+0.85 (No one; will understand; your crazy family like your cousins; T:ever)
+
+Repost if you have a cousin or cousins that makes you smile ... Cousins are awesome <3 \  \  I sent you a smiley !
+0.37 (I; sent; you; a smiley)
+0.24 (you; have; a cousin or cousins that makes you smile)
+0.80 (a cousin or cousins; makes; you smile)
+0.27 Context(a cousin or cousins makes,List([19, 49))):(you; smile; )
+
+Want to see it ?
+
+http://apps.facebook.com/smileycentral/go.jhtml?partner=ZNzfb008_ZRxdm985YYUS  took some cold medicine and heading to bed .. I hope i feel better tomorrow .
+0.34 (http://apps.facebook.com/smileycentral/go.jhtml?partner=ZNzfb008_ZRxdm985YYUS; heading; to bed)
+0.26 (I; hope; i feel better tomorrow)
+0.33 Context(I hope,List([125, 131))):(http://apps.facebook.com/smileycentral/go.jhtml?partner=ZNzfb008_ZRxdm985YYUS; took; some cold medicine)
+0.40 Context(I hope,List([125, 131))):(i; feel; better; T:tomorrow)
+
+Just got home from black friday sales at walmart ... that was soooo much fun we got there at 11:30 last night and just got done !!!!  Thank you everyone for the birthday wishes !!!!  change your facebook profile picture to a cartoon character from your childhood\  and invite your friends to do the same .
+0.17 (that; was; soooo much fun)
+0.20 (we; just got; done)
+0.38 (your friends; to do; the same)
+
+Until monday , there should be \  no human faces on facebook , but an invasion of memories .
+
+( FORTHE FIGHT \  AGAINST CHILD VIOLENCE ! )  Not true !!!  Ok so thats how you wanna be ?
+0.43 (you; wan; na be)
+0.28 (you; na be; )
+
+delete my comment and dont even reply thats alright just remember who has always been here for you no matter what it was that you needed .
+0.20 (it; was; )
+0.27 Context(it was,List([114, 120))):(you; needed; )
+
+well that just closes the book for me thanks I was getting rather bored with the story line anyway .
+0.44 (I; was getting anyway; rather bored with the story line)
+
+Why the fuck do you have to break my heart and then just stomp on it like that ?
+0.42 (you; to break then just stomp; my heart)
+
+I dont know how much more i can take ...  Well this is gonna be fun !!!
+0.15 (this; na be; fun)
+
+I am so glad to hear that < PROPMALE > is home safe !! It completely broke my heart to talk to < PROPFEMALE > tonight and hear the pain in a loving mothers heart !
+0.44 (I; am; so glad to hear that < PROPMALE > is home safe)
+0.08 (I; to hear; that)
+0.70 (PROPMALE; is; home; safe)
+0.42 (It; broke; my heart; to talk to < PROPFEMALE > tonight and hear the pain in a loving mothers heart)
+
+I pray that this is the kind of pain that I will never have to experience myself .
+0.27 (I; to experience; myself)
+0.19 (I; pray; that this is the kind of pain)
+0.17 Context(I pray,List([0, 6))):(this; is; the kind of pain that I will never have to experience myself)
+0.39 (this; is the kind of; pain)
+
+I hope < PROPFEMALE > ryone has a safe and fun new years < PROPFEMALE > !!!
+0.35 (I; hope; ryone has a safe and fun new years)
+0.90 Context(I hope,List([0, 6))):(ryone; has; a safe and fun new years)
+
+As for me I will be in Hell , also known as work .
+0.49 (I; will be also known; in Hell)
+0.48 (I; known; as work)
+
+Wish me luck !!  17 years ago today I married the most amazing man I know !! Happy Anniversary < PROPFIRST > !
+0.24 (I; know; )
+
+OMG I love smoking gun dumbest criminals !!  I went bowling for the first time in 11years and had a blast !!  Got a new tattoo !!  Well after getting home at 3:30 this morning from Deadwood and waking up at 8:00 and sitting at the tattoo shop for 4 hours I am so ready for bed .. Have a good night everyone .
+0.41 (I; Have; a good night everyone)
+0.79 (I; am; so ready for bed .. Have a good night everyone; T:after getting home at 3:30 this morning from Deadwood and waking up at 8:00 and sitting at the tattoo shop for 4 hours)
+0.50 (I; went; bowling for the first time in 11years)
+0.43 Context(I went,List([45, 51))):(I; went bowling; T:for the first time in 11years)
+0.48 (I; had; a blast !!  Got a new tattoo)
+
+Everyone can just kiss my a$$ Im done with stupid bull shit !! 
+0.85 (Everyone; can just kiss; my a$$ Im)
+0.76 (my a$$ Im; done; with stupid bull shit)
+

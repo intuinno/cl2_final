@@ -1,0 +1,604 @@
+back from camp
+
+taking my dog for a walk bbl  im confused a bit  if i let go of my head itll fly away spinning out of control and i really dont feel like losing my head .. ppl should really stop making it worse  saxophone lessons soon  bored  won $27 in bunco  broed  anyone wanna do something < PROPMALE > .?  reading  drying off  moms birthday cake  bored txt  huh ?
+0.25 (it; fly; away)
+0.95 (saxophone lessons soon  bored  won $27 in bunco  broed  anyone; reading; drying off  moms birthday cake  bored txt)
+0.74 (taking my dog for a walk bbl; im; confused a bit)
+0.65 Context(taking my dog for a walk bbl im,List([0, 32))):(ppl; should really stop; making it worse)
+0.46 Context(taking my dog for a walk bbl im ppl should really stop,List([0, 178))):(it; ll; fly away spinning out of control)
+0.94 (saxophone lessons; broed; anyone wanna do something < PROPMALE > .?  reading  drying off  moms birthday cake  bored txt  huh ?)
+0.31 (i; really do nt feel; like losing my head)
+0.31 (i; let go; of my head)
+0.74 (bored; won; $27 in bunco; T:soon)
+
+what to do  i dont feel good  night text  just got back from saxophone lessons  off  byebyes  night  getting tired  practice soon  practice  i feel like annoying ppl for fun  does it bug anyone else that they changed the spelling of the abbreviation of the words science fiction from scifi to syfy ?
+0.45 (i; do nt feel; good  night text)
+0.72 (they; changed; the spelling of the abbreviation of the words science fiction from scifi to syfy)
+0.40 (i; feel; like annoying ppl for fun)
+
+u know what i give up imma go to sleep i guess ill try again later  briannas party < PROPMALE > .
+0.16 (i; guess ill; )
+0.90 Context(i guess ill,List([39, 50))):(imma; go; to sleep)
+0.40 Context(i guess ill,List([39, 50))):(i; guess ill try; T:again; later  briannas party)
+
+still gotta grab her present before i go tho  still up =D  night finally still not tired but noones on anymore so im getting bored  ew .
+0.28 (i; go; tho; T:still; up)
+0.89 (noones on; im getting; bored  ew)
+
+tomorrows the last day of freedom .
+
+a pot of gold is a toilet full of leprachaun poop  girlscouts soon  byebye summer =[ school < PROPMALE > .
+0.92 (a pot of gold; is; a toilet full of leprachaun poop  girlscouts)
+
+byebye summer =[ school tom ... night night  the first day of school went by fast  shower  i have the song ' just the way you are ' stuck in my head  random  why does my foot fall asleep so fast ?
+0.95 (byebye summer =[ school tom ... night night; went; by fast  shower)
+0.42 (i; have; the song ' just the way you are ' stuck in my head  random  why does my foot fall asleep so fast)
+0.46 (you; are random; stuck in my head)
+0.49 (you; stuck; in my head)
+
+bored .
+
+band soon .
+
+homework .. yuck  i have the new halloween band song for the parade stuck in my head  left my phone in school  english homework  math homework .. season premiere of bones is on tonight  BONES !!!! =D  taking random quizzes  dinner  geometry homework .
+0.87 (the parade; stuck; in my head)
+0.90 (homework; is; on tonight  BONES)
+0.81 (=D; taking; random quizzes; dinner  geometry homework)
+0.16 (i; have; )
+0.89 Context(i have,List([18, 24))):(the new halloween band song for the parade; left; my phone; L:in school  english homework  math homework)
+
+y do teachers decide to give u homework on ur busy days instead of ur free days ??  watching the new bones .. james bond  we won the game , movie night was fun , night  rain =D  finally dug out my costume and just in time for the parade tonight  report time for the parade soon  night .. dad being gay  just got back from nicas party  going to bris  stuff  night homecoming < PROPMALE > .
+0.81 (movie night; was; fun)
+0.83 (=D; dug out; my costume; T:night  rain; T:finally)
+0.81 (dad; being; gay)
+
+felling sick =[  watching transformers 2  shower time  headache  2 tests < PROPMALE > .
+
+but on the bright side theyre gonna be pretty easy  going to play later  heading to movies to see old dogs with the family  sore throat  schools block down  neck hurts  on my new laptop  cleaning room .
+0.32 (they; na be; pretty easy)
+
+its my goal to get it clean before new yrs  Happy new years everybody !
+
+saxophone lessons  night .. going to bed .. softball workouts tomorrow  i have no ideas for the stupid < PROPFEMALE > tale that we have to write for english  finally figured out an idea for my < PROPFEMALE > tale im going to write mrough draft while watching idol .. simons quitting after this season now too .. no more reason to watch it after this season .. its rigged anyway  my story is coming together .. im having more fun with this then i thought i would =D  a girl plowed me over at fh and my right ribs have been hurting ever since .. i hope theyre only bruised  gonna take a nap and try to catch up on my sleep  night .. gonna try and sleep  annoyed with aim  tis a lot of new episodes of my shows on tonight  watching the grammys  i got my new glassess  i miss elementary school  superbowl sundayyy .. colts vs saints .. gonna eat french toastt  watching this is it  no school < PROPMALE > .
+0.60 (tale im; to write; mrough draft; T:while watching idol)
+0.41 (my right ribs; have been hurting ever; T:since)
+0.23 (i; watching; this is it  no school <)
+0.26 Context(i watching,List([72, 865))):(this; is; it)
+0.83 (colts vs saints; na eat; i have no ideas for the stupid < PROPFEMALE > tale that we have to write for english  finally figured out an idea for my < PROPFEMALE > tale im going to write mrough draft while watching idol .. simons quitting after this season now too .. no more reason to watch it after this season .. its rigged anyway  my story is coming together .. im having more fun with this then i thought i would =D  a girl plowed me over at fh and my right ribs have been hurting ever since .. i hope theyre only bruised  gonna take a nap and try to catch up on my sleep  night .. gonna try and sleep  annoyed with aim  tis a lot of new episodes of my shows on tonight  watching the grammys  i got my new glassess  i miss elementary school  superbowl sundayyy .. colts vs saints .. gonna eat french toastt  watching this is it  no school <)
+0.91 (the stupid < PROPFEMALE > tale; to write; for english)
+0.89 (simons; quitting; T:after this season; T:now; too)
+0.49 (they; try; to catch up on my sleep  night)
+0.52 (i; miss; elementary school  superbowl sundayyy)
+0.36 (i; hope; theyre only bruised  gonna take a nap and try to catch up on my sleep  night)
+0.31 Context(i hope,List([544, 550))):(i; got; my new glassess)
+0.51 Context(i hope,List([544, 550))):(they; na take; a nap)
+0.38 Context(i hope,List([544, 550))):(i; thought; i would =D  a girl; T:then)
+0.39 Context(i thought i hope,List([444, 550))):(i; would =D; a girl)
+
+ghostbusters !
+
+olympiacksonsistrophogusesinksi .. haha im bored =P  gonna write my gothic tale for english .. i have too many ideas for it so i think im gonna combine it all together  whenever i see those red < PROPFIRST > commercials i automatically say yummm .. i dont even think about it anymore .. i never even been there  < PROPMALE > gump is on !
+0.04 (im; na combine; it; together; T:whenever i see those red < PROPFIRST)
+0.67 (gump; is; on)
+0.27 (i; see; those red < PROPFIRST)
+0.31 (i; have; too many ideas for it)
+0.23 (i; automatically say; yummm)
+0.26 (i; do nt even think; about it; T:anymore)
+0.14 Context(i do nt even think,List([249, 266))):(i; think; im gonna combine it all together)
+0.18 Context(i do nt even think,List([249, 266))):(i; never even been; there)
+
+AIM is annoying  does anyone want to help me kill the creators of aim ?
+0.52 (me; kill; the creators of aim)
+
+gonna let my computer get some sleep so that it might work right tomorrow .. ugh im beginning to HATE technology .. well the computer technology at least .
+0.37 (it; might work; T:right tomorrow; ugh im beginning to HATE technology .. well the computer technology at least)
+0.20 (im; beginning; to HATE technology)
+
+i bet our goalie is beating himself up for losing .. i hate that feeling of blowing it under all the pressure after a game .. and this is an olympic game yet too  im officially 15  mini golf later  this mets game is taking FOREVER 7 hrs of baseball is just too much baseball  i cant breath through my nose .. and i cant stop coughing .. i hate being sick  flyers really came back .. nerveracking game  printer + my laptop = not compatible\  my project + the normal computer = messed up completely\  my project + school computer = no color  iron man 2 later with < PROPFEMALE > and < PROPFEMALE >  yuck .
+0.45 (this; is; an olympic game; T:yet)
+0.17 (i; coughing; )
+0.31 (i; ca nt breath; through my nose)
+0.20 (i; really came; back)
+0.41 (i; being; sick  flyers)
+0.94 (this mets game; is taking; 7 hrs of baseball; T:officially 15  mini golf later)
+0.40 (i; hate; being sick  flyers)
+0.17 Context(i hate,List([337, 343))):(i; hate; that feeling of blowing it under all the pressure after a game)
+0.32 Context(i hate i hate,List([53, 343))):(i; bet; our goalie is beating himself up for losing)
+0.25 Context(i bet i hate i hate,List([0, 343))):(our goalie; is beating up; for losing)
+0.49 (my laptop; = not compatible\; my project)
+
+gotta do career project , laundry , and have to study this weekend .
+
+bright side is 7 days left of school .
+0.93 (bright side; is; 7 days left of school)
+0.78 (7 days; left; )
+
+bad side is still have finals .
+0.92 (bad side; is have; finals; T:still)
+
+holy crap .
+
+idk what i did but i fixed the demented network that wasnt allowing anyone on the computer in my house .
+0.24 (i; did; )
+0.21 (i; fixed; the demented network that wasnt allowing anyone on the computer in my house)
+0.82 (the demented network; was nt allowing; anyone on the computer in my house)
+
+i got the internet network working again !!!!!  bored .
+0.39 (i; got bored; the internet network working again)
+0.74 Context(i got bored,List([0, 53))):(the internet network; working; T:again)
+
+log onto computer .
+
+bored still .
+
+log off .
+
+STILL NOTHING TO PREVENT BOREDOM !
+
+fun day today .
+
+the next three days are gonna go sooo slooww .. then gotta get wisdom teeth out .. ill be hopped up on pills and all puffy for the start of my summer .. lol  tonight was fun .
+
+burn papers burn .
+
+lol absolutely have to do that again .
+0.32 (lol; to do; that; T:again)
+
+next time we're using my poker chips .
+0.44 (we; 're using; my poker chips; T:next time)
+
+we'll be playing forever then .
+0.23 (we; 'll be playing; T:forever; T:then)
+
+last day tomorrow !
+
+i need real food .
+0.45 (i; need; real food)
+
+how come the puffiness starts on the day after the teeth come out ?  now i know why ppl use the expression snailmail and decide to email instead of writing letters .. when is that darn mailman coming ?
+0.73 (the teeth; come out; )
+0.36 (i; know; T:now)
+
+mail came .
+0.71 (mail; came; )
+
+my schedule didnt .
+0.41 (my schedule; did nt; )
+
+guess ill get it monday ?
+
+does it make sense to have 4 computers in one house but only one of them functioning ?
+
+i think i need to learn to follow my own advice and use logic that i keep telling everyone else to use cuz i dont like turning into a hypocrite  as much as i dislike < PROPFIRST > beiber i have one of his stupid songs in my head cuz my little cousin loves him and shes just too cute singing along  i really shouldnt watch a creepy movie alone  roasting smores  gotta pack tomorrow for trip  gotta start packing .. txt me so i wont be completely bored  clams are gooood  my brother acts like a 4 yr old .
+0.22 (i; think; i need to learn to follow my own advice and use logic that i keep telling everyone else to use cuz i dont like turning into a hypocrite  as much)
+0.17 Context(i think,List([0, 7))):(i; need; to learn to follow my own advice and use logic that i keep telling everyone else to use cuz i dont like turning into a hypocrite  as much)
+0.17 Context(i think i need,List([0, 14))):(i; need to learn; to follow my own advice and use logic that i keep telling everyone else to use cuz i dont like turning into a hypocrite  as much)
+0.26 Context(i think i need to learn,List([0, 23))):(i; need to learn to follow; my own advice)
+0.12 Context(i think i need to learn,List([0, 23))):(i; need to learn to use; logic that i keep telling everyone else to use cuz i dont like turning into a hypocrite  as much)
+0.36 (i; keep; telling everyone else to use cuz i dont like turning into a hypocrite  as much)
+0.36 Context(i keep,List([67, 73))):(i; keep telling; everyone else; to use cuz i dont like turning into a hypocrite  as much as i dislike < PROPFIRST > beiber i have one of his stupid songs in my head cuz my little cousin loves him and shes just too cute singing along  i really shouldnt watch a creepy movie alone  roasting smores  gotta pack tomorrow for trip)
+0.65 (my little cousin; shes; just too cute singing; along  i really shouldnt watch a creepy movie alone  roasting smores)
+0.51 (my little cousin; loves; him)
+0.35 (i; have got; ta pack tomorrow for trip)
+0.89 (everyone else; to use; cuz i dont like turning into a hypocrite  as much)
+0.17 (i; dislike PROPFIRST; )
+
+i swear .
+0.19 (i; swear; )
+
+he just squirted water on me and my computer using a shrek face squirter thing .
+0.26 (he; just squirted; water; on me and my computer)
+0.29 Context(he just squirted,List([0, 16))):(he; just squirted water using; a shrek face squirter thing)
+
+why does he act like this ?
+
+hes older then me shouldnt he be acting more mature ?.. ugh i cant wait for camp  sometimes i wish certain ppl couldnt read my status that way i could say whats really on my mind without having to worry  im tired but i cant fall asleep .. and i keep hearing the ice cream truck music .. ugh .. i gotta fall asleep .
+0.21 (i; could say; whats really on my mind without having to worry  im tired)
+0.36 (i; keep; hearing the ice cream truck music .. ugh .. i gotta fall asleep)
+0.40 Context(i keep,List([243, 249))):(i; keep hearing; the ice cream truck music)
+0.24 Context(i keep hearing,List([243, 257))):(i; got; ta fall asleep)
+0.21 (i; ca nt wait; for camp; T:sometimes i wish certain ppl couldnt read my status that way i could say whats really on my mind without having to worry  im tired but i cant fall asleep .. and i keep hearing the ice cream truck music .. ugh .. i gotta fall asleep)
+0.20 (i; ta fall; asleep)
+0.23 (i; wish; certain ppl couldnt read my status that way; T:sometimes)
+0.80 Context(i wish,List([92, 98))):(certain ppl; could nt read; my status)
+0.23 (i; ca nt fall; asleep)
+
+playing ring the bull  i need meadow tea .
+0.45 (i; need; meadow tea)
+
+badly .
+
+theres too much soda and slushys at this place my stomach is going all funky .
+0.38 (my stomach; is going; all funky)
+
+lol now my mom knows how us kids feel during the school year  marching band tonight .. schools out but yet its already starting again .. this summers gonna go by fast  anyone know if we need our instruments tonight ?
+0.74 (my mom; knows; how us kids feel during the school year  marching band tonight .. schools out but yet its already starting again; T:lol now)
+0.35 Context(my mom knows,List([8, 20))):(us; feel; T:during the school year  marching band; T:tonight)
+0.89 (this summers; na go; by fast  anyone)
+
+new haircut =]  gotta pack tomorrow .
+0.91 (new haircut; got; ta pack tomorrow)
+0.89 (new haircut; ta pack; T:tomorrow)
+
+camp sunday .
+
+=]  Counselor In Training camp sunday .. cant wait =] still gotta pack .. should prolly get some sleep awhile before the early camp mornings .. night  going to see the grown ups  i gots purple toenails !! camp tomorrow also =  i get my procrastination from my mom and my impatientness from my dad  glad to be home .. too much stuff ive missed using .. like a flush toilet and a shower with good water .. going back sunday  going back to camp today .. well that weekend went fast  = back from camp .. leaving again to go back again sunday but gotta go early this week cuz im officially a < PROPMALE > counselor ( finallyy ) 2 more weeks left  back to camp again .. 2 weeks left then home for good  < PROPFEMALE > on the meadow .. bugs in our ears .. smoke in our eyes , wetwood and tears .. up on the meadow water somewhere .. with you my friend i am their .
+0.81 (Counselor In Training camp sunday; ca nt wait; )
+0.79 (night; to see; the grown ups)
+0.73 (2 weeks; left then home; )
+0.20 (i; to be; home)
+0.96 (2 more weeks; left; back to camp; T:again; T:counselor)
+
+1 more week of camp .. omg those kids take sooo much energy out of you  yummm foood from home  gotta go back to camp again tomorrow ( for the last time this summer ! ) idk if im happy or sad that its over already .. but it does mean we're already halfway through summer .. ugh  leaving again for camp soon .. last week !
+0.83 (those kids; take; sooo much energy; out of you)
+
+home for good from camp .. =[ .. now its finally the 2nd half of summer which means i actually have to do stuff  my internet went out AGAIN .
+0.31 (i; to do; stuff  my internet went out AGAIN .)
+0.68 (my internet; went out; T:AGAIN)
+0.50 (its finally the 2nd half of summer; means; i actually have to do stuff)
+
+i thought it was over this problem  txt or message me if u wanna talk .. realllly boredd  internets back !
+0.27 (i; message; me)
+0.91 (u wan; na talk; realllly boredd  internets; back)
+0.26 (i; thought; it was over this problem  txt)
+0.47 Context(i thought,List([0, 9))):(it; was; over this problem  txt)
+
+i always do the right thing by the end  i love watching storms  watching secondhand lions  bored to death .. anyone wanna do anything ?
+0.88 (anyone; na do; anything)
+0.40 (i; love; watching storms)
+0.57 Context(i love,List([40, 46))):(i; do; the right thing; T:by the end; T:always)
+0.51 Context(i love,List([40, 46))):(i; love watching; storms  watching secondhand lions  bored to death .. anyone wanna do anything ?)
+0.81 (storms; watching; secondhand lions  bored to death; T:anyone wanna do anything)
+0.90 (secondhand lions; bored; to death)
+
+headed to bris later .. 2 days down of band camp .. 2 more to go .. and we learned 8 of thirtysomething pages ?.. funn days for tomorrow and thursday i guess =/ lol  marching band tan for saxophones doesnt just include the shorts and shirts but also the neckstraps .. ive got a reallly wierd tan  i hate ppl that are so full of crap that they dont even care or know when other ppl try to help and they treat them like crap  at the leesport farmers market with my parents  bedtime .. beach for the day tomorrow =]  to the beach !
+0.19 (i; guess; )
+0.54 (ppl; are; so full of crap that they dont even care or know when other ppl try to help and they treat them like crap  at the leesport farmers market with my parents  bedtime .. beach for the day tomorrow =]  to the beach)
+0.21 (i; hate; ppl that are so full of crap that they dont even care or know when other ppl try to help and they treat them like crap  at the leesport farmers market with my parents  bedtime .. beach for the day tomorrow =]  to the beach)
+0.55 (they; know; when other ppl try to help and they treat them like crap  at the leesport farmers market with my parents  bedtime .. beach for the day tomorrow =]  to the beach)
+0.77 Context(they know,List([338, 365))):(other ppl; try; to help)
+0.68 Context(they know other ppl try,List([338, 384))):(other ppl; try to help to help; )
+0.32 (they; do nt even care; )
+0.58 (they; treat; them; like crap  at the leesport farmers market with my parents)
+
+GPS's are stupid .. regular old maps are better  everything about jersey sucks .. the ppl .. the roads .. the weather .. no signs .. too many tolls .. idiot drivers .. my moms becoming nuts  busy and loonngg day .. going to bed .. fh tomorrow and briannas birthday party  the decisions been made .. whats done is done .. im sorry but i needed it to be done .. it wasnt fair  i just saw a direct tv blimp flying over the river !
+0.26 (i; needed; it to be done)
+0.16 Context(i needed,List([334, 342))):(it; to be done; )
+0.38 (i; just saw; a direct tv blimp flying over the river; T:it wasnt fair)
+0.90 Context(i just saw,List([375, 385))):(a direct tv blimp; flying; over the river)
+0.15 (s; done; )
+0.57 (my moms; becoming; nuts; T:busy and loonngg day)
+0.28 (it; was; nt fair)
+0.39 (regular old maps; are better everything about; jersey sucks)
+
+finally going to bed even though im not tired .. shopping tomorrow(or i guess today ) with ashley .. then idk what else .. cant believe school starts monday already  ugh .
+0.45 (i; guess; T:today; with ashley)
+
+i hate that tomorrows the last day of summer .. yayy .
+0.23 (i; hate; that; T:the last day of summer .. yayy)
+
+=  its officially the last night of summer .. where'd all the time go ?.. school tomorrow  easy to wake up .. hard to move  I have wipeout stuck in my head  i havent been bowling in forever of course ill suck what do you expect  beat everyone at bowling .. so much for me stinking .. guess it was just the warmup game .. going to ashleys  a person can only take and forgive so much until things need to change  heating up leftover kfc .. so basically all the mash potatos and 3/4s of the < PROPMALE > and cheese .. =] yummm  for once i had a productive weekend =] .. school tomorrow .. =/ oh well i guess ill get used to it  just spent the last hour studying for my elements test in chem .
+0.40 (things; need; to change  heating up leftover kfc)
+0.40 Context(things need,List([388, 399))):(things; need to change; heating up leftover kfc)
+0.19 (me; stinking; )
+0.19 (i; guess; )
+0.56 (I; have wipeout; stuck; L:in my head; T:its officially the last night of summer .. where'd all the time go ?.. school tomorrow  easy to wake up .. hard)
+0.66 (i; had; a productive weekend; T:for once)
+0.41 (it; to ashleys; a person)
+0.81 (school tomorrow; just spent; the last hour; studying for my elements test in chem)
+0.33 (I; stuck; L:in my head)
+
+i think i might do pretty well considering the ones i already knew and the ones my mom made up stupid but funny sayings for  better get some sleep .. long long loonngg day tomorrow .. then gonna make up all that sleep saturday finally  going to bed .. dont feel well but am gonna go to softball workouts tomorrow anywayss =  Sick = ugh i hate it  why do ppl walk away after they ask you a question and you start to answer them ?
+0.42 (i; think; i might do pretty well considering the ones i already knew and the ones my mom made up stupid but funny sayings for)
+0.16 Context(i think,List([0, 7))):(i; might do pretty well; )
+0.36 Context(i think i might do pretty well,List([0, 30))):(i; might do pretty well considering; the ones i already knew and the ones my mom made up)
+0.54 Context(i think,List([0, 7))):(..; do nt feel; well)
+0.31 (i; hate; it)
+0.37 (i; knew; T:already)
+0.48 (you; start; to answer them)
+0.41 Context(you start,List([402, 411))):(you; start to answer; them)
+0.13 (all; sleep; )
+0.34 (my mom; made up; )
+0.54 (they; ask; you; a question)
+
+its pointless  srsly .
+
+only the good die young has to come on the radio right when we're talking about marching band .. of course lol  im going to a haunted penetentiary on shortbus 13 !
+
+does anyone who has blanchard for honors know how to do the last problem on the new challenge problem worksheet ?
+
+this is why i try to stay out of things .. so much for my drama free year .. oh and its only halfway through first quarter ! this is gonna be such a great year .. ugh =/  dinnerr =] yumm  going to get my new phone .. finally  homework time .. bones is on as well =D .. got my new phone  finallyy .. done with lab report .. i really dont like writing about chemistry .. the experiments i dont mind tho  Taking < PROPMALE > for a walk  Hayride/Barn tonight with ppl  finallly im able to put my hair in a ponytail again  anyone know if we have to wear our band shirts tonight for the powederpuff game ?
+0.39 (i; really do nt like writing; about chemistry)
+0.69 Context(i really do nt like writing,List([323, 349))):(bones; is as well; on)
+0.25 Context(bones is as well i really do nt like writing,List([243, 349))):(this; is; why i try to stay out of things)
+0.46 Context(this is bones is as well i really do nt like writing,List([0, 349))):(i; try; to stay out of things)
+0.73 Context(bones is as well i really do nt like writing,List([243, 349))):(=D; got; my new phone; T:finallyy)
+0.89 (anyone; know; if we have to wear our band shirts tonight for the powederpuff game)
+0.80 (yumm; to get; my new phone; T:finally  homework time)
+0.67 (ppl; to put; my hair; in a ponytail; T:again)
+0.41 (i; to stay; out of things)
+0.27 (we; to wear; our band shirts; T:tonight; for the powederpuff game)
+0.52 (i; do nt; mind)
+0.34 (this; na be; such a great year)
+
+Homecoming was fun .. feet are killing me tho .. and the phillies have to win  We .. lost .. to the giants no less .. at our own field .. how ?
+0.60 (the phillies; to win no less how; )
+0.44 (We; lost; to the giants)
+0.76 (Homecoming; was; fun)
+0.78 Context(Homecoming was,List([0, 14))):(feet; are killing tho; me)
+
+Its the great pumpkin , < PROPFIRST > brown !
+
+Haven't seen it in forever  With everything that goes on between everyone it's no wonder why I think I'm going to end up being a therapist .. might as well start practicing early  Going to bed  anyone know what to put down for number 3 on our lab report for dr.
+0.41 (I; to end up; being a therapist)
+0.89 (anyone; know; what to put down for number 3 on our lab report for)
+0.71 Context(anyone know,List([194, 205))):(anyone; know to put; down; for number 3 on our lab report)
+0.88 (everything; goes on; L:between everyone)
+
+kroa ?
+
+Big ticket then bed .. last games finally over .. only 2 more seasons left .. hs really does go fast  I swear guys have a time of month as well .. at the least the guys in my family do  We all live in a yellow submarine  This day is dragging on foreverr .. whyy  Anyone who's auditioning for districts know where we go when we're at gov mifflin ?
+0.96 (Big ticket then bed .. last games finally over .. only 2 more seasons; left; hs really does go fast  I swear guys have a time of month as well .. at the least the guys in my family)
+0.51 Context(Big ticket then bed .. last games finally over .. only 2 more seasons left,List([0, 74))):(hs; really does go fast; )
+0.75 (a yellow submarine; is dragging; on)
+0.57 (we; 're; at gov mifflin)
+0.40 (I; swear; guys have a time of month as well)
+0.87 Context(I swear,List([102, 109))):(guys; have as well; a time of month)
+0.90 (Anyone who's auditioning for districts; know; where we go when we're at gov mifflin)
+0.85 Context(Anyone who 's auditioning for districts know,List([263, 306))):(Anyone; 's auditioning; for districts)
+0.36 Context(Anyone who 's auditioning for districts know,List([263, 306))):(we; go; T:when we're at gov mifflin)
+
+And did mr lucky say it our time was at 715ish ???  male in italian means evil . in croatian means small .
+
+and latin means wrong .
+0.75 (latin; means; wrong)
+
+lol i should prolly go to bed sometime soon .. but im too awake for that .. sooo bored  < PROPMALE > =] some things just never get old even if you've known them by heart for years  off to georgia .. night  10 minutes into a 12 hour car ride and already dad is smoking .. this is going to be a loongg car ride .. ugh  Leopolds ice cream .. yummmm .. I'm filled up for the night .. rehearsal dinner tomorrrow  I have a samurai swordd !
+0.70 (dad; is smoking; T:already)
+0.11 (i; im; too awake; for that)
+0.34 (this; to be; a loongg car ride)
+0.39 (I; 'm filled up; T:for the night)
+
+=]  It would not be a wedding if something didn't go wrong  What a trip to < PROPFEMALE > its been  I see snow !
+0.45 (It; would not be; a wedding)
+0.75 (something; did n't go; wrong)
+0.45 (I; see; snow)
+
+It's 18 degrees driving on a mountain in < PROPFEMALE >  Home .. finally !
+0.52 (It; 's; 18 degrees driving on a mountain; T:finally)
+0.90 (18 degrees; driving; L:on a mountain)
+
+I see a herd of ten dear .. and one of the babies is standing on its hind legs trying to reach a treebranch to eat  yumm chicken and broccoli .. the only chinese food i like =]  i just noticed that < PROPFEMALE > called vixen a girl .. \she\ " has antlers so wouldn't it make her a he ?
+0.23 (i; like; =)
+0.83 (one of the babies; is standing; on its hind legs)
+0.39 Context(one of the babies is standing,List([32, 61))):(I; see; a herd of ten)
+0.27 (i; just noticed; that < PROPFEMALE > called vixen a girl)
+0.91 (one of the babies; trying; to reach a treebranch)
+0.71 (the only chinese food i like =; called; vixen a girl)
+0.99 (dear .. and one of the babies is standing on its hind legs trying to reach a treebranch to eat  yumm chicken and broccoli .. the only chinese food i like =]  i just noticed that < PROPFEMALE > called vixen a girl .. \she\ "; has; antlers)
+
+you'd think < PROPFEMALE > would know his reindeer's genders "  Finally I get to see the new < PROPMALE > potter  Why did the chicken cross the road ?
+0.46 (I; to see; the new < PROPMALE)
+0.63 (you; 'd think; < PROPFEMALE > would know his reindeer's genders "  Finally I get to see the new < PROPMALE >)
+0.68 Context(you 'd think,List([0, 11))):(PROPFEMALE; would know; his reindeer's genders)
+
+my answer : so it could become kfc  bed .
+0.45 (it; could become; kfc  bed)
+
+baking christmas cookies tomorrow =] yummm  Dutch meatballs are looking good .. hopefully the rest of the group will like them  christmas cookies =] yumm  Got all of my christmas wrapping done =] .. for once I didn't wait to do it .. 4 days til christmas  Feel like I'm getting sick =[ .. ugh yet another christmas being sick  < PROPFEMALE > christmas < PROPFEMALE > < PROPFEMALE > rybody .. have a good break =]  Everythings finally wrapped and under the tree .. it only took til christmas < PROPFEMALE > to actually do it .. merry christmas to all and to all a good night  1st day of christmas down .. one more to go .. let's hope there's a lot less sneezing in it for me tomorrow  Both days of christmas down .. now all I have to do is get over this stupid cold .. I have yet to have a healthy day of break so far  To stop my foot from shaking I'm eating fritos .. why does this have to take so longgg  Everybody .
+0.95 (yummm  Dutch meatballs; are looking; good; T:baking christmas cookies tomorrow)
+0.31 (I; did n't wait; to do it)
+0.73 (all I have to do; get; over this stupid cold)
+0.78 (a lot; sneezing; for me; T:Both days of christmas down)
+0.27 (I; to do; it)
+0.82 (Everythings; wrapped; T:finally)
+0.30 (all; to do; I)
+0.88 (< PROPFEMALE > < PROPFEMALE; have; a good break)
+0.34 (this; to take; so longgg  Everybody)
+0.86 (PROPFEMALE; christmas; < PROPFEMALE > < PROPFEMALE)
+0.88 (christmas; Feel; like I'm getting sick =[ .. ugh yet another christmas being sick)
+0.39 (another christmas; being sick < PROPFEMALE >; christmas)
+
+All day .
+
+Yelling at me .. I didn't even DO or SAY anything  why ?
+
+how on earth did i poke my own eye on accident ?
+
+am i that stupid not to notice that i was close to doing that until AFTER i poked it ?
+0.31 (i; poked; it)
+0.17 (i; not to notice; that i was close to doing that until AFTER i poked it)
+0.17 Context(i not to notice,List([3, 30))):(i; was; close to doing that; T:until AFTER i poked it)
+
+maybe its trying to tell me its my cue to go to bed .. guess i better listen to it now before i get the next one .. then ill be blind lol .. and i have no clue why i keep rambling tonight  watching wipeout .. funniest thing i ever watched  My mom and I got my dog to wear an eagles jersey .. being a dog and all he couldn't wear number 7 but .
+0.52 (i; get; the next one)
+0.39 (i; keep rambling; T:tonight)
+0.49 Context(i keep rambling,List([164, 179))):(i; keep rambling keep; rambling tonight  watching wipeout)
+0.29 Context(i keep rambling,List([164, 179))):(i; keep rambling watching; wipeout)
+0.43 (I; got; my dog to wear an eagles jersey .. being a dog and all)
+0.63 Context(I got,List([251, 256))):(my dog to wear an eagles jersey; being; a dog and all he couldn't wear number 7 but)
+0.31 (i; have; no clue why i keep rambling tonight)
+0.40 (i; watched; My mom; T:ever)
+0.45 (he; could n't wear; number 7)
+
+He's wearing a jersey  Come on eagles .. this is not the way to play a playoff game .. it is definitly the worst time to be off on your game  Come on eagles you're cutting it close  Interception in the endzone against the eagles .. what a way to end the game .. ugh .
+0.46 (you; 're cutting; it; T:close  Interception; L:in the endzone against the eagles)
+0.23 (it; is; definitly)
+0.32 Context(it is,List([87, 92))):(this; is not; the way to play a playoff game)
+0.35 Context(this is not it is,List([41, 92))):(He; 's wearing; Come on eagles)
+
+It does not feel like a friday  Ah .. such a simple night .. internet doesn't work and moms trying to hook up the dvd player cuz the other one didn't work  Why won't these hiccups just go away already  To walmart to freeze my butt off while selling cookies  Making cookies  I feel like I had such a productive snow day for once and there's still time left in the day  organizing the gs cookies so i know what i need to take to school tomorrow to give ppl  I have everyones cookies I'm bringing them tomorrow so whoever didn't pay bring the money or else no cookies for you .
+0.52 (I; had; such a productive snow day)
+0.67 (internet; does n't work; )
+0.40 Context(internet does n't work,List([61, 82))):(It; does not feel; like a friday  Ah)
+0.36 (I; feel; like I had such a productive snow day for once and there's still time)
+0.85 (moms; trying; to hook up the dvd player cuz the other one)
+0.78 Context(moms trying,List([87, 98))):(moms; trying to hook up; the dvd player cuz the other one)
+0.92 (time; left; T:in the day)
+0.36 (I; have; everyones cookies I'm bringing them tomorrow so whoever didn't pay bring the money or else no cookies for you)
+0.72 Context(I have,List([456, 462))):(everyones cookies I'm bringing them tomorrow; bring; the money)
+0.89 (cookies; Making; cookies)
+0.31 (I; 'm bringing; them; tomorrow; so whoever didn't pay)
+
+for the people who ordered cookies from me i kind of have to many to fit in my locker so it would be much appreciated if you would visit me by the office tomorrow morning so i can give them to you cuz i cant go find you in the morning  say bye to our break with all these snow days .. now we're going to have to be in school over the nice days instead of the yucky days .. i'd rather have off on a < PROPFEMALE > day then a day like this  who all knows if they can do that PFEW thing over the summer ?
+0.81 (the people; ordered; cookies; from me)
+0.27 (i; can give; to you)
+0.26 (i; ca nt go; find you in the morning)
+0.26 Context(i ca nt go,List([201, 210))):(i; ca nt go find; you; L:in the morning)
+0.38 (i; to fit; L:in my locker; so it would be much appreciated if you would visit me by the office tomorrow morning)
+0.19 (it; would be much appreciated; )
+0.41 (we; to be; in school; T:over the nice days instead of the yucky days)
+0.58 (you; would visit; me; T:tomorrow morning; so i can give them to you cuz i cant go)
+
+wear purple tomorrow for teen dating violence awareness week .. and gs dont forget to wear purple and bring our shirts tomorrow for the picture  I HATE BIRDS .
+0.89 (teen; dating; violence awareness week)
+0.74 (gs; do nt forget; to wear purple and bring our shirts tomorrow for the picture)
+0.54 Context(gs do nt forget,List([68, 82))):(gs; do nt forget to wear; purple)
+0.54 Context(gs do nt forget,List([68, 82))):(gs; do nt forget to bring; our shirts; T:tomorrow; for the picture)
+
+okay it is not the steelers night tonight with all these penalties  holy crap packers .. 3 touchdowns in 1 half and nothing except a field goal for the steelers .. the steelers are so off and the packers are pumped up .. its gonna be a blowout .. packers gonna win  why does word not work on the only computer that the printer is hooked up to .. ugggh .. either fix word so it works or figure out how to connect the laptops to the printer already .
+0.39 (it; is not; the steelers night; T:tonight)
+0.72 Context(it is not,List([5, 14))):(the steelers; are; so off)
+0.85 (packers; na win; why does word not work on the only computer)
+0.24 (it; works; )
+0.73 (the packers; are pumped up; )
+0.73 (the printer; is hooked up; )
+0.64 (its gon; na be; a blowout)
+
+normally i dont post these statuses but why not :\  Valentines Day is coming up , copy this on your status and see what you get ?
+0.27 (i; copy; this; L:on your status)
+0.23 (i; see; what you get)
+0.32 Context(i see,List([9, 114))):(you; get; )
+
+\  INBOX ONLY (: \  Gold - Be my valentine ?
+
+\  Red - I used to like you\  Orange - will you be mine ?
+0.79 (Red - I; to you\; Orange - will you be mine)
+
+\  ... Yellow - I think you're cute .
+0.31 (I; think; you're cute)
+0.37 Context(I think,List([16, 23))):(you; 're; cute)
+
+\  Green - I want to get to know you better\  Purple - I love you\  Pink - I want a kiss  Visiting my baby cousin  Ugh .. I can't sleep  some likes you have to read the whole link to understand lol  Glad I wasn't in school today .
+0.83 (a kiss; Visiting; my baby cousin)
+0.52 (I; was n't; in school; T:today)
+0.26 (I; ca n't sleep; some likes you have to read the whole link)
+0.35 Context(I ca n't sleep,List([122, 135))):(I; want; a kiss  Visiting my baby cousin  Ugh)
+0.16 Context(I want I ca n't sleep,List([75, 135))):(I; love; )
+0.35 Context(I love I want I ca n't sleep,List([55, 135))):(I; want; to get to know you better\  Purple)
+0.29 Context(I want I love I want I ca n't sleep,List([11, 135))):(I; want to get; to know you better\  Purple)
+0.26 Context(I want to get I love I want I ca n't sleep,List([11, 135))):(I; want to get to know; you)
+0.62 (you; to understand; lol  Glad)
+0.58 (you; to read; the whole link)
+
+People are just idiots .
+0.89 (People; are; just idiots)
+
+accidentally burnt my thumb .. now it feels wierd ..  omg .. i just saw the pics of my brother at the game last night on the reading eagle website .. lol  Mom : hey turn off the movie so we can watch the rest of the titanic it should be at the good part by now .
+0.45 (it; should be; at the good part; T:by now)
+0.30 (it; feels; T:now)
+0.26 (i; just saw; the pics of my brother; L:at the game; T:last night; L:on the reading eagle website)
+0.45 (we; can watch; the rest of the titanic)
+
+The boat should be sinking Me : hey look you were right  I don't see any cars on the road at all .. too early  Bath time for baby  People believe what they want to believe : in the pretend realities that make them happy  just got an acceptance email from PFEW for week 3 .. who's all going that week ?
+0.83 (The boat; should be sinking; Me)
+0.36 (you; were; right)
+0.90 (the pretend realities; make; them happy  just got an acceptance email from PFEW for week 3)
+0.39 (I; do n't see; any cars on the road at all)
+0.82 Context(I do n't see,List([57, 68))):(too early  Bath time for baby  People; believe; what they want to believe : in the pretend realities that make them happy  just got an acceptance email from PFEW for week 3 .. who's all going that week)
+0.38 Context(I do n't see too early Bath time for baby People believe,List([57, 145))):(they; want; to believe : in the pretend realities that make them happy  just got an acceptance email from PFEW for week 3 .. who's all going that week)
+0.27 Context(I do n't see too early Bath time for baby People believe they want,List([57, 160))):(they; want to believe : in the pretend realities that make them happy  just got an acceptance email from PFEW for week 3 .. who's all going that week to believe; )
+
+Okay .. so what is the point of making a phone case for a certain type of phone .. and it still doesn't fit correctly and falls off every time the phone moves ?
+0.30 (it; does n't fit correctly; T:still)
+0.55 (it; falls off; T:every time the phone moves; T:still)
+
+I hate being sick  The birds chirping I can handle .. what I can't stand is my dad nonstop whistling to the birds trying to get them to talk  the < PROPFEMALE > on idol is trying to dance .
+0.31 (I; hate; being sick  The birds chirping I can handle)
+0.63 (what I can't stand; is; my dad nonstop whistling to the birds)
+0.20 (I; being; sick)
+0.89 (the birds; trying; to get them to talk  the < PROPFEMALE > on idol)
+0.83 Context(the birds trying,List([104, 120))):(the birds; trying to get; them to talk  the < PROPFEMALE > on idol)
+0.44 Context(the birds trying to get,List([104, 127))):(them; to talk; the < PROPFEMALE; L:on idol)
+0.80 (The birds; chirping; I can handle)
+0.16 Context(The birds chirping,List([19, 37))):(I; can handle; )
+0.19 (I; ca n't stand; )
+
+blueberry  I was going to go to bed early tonight .. get a good nights sleep and actually be able to get up for jazz band .. but no .
+0.41 (I; to go; to bed; T:early tonight)
+0.48 (I; get; a good nights sleep)
+
+I guess it can't happen .
+0.26 (I; guess; it can't happen)
+0.16 Context(I guess,List([0, 7))):(it; ca n't happen; )
+
+Not even once  Watching cats on vhs .. that's right going back to the old days  Tonight was funn .
+0.93 (Tonight; was funn; T:the old days)
+
+I should < PROPFEMALE > out with them more often .
+
+Let's sing !
+
+Shut up you sound horrible !
+0.36 (you; sound; horrible)
+
+Have to do it again sometime .
+
+tired .. bedtime  Home .. sick again .. this time with the stomach flu .. yay ..  Why do I have to get the stomach bug right when softball season starts ?
+0.41 (I; to get; the stomach bug right; T:when softball season starts)
+0.78 (softball season; starts; )
+
+Ughhh ..  104 degree fever .. it better go down by tomorrow  Dizzy .. feels like a naptime ..  apparently.my
+0.92 (Ughhh ..  104 degree fever; feels; like a naptime)
+0.19 Context(Ughhh .. 104 degree fever feels,List([0, 75))):(it; better go; down)
+
+parents almost forgot to tell me that while I was at girlscouts there was a fire in the basement .. no damage except a loss of a towel but its okay ?
+0.52 (I; was; at girlscouts)
+0.67 (parents; almost forgot; to tell me that while I was at girlscouts there was a fire in the basement)
+0.67 Context(parents almost forgot,List([0, 21))):(parents; almost forgot to tell; me; that while I was at girlscouts there was a fire in the basement)
+0.39 (there; was a fire in; the basement)
+
+My 3 month old baby cousin is going to be the only white boy that can dance .. he's < PROPFEMALE > adorable  criminal minds soon !
+0.44 (My 3 month old baby cousin; to be; the only white boy that can dance)
+0.74 (the only white boy; can dance; )
+0.44 (he; 's soon; PROPFEMALE)
+
+its gonna be good .. but a little bummed its prentiss's last episode .. J.J. comes back for this episode though =]  < PROPMALE > .
+0.38 (its gon; na be; good)
+0.86 (J.J.; comes; back; for this episode)
+
+Study hall .
+
+fcs .
+
+Boredd  Perfect weather for softball =] game at boyertown  I have laces imprinted on my right hand and a bruise on my middle finger .. but I hit a double and scored a run so I'm okay with it =]  Just got home from museum patrol .. dead tired .. gonna watch < PROPMALE > potter weekend while I'm trying to fall asleep  Lot of knitting to do for < PROPMALE > class .. boringg even though < PROPMALE > potter is on  Anyone know which periods eliminated tomorrow ?
+0.31 (I; have; laces imprinted on my right hand)
+0.94 (Boredd  Perfect weather for softball =] game at boyertown  I have laces imprinted on my right hand and a bruise on my middle finger .. but I hit a double and scored a run; Just got dead tired; home)
+0.82 (laces; imprinted; L:on my right hand)
+0.46 (I; to fall; asleep  Lot of knitting; to do for < PROPMALE > class)
+0.28 (I; hit; a double)
+0.41 (I; scored; a run)
+0.56 (I; 'm trying; to fall asleep  Lot of knitting to do for < PROPMALE > class)
+0.34 Context(I 'm trying,List([291, 301))):(I; 'm trying to do; for < PROPMALE > class)
+
+knitting and ( unfortunately ) watching glee .. there's nothing on on tuesdays .
+
+< PROPFIRST > < PROPFIRST>'s improv-a-ganza .. same thing as whose line soo .. why'd they cancel the original in the first place if they were just going to redo it ?.. stupid people .
+0.42 (they; to redo; it)
+
+For being a Friday this day sure is going slow  Game starts in a half hr and the bus driver is still lost .. wtf  I see the school !
+0.84 (the bus driver; is lost; T:wtf  I see the school; T:still)
+
+Finallyyy .. only got 15 mins though  Gs sleepover tonight at the historical society .. I'm gonna be dead tired tomorrow again  yuummmm .. cupcakess .. =]  studying the driving < PROPMALE > again  Passed my permit test !
+0.41 (I; na be; dead tired; T:tomorrow; T:again)
+0.91 (yuummmm .. cupcakess; studying; the driving < PROPMALE > again  Passed)
+
+On the 1st try too =]]]  My mom took me out driving earlier =]  Was driving again tonight =] did pretty good  We won the game =] hands freezingg .. using the cars heated seats to warm them up  Killed themm .. I hit a homerun =]] now I need to hit more this season 
+0.17 (them; Killed; )
+0.46 (I; hit; a homerun)
+0.57 Context(I hit,List([209, 214))):(My mom; took out; T:On the 1st try too =)
+0.24 Context(My mom took out I hit,List([25, 214))):(My mom; took out driving; T:earlier)
+0.53 Context(I hit,List([209, 214))):(I; need; to hit more this season; T:now)
+0.39 Context(I hit I need,List([209, 239))):(I; need to hit; more; T:this season)
+0.52 (We; won; the game)
+

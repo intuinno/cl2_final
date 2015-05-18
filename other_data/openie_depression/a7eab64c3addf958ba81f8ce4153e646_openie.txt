@@ -1,0 +1,6 @@
+its slightly hard to believe that tomorrow will bring 2011 .... \  then again , this is coming from the girl who thought dust bunnies would come to life from under her bed and eat her in her sleep ^_^ \  HAPPY NEW YEAR EVERYONE !!!!
+0.81 (dust bunnies; eat; her)
+0.52 (this; is coming; from the girl; T:then again)
+0.84 (the girl; thought; dust bunnies would come to life from under her bed and eat her in her sleep)
+0.76 Context(the girl thought,List([100, 120))):(dust bunnies; would come; from under her bed)
+

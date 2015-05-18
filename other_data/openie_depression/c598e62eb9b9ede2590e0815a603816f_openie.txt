@@ -1,0 +1,207 @@
+Getting Ready for tonight ..
+
+Hanging out ..  Bored .. Work tomorrow .
+
+Long day ... Sleepy .
+
+Little things in life make me laugh the hardest .
+0.48 (Little things in life; make; me laugh the hardest)
+0.11 Context(Little things in life make,List([0, 26))):(me; laugh hardest; )
+
+Trying not to fall asleep .
+
+It's not even 10pm yet .
+0.52 (It; 's not; even 10pm; T:yet)
+
+Wtf ..  Eating sweet and sour chicken .
+0.83 (Wtf; Eating; sweet and sour chicken)
+
+:)  At Work , not a busy day :/  It's too cold outside !
+0.70 (It; 's; too cold; L:outside; T:At Work , not a busy day)
+
+Tired .. work tomorrow .
+
+:P  Had a bad day ... Getting Shwasted ..  :)  Finally going to sleep even though its almost 4am .
+0.86 (:P; Had; a bad day)
+0.78 Context(:P Had,List([0, 7))):(:P; Had a bad day Getting; Shwasted)
+
+Watching the snow acting insane outside ..  Snow ..  probably going to sleep early tonight , i don't want to sleep half the day away again .
+0.77 (the snow; acting; insane; L:outside)
+0.91 (the snow acting insane outside; to sleep; T:early tonight)
+0.39 (i; do n't want; to sleep half the day away again)
+0.39 Context(i do n't want,List([93, 105))):(i; do n't want to sleep; L:half the day away; T:again)
+
+yawn ..  At my grams for the Superbowl .
+
+:)  At work , so tired from the weekend .
+
+:/  Going to get my hair cut ..  Hit my foot on the steps , now my pinky toe feels like mush and hurts .
+0.53 (my pinky toe; hurts; T:now)
+0.73 (my pinky toe; feels; like mush; T:now)
+
+I feel like i broke it .
+0.31 (I; feel; like i broke it)
+0.31 (i; broke; it)
+
+:/  Tired ..  Doing laundry ..  I was just on chatroulette , it's discusting !! :S  Watching the Jersey Shore marathon !
+0.84 (S; Watching; the Jersey Shore marathon)
+0.24 (it; 's; discusting)
+0.47 Context(it 's,List([61, 65))):(I; was; just on chatroulette)
+
+:)  Watching the olympics , :)  Working on my < PROPMALE > paper .. ugh .
+
+oh my god , 2am and can't sleep .
+0.19 (2; am; )
+0.13 (2; ca n't sleep; )
+
+:/  This is a waste of time , working on my < PROPMALE > Paper ..  Busted and broke-down : <  Ready to just say eff it to this whole < PROPMALE > paper !!  SNOW !!! :)  pissed !! I Hate You .
+0.86 (a waste of time; working; on my < PROPMALE > Paper)
+0.26 (I; Hate; You)
+0.33 Context(I Hate,List([179, 185))):(This; is pissed; a waste of time , working on my < PROPMALE > Paper ..  Busted and broke-down : <  Ready to just say eff it to this whole < PROPMALE > paper)
+0.39 (This; is a waste of; time)
+
+In more of a happy mood now !
+
+:P  Thankfully I have amazing friends to pull me back up thru anything - < PROPFEMALE > Spyker , your awesome !
+0.83 (amazing friends; to pull; me)
+0.74 (amazing friends to pull me; back up; thru anything - < PROPFEMALE > Spyker)
+
+;)  Facebook is boring me at the moment so i think i'll go outside a stick my head in the snow to celebrate Kwanzaa .
+0.74 (my head in the snow; to celebrate; Kwanzaa)
+0.47 (i; think; i'll go outside a stick my head in the snow to celebrate Kwanzaa)
+0.84 Context(i think,List([43, 50))):(;)  Facebook; is boring; me; T:at the moment)
+0.35 Context(i think,List([43, 50))):(i; 'll go; outside a stick; my head in the snow to celebrate Kwanzaa)
+
+I want to actually get some sleep tonight so im taking enough Tylenol PM to knock out an elephant ..  Sleep .. Goodnight :)  Feel down the stairs , now my ankle is twisted and my leg is bruised .
+0.48 (my ankle; is twisted; T:now)
+0.34 (my leg; is bruised; )
+
+hooray .
+
+:/  Stayed up all night working my paper :/  Stayed up all night working on my paper only to find out school is closed !!! Oh well , i'll sleep now .
+0.23 (i; 'll sleep; T:now)
+0.32 (/; Stayed; up; T:all night)
+
+My sleeping habbits are messed up , I have to take two tylenol PM and two Benadrly just to get to sleep .
+0.41 (I; to take; two tylenol PM)
+0.92 (Benadrly; just to get; to sleep)
+
+Birthday next week , 17 , although I wish I was 15 again :P  can't sleep again :/  Oh , it's my Birthday .
+0.32 (I; wish; I was 15)
+0.24 Context(I wish,List([35, 41))):(I; was; 15)
+0.31 (it; 's; my Birthday)
+0.74 Context(it 's,List([88, 92))):(:P; ca n't sleep; T:again; T:again)
+
+What am i getting for a gift ?......
+
+A < PROPMALE > from the insurance for the accident that i got into this morning , hooray .
+0.91 (the accident; got; into this morning)
+
+:(  SAD :(  Can't wait for the weekend ; Birthday weekend = Partying non stop :)  Had a good Birthday weekend !! :)  Just woke up from a weird dream , that seemed so realistic : b  Just dyed my hair , and I must say I do like it :)  Got home finally from going up to Cabela's and Bass Pro Shop and ate at The Cracker Barrel : b  Eating a stromboli , yum :}  I forgot to wear green today :(  Ke$ha on American Idol ?
+0.40 (I; must say; I do like it :)  Got home finally from going up to Cabela's and Bass Pro Shop and ate at The Cracker Barrel)
+0.42 Context(I must say,List([205, 215))):(I; do; it :)  Got home finally from going up to Cabela's and Bass Pro Shop)
+0.20 Context(I must say I do,List([205, 220))):(it; Got; home; T:finally)
+0.96 (Birthday weekend = Partying non stop :); Had; a good Birthday weekend)
+0.46 (I; ate; L:at The Cracker Barrel)
+0.40 (I; forgot; to wear green today)
+0.40 Context(I forgot,List([358, 366))):(I; forgot to wear; T:green today)
+
+Ke$ha's performance was cool , too bad she had to change most of the song .
+0.85 (Ke$ha's performance; was too bad; cool)
+0.41 (she; to change; most of the song)
+
+: l  4:00 cannot get here soon enough , work is going so slow today ..  I want a sheetz iced coffee !
+0.47 (I; want; a sheetz iced coffee)
+0.72 Context(I want,List([72, 78))):(l  4:00; can not get; here; T:soon enough)
+
+:}  I guess I should go to bed , work tomorrow : l  The most exciting attractions are between two opposites that never meet .
+0.19 (I; guess; )
+0.70 (two opposites; never meet; )
+0.39 (I; should go; to bed; T:work tomorrow)
+0.91 Context(I should go,List([12, 23))):(l  The most exciting attractions; are; between two opposites)
+
+Still up , after 2am .
+
+Buying itunes , lol  Gonna try the sleep thing again .
+0.91 (lol  Gon; na try; the sleep thing; T:again)
+
+: I  feeling sick fom all the chinesse food i ate : l  Sick : l  < PROPMALE > and I are setting up the PS3 !
+0.90 (all the chinesse food; ate; i)
+0.45 (I; are setting up; the PS3)
+
+:}  I missed Supernatural , :(  My cat caught a baby chipmunk .
+0.50 (I; missed; Supernatural)
+0.29 (I; :(; My cat caught a baby chipmunk)
+0.59 Context(I :(,List([4, 30))):(My cat; caught; a baby chipmunk)
+
+:{  Easter yay , tonight it's the club .
+0.66 (it; 's; the club; T:tonight)
+
+:}  having some drinks .
+
+praise the lord .
+
+:)  I have sunburn < PROPFEMALE > bad !!  it feels amazing outside .
+
+:)  Got to spend most of the day outside .
+0.34 (:); to spend; most of the day outside)
+
+:D  I can feel the heat radiating off me .
+0.31 (I; can feel; the heat radiating off me)
+0.83 (the heat; radiating; off me)
+
+: l I hate sunburn !
+0.60 (I; hate; sunburn; T:l)
+
+At work , appt .
+
+at 2 ; getting a shot .
+
+;/  PSSA tomorrow then going back to work , : l  going to bed .
+
+long day tomorrow .
+
+fell out of a tree .
+
+: l  just got home from seeing clash of the titans .
+0.81 (l; just got; home; from seeing clash of the titans)
+
+it was good .
+0.28 (it; was; good)
+
+I like the rain .
+0.45 (I; like; the rain)
+
+Watching Team < PROPFEMALE > , and trying to fall asleep .
+
+watching Avatar .
+
+Really liking my Imac .
+
+:)  Bed Time .
+
+;}  lol :)  wow , after 5 and im still awake ... insomniac ?
+
+yeah :\ " , 201 0-0 5-29 09:12:57 "  sitting outside watching the lightning .
+0.32 (201 0-0 5-29 09:12:57; sitting; outside)
+
+leaving for Ocean City tomorrow morning .
+
+those who criticize our generation forget who raised it .
+0.51 (those who criticize our generation; forget; who raised it)
+0.10 Context(those who criticize our generation forget,List([0, 41))):(those; criticize; our generation)
+0.40 Context(those who criticize our generation forget,List([0, 41))):(those who criticize our generation; forget raised; it)
+
+Should be a good day at work .
+
+No sleep and still sick .
+
+:|  Love me or Hate me - I swear it's not going to make me or break me .
+0.20 (it; to break; me)
+0.36 (I; swear; it's not going to make me or break me)
+0.27 (it; to make; me)
+
+Had a great 18th Birthday !
+
+Thanks again mom for the macbook pro , amazing gift !! ( Wende Glenny ) 
+

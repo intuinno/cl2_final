@@ -1,0 +1,197 @@
+HAPPY FREAKIN ' NEW YEARS !!!!! WOO !
+
+:D 
+
+Hasn't gotten out of her bed in a week -.-  Has made a new friend ^^ yaya !  is finding it really hard to ask for help when she needs it >.<  is getting annoyed with how fast life has been moving since graduation ...  is bound and determined to get a job !
+0.91 (how fast life; has been moving; T:since graduation; T:is bound and determined to get a job)
+0.31 (she; needs; it)
+
+:)  Social experiment , if you read this , even if we don't speak often , post a comment with a memory of you and me .
+0.36 (you; read; this)
+
+When you're finished , post this paragraph on your own status and you will be surprised with what people remember about you .
+0.32 (you; 're finished; )
+0.61 (you; will be; surprised with what people remember about you; T:When you're finished)
+0.82 (people; remember; about you)
+
+has just added a bunch of photos ;3  Just saw < PROPFEMALE > Trek for the 3rd time ^^  Can Finally afford to get her school textbooks !
+0.32 (3; Just saw; PROPFEMALE > Trek)
+
+yay now I wont fail =D  is finally getting her laptop back from Geek Squad ^^  hates school .... but is doing her best to put up with it ... >.<  really wants to be < PROPFEMALE > Sciuto from NCIS for Halloween next year :D  hates term papers ...  is sooooo sleepy T.T  just saw The Eggmen tonight with family !
+0.25 (I; wo nt fail; T:yay; T:now)
+0.61 Context(I wo nt fail,List([8, 19))):(=D; is getting back; T:finally)
+0.91 (:D; hates; term papers; T:next year)
+0.86 (Geek Squad ^^; is doing; her best)
+0.73 (Sciuto from NCIS for Halloween; is; sooooo sleepy)
+0.88 (T.T; just saw; The Eggmen; T:tonight)
+
+:D  watched Ice Age 23 times today o.o  had a blast today :)  can't find her phone !
+0.88 (:D; watched; Ice Age 23; T:times; T:today)
+0.87 (:D; had; a blast; T:today)
+0.25 (:); ca n't find; her phone)
+
+D:  thanks < PROPFIRST > for finding her phone .
+
+I LOVE U !! :D  JUST GOT THE NEW SWITCHFOOT CD !
+0.50 (I; LOVE; U !! :D)
+
+:D  is back from the dentist ... and is in pain T.T stupid fillings  wants to shop !
+0.89 (:D; is; back from the dentist)
+0.84 (:D; is; in pain)
+0.84 Context(:D is,List([0, 39))):(T.T stupid fillings; wants; to shop)
+0.77 Context(:D is T.T stupid fillings wants,List([0, 74))):(T.T stupid fillings; wants to shop to shop; )
+
+:)  Is soooo glad that the semester is almost over :D  < PROPFEMALE > CHRISTMAS EVERYONE !
+0.37 (:); Is; soooo glad that the semester is almost over :D  < PROPFEMALE > CHRISTMAS EVERYONE)
+0.94 (the semester; is; almost over :D  < PROPFEMALE > CHRISTMAS EVERYONE)
+
+Love y'all!
+
+<3  tried to eat chicken hearts for dinner but got all freaked out and couldn't eat them T.T  Dammit !
+0.63 (<3; got; all freaked out)
+0.71 (<3; could n't eat; them; T:T.T  Dammit)
+0.78 (<3; tried; to eat chicken hearts for dinner)
+0.78 Context(<3 tried,List([0, 9))):(<3; tried to eat; chicken hearts)
+
+Some Jackass is running around my neighborhood punching out car windows !!!! Some lady just stopped by our house , because she saw our car , and said that someone had taken out two of her windows up the street .
+0.37 (she; saw; our car)
+0.15 (she; said; that someone had taken out two of her windows up the street)
+0.79 Context(she said,List([123, 149))):(someone; had taken out; two of her windows)
+0.70 (Some lady; just stopped; by our house; because she saw our car , and said that someone had taken out two of her windows up the street)
+0.76 Context(Some lady just stopped,List([77, 99))):(Some Jackass; is running; around my neighborhood; because she saw our car , and said that someone had taken out two of her windows up the street)
+0.86 Context(Some Jackass is running Some lady just stopped,List([0, 99))):(Some Jackass; is running punching out; car windows)
+
+Lovely isn't it ?
+
+just watched Bloody < PROPFIRST > for the first time ... yea I don't think I'll be sleeping tonight ... >.< lol  ummm if anyone is getting notifications from me that I answered a question about them .... i really didn't .... and you can completely disregard it .
+0.26 (I; do n't think; I'll be sleeping tonight)
+0.39 Context(I do n't think,List([61, 74))):(I; 'll be sleeping; T:tonight)
+0.36 (you; can disregard; it)
+0.48 (I; lol; ummm)
+0.79 (anyone; is getting; notifications from me)
+0.26 Context(anyone is getting,List([121, 138))):(I; answered; a question about them)
+
+:) mkay ?
+
+silly facebook app doing strange things ...  IF YOU ARE BRAVE .... Copy this into your status and see what people rate you . 1 : Crazy . 2 : I'd marry you .
+0.66 (YOU; ARE; BRAVE)
+0.26 (I; 'd marry; you)
+0.89 Context(I 'd marry,List([141, 150))):(silly facebook app; doing; strange things)
+
+3 : Talkative .
+
+4 : Sarcastic .
+
+5 : Loveable .
+
+6 : Clubhead .
+
+7 : Moody .
+
+8 : Dumb .
+
+9 : Spoiled .
+
+10 : Mouthy .
+
+11 : Random .
+
+12 : Hot .
+
+13 : Funny .
+
+14 : Fit .
+
+15 : Amazing .
+
+16 : Beatuiful .
+
+17 : Cute .
+
+18 : Smart ass  How many of you personally know all the people on your friends list ?
+0.66 (Smart ass  How many of you; personally know; all the people on your friends)
+
+Well , here's a task for you .
+0.46 (here; 's; a task for you)
+
+I WANT EVERYONE ON MY FRIENDS LIST TO COMMENT ON THIS STATUS STATING HOW WE MET .
+0.52 (I; WANT; EVERYONE)
+
+I mean our first encounter ever .
+0.19 (I; mean; )
+
+Then copy and paste this as your own status and see what kind of results you get ?
+
+Isn't particularly excited about taking summer courses ... but at least it will keep my brain cells alive :D  Woot !
+
+Finished my essay for History :) Now time to power nap go take the test then I'M FREE !
+0.41 (I; 'M; FREE; T:then)
+
+<3 .... until June 1st >.<  Freedom !
+
+:)  I went to the shelter today after looking online at some of the dogs and fell in love with a Mutt named Gravey .
+0.48 (I; fell; in love)
+0.94 (a Mutt; named; Gravey)
+0.46 (I; went; to the shelter; T:today; T:after looking online at some of the dogs)
+0.29 Context(I went,List([4, 10))):(I; went after looking online; at some of the dogs)
+
+We recognized him as soon as we got there and just had to take him home .
+0.31 (We; recognized; him; T:as soon as we got there)
+0.28 (we; got; there)
+
+He was abandoned at the shelter in February , was adopted , then returned ( owners couldn't afford him ) and now hes happily resting with my mom and I in my living room .
+0.50 (He; was abandoned; L:at the shelter; T:in February)
+0.17 (He; was adopted; )
+0.30 (He; returned; T:then)
+0.82 (owners; could n't afford; him)
+
+Thanks Mom and Dad for my Birthday present !
+
+:)  Look at your status , now back to mine , now back to yours , now back to mine .
+
+Sadly , yours isn't mine .
+0.54 (yours; is n't; mine)
+
+But if you stopped posting useless idiocy and made this your status , yours could be like mine .
+0.42 (you; made; this your status)
+0.46 (yours; could be; like mine)
+0.56 (you; stopped; posting useless idiocy)
+0.56 Context(you stopped,List([7, 18))):(you; stopped posting; useless idiocy)
+
+Look down , back up .
+
+Where are you ?
+
+You're on Facebook , reading the status your status could be like .
+0.32 (your status; could be; like)
+0.66 Context(your status could be,List([40, 60))):(You; 're; on Facebook)
+
+Anything is possible when your status has a point .
+0.86 (Anything; is; possible; T:when your status has a point)
+0.70 (your status; has; a point)
+
+I'm on a computer  Its a small world !
+0.52 (I; 'm; on a computer)
+
+: I went to the dog park again today and a lady recognized < PROPMALE > .
+0.52 (I; went; to the dog park; T:again; T:today)
+0.73 (a lady; recognized; )
+
+It turns out she is the animal behaviorist at Will Co .
+0.38 (she; is the animal behaviorist at; Will Co)
+
+shelter and had trained with < PROPMALE > when he was brought in .
+0.23 (he; was brought; in)
+
+When < PROPMALE > arrived at WILCO he was constantly shaking in fear and she worked with him for a long time until he was adopted by me .
+0.86 (PROPMALE; arrived; at WILCO)
+0.54 (he; was shaking; in fear; T:When < PROPMALE > arrived at WILCO; T:constantly)
+0.31 (she; worked; with him; T:for a long time; T:until he was adopted by me)
+0.31 (he; was adopted; by me)
+
+If hes improved this much since then I cant wait to see how much more calm he will become !
+0.61 (hes; improved; this; much)
+0.31 (I; ca nt wait; to see how much more calm he will become)
+0.23 (I; to see; how much more calm he will become)
+0.16 Context(I to see,List([37, 55))):(he; will become; )
+

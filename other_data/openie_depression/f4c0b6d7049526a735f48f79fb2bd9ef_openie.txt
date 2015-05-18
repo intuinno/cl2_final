@@ -1,0 +1,459 @@
+well it seems as though the browns stayed home today .
+0.90 (the browns; stayed; home; T:today)
+
+I leave my friends house to beat the rain BUT it starts pouring when I'm halfway home .
+0.24 (it; starts; )
+0.27 (it; pouring; T:when I'm halfway home)
+0.28 (I; 'm; halfway home)
+0.26 (I; leave; my friends house; to beat the rain)
+0.39 Context(I leave,List([0, 7))):(I; leave my friends house to beat; the rain)
+
+2nd day in a row this has happened to me .
+0.37 (this; has happened; to me; T:2nd day in a row)
+
+wtf ?
+
+another day , another test of my sanity  awake and very bored  For the first time in a long while , I actually feel a shred of happiness .
+0.60 (I; actually feel; a shred of happiness; T:another day)
+
+This has been a very good week for me .
+0.38 (This; has been; a very good week)
+
+got a show coming up .
+
+first one in awhile .
+
+will I be able to pick up were I left off ?
+0.17 (I; to pick up; )
+
+Tune in next week to find out .
+0.82 (Tune in next week; to find out; )
+
+or just come to the show ....  just got back from practice and the people should beware .... WE WILL RIP YOUR FACES OFF AND EAT THEM !!!!  5:30 in the morning ... can't sleep ... can't calm my brain enough for it to be silent ....
+0.72 (WE; ca n't calm enough; my brain)
+0.23 (it; to be; silent)
+0.81 (WE; WILL RIP; YOUR FACES; T:in the morning)
+0.59 (WE; ca n't sleep; )
+
+I hate this  the band got lucky and found equipment that was stolen after our last show .
+0.61 (the band; found; equipment that was stolen after our last show)
+0.80 (equipment; was stolen; T:after our last show)
+0.19 (I; hate; this)
+0.78 Context(I hate,List([0, 6))):(the band; got; lucky)
+
+can't wait to find out the person's name that stole our shit .
+0.84 (the person's name; stole; our shit)
+
+we found it at guitar center after a week !
+0.31 (we; found; it; L:at guitar center; T:after a week)
+
+what are the odds ?  5 days until the show at headliners .
+
+the tickets are only $5 so come out , have a few drinks and have a hell of a good time because a .
+0.77 (the tickets; are; only $5)
+
+it's a Friday night b .
+0.57 (it; 's; a Friday night b)
+
+we're playing 3 brand new songs .
+0.45 (we; 're playing; 3 brand new songs)
+
+and c .
+
+IT'S ONLY 5 BUCKS !!! get ahold of any of the band members if you want tickets .
+0.85 (IT; 'S; ONLY 5 BUCKS)
+0.68 (you; want; tickets)
+
+Well only 4 days left until the show .
+0.93 (only 4 days; left; T:until the show)
+
+All those who told me that they want a ticket better hurry up cause there's not much time left .
+0.63 (All those who told me that they want a ticket better hurry up; 's not; )
+0.78 (much time; left; )
+0.18 (All those; told; me; that they want a ticket better hurry up)
+0.62 Context(All those told,List([0, 18))):(they; want; a ticket better hurry up)
+
+you know who you are  another show that's in the bag .
+0.91 (another show; 's; in the bag)
+0.48 (you; know; who you are  another show)
+0.27 Context(you know,List([0, 8))):(you; are; )
+
+we were the only band that had costumes on(well < PROPMALE > , < PROPFIRST > , and I ) .
+0.24 (we; were; the only band that had costumes on(well < PROPMALE > , < PROPFIRST > , and I ))
+0.93 (the only band; had; costumes on(well < PROPMALE >)
+
+had a great time and I hope everyone who showed up had a great time as well  Just got this one today : Next sat .
+0.68 (everyone; showed up; )
+0.65 (Next; sat; )
+0.51 Context(Next sat,List([103, 111))):(I; hope; everyone who showed up had a great time as well)
+0.90 Context(I hope Next sat,List([21, 111))):(everyone who showed up; had as well; a great time)
+
+the 13th , my band is playing at < PROPFIRST>'s .
+0.76 (my band; is playing; L:at <; T:the 13th)
+
+don't know when doors open yet and i'm sure that tix .
+0.75 (doors; open; T:yet)
+0.29 (i; 'm; sure that tix)
+
+won't be more than $8 at most .
+
+you'll know more when I know more .
+0.54 (you; 'll know; more; T:when I know more)
+0.28 (I; know; more)
+
+PLEASE COME OUT AND SHOW YOUR SUPPORT !! it's gonna be a good show cause we like playing at < PROPFIRST>'s alot more than headliners .
+0.42 (it; na be; a good show cause we like playing at < PROPFIRST>'s alot more than headliners .)
+0.75 (a good show; like playing; L:at <)
+0.69 (PROPFIRST>; 's more; alot)
+
+it's more intimate and the sound is way better .
+0.28 (it; 's; more intimate)
+0.81 (the sound; is; way better)
+
+The < PROPFEMALE > rules #1  why do people feel the need to completely change themselves for other people who don't want anything to do with them unless they change .
+0.81 (other people; do n't want; anything to do with them)
+0.82 (anything; to do; with them)
+0.32 (they; change; )
+
+if someone can't accept you for who you are then they don't need to know you .
+0.82 (someone; ca n't accept; you; for who you are)
+0.32 (you; are; )
+0.54 (they; do n't need; to know you; T:then)
+0.40 Context(they do n't need,List([49, 64))):(they; do n't need to know; you)
+
+and if you change yourself to fit someone else's preference , just know I WILL be calling you truly pathetic .
+0.46 (you; change; yourself; to fit someone else's preference)
+
+Always be true to yourself and fuck the rest who don't like it .
+0.81 (the rest; do n't like; it)
+
+on a side note , anyone know a good drummer ?
+0.95 (anyone; know; a good drummer; L:on a side note)
+
+besides me ?
+
+hahahaha .
+
+The world lost a very funny man yesterday .
+0.93 (The world; lost; a very funny man; T:yesterday)
+
+That man was < PROPFIRST > Nielson .
+0.93 (That man; was; PROPFIRST)
+
+i'm about to go put on Naked Gun , have some \medicine\ " and laugh my ass off .
+
+R.I.P. < PROPFIRST > Drebin .
+
+Sorry you can't shoot anyone anymore .
+0.62 (you; ca n't shoot; anyone; T:anymore)
+
+"  if nothing is forever , what makes love the exception ?
+0.80 (nothing; is; T:forever)
+
+hey ya ...?  Haven't been to sleep yet .
+
+tossed and turned all night .
+
+I really can't stand this .
+
+like this if you know how I feel  I like this pic better .
+0.48 (you; know; how I feel  I like this pic better)
+0.16 Context(you know,List([13, 21))):(I; feel; )
+
+I was a voltron freak when I was a kid ?
+0.37 (I; was; a voltron freak; T:when I was a kid)
+0.52 (I; was; a kid)
+
+My favorite super hero , The Green Lantern .
+
+who's your favorite ??  I always said he'd come to no good in the end your honor !
+0.34 (I; said; he'd come to no good in the end; T:always)
+0.39 Context(I said,List([24, 37))):(he; 'd come; to no good; T:in the end)
+
+if they'd let me have my way I could've flayed him into shape .
+0.31 (I; could 've flayed; him; into shape)
+0.47 (they; 'd let; me have my way)
+0.26 Context(they 'd let,List([3, 13))):(me; have; my way)
+
+but my hands were tied , the bleeding hearts and artists let him get away with murder !
+0.34 (my hands; were tied; )
+0.88 (the bleeding hearts and artists; let; him get away with murder)
+
+let me hammer him today !
+
+\Large breasts have been names of men can not give up\ " .
+0.90 (\Large breasts; have been; names of men)
+
+this was the last sentence from a < PROPFEMALE > < PROPFIRST > bio that was translated from turkish to english .
+0.45 (this; was; the last sentence from)
+0.91 (a < PROPFEMALE > < PROPFIRST > bio; was translated; from turkish)
+0.89 (this; was the last sentence from; a < PROPFEMALE)
+
+Broken english is so funny to me sometimes "  The Red Skull in Cap's costume ?
+0.90 (Broken english; is; so funny to me)
+
+Great picture .
+
+yea I'm a nerd so what ?
+0.52 (I; 'm; a nerd)
+
+deal with it  well , time to play FF7 until the sun comes up .
+0.73 (the sun; comes up; )
+
+very tired .... this < PROPFIRST > bearer jig is getting old .... don't know how many more times I do it .....  man , my b-day is thursday .
+0.77 (bearer jig; do n't know; how many more times I do it .....  man)
+0.45 Context(bearer jig do n't know,List([35, 76))):(I; do; it; T:how many more times)
+0.69 Context(bearer jig do n't know,List([35, 76))):(my b-day; is; thursday)
+
+do I really have to be 29 ?
+0.20 (I; to be; 29)
+
+ugh ....  looking at this pic gets me mad .
+
+damn you .. you know who you are  Booo !
+0.52 (you; know; who you are  Booo)
+0.27 Context(you know,List([12, 20))):(you; are; )
+
+I want to play Warhammer Online but my comp lacks the ability  You know what makes a person feel good ?
+0.70 (my comp; lacks; the ability)
+0.51 (I; want; to play Warhammer Online)
+0.44 Context(I want,List([0, 6))):(I; want to play; Warhammer Online)
+0.63 (You; know; what makes a person feel good)
+
+getting blown off by a friend after you told them that you wanted to < PROPFEMALE > out with them on your birthday .
+0.38 (you; told; them; that you wanted to < PROPFEMALE > out with them on your birthday)
+0.56 Context(you told,List([36, 44))):(you; wanted; to < PROPFEMALE > out with them on your birthday)
+0.30 Context(you told you wanted,List([36, 65))):(you; wanted to < out; with them)
+
+yup feels like a million bucks ..... and it begs the question : what kind of friends are these anyways ?
+0.64 (it; begs; the question : what kind of friends are these anyways)
+
+thanks everybody .
+
+you really know how to make an old guy feel special :p  why can't I sleep ?!?!?!  just canceled myspace account .
+
+last thing I posted on there was in june and I'm NEVER on there so screw it .
+0.23 (I; posted; on)
+0.31 (I; 'm NEVER on; there; so screw it)
+
+good riddance  popcorn and Space Ghost Coast to Coast from 1997 ...  great game so far between ravens and steelers .
+
+lots of flags being thrown though but that's to be expected .
+0.78 (lots of flags; being thrown; though)
+0.07 (that; 's; to be expected)
+0.04 (that; to be expected; )
+
+ravens up 14-7  I saw you today .. you didn't know it but I was watching ... and I have to say that my hatred for you is otherworldly .
+0.10 (I; to say; that my hatred for you is otherworldly)
+0.44 Context(I to say,List([81, 94))):(my hatred for you; is; otherworldly)
+0.40 (you; did n't know; it)
+0.31 Context(you did n't know,List([35, 50))):(I; saw; you; T:today)
+0.19 (I; was watching; )
+
+if you were on fire , I wouldn't waste my piss on you to save your life .
+0.62 (you; were; on fire)
+0.26 (I; would n't waste; my piss; on you; to save your life)
+0.18 Context(I would n't waste,List([22, 38))):(I; would n't waste my piss to save; your life)
+
+you are nothing is the eyes of everyone .
+0.39 (nothing; is the eyes of; everyone)
+
+Oh what I would give to smash your face with a hammer then keep going until your head is just a crunchy puddle of bone and brains .
+0.64 (your head; is just; a crunchy puddle of bone and brains)
+0.36 (I; would give; to smash your face with a hammer then keep going)
+0.25 Context(I would give,List([8, 20))):(I; would give to smash then; your face)
+0.39 (your head; is just a crunchy puddle of; bone and brains)
+
+damn you for eternity ...  I've been thinking about the human race today .
+0.45 (I; 've been thinking; about the human race; T:today)
+
+why are we here , what's our purpose , the only thing that I keep coming back to is that we will never know our true origin and purpose because we aren't meant to know because human brains can't fully grasp the concept of our purpose .
+0.19 (we; are n't meant; )
+0.23 (I; keep; coming back to)
+0.17 (we; to know; )
+0.20 (I; coming; back to)
+0.77 (human brains; ca n't grasp; the concept of our purpose)
+0.54 (the only thing that I keep coming back to; is; that we will never know our true origin and purpose because we aren't meant to know)
+0.36 Context(the only thing that I keep coming back to is,List([39, 83))):(we; will never know; our true origin and purpose; because we aren't meant to know because human brains can't fully grasp the concept of our purpose)
+
+we live in a world that revolves around our senses but what about the things outside of our senses ?
+0.45 (we; live; L:in a world)
+0.87 (a world; revolves; around our senses but what about the things outside of our senses)
+
+I leave to ponder this and more .
+0.19 (I; leave; to ponder this and more)
+0.19 Context(I leave,List([0, 7))):(I; leave to ponder; this and more)
+
+so .
+
+I got a kidney stone on my left side .
+0.37 (I; got; a kidney stone; L:on my left side)
+
+intense pain , puked twice from the pain .
+0.89 (intense pain; puked; T:twice; T:from the pain)
+
+I think it's from drinking too much milk .
+0.32 (I; think; it's from drinking too much milk)
+0.47 Context(I think,List([0, 7))):(it; 's; from drinking too much milk)
+
+bored ......................  uh oh .. my dark side's coming out to play  I got my cheesehead on and i'm loving the fact that GB just scored .
+0.43 (my dark side; 's coming out; to play; T:I got my cheesehead on and i'm loving the fact that GB just scored)
+0.33 (my dark side; to play; )
+0.37 (I; got; my cheesehead)
+0.27 (i; 'm loving; the fact that GB just scored)
+0.63 (GB; just scored; )
+
+GO PACKERS !!!!  off to the superbowl !! whoo-hoo !!  going back to my teens tonight .
+0.90 (GO PACKERS; !!!! off; to the superbowl)
+
+the year : 1997 .
+
+The console : PS1 , The game : HHH HWAA HWAA !
+
+no but really it's Magic the Gathering Battlemage .
+
+Anyone remember that one ?
+0.76 (Anyone; remember; that one)
+
+I know a few of ya do .
+0.37 (I; know; a few of ya)
+0.45 (a few of ya; do; )
+
+I'm looking to my hands on a copy of Soviet Strike and Street Fighter < PROPFEMALE > 3 both for PS1  watching The Dark Knight for just the 2nd time and I'll admit it .
+0.31 (I; 'm looking; to my hands)
+0.84 (PS1; watching; The Dark Knight; T:for just the 2nd time)
+0.31 (I; 'll admit; it)
+
+< PROPMALE > Leger played a pretty good Joker .
+0.90 (PROPMALE > Leger; played; a pretty good Joker)
+
+although I still like < PROPFIRST > Nicholson just a little more as Joker .
+
+I'm old school I guess .
+0.16 (I; guess; )
+0.47 Context(I guess,List([15, 22))):(I; 'm; old school)
+
+but then again , Christian Bale is by far the best Batman  CHOCOLATE CAKE , COMING UP !
+0.95 (Christian Bale; is; by far the best Batman  CHOCOLATE CAKE)
+0.81 (Christian Bale; COMING UP; )
+
+ok new band name .
+
+I'M RAGAR !
+0.57 (I; 'M; RAGAR)
+
+OK I'm 90% sure about what I want to call my next band : The Plagues .
+0.49 (I; 'm; 90% sure about what I want to call my next band)
+0.32 (I; want; to call my next band)
+0.26 Context(I want,List([27, 33))):(I; want to call; my next band)
+
+I wanna go old school with it .
+0.37 (I; wan; na go old school with it)
+
+Old thrash , old punk and maybe a little Ministry and Death thrown in for flavor .
+0.89 (Old; thrash; old punk and maybe a little Ministry and Death)
+0.97 (old punk and maybe a little Ministry and Death; thrown; in; for flavor)
+
+I even want it to sound like an old vinyl record .
+0.26 (I; even want; it to sound like an old vinyl record)
+0.39 Context(I even want,List([0, 11))):(it; to sound; like an old vinyl record)
+
+i'm going back to my roots when music wasn't soul-less crap like most of the shit today is  so there is now a scholarship for white people .
+0.92 (music; was n't; soul-less crap like most of the shit today is)
+0.83 (most of the shit today; is; )
+
+I think it's a good thing cause I thought of it years ago and the fact that there are white people that actually need the help .
+0.31 (I; thought; of it; T:years ago)
+0.89 (white people; actually need; the help)
+0.32 (I; think; it's a good thing cause)
+0.22 Context(I think,List([0, 7))):(it; 's; a good thing cause I thought of it years ago and the fact that there are white people)
+
+and wouldn't ya know it ?
+
+everyone's making a big deal out of it and they're mostly black .
+0.82 (everyone; 's making; a big deal; out of it)
+0.43 (they; 're; mostly black)
+
+it's ok for women , blacks or whoever else to get them but not white people ?
+0.52 (it; 's; ok; for women , blacks or whoever else)
+
+Gimme a fucking break .
+
+who's really the racist ones here ?
+
+I have to be up early and I can't sleep .
+0.20 (I; to be; up; T:early)
+0.19 (I; ca n't sleep; )
+
+MOVIE TRIVIA TIME !
+
+The movie : Pulp Fiction .
+
+Question : What is the name of the place that < PROPMALE > got his food from ?
+0.82 (PROPMALE >; got; his food; from)
+0.39 (What; is the name of; the place)
+
+NO CHEATING !!!!!!  started bands < PROPFEMALE > now time for bed .
+0.85 (NO CHEATING; started; bands)
+
+The Plagues are here !!  really ? the only person who's gonna like my bands new < PROPFEMALE > is < PROPFIRST > ?
+0.76 (The Plagues; are really; here)
+0.66 (PROPFEMALE; is; PROPFIRST)
+
+I know it's not finished but damn .
+0.32 (I; know; it's not finished but damn)
+0.16 Context(I know,List([0, 6))):(it; 's not finished; )
+
+go to The Plagues and like it .
+
+you'll be a better person for doing so hahaha .
+0.68 (you; 'll be; a better person for doing so hahaha)
+
+seriously go .. do it ...  was watching cnn and it blows my mind to know that because of the quake , japans main island was moved 2.4 meters and the earth was tilted 10 cm .
+0.90 (the earth; was tilted; 10 cm)
+0.26 (it; blows; my mind; to know that because of the quake , japans main island was moved 2.4 meters and the earth was tilted 10 cm)
+
+when you put it in perspective considering the sheer size and mass , that's HUGE ...  Playing Castlevania SOTN .
+0.28 (that; 's; HUGE; T:when you put it in perspective considering the sheer size and mass)
+0.47 (you; put; it; in perspective)
+0.45 Context(you put,List([5, 12))):(you; put it considering; the sheer size and mass)
+
+got really pissed and said fuck it and started over with a walkthrough of castle 1 and 2 saved in my files .
+0.89 (a walkthrough of castle 1 and 2; saved; L:in my files)
+
+don't give a damn if it's cheating or not .
+0.19 (it; 's cheating; )
+
+I'm not gonna get stuck again and wander in circles while steam blows out of my ears .....  Let us go out this evening for pleasure , the night is still young ....
+0.20 (I; na get; stuck; T:again)
+0.81 (the night; is; T:still; young)
+0.27 (I; wander; in circles; T:while steam blows out of my ears)
+0.86 (steam; blows; out of my ears)
+
+The Plagues begin practicing on tuesday .
+0.88 (The Plagues; begin; practicing on tuesday)
+0.88 Context(The Plagues begin,List([0, 17))):(The Plagues; begin practicing; T:on tuesday)
+
+and we have an offer to play the toledo music fest in 3 months .
+0.57 (we; have; an offer to play the toledo music fest in 3 months)
+
+i'd really like to do it but we'll see on how the progress goes .
+0.45 (we; 'll see; L:on how the progress goes)
+0.73 (the progress; goes; )
+0.26 (i; 'd really like; to do it)
+0.26 Context(i 'd really like,List([0, 15))):(i; 'd really like to do; it)
+
+if we're ready , then hell yea we'll do it  Archer is by far the funniest show on tv right now .
+0.52 (we; 're; ready , then hell yea)
+0.47 (we; hell; yea we'll do it; T:then)
+0.37 (we; 'll do; it)
+0.93 (Archer; is; the funniest show on tv; T:right now)
+
+i just hope it doesn't get cancelled like The Tick did .
+0.53 (it; get; cancelled like The Tick did)
+0.83 (The Tick; did; )
+0.29 (i; just hope; it doesn't get cancelled like The Tick did)
+0.16 Context(i just hope,List([0, 11))):(it; does n't get cancelled; )
+
+HUGE mistake on the network for that one 
+

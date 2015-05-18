@@ -1,0 +1,2189 @@
+Hello , my friends !
+
+I missed you this entire week .
+0.31 (I; missed; you; T:this entire week)
+
+Gosh , it was one very long , never ending car ride .
+0.28 (it; was; one; T:very long)
+0.41 (it; never ending; car ride)
+
+Hope you had very good holidays and are enjoying the rapidly ending break .
+0.68 (you; had; very good holidays)
+0.58 (you; are enjoying; the rapidly ending break)
+
+:) 
+
+Hmmmm ..... I'm thinking man hunt .....
+0.45 (I; 'm thinking; man hunt)
+
+I meant a hunt to find non- stranger-like people on here .
+0.57 (I; meant; a hunt to find non- stranger-like people on here)
+
+So correction to the man hunt : Familiar people hunt !
+
+Though of course , a man hunt itself wouldn't hurt .... :)  Ah !
+0.72 (a man hunt; would n't hurt; Ah)
+
+My computer is even more of a spaz than I am !
+0.56 (My computer; is; even more of a spaz than I am)
+0.24 (I; am; )
+
+Goodness help me !
+0.86 (Goodness; help; me)
+
+It's raining !
+
+Wanna come dance in the fall rain with me ?
+
+Dinner time !
+
+Laters , my random people !
+
+Why do I see him so perfectly when I close my eyes ?
+0.31 (I; close; my eyes)
+
+Why , when I don't think he even sees me clearly ?
+0.26 (I; do n't think; he even sees me clearly)
+0.25 Context(I do n't think,List([11, 24))):(he; even sees clearly; me)
+
+Any advice for me on guys ?
+
+Talk to me , please ?
+
+Anytime .
+
+Thanks .
+
+Night all .
+
+:/ Laters .
+
+Some days I feel like I can run away from everything , all my problems and all the people .
+0.56 (I; feel; like I can run away from everything , all my problems and all the people; T:Some days)
+0.31 (I; can run; away from everything; all my problems and all the people)
+
+Today I feel caught in the jaws of it all , unable to escape , and not really empowered to .
+0.27 (I; caught; in the jaws of it)
+0.38 (I; feel unable; T:Today)
+0.11 Context(I feel unable,List([6, 50))):(I; feel unable to escape; )
+
+What do you do when you feel like you've been dealt the losing hand ?
+0.46 (you; feel; like you've been dealt the losing hand)
+
+Wow .
+
+I may not be the brightest of the bunch , but that doesn't mean I'm stupid .
+0.45 (I; may not be; the brightest of the bunch)
+0.06 (that; does n't mean; I'm stupid)
+0.23 Context(that does n't mean,List([46, 63))):(I; 'm; stupid)
+
+So don't talk to me like I am .
+0.24 (I; am; )
+
+Thanks mom .
+
+Goodnight to all and to all a good night ..... Honestly can't wait for Christmas caroling .... :)  Not looking forward to tomorrow , to seeing him .
+0.95 (Goodnight to all and to all a good night; Honestly ca n't wait; for Christmas caroling)
+
+Not looking back to last night , to seeing them .
+
+Trapped in the now , and dreading every moment of the next coming nearer .
+0.32 (the next; coming; nearer)
+
+I won the battle today , but have I won the war ?
+0.52 (I; won; the battle; T:today)
+
+I ignored him today , and , thanks to Jesus Lucero , he got the message .
+0.31 (I; ignored; him; T:today)
+0.52 (he; got; the message)
+
+But will he even change ?
+
+Will this all even make a difference ?
+
+Guess I'll just have to wait and see , huh ?
+0.17 (I; to wait; )
+0.12 (I; to see; huh)
+
+Today ... eh-ish .
+
+White flag was waved .
+0.73 (White flag; was waved; )
+
+But now ... I always thought I was smart .
+0.34 (I; thought; I was smart; T:now; T:always)
+0.23 Context(I thought,List([12, 28))):(I; was; smart)
+
+I was proud of my mind .
+0.37 (I; was; proud of my mind)
+
+But compared to my friends .... I'm stupidly dimwitted .
+0.28 (I; 'm; stupidly dimwitted)
+
+:/  Mom's home .
+
+:( Gotta go .
+
+Love you all !
+
+Night !
+
+<3  Note to self : Bring notebook and pen EVERYWHERE I GO .
+
+I so wanted to write , my hands were itching to , but as luck has it , no notebook , and my amazing thoughts went whoosh out of my head .
+0.76 (luck; has; it)
+0.67 (no notebook , and my amazing thoughts; went; whoosh; out of my head)
+0.29 (my hands; were itching; )
+0.19 Context(my hands were itching,List([23, 44))):(I; so wanted; to write)
+0.16 Context(I so wanted my hands were itching,List([0, 44))):(I; so wanted to write to write; )
+
+:(  If I'm not any different , why do guys suddenly notice I'm a girl , and are acting on it ?
+0.28 (I; 'm not; any different)
+0.27 (I; are acting; on it)
+
+No one's home yet .
+
+I have to get off .....
+0.17 (I; to get off; )
+
+I hope they get home soon , because I hate going to bed home alone .
+0.45 (I; hate; going to bed home alone)
+0.26 (I; hope; they get home soon; because I hate going to bed home alone)
+0.47 Context(I hope,List([0, 6))):(they; get; home; T:soon; because I hate going to bed home alone)
+
+Does it matter if you make a wish at 11:11 pm or 11:11 am ?
+0.62 (you; make; a wish; T:at 11:11 pm or 11:11 am)
+
+Does it matter that one's made in the purest of light , and the other at the darkest moments before < PROPFEMALE > ?
+
+If so , I'm screwed .
+0.19 (I; 'm screwed; )
+
+Sometimes it's great , sometimes it hurts , sometimes you'll wish it was over , but smile and you'll get through it all .
+0.54 (you; 'll get; through it)
+0.60 (Sometimes it's great; hurts; sometimes you'll wish it was over; T:sometimes)
+0.35 Context(Sometimes it 's great hurts,List([0, 41))):(it; 's; great; T:Sometimes)
+0.61 Context(Sometimes it 's great hurts,List([0, 41))):(you; 'll wish; it was over; T:sometimes)
+0.23 Context(Sometimes it 's great hurts you 'll wish,List([0, 65))):(it; was; over)
+
+:)  So I might be meeting < PROPFIRST > Wednesday after school and , honestly , I'm nervous as hell .
+0.49 (I; might be meeting honestly; T:Wednesday after school)
+0.52 (I; 'm; nervous as hell)
+
+It'll the first time I've seen him since he dumped me .
+0.44 (I; 've seen; him; T:since he dumped me; T:It'll the first time)
+0.31 (he; dumped; me)
+
+But I wanna be friends , so I'll try ....
+0.41 (I; na be; friends)
+0.20 (I; 'll try; )
+0.46 Context(I 'll try,List([28, 36))):(I; wan; na be friends)
+
+I declare a break from guys .
+0.45 (I; declare; a break from guys)
+
+Am I the only one who hates it when guys say they can only see you as a friend , but then flirts with you and teases you and sends you mixed messages ?
+0.45 (the only one; hates; it; T:when guys say they can only see you as a friend , but then flirts with you and teases you and sends you mixed messages)
+0.48 Context(the only one hates,List([5, 27))):(the only one who hates it; teases; you)
+0.55 Context(the only one hates,List([5, 27))):(the only one who hates it; sends; you; mixed messages)
+0.85 (guys; say; they can only see you as a friend , but then flirts with you and teases you and sends you mixed messages)
+0.40 Context(guys say,List([36, 44))):(they; can only see; you; as a friend)
+
+Am I the only one who's lost here ?
+0.36 (the only one; 's lost; L:here)
+
+He still gives me butterflies .
+0.40 (He; gives; me; butterflies; T:still)
+
+Jerk .
+
+If happiness is so close to misery , then how can we tell it apart ?
+0.92 (happiness; is; so close to misery)
+
+Is it the warm , glowing feeling inside , or just instinct , or what ?
+
+Today's been a pretty miserable day , that I know for sure .
+0.24 (I; know; )
+
+I hear an angel singing in my ear , but when I turn and look , he's disappeared .
+0.31 (I; hear; an angel singing in my ear)
+0.24 (I; turn; )
+0.17 (I; look; )
+0.19 (he; 's disappeared; )
+
+I think he knows how he enchants me .
+0.32 (I; think; he knows how he enchants me)
+0.32 Context(I think,List([0, 7))):(he; knows; how he enchants me)
+0.26 Context(I think he knows,List([0, 16))):(he; enchants; me)
+
+That frickin ' playin ' flirt .
+
+Half in , Half out : A scared litle mouse/Does her best not to doubt/But her thoughts cloud/ And in that moment she's trapped .
+0.27 (she; trapped; T:in that moment)
+
+/ Cut in half .
+
+Take me away .
+
+Far off where the skies aren't Deadly Grey .......
+0.92 (the skies; are n't; Deadly Grey)
+
+I hate snow .... Stupid wannabe winter weather in fall .
+0.45 (I; hate; snow)
+
+Sigh .
+
+Boys are dancing in my head like sugarplums in a kid's on Christmas < PROPFEMALE > .
+0.88 (Boys; are dancing; L:in my head; L:in a kid's on Christmas < PROPFEMALE >)
+
+The show usually would be nice and appreciated , if I hadn't sworn them off for a while .
+0.83 (The show; would be; nice and appreciated; T:usually)
+0.35 (I; had n't sworn off; T:for a while)
+
+So unfair .
+
+:(  What's on my mind ?
+
+That's a very broad question .
+0.45 (That; 's; a very broad question)
+
+Let's see , there's my homework that was due yesterday , my grandma's chihuahua , my friends , I gotta go pee , boy drama , NCIS , and Two And A Half Men theme song rampaged through my mind .
+0.66 (my homework; was; due; T:yesterday)
+0.63 (I; got; ta go pee , boy drama , NCIS , and Two And A Half Men theme song)
+0.56 Context(I got,List([95, 100))):(I; got ta go; pee , boy drama , NCIS , and Two And A Half Men theme song)
+
+:) Oh , and I'm hungry .
+0.28 (I; 'm; hungry)
+
+Today was actually pretty good .
+
+So good , I don't mind the dogs ' ruckus , my tight back or the act that all these boys are still confusing me .
+0.42 (I; do n't mind; the dogs ' ruckus , my tight back or the act)
+0.87 (all these boys; are confusing; me; T:still)
+
+I'm gonna relax , kick back , and possibly do some homework if it suits my attention span .
+0.17 (I; na relax; )
+0.25 (I; kick; back)
+
+:) Laters all .
+
+Love the More Than Words .
+
+It's AMAZING !
+0.28 (It; 's; AMAZING)
+
+:)  They say whoever you dream about fell asleep thinking about you .
+0.41 (They; say; whoever you dream about fell asleep thinking about you)
+0.41 Context(They say,List([4, 12))):(you; dream; about fell asleep thinking about you)
+
+If so , that means 3 boys have gone to sleep thinking of me .
+0.81 (3 boys; to sleep; thinking of me)
+0.06 (that; means; 3 boys have gone to sleep thinking of me)
+
+Cute as that sounds , I highly doubt that's true .
+0.04 (that; sounds; )
+0.08 (I; highly doubt; that's true)
+0.05 Context(I highly doubt,List([22, 36))):(that; 's; true)
+
+Oh well .
+
+: /  Done with drama .
+
+Rebeling against pointless things .
+
+I DO NOT WANNA BE TORN APART AND BECOME MY MOTHER !
+0.46 (I; DO NOT BECOME; MY MOTHER)
+
+I have so much to say and so much I can and want to do , but there's so little time and space to say and do it all .
+0.23 (I; have; so much to say)
+0.28 (so much; to say; )
+
+I REFUSE TO SHOVEL !
+0.57 (I; REFUSE; TO SHOVEL)
+
+NO ONE CAN MAKE ME !
+
+NO ONE !
+
+... I suck at it anyways , darn it .
+0.25 (I; suck anyways; L:at it)
+0.18 Context(I suck anyways,List([4, 24))):(I; suck anyways darn; it)
+
+I am an ineffective shoveler .
+0.52 (I; am; an ineffective shoveler)
+
+And it's pointless to shovel while it's still snowing .
+0.22 (it; 's snowing; T:still)
+
+So HA !
+
+My phone's not working .
+0.34 (My phone; 's not working; )
+
+And I don't care .
+0.19 (I; do n't care; )
+
+I'm bored and don't care to talk to many people tonight .
+0.28 (I; 'm; bored)
+0.41 (I; do n't care; to talk to many people tonight)
+
+So oh well .
+
+:) Maybe I broke it .
+
+Funny thing is , I'm not in IB , and I got better results than many IB-ers .
+0.52 (I; got; better results than many IB-ers)
+0.62 (Funny thing; is; I'm not in IB , and I got better results than many IB-ers)
+0.51 Context(Funny thing is,List([0, 14))):(I; 'm not; in IB)
+
+I'm getting my glasses today !
+0.31 (I; 'm getting; my glasses; T:today)
+
+Now all I need is a cape and I'll finally be Super Dork !
+0.34 (all; need; I)
+0.82 (all I need; is; a cape; T:Now)
+0.61 (I; 'll be; Super Dork; T:finally)
+
+:)  The only downfall of laundry is that eventually you'll have to fold it all and find a place for it .
+0.42 (you; to fold; it)
+0.46 (you; to find; a place for it; T:eventually)
+0.81 (The only downfall of laundry; is; that eventually you'll have to fold it all and find a place for it)
+
+Sigh .
+
+Lots of work to do .
+0.75 (Lots of work; to do; )
+
+:(  Smile .
+
+Yawn .... Night my dearies .
+
+My Puerto Rican penguin Paco es muy pequito .
+
+:)  Smile and tell him there's none other , because right now , this moment , babe , there is no other .
+0.31 (:); Smile; because right now , this moment , babe , there is no other)
+
+I am prejudice ..... Against colored tortilla chips .
+0.52 (I; am; prejudice)
+
+I apologize to anyone who takes offense .
+0.45 (I; apologize; to anyone)
+0.88 (anyone; takes; offense)
+
+It is wrong of me .
+0.37 (It; is; wrong of me)
+
+Everyday I'm told atleast once that I smell really good .
+0.18 (I; 'm told; T:atleast once that I smell really good)
+0.28 (I; smell; really good)
+
+Awkward and completely random , but the compliment is apprciated .....
+0.73 (the compliment; is apprciated; )
+
+You goofy choir dorks .
+0.62 (You; goofy; choir dorks)
+
+:)  I am shamed .
+0.28 (I; am; shamed)
+0.17 (I; shamed; )
+
+My older , less Ninja sister read a most Ninja-like book , before me .
+0.76 (My older , less Ninja sister; read; a most Ninja-like book)
+
+This is sad .
+0.22 (This; is; sad)
+
+I am shaking my own head at myself .
+0.31 (I; am shaking; my own head)
+
+Lalalalalalalalalalala .... :)  Thinking of maybe ..... running for vice president of drama next year ....  Jinx you all , just because .
+0.95 (Lalalalalalalalalalala; Thinking; of maybe ..... running for vice president of drama next year ....  Jinx)
+
+:P  You know what sounds good ?
+0.37 (You; know; what sounds good)
+
+Snickerdoodle cookies dunked in hot cocoa .
+0.90 (Snickerdoodle cookies; dunked; L:in hot cocoa)
+
+:) Ya .....
+
+That sounds yummy .
+0.18 (That; sounds; yummy)
+
+I stalked a creeper < PROPFIRST > today .
+0.37 (I; stalked PROPFIRST; T:today)
+
+I feel accomplished .
+0.23 (I; feel; accomplished)
+
+Choir seniors : I'm sorry , but I realized to late that I didn't finish the total math .
+0.28 (I; 'm; sorry)
+0.10 (I; realized; that I didn't finish the total math)
+0.40 Context(I realized,List([32, 42))):(I; did n't finish; the total math)
+
+I'm sorry .
+0.28 (I; 'm; sorry)
+
+I feel selfish about it .
+0.31 (I; feel; selfish about it)
+
+Kiss my booboo and make it better ?
+
+:(  I lit a candle and absent-mindedly started burning my mechanicle pencil in the flame .....
+0.52 (I; lit; a candle)
+0.23 (I; mindedly started; burning my mechanicle pencil in the flame)
+0.23 Context(I mindedly started,List([4, 46))):(I; mindedly started burning; my mechanicle pencil; L:in the flame)
+
+It smells weird but it was very fascinating .
+0.28 (It; smells; weird)
+0.28 (it; was; very fascinating)
+
+What can I say ?
+
+I'm a pyro .
+0.52 (I; 'm; a pyro)
+
+:)  Hahaha ....
+
+This book is so stupid it's funny .
+0.87 (This book; is; so stupid it's funny)
+0.28 (it; 's; funny)
+
+It's a Twilight parody called Nightlight .
+0.57 (It; 's; a Twilight parody)
+0.94 (a Twilight parody; called; Nightlight)
+
+It's pointless and poorly editted , but funny .
+0.28 (It; 's; pointless and poorly editted)
+
+Delayed --- Black and white .
+
+If you could choose good or bad , angel or devil , right or fun , which would you choose ?
+0.72 (you; could choose; good or bad , angel or devil , right or fun)
+
+I'm glad such an emotional day ended with a beautiful and magnificent sunset .
+0.64 (I; 'm; glad such an emotional day ended with a beautiful and magnificent sunset)
+0.92 (such an emotional day; ended; with a beautiful and magnificent sunset)
+
+The tears were worth this calm I have .
+0.90 (The tears; were; worth this calm)
+0.88 (this calm; have; I)
+
+Thank you , everyone .
+
+:)  I'm ..... Done .
+0.52 (I; 'm; Done)
+
+Gonna go curl up in a ball somewhere til family gets here , then I'll put on a happy face for them as per usual .
+0.86 (Gon; na go; curl up in a ball)
+0.83 (Gon; curl up; L:in a ball)
+0.38 (I; 'll put on; a happy face; for them; as per usual; T:then)
+0.79 Context(I 'll put on,List([65, 76))):(somewhere til family; gets; here)
+
+Shoot me with a popscicle .
+
+Anyone .
+
+Dude , it's suddenly like College spam in my email .
+0.28 (it; 's; suddenly)
+
+I've got 22 emails from different colleges .
+0.45 (I; 've got; 22 emails from different colleges)
+
+What the french toast ?
+
+Hopefully some day soon my phone will die it's final , and possibly very painful , death by my hands .....  Lalalalala .... Yawn ....  What's on my mind right now needs to get off my mind pronto .
+0.67 (my phone; will die; T:Hopefully some day soon)
+0.23 Context(my phone will die,List([24, 41))):(it; 's; final)
+
+I would appreciate help getting them out .
+0.31 (I; would appreciate; help getting them out)
+
+I think it's about time for me to disappear in a book for good .
+0.45 (me; to disappear; L:in a book for good)
+0.32 (I; think; it's about time)
+0.47 Context(I think,List([0, 7))):(it; 's; about time)
+
+Atleast those characters don't hurt me as much .
+0.83 (those characters; do n't hurt; me; as much)
+
+I'm not a happy camper ... But I'm doing my best to get on and move along .
+0.52 (I; 'm not; a happy camper)
+0.31 (I; 'm doing; my best; to get on and move along)
+0.20 (I; to get; on)
+0.14 (I; to move; along)
+
+Why do things have to be so awkward now ?
+0.20 (things; to be; so awkward; T:now)
+
+Why can't they go back to how they were a week or so ago ?
+0.62 (they; were; T:a week or so ago)
+
+Why does he always lose interest in me ?
+
+Aren't I good enough ... pretty enough ... Funny enough ?
+
+Then why ?
+
+Gonna put him and everything out of my mind and try to have a good time with the family .
+0.76 (Gon; na put; him)
+0.84 (Gon; try; to have a good time with the family)
+0.80 Context(Gon try,List([0, 51))):(Gon; try to have; a good time)
+
+It's either that or mope .
+0.29 (It; 's; either that or mope)
+
+And I'm DONE MOPING .
+0.57 (I; 'm; DONE MOPING)
+
+Tinea's birthday theme is now .... BYOP .
+0.96 (Tinea's birthday theme; is; T:now; BYOP)
+
+If you want to know .... Ask .
+0.37 (you; want; to know)
+0.27 Context(you want,List([3, 11))):(you; want to know to know; )
+
+But only if you're absolutely sure you want to know .... There's a story or two behind it .
+0.54 (you; 're; absolutely sure you want to know)
+0.37 (you; want; to know)
+0.27 Context(you want,List([35, 43))):(you; want to know to know; )
+
+9 months and counting .... Now , let's see how far we can count ....  Lalalalalalalalala ..... Had no courage to talk to my dad .... but I will soon ....
+0.87 (Lalalalalalalalala; Had; no courage to talk to my dad)
+
+I hope .
+0.19 (I; hope; )
+
+I have things I need to say .... but I don't know how to say them .... Talk to me if you think you can help ?
+0.31 (I; have; things I need to say)
+0.48 (you; think; you can help)
+0.27 Context(you think,List([85, 94))):(you; can help; )
+0.19 (I; need; to say)
+0.31 Context(I need,List([14, 20))):(things; to say; I)
+0.31 (I; do n't know; how to say them)
+
+Today was iffy , but good considering .
+0.80 (Today; was; iffy)
+
+A year today since I had to put my dog down .... RIP < PROPFEMALE > < PROPFIRST > .
+0.27 (I; to put; my dog; down)
+
+<3  Hael- Angel of Kindness , Beauty , < PROPMALE > .
+
+Israfel- Angel of Song , Music , New Hope .
+
+Shekinah -- Angel of Unconditional Love and Unity .
+
+I'm gonna kill whoever got me sick !
+0.23 (I; na kill; whoever got me sick)
+
+Run , I'm coming for you sickies .
+0.31 (I; 'm coming; for you sickies)
+
+Spring !
+
+My gosh , I've missed you .
+0.31 (I; 've missed; you)
+
+I'll see you this friday .
+0.31 (I; 'll see; you; T:this friday)
+
+We shall set a date , my long lost Spring .
+0.35 (We; shall set; a date; my long lost Spring)
+
+I miss the days when we weren't as scared and could love with everything we had because it never crossed our minds that someone might take advantage of that trust .
+0.26 (I; miss; the days when we weren't as scared and could love with everything; because it never crossed our minds that someone might take advantage of that trust)
+0.23 (we; were n't; as scared)
+0.17 (we; could love; )
+0.90 (everything; had; we)
+0.11 (it; never crossed; our minds; that someone might take advantage of that trust)
+0.70 Context(it never crossed,List([88, 104))):(someone; might take; advantage; of that trust)
+
+Sigh , I learn too fast how that trust can be used .
+0.19 (I; learn too fast; how that trust can be used)
+0.68 Context(I learn too fast,List([7, 23))):(that trust; can be used; )
+
+Can't I be young and innocent again ?
+
+The quiet scares me because it screams the truth .
+0.42 (The quiet; scares; me; because it screams the truth)
+0.45 (it; screams; the truth)
+
+Where's my childhood hero ?
+
+Where's the man who saved me from my own subconscious mind ?
+0.81 (the man; saved; me; from my own subconscious mind)
+
+Where's my daddy ?
+
+I can't find him anymore .
+0.31 (I; ca n't find; him; T:anymore)
+
+So much for spring break .... :P Bundling up from the snow is not my idea of spring .
+0.95 (So much for spring break .... :P Bundling up from the snow; is not; my idea of spring)
+
+Grr , < PROPFEMALE > Gray , dear sister of mine , you jynxed my break .
+0.46 (you; jynxed; my break)
+0.39 (< PROPFEMALE > Gray; [is] dear sister of; mine)
+
+Grrr .
+
+Ever feel like < PROPFEMALE > ?
+
+Like you've been invited to the ball but have nothing to wear and no way to get there ?
+0.62 (you; 've been invited; to the ball)
+0.58 (you; have; nothing to wear and no way)
+0.71 (nothing; to wear; )
+
+I haven't seen him in a month .
+0.31 (I; have n't seen; him; T:in a month)
+
+And today made me miss him even more ...  Nothing has seemed to change .... Did dad actually take my words to heart or is he just putting them at the back of his mind thinking I'm just like every other over sensitive teenager ?
+0.68 (Nothing; to change; )
+0.66 (Nothing; has seemed; )
+
+I'm cleaning my room , going through these random , magically appearing papers wondering ... \Was I supposed to turn this in ....? \""  On the plus side , I got a much needed haircut .
+0.26 (I; 'm cleaning; my room)
+0.61 Context(I 'm cleaning,List([0, 12))):(I; got; a much needed haircut; L:On the plus side)
+0.20 (I; to turn; this; L:in)
+0.24 (I; wondering; \Was I supposed to turn this in)
+0.23 (I; supposed; to turn this in)
+
+But on the negative side , I got news I just do not want .
+0.51 (I; got; news I just do not want; L:on the negative side)
+0.78 (news; just do not want; I)
+
+Sigh .
+
+Yin and < PROPFEMALE > .
+
+Always in action .
+
+Note to self : Make a get away plan that does not begin with \Call up __ friend for a favor and a ride .
+0.66 (plan; does not begin up; with \Call)
+
+\""  Let it be .
+
+Peace .
+
+Love .
+
+Dream .
+
+Hey !
+
+In need of help !
+
+If you can , to help raise money to go to Australia this summer , we are taking over the Outback Steakhouse on April 11th and May 22nd .
+0.50 (we; are taking over; the Outback Steakhouse; T:on April 11th)
+
+We sell tickets for $15 and get half of each ticket sold .
+0.52 (We; sell; tickets for $15)
+0.48 (We; get; half of each ticket)
+0.78 (each ticket; sold; )
+
+The ticket gets a meal of 4 oz .
+0.93 (The ticket; gets; a meal of 4 oz)
+
+steak , 4 oz .
+
+chicken , chop salad , mashed potatoes and a drink .
+
+No bread .
+
+Contact me please !
+
+Boys just don't understand , do they ?
+0.71 (Boys; just do n't understand; )
+
+Why do they lie about their feelings when it's only going to end badly either way ?
+0.17 (it; to end badly; )
+
+Why do they cheat ?
+
+Why do they hurt ?
+
+Maybe Jesus is right .
+
+Maybe there is no such thing as young love .
+0.50 (there; is no such thing as; young love)
+
+Girls should start listening to their gut instincts .
+0.65 (Girls; should start; listening to their gut instincts)
+0.65 Context(Girls should start,List([0, 18))):(Girls; should start listening; to their gut instincts)
+
+I had that feeling he was cheating and that it would end soon .
+0.26 (I; had; that feeling he was cheating and that it would end soon)
+0.19 (he; was cheating; )
+0.23 (it; would end; T:soon)
+
+And Voila !
+
+Magic , ain't it ?
+
+You were my sunshine , my only sunshine .
+0.46 (You; were; my sunshine)
+
+You made me happy when skies were grey .
+0.46 (You; made; me happy; T:when skies were grey)
+0.89 (skies; were; grey)
+
+You'll never know how much I loved you .
+0.40 (You; 'll never know; how much I loved you)
+0.26 Context(You 'll never know,List([0, 17))):(I; loved; you)
+
+Why'd you take my sunshine away ?
+
+:P Hope you are happy with her .
+0.46 (you; are; happy with her)
+
+I'll light up my own skies now .
+0.31 (I; 'll light up; my own skies; T:now)
+
+Too bad for you .
+
+I'm not beaten .
+0.19 (I; 'm not beaten; )
+
+Beaten is being left without any hope .
+0.77 (Beaten; is being left; )
+
+I have hope ; it's all I have .
+0.34 (all; have; I)
+0.32 (it; 's; all I have)
+0.40 Context(it 's,List([14, 18))):(I; have; hope)
+
+I'll nver be without it .
+0.31 (I; 'll nver be; without it)
+
+I won't give up .
+0.19 (I; wo n't give up; )
+
+I no longer have chains , but can I break free of my own bonds ?
+0.55 (I; have; chains; T:no longer)
+
+Something is not good with my back .
+0.82 (Something; is not; good with my back)
+
+:(  Roses are red , tears are clear .
+0.70 (tears; are; clear)
+0.78 Context(tears are,List([20, 29))):(:(  Roses; are; red)
+
+My heart's so full that I don't want you here .
+0.31 (I; do n't want; you; L:here)
+
+Made about $135 today !
+
+Australia , I promise I'm coming .
+0.26 (I; promise; I'm coming)
+0.16 Context(I promise,List([12, 21))):(I; 'm coming; )
+
+I'll get there somehow .
+0.22 (I; 'll get somehow; there)
+
+Music speaks when even the most simple words evade me ....
+0.86 (Music; speaks; T:when even the most simple words evade me)
+0.87 (even the most simple words; evade; me)
+
+I guess you could say I'm in love .....
+0.26 (I; guess; you could say I'm in love)
+0.40 Context(I guess,List([0, 7))):(you; could say; I'm in love)
+0.46 Context(I guess you could say,List([0, 21))):(I; 'm; in love)
+
+With music .
+
+:) <3  I still wonder what was on his mind when he lied to me and asked to be with me while still with another girl , and still holding my friend's heart .
+0.45 (I; wonder; what was on his mind when he lied to me and asked to be with me while still with another girl , and still holding my friend's heart; T:still)
+0.31 (he; lied; to me)
+0.38 (he; asked; to be with me while still with another girl , and still holding my friend's heart)
+0.27 (he; to be; with me)
+
+What was he thinking , other than about his over active hormones ?
+
+Maybe I could make a difference .... Being a Peace Maker .
+
+<3  People these days .
+
+No one ever comes up to your face to apologize after they hit you in your back hard with a basketball .
+0.92 (No one; comes; to apologize after they hit you in your back hard with a basketball; T:ever)
+0.65 (they; hit back hard; with a basketball; L:in)
+
+Gosh .
+
+Wanna watch the lightning strike , fire in our eyes ?
+0.76 (Wan; na watch; the lightning strike , fire in our eyes)
+
+:)  I want to discover a whole new world with Y.O.U.
+0.51 (I; want; to discover a whole new world with Y.O.U.)
+0.44 Context(I want,List([4, 10))):(I; want to discover; a whole new world; with Y.O.U.)
+
+<3  A back and shoulder rub is the true way to get inside a woman's heart , boys .
+0.96 (A back and shoulder rub; is; the true way to get inside a woman's heart , boys)
+
+:)  Last night was amazing .
+0.81 (Last night; was; amazing)
+
+I do and I don't want next week to come .
+0.24 (I; do; )
+0.39 (I; do n't want; next week to come)
+0.68 Context(I do n't want,List([9, 21))):(next week; to come; )
+
+I want this to last forever , but I want to celebrate its awesomeness with everyone .
+0.24 (I; want; this to last forever)
+0.15 Context(I want,List([0, 6))):(this; to last; forever)
+0.32 (I; want; to celebrate its awesomeness with everyone)
+0.26 Context(I want,List([34, 40))):(I; want to celebrate; its awesomeness)
+
+I love choir and everyone in it .
+0.31 (I; love; choir and everyone in it)
+
+I hope we do the seniors justice next week .....
+0.26 (I; hope; we do the seniors justice next week)
+0.47 Context(I hope,List([0, 6))):(we; do; the seniors justice; T:next week)
+
+And I hope the costumes don't reak too bad .
+0.39 (I; hope; the costumes don't reak too bad)
+0.68 Context(I hope,List([4, 10))):(the costumes; do n't reak too bad; )
+
+:) <3  Oh my gosh .
+
+I don't know if I want to cry or jump around screaming ..... My dad paid for my trip to Australia .
+0.54 (My dad; paid; for my trip to Australia)
+0.26 (I; do n't know; if I want to cry or jump around)
+0.23 Context(I do n't know,List([0, 12))):(I; want; to cry or jump around)
+0.16 Context(I do n't know I want,List([0, 22))):(I; want to cry; )
+0.13 Context(I do n't know I want,List([0, 22))):(I; want to jump; around)
+0.11 Context(I do n't know I want to jump,List([0, 37))):(I; want to jump screaming; )
+
+Over $ 7,000 .
+
+He won't tell me how .
+0.31 (He; wo n't tell; me; how)
+
+But he still has his truck .... I'm in shock .
+0.47 (I; 'm; in shock)
+0.42 Context(I 'm,List([32, 35))):(he; has; his truck; T:still)
+
+Speak with your tongue tied .
+0.34 (your tongue; tied; )
+
+I know that you're tired , but I know that you're tired .
+0.15 (I; know; that you're tired)
+0.37 Context(I know,List([0, 6))):(you; 're; tired)
+0.15 (I; know; that you're tired)
+0.37 Context(I know,List([31, 37))):(you; 're; tired)
+
+I just want to know , where you want to go .
+0.26 (I; just want; to know , where you want to go)
+0.22 Context(I just want,List([0, 11))):(I; just want to know; where you want to go)
+0.37 Context(I just want to know,List([0, 19))):(you; want; to go)
+0.27 Context(I just want to know you want,List([0, 36))):(you; want to go to go; )
+
+I may be sad but I'm not weak .
+0.23 (I; may be; sad)
+0.28 (I; 'm not; weak)
+
+The situation is bleak .
+0.81 (The situation; is; bleak)
+
+And your puffy eyes never lie , the tears come from inside .
+0.31 (your puffy eyes; never lie; )
+0.72 Context(your puffy eyes never lie,List([4, 29))):(the tears; come; from inside)
+
+People of Facebook !
+
+May 16th , if you aren't busy , you will be .
+0.36 (you; are n't; busy)
+0.74 (you; will be; T:May 16th)
+
+I am having a car wash and breakfast at the Elk's Lodge on < PROPFEMALE > .
+0.61 (I; am having; a car wash and breakfast at the Elk's Lodge on < PROPFEMALE >)
+
+I could use the help washing and serving breakfast .
+0.39 (I; could use; the help washing and serving breakfast)
+0.29 Context(I could use,List([0, 11))):(I; could use serving; breakfast)
+
+Or , if you can't do that , I can use your help eating and bringing in dirty cars .
+0.17 (you; ca n't do; that)
+0.31 (I; can use; your help eating and bringing in dirty cars)
+0.34 (your help; eating; )
+
+:) $5 for the wash and $5 for the food .
+
+:) Help is appreciated !
+0.63 (Help; is appreciated; )
+
+-- Love Terhesa .
+
+Hey you , on Facebook !
+
+Get off and live life !
+
+Yes you , with the face and the typing fingers .
+
+YOU .
+
+There must be something better to spend your time on .
+
+C'mon! :)  Text me , people of Facebook and you won't get a response .
+0.62 (you; wo n't get; a response)
+
+:) I think my phone is no longer living .
+0.32 (I; think; my phone is no longer living)
+0.33 Context(I think,List([3, 10))):(my phone; is living; T:no longer)
+
+So don't bother .
+
+Sorry if you needed to reach me , but there's nothing I can do but enjoy the peace .
+0.87 (nothing; can do; I)
+0.41 (I; enjoy; the peace)
+0.41 (you; needed; to reach me)
+0.41 Context(you needed,List([9, 19))):(you; needed to reach; me)
+
+:) Maybe you should do the same , persons .
+
+Love you all !
+
+<3  What's on my mind , you ask ..... Hmmmm ..... Love .
+0.68 (you; ask; Hmmmm)
+
+:)  Dude !
+
+I'm drinking Peace Tea from a Hippie Can !
+0.50 (I; 'm drinking; Peace Tea; from a Hippie Can)
+
+This is so freaking awesome !
+0.12 (This; is freaking; awesome)
+
+I have no way to get away from my family tonight , and I desperately need one .
+0.31 (I; have; no way to get away from my family tonight)
+0.23 (I; desperately need; one)
+
+:(  I do not like the Best Friends Quiz crap .
+0.45 (I; do not like; the Best Friends)
+
+I don't .
+0.24 (I; do n't; )
+
+I want to know who thinks I'm a bad friend because I'm sorry if I was to you .
+0.37 (I; was; to you)
+0.28 (I; 'm; sorry)
+0.32 (I; want; to know who thinks I'm a bad friend)
+0.26 Context(I want,List([0, 6))):(I; want to know; who thinks I'm a bad friend)
+
+But ouch .
+
+Can you truly love someone else without loving yourself ?
+
+Why is it that everytime I hurt someone emotionally , I always end up feeling worse than the person I hurt ?
+0.41 (I; feeling; worse than the person)
+0.91 (the person; hurt; I)
+0.49 (I; end up; feeling worse than the person; T:always)
+
+I don't want to deal with drama .
+0.39 (I; do n't want; to deal with drama)
+0.39 Context(I do n't want,List([0, 12))):(I; do n't want to deal; with drama)
+
+Family , friend , or otherwise .
+
+I have enough of my own for once .
+0.31 (I; have; enough of my own; T:for once)
+
+Thank you very much .
+
+I'm finally waking up , a twist in my story .
+0.30 (I; 'm waking up; a twist in my story; T:finally)
+
+It's time I open up , and let your love right through me .
+0.37 (It; 's; time I open up)
+0.55 (I; open up; T:time)
+
+I'm finally waking up , a twist in my story .
+0.30 (I; 'm waking up; a twist in my story; T:finally)
+
+It's time I open up , and let your love right through me ... That's what you get .
+0.55 (I; open up; T:time)
+0.26 (That; 's; what you get)
+0.32 Context(That 's,List([61, 67))):(It; 's; time I open up)
+0.33 Context(That 's,List([61, 67))):(you; get; )
+
+When you see your life in someone else's eyes .
+0.46 (you; see; your life in someone else's eyes)
+
+That's what you get , that's what you get .....  * Quietly raises hand * Distraction needed .
+0.91 (That's what you get , that's what you get .....  * Quietly raises hand; needed; Distraction)
+
+A human head remains conscious for about 15 to 20 seconds after it is been decapitated .
+0.85 (A human head; remains; conscious; T:for about 15 to 20 seconds; T:after it is been decapitated)
+0.19 (it; is been decapitated; )
+
+Seniors : I love you .
+0.31 (I; love; you)
+
+I hope to make you proud .
+0.26 (I; hope; to make you proud)
+0.26 Context(I hope,List([0, 6))):(I; hope to make; you proud)
+
+Juniors : I have faith in you when you take over .
+0.31 (I; have; faith in you; T:when you take over)
+0.32 (you; take over; )
+
+We'll be there to help you every step of the way .
+0.37 (We; 'll be; there; to help you every step of the way)
+0.27 (We; to help; you)
+
+Sophomores : We can step up and help keep the legend alive .
+0.19 (We; can step up; )
+0.42 (We; help; keep the legend alive)
+0.35 Context(We help,List([13, 36))):(We; help keep; the legend)
+
+We can be the strong juniors of last year and eventually the amazing seniors of this and hopefully next year .
+0.57 (We; can be; the strong juniors of last year and eventually the amazing seniors of this; T:hopefully next year)
+
+Hey !
+
+Sunday on < PROPFEMALE > at 8/9 am is a car wash and breakfast .
+
+So that means YOU ( Ya , I'm pointing my finger at You ) can come and have fun with me while working to raise money for my trip .
+0.04 (that; means; )
+0.30 Context(that means,List([3, 13))):(I; 'm pointing; my finger; at You)
+0.24 Context(that means,List([3, 13))):(YOU; can come; )
+0.42 (YOU; have; fun; T:while working to raise money for my trip)
+
+:) $5 for wash , $5 for food , and a lot of fun .
+
+Need people to help me wash and serve .
+0.17 (me; serve; )
+
+Please help !
+
+720 249 9701 .
+
+I love dancing in the rain .
+0.45 (I; love dancing; L:in the rain)
+
+:) The only sad part is when you start to dry , you get cold very quickly .
+0.91 (The only sad part; is; when you start to dry , you get cold very quickly)
+0.40 Context(The only sad part is,List([3, 23))):(you; get very quickly; T:when you start to dry)
+0.37 (you; start; to dry)
+0.27 Context(you start,List([29, 38))):(you; start to dry to dry; )
+
+:( Oh well , it was fun and pretty .
+0.28 (it; was; fun and pretty)
+
+I am not a fiesty midget !
+0.45 (I; am not; a fiesty midget)
+
+Hiss hiss GRR !
+
+Ptearadactle noise !
+
+For those who don't know , or need a little reminder : SUNBURNS HURT !
+0.07 (those; do n't know; )
+0.21 (those; need; a little reminder)
+
+Stupid straight boys .
+
+Well .
+
+Rawr .
+
+I'm such a child still .
+0.52 (I; 'm; such a child; T:still)
+
+:) My day was made better by < PROPMALE > and a few words from an amazing person .
+
+:) So he can keep ignoring me when I try to make things better .
+0.26 (he; can keep; ignoring me when I try to make things better)
+0.26 Context(he can keep,List([6, 17))):(he; can keep ignoring; me; T:when I try to make things better)
+0.46 (I; try; to make things better)
+0.39 Context(I try,List([35, 40))):(I; try to make; things better)
+
+I've tried , I'll wait for him now .
+0.26 (I; 'll wait; for him; T:now)
+0.16 Context(I 'll wait,List([13, 22))):(I; 've tried; )
+
+He can't keep me down .
+0.30 (He; ca n't keep down; me)
+
+OUTBACK STEAKHOUSE ON 120TH .
+
+COME SATURDAY TO SUPPORT ME PLEASE !
+
+$15 DOLLARS FOR FOOD FROM 11:30 TO 12:30 .
+
+I'D APPRECIATE IT .
+0.57 (I; 'D; APPRECIATE IT)
+
+WE NEED TO BRING IN ATLEAST 100 PEOPLE THIS TIME AS A WHOLE .
+
+(( I'll smuggle koalas and emus in for you .
+0.31 (I; 'll smuggle; koalas and emus; for you)
+
+))  What's on my mind ?
+
+Topics not meant to be displayed on a public website .
+
+Internet keeps coming off and on .
+0.75 (Internet; keeps; coming off)
+0.68 (Internet; coming off; )
+
+Might or might not be able to finish my final that's due tomorrow .
+
+Why is my heart beating fast , why is my tummy filled with little fluttering wings ?
+
+I thought I was the girl who you'd be able to call on and depend on her heart never breaking because of you .
+0.26 (I; thought; I was the girl)
+0.47 Context(I thought,List([0, 9))):(I; was; the girl)
+0.60 Context(I thought,List([0, 9))):(you; 'd be; able to call on and depend on her heart never breaking because of you)
+0.49 (her heart; never breaking; because of you)
+0.28 (you; to call on; )
+0.21 (you; to depend; )
+
+Now , who knows ?
+
+Heaven help the fool who breaks my heart .
+0.89 (Heaven; help; the fool who breaks my heart)
+0.81 (the fool; breaks; my heart)
+
+( Again .
+
+)  This heart of stone will sing til it dies , if you leave me tonight .
+0.86 (This heart of stone; will sing; til it dies)
+0.19 (it; dies; )
+0.46 (you; leave; me; T:tonight)
+
+-- Secondhand Serenade's Stay Close , Don't Go .
+
+Less than a month before I leave to visit Australia .
+
+I'm so excited and nervous .
+0.28 (I; 'm; so excited and nervous)
+
+A new culture I'm dying to experience and a < PROPMALE > to get away from people and things that bring me down .
+0.23 (I; 'm dying; to experience)
+0.72 (A new culture; to experience; )
+0.64 (a < PROPMALE; to get away; )
+0.54 (people and things; bring; me; down)
+
+:)  For once , I'm ready and willing to face my family .
+0.37 (I; 'm; ready and willing to face my family)
+0.27 (I; to face; my family)
+
+:) Bring ' em on !
+
+It takes me 10 minutes to bike from my house to lessons .
+
+:) It feels a little anticlimactic considering it took over an hour to bike to the school last year for lessons .
+
+There was a huge spider on my wall crawling around and it was crawling towards me .
+0.31 (it; was crawling; towards me)
+0.89 (There; was a huge spider on; my wall)
+
+I tried to kill it and I missed I think , but now I don't know where it went and I'm freaked out !
+0.26 (I; tried; to kill it)
+0.26 Context(I tried,List([0, 7))):(I; tried to kill; it)
+0.28 (I; 'm; freaked out)
+0.19 (I; missed; )
+0.24 (I; think; )
+0.38 (I; do n't know; where it went; T:now)
+0.20 Context(I do n't know,List([50, 62))):(it; went; )
+
+It's gonna come back for revenge and kill me and I hate spiders !
+0.41 (It; na come; back; for revenge)
+0.33 (It; kill; me)
+0.45 (I; hate; spiders)
+
+:( :( :(  \The hearts that love are always young .
+0.70 (\The hearts; love; )
+0.80 (\The hearts that love; are; T:always; young)
+
+\""  Peace , Love , Smilie Faces .
+
+:)  Ran with some beastly boys .... Til one started running circles around me .
+0.87 (:)  Ran with some beastly boys; started; running circles around me)
+0.87 Context(:) Ran with some beastly boys started,List([0, 51))):(:)  Ran with some beastly boys; started running; circles; around me)
+
+Thanks SO much , < PROPFIRST > Rodriguez !
+
+:P  Running ( Or trying to , anyways ) for 40 minutes , then riding my bike , then swimming and walking for the rest of the day sure is killer on the legs .... XP  XOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOX OXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXO XOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOX OXOXOXOXOXOXOXO ...... Hugs and Kisses for Everyone !
+0.76 (:P; Running anyways; T:for 40 minutes)
+0.86 (then riding my bike , then swimming and walking for the rest of the day; sure is; killer on the legs)
+0.64 (:P; trying; to)
+
+<3  Hey , Guess what ?
+
+XP  Suffering from a headache and a stomachache , plus a sore jaw .
+0.86 (XP; Suffering; from a headache)
+
+Possibly guilt-induced ?
+
+I feel like absolute crap .
+0.45 (I; feel; like absolute crap)
+
+:(  I'm feeling better .
+0.23 (I; 'm feeling; better)
+
+:) Talking to an old friend , and possibly a new one too .
+0.50 (:); Talking; to an old friend , and possibly a new one too)
+
+<3 MJ .
+
+Wow , have I missed you .
+
+Can't wait to run with the boys tomorrow morning .
+
+:) Then off to the mall with Kenzie , my love .
+
+:)  Countdown has begun ...... Tomorrow will be 14 days til take off !
+0.87 (Tomorrow; will be; 14 days)
+0.72 Context(Tomorrow will be,List([31, 47))):(Countdown; has begun; )
+
+XP  Anyone who wants anything from Australia , bring me something ribbon-y to tie to the handle of my suitcase .
+0.70 (something ribbon; to tie; )
+0.86 (XP  Anyone; bring; me; something ribbon)
+0.89 Context(XP Anyone bring,List([0, 52))):(XP  Anyone; bring me wants; anything)
+
+I'll write your name on it and tie it around your gift so I know who to buy for and what to give to who .
+0.31 (I; 'll write; your name; L:on it)
+0.38 (I; tie; it; around your gift; so I know who to buy for and what to give to who)
+0.17 (I; to give; )
+0.24 (I; know; who to buy for)
+0.16 Context(I know,List([58, 64))):(I; know who to buy for to buy; )
+
+I'll try to buy something for everyone who wants something , but keep in mind , I have very limmitted funds .
+0.90 (everyone; wants; something)
+0.41 (I; keep; in mind)
+0.39 (I; have; very limmitted funds)
+0.46 Context(I have,List([80, 86))):(I; 'll try; to buy something for everyone)
+0.39 Context(I 'll try I have,List([0, 86))):(I; 'll try to buy; something for everyone)
+
+<3 Terhesa .
+
+Guess what ? 12 more days !
+
+Bring me my ribbons , people !
+
+I want to get everyone I afford a present !
+0.45 (I; afford; a present)
+0.47 (I; want; to get everyone)
+0.26 Context(I want,List([0, 6))):(I; want to get; everyone I afford a present)
+
+But I draw the line at smuggling boys and/or animals over .
+0.64 (I; draw; the line at smuggling boys and/or animals over)
+
+Headaches , nose bleeds and shaking hands .
+
+Not a good mix at all .
+
+11 days to go and counting .
+0.73 (11 days; to go; )
+
+\Somebody help me through this nightmare !
+0.86 (\Somebody; help; me)
+
+Somebody help me tame this animal I have become ....... It's not the real me .
+0.23 (It; 's not; the real)
+0.72 Context(It 's not,List([56, 64))):(Somebody; help; tame)
+0.16 Context(Somebody help It 's not,List([0, 64))):(I; have become; )
+
+\ " Three Days Grace "  \Let's start a Riot !
+0.96 (Three Days Grace "  \Let's; start; a Riot)
+
+\""  So .... I'm supposed to be cleaning my room , and I'm supposed to somehow keep it clean for 10 more days .....
+0.31 (I; 'm supposed; to be cleaning my room)
+0.27 (I; to be cleaning; my room)
+0.31 (I; 'm supposed; to somehow keep it clean for 10 more days)
+0.27 (I; to somehow keep; it; T:for 10 more days)
+
+I decide it is not possible , and therefore I am claiming to clean it ..... later .
+0.26 (I; decide; it is not possible)
+0.19 Context(I decide,List([0, 8))):(it; is not; possible)
+
+I am the biggest and stupidest perfectionist in the world .
+0.52 (I; am; the biggest and stupidest perfectionist in the world)
+0.89 (I; am the biggest and stupidest perfectionist in; the world)
+
+I hate it .
+0.31 (I; hate; it)
+
+My lesson today sucked .
+0.36 (My lesson today; sucked; )
+
+5 more days before I leave .
+0.19 (I; leave; )
+
+I'm packing and cleaning today .
+0.41 (I; 'm packing; T:today)
+0.17 (I; cleaning; )
+
+For real this time .
+
+:/  Luggage is packed .
+0.77 (Luggage; is packed; )
+
+:) Don't know how heavy it is though .
+
+Might have to REpack it .
+
+:(  \The opposite of war isn't peace .
+0.94 (\The opposite of war; is n't; peace)
+
+It's creation !
+0.52 (It; 's; creation)
+
+La Vie Boheme !
+
+\""  Didn't < PROPFEMALE > out with < PROPFIRST > today .
+0.73 (\; Did n't PROPFEMALE out PROPFIRST; T:today)
+
+:/ But that meant I got to go < PROPFEMALE > with < PROPFIRST > .
+0.04 (that; meant; )
+0.57 (I; got; to go < PROPFEMALE > with < PROPFIRST >)
+
+:) I have a doctor's appointment tomorrow at 4 .
+0.45 (I; have; a doctor's appointment; T:tomorrow; T:at 4)
+
+Very scared .
+
+Only about three days left now .
+0.84 (Only about three days; left; T:now)
+
+I leave Monday !
+0.50 (I; leave; T:Monday)
+
+My luggage is one pound too heavy , I still have to get an alarm clock and a scrap book , and pack my < PROPFEMALE > on !
+0.41 (I; to get; an alarm clock and a scrap book)
+0.38 (I; pack; my < PROPFEMALE; on)
+
+There is so little time to do everything !
+
+* Hyperventilating *  By this time Monday , I'll be in Los < PROPFEMALE > , waiting for my flight to < PROPFIRST > .
+0.56 (I; 'll be; in Los < PROPFEMALE; waiting for my flight to < PROPFIRST >; T:By this time)
+0.31 (I; waiting; for my flight to < PROPFIRST >)
+
+Australian's spell things weird !
+
+But they blame us .
+0.46 (they; blame; us)
+
+:P My home stay family is a blast , and this trip is kick booty !
+0.74 (My home stay family; is; a blast)
+0.93 (this trip; is; kick booty)
+
+I miss and love you all .
+0.24 (I; miss; )
+0.27 (I; love; you)
+
+<3 Be home soon .
+
+I'm HOME .
+0.57 (I; 'm; HOME)
+
+So apparently every time I can't sing my songs , I need to be sent to Australia for 2 and a half weeks because , even I admit , I sounded great today at my lesson .
+0.46 (I; to be sent; to Australia; T:for 2 and a half weeks)
+0.26 (I; sounded; great; T:today; L:at my lesson)
+0.55 Context(I sounded,List([128, 137))):(I; need; to be sent to Australia for 2 and a half weeks)
+0.38 Context(I need I sounded,List([49, 137))):(I; ca n't sing; my songs; T:apparently every time)
+
+:) Yay !!! :D  I'm .... Happy .
+0.52 (I; 'm; Happy)
+
+:D That's all I want to say .
+0.31 (That; 's; all I want to say)
+0.24 (I; want; to say)
+0.25 Context(I want,List([14, 20))):(all; to say; I)
+
+:) Thank you for listening .
+0.32 (you; for listening; )
+
+.... Give me a home among the gum trees .
+
+With lots of plum trees .
+
+A sheep or two and a kangaroo .
+
+A clothesline out the back , a veranda around the front and an old rocking chair ..... Will this blasted song ever get out of my head ?!  Irony sucks .
+0.91 (A clothesline out the back; get; out of my head; T:ever)
+0.77 Context(A clothesline out the back get,List([0, 118))):(Irony; sucks; )
+
+I had probably the best voice lesson of my life thursday , and now I can't speak because my throat is jacked up .
+0.31 (I; had probably; the best voice lesson of my life thursday)
+0.44 (I; ca n't speak; because my throat is jacked up; T:now)
+0.34 (my throat; is jacked up; )
+
+:( I hate irony right now .
+0.45 (I; hate; irony; T:right now)
+
+:(  This freaking bites .
+
+It hurts too much to even think about eating solid food .
+0.28 (It; hurts; too much)
+
+Bring on the yogurt and applesauce .
+
+I HATE being sick !
+0.23 (I; HATE; being sick)
+0.20 (I; being; sick)
+
+DESPISE it .
+
+GrrRawr !!! :(  Pretty sure I'm single again .
+0.28 (I; 'm; single; T:again)
+
+Oh well .
+
+I need it .
+0.31 (I; need; it)
+
+How are you ?
+
+Finally reading 1984 by < PROPFIRST > Orwell for Brit Lit .
+
+Sigh .
+
+Atleast I didn't completely procrastinate this time , right ? :)  So .... my suitcase exploded all over my room when I got home , and I'm just now taking inventory and cleaning that mess up .
+0.35 (I; did n't procrastinate; T:this time)
+0.20 (I; cleaning up; that mess)
+0.49 (my suitcase; exploded all; L:over my room; T:when I got home)
+0.28 (I; got; home)
+0.29 (I; 'm; T:just now; taking inventory and cleaning that mess up)
+0.41 (I; taking; inventory)
+
+I feel accomplished .
+0.23 (I; feel; accomplished)
+
+:)  I hate that he can make me feel bad .
+0.11 (I; hate; that he can make me feel bad)
+0.26 Context(I hate,List([4, 10))):(he; can make; me feel bad)
+0.18 Context(I hate he can make,List([4, 27))):(me; feel; bad)
+
+I hate that I hurt him .
+0.12 (I; hate; that I hurt him)
+0.32 Context(I hate,List([0, 6))):(I; hurt; him)
+
+But I love that I'm happier and feel better now .
+0.20 (I; feel; better; T:now)
+0.11 (I; love; that I'm happier and feel better now)
+0.23 Context(I love,List([4, 10))):(I; 'm; happier)
+
+I'm sorry , but I guess I needed to hurt you to help me .
+0.28 (I; 'm; sorry)
+0.26 (I; guess; I needed to hurt you)
+0.26 Context(I guess,List([16, 23))):(I; needed; to hurt you to help me)
+0.26 Context(I guess I needed,List([16, 32))):(I; needed to hurt; you; to help me)
+0.26 Context(I guess I needed to hurt,List([16, 40))):(I; needed to hurt you to help; me)
+
+For once I put myself first , and I don't regret it .
+0.51 (I; put; myself; first; T:For once)
+0.31 (I; do n't regret; it)
+
+Something hit me this morning .
+0.86 (Something; hit; me; T:this morning)
+
+In less than two months I'll be a < PROPMALE > and sixteen .
+0.66 (I; 'll be; a; T:In less than two months)
+
+Whoa .
+
+:D  \I wish those days could come back once more .
+0.72 (:D  \I; wish; those days could come back once more)
+0.72 Context(:D \I wish,List([0, 11))):(those days; could come; back; T:once more)
+
+Why did those days ever have to go ?
+0.70 (those days; to go; )
+
+\ " I Wish .
+0.24 (I; Wish; )
+
+<3 "  I'm a survivor !
+0.52 (I; 'm; a survivor)
+
+I love < PROPFEMALE > .
+0.50 (I; love; < PROPFEMALE)
+
+:) <3  ..... TWIN TIME !!!! <3  Would you bail me out of jail if I killed one of my best friends ?
+0.31 (I; killed; one of my best friends)
+
+Or how about I kill his girlfriend who has already broken his heart twice and is bound to do it again ?
+0.49 (I; kill; his girlfriend who has already broken his heart twice and is bound to do it again)
+0.49 (his girlfriend; has broken; his heart; T:twice; T:already)
+0.45 (his girlfriend; to do; it; T:again)
+
+Would you bail me out ?
+
+I hate cramps .
+0.45 (I; hate; cramps)
+
+They woke me up at 5 this morning , and we're out of Midol .
+0.51 (They; woke up; T:at 5; T:this morning)
+0.57 (we; 're; out of Midol)
+
+:( Sometimes , Mother Nature just plain sucks .
+0.87 (Mother Nature; just plain sucks; T:Sometimes)
+
+I got rained out at Webster , but it was sooo worth it , even though I'm cold , wet , and sore .
+0.53 (I; got; rained out at Webster , but it was sooo worth it)
+0.50 (I; got rained; out; L:at Webster)
+0.31 (it; was sooo; worth it)
+
+:) I had a blast !
+0.52 (I; had; a blast)
+
+<3  So much for having a great day .
+
+:/  Horrible student ID picture .
+0.88 (ID picture; [is] student [of]; :/ Horrible)
+
+:( But my schedule is : \  1 : Brit Lit with Connolly\  2 : CP Physics with Berg\  3 : OFF\  4 : US Gov with De Long\  5 : Chorale 1\  6 : Jazz Band ... But soon , Vocal Jazz !
+0.41 (my schedule; is; \  1)
+
+:) \  7 : Math3 with Bristoll\  8 : Relationships/ Racket Sports .
+
+I'm dropping the gym class .
+0.45 (I; 'm dropping; the gym class)
+
+\  What classes do we both have ?
+
+:)  Sigh .
+
+:/  Train is my therapy .
+0.89 (Train; is; my therapy)
+
+Yay , Meet < PROPFEMALE > , Calling All Angels , Drops of Jupiter , and Get to Me .
+0.91 (Yay; Calling; All Angels , Drops of Jupiter , and Get to Me)
+
+:) I feel lots better now .
+0.45 (I; feel; lots better; T:now)
+
+I have two questions : If I'm such a good person like so many people say , why do I keep hurting people ?
+0.42 (I; have; two questions : If I'm such a good person like so many people say , why do I keep hurting people)
+0.49 (I; 'm; such a good person like so many people say , why do I keep hurting people)
+0.76 (many people; say; why do I keep hurting people)
+
+Why can't boys be my friends , and just that ?
+
+I have nothing to say for once in my life .
+0.31 (I; have; nothing to say for once in my life)
+0.82 (nothing; to say; for once in my life)
+
+I shouldn't have let those boys make me feel guilty for not being in love with them .
+0.17 (I; should n't have let; those boys make me feel guilty for not being in love with them)
+0.86 Context(I should n't have let,List([0, 20))):(those boys; make; me feel guilty for not being in love with them)
+0.18 Context(I should n't have let those boys make,List([0, 36))):(me; feel; guilty)
+
+Thank you to those who helped me realize that .
+0.03 (those; helped; realize that)
+0.10 (me; realize; that)
+
+<3  I love my friends .
+0.31 (I; love; my friends)
+
+:) <3  So after Cross Country's last breakfast run , which was loads of fun , we had to beaner pack Jery's car .
+0.95 (Cross Country's last breakfast run; was; loads of fun)
+0.46 (we; to beaner; pack Jery's car)
+0.27 (which; was loads of; fun)
+
+:) We stuffed 9 people , including myself , in to the five seater vehicle .
+0.42 (We; stuffed; 9 people , including myself , in to the five seater vehicle)
+
+:) I ended up squeezing onto < PROPFIRST>'s lap in the passenger seat .
+0.61 (I; ended up; squeezing onto < PROPFIRST>'s lap in the passenger seat)
+0.46 (I; squeezing; onto <; PROPFIRST>'s lap in the passenger seat)
+
+Very awkward , but very fun .
+
+:) Yes , I may be white , but I have some mad beaner-packing skills .
+0.23 (I; may be; white)
+0.45 (I; have; some mad beaner-packing skills)
+
+:)  \If I could turn back time\  So ... I spent today painting my new room at my dad's new house .
+0.23 (I; could turn; back; time\; So)
+0.42 (I; spent; T:today; painting my new room at my dad's new house)
+0.18 Context(I spent,List([40, 47))):(I; spent painting; my new room; L:at my dad's new house)
+
+:) It's blue and pretty .
+0.28 (It; 's; blue and pretty)
+
+:) But when we got done , both me and < PROPFIRST > and my unfortunate cousin who got stuck helping us looked like we just finished a Smurf Massacre .
+0.28 (we; got; done)
+0.19 (we; got done; )
+0.50 (we; just finished; a Smurf Massacre)
+
+Evil Laugh !!! <3  I have that bad feeling in the pit of my stomach .... :/  It's a good morning to finish homework , don't you think ?
+
+Dude .
+
+My face hurts where my remote hit me .
+0.56 (My face; hurts; L:where my remote hit me)
+0.56 (my remote; hit; me)
+
+:(  Newly found music fix : < PROPFIRST > < PROPMALE > .
+
+<3 Lovin ' his music big time .
+0.90 (<3 Lovin; '; his music; T:big time)
+
+I've decided , thanks to a wonderful teacher , to let my parents fail on their own .
+0.23 (I; 've decided; to let my parents fail on their own)
+0.19 Context(I 've decided,List([0, 12))):(I; 've decided to let; my parents fail on their own)
+0.29 Context(I 've decided to let,List([0, 53))):(my parents; fail; )
+
+I can't save them .
+0.31 (I; ca n't save; them)
+
+I've tried , and failed , and I'll only fail more .
+0.19 (I; 've tried; )
+0.17 (I; failed; )
+0.23 (I; 'll only fail; more)
+
+I'm excited for the new challenges this year will bring .
+0.52 (I; 'm; excited for the new challenges)
+0.94 (the new challenges; will bring; T:this year)
+
+:)  I is sleepy already .
+0.28 (I; is; sleepy; T:already)
+
+But first , Brit Lit homework .
+
+:P  Wishing I was on Ubirr Rock in Australia again , watching that picture perfect sunset .
+0.57 (I; was; on Ubirr Rock in Australia; T:again)
+0.20 (I; watching; that picture perfect sunset)
+
+I've never seen anything or been anymore more peaceful .
+0.45 (I; 've never seen; anything)
+0.20 (I; been; anymore more peaceful)
+
+I look forward to the day when I'll get to see everyone happy .
+0.45 (I; look forward; to the day)
+0.41 (I; to see; everyone happy)
+
+One day , it'll happen .
+0.55 (it; 'll happen; T:One day)
+
+:)  Tomorrow is a coffee day , yes ?
+0.93 (:)  Tomorrow; is; a coffee day; yes)
+
+.... YES !
+
+:P  Hey !
+
+Go support Horizon High in fighting for their music program .
+
+Ask them why they want to go to Florida !
+
+Help a school out .
+
+:) You can find them on 120th And sorta Washington .
+0.51 (You; can find; them; T:on 120th And sorta Washington)
+
+Great day , great fun .
+
+:) I miss Green Valley Ranch already .
+0.57 (I; miss; Green Valley Ranch; T:already)
+
+Man , this weekend rocked .
+0.73 (this weekend; rocked; )
+
+:)  Ahhh , music .
+
+:) My love , my savior .
+
+Happy sigh .... :)  I really want to get away this weekend .
+0.45 (I; really want; to get away this weekend)
+0.41 (I; to get away; T:this weekend)
+
+Far away , like to the mountains , or somewhere that relaxing .
+0.76 (Far away; that relaxing; )
+
+You know ?
+0.38 (You; know; )
+
+What else am I going to do for the four day freakin ' weekend ?
+0.41 (I; to do; T:for the four day freakin ' weekend)
+
+Dear Whoever's Listening : Migraines , dizziness , sleep issues , and now anxiety problems .
+
+Thank you so much .
+
+Seriously .
+
+You make life < PROPFEMALE > fun .
+0.57 (You; make; fun)
+
+:/ Sincerely , Terhesa .
+
+I got sleep !
+0.52 (I; got; sleep)
+
+Yay !
+
+I want to call a time out .
+0.47 (I; want; to call a time out)
+0.39 Context(I want,List([0, 6))):(I; want to call out; a time)
+
+Where's that remote from Click or whatever ?
+
+Can I use it to pause the world , please ?
+
+I just need a bit to catch up and take it in .
+0.26 (I; just need; a bit; to catch up and take it in)
+0.25 Context(I just need,List([0, 11))):(I; just need a bit to take in; it)
+
+I have officially decided to give up on him .
+0.26 (I; have officially decided; to give up on him)
+0.26 Context(I have officially decided,List([0, 25))):(I; have officially decided to give up; on him)
+
+Thought I was gonna rock his world , but only up falling flat on my butt in front of him .
+0.27 (I; na rock; his world)
+
+Guess we'll only be friends now .
+
+Wasn't good to persue someone so far away anyways .
+
+:/  When life gets crazy , you'd better have a good sense of humor .
+0.80 (life; gets; crazy)
+0.74 (you; 'd better have; a good sense of humor; T:When life gets crazy)
+
+Crazy dreams are not good when all you want is sleep .
+0.83 (Crazy dreams; are not; good; T:when all you want is sleep)
+0.40 (all; want; you)
+0.72 (all you want; is; sleep)
+
+Smoothies make the world go round .
+0.87 (Smoothies; make; the world go round)
+0.69 Context(Smoothies make,List([0, 14))):(the world; go round; )
+
+<3  I want my spicey chicken and noodles now , please .
+0.37 (I; want; my spicey chicken and noodles; T:now; please)
+
+My tummy is tired of waiting .
+0.45 (My tummy; is; tired of waiting)
+0.30 (My tummy; of waiting; )
+
+:P  For the good people of Facebook , I thought you should know that there is only 111 days til Christmas .
+0.30 (I; thought; you should know that there is only 111 days til Christmas; T:For the good people of Facebook)
+0.23 Context(I thought,List([38, 47))):(you; should know; that there is only 111 days til Christmas)
+0.38 (there; is only 111 days til; Christmas)
+
+Courtesy of my grandmother .
+
+Gotta love her .
+
+:P  For the first time since Saturday I have a headache .
+0.64 (I; have; a headache; T:For the first time since Saturday)
+
+:/ Is getting worse now .
+
+Women who behave rarely make history .
+0.90 (Women who behave rarely; make; history)
+0.67 Context(Women who behave rarely make,List([0, 28))):(Women; behave; rarely)
+
+:)  I got sang ( < PROPFIRST >?) to more than 9 times .
+0.52 (I; got; sang)
+
+I lost count after that .
+0.29 (I; lost; count; T:after that)
+
+Good day , for the most part .
+
+:) I really do love my friends .
+
+<3 And my birthday < PROPMALE > , < PROPFIRST > Storm < PROPMALE > looked amazing and made me a yummy monster cookie !
+0.83 (PROPMALE; made; me a yummy monster cookie; T:PROPFIRST; T:Storm)
+
+For the first time ever , my birthday rocked !
+0.72 (my birthday; rocked; T:For the first time ever)
+
+Talk about a sweet sixteen !
+
+<3 I love you all !
+0.31 (I; love; you)
+
+Thanks for making my birthday special !
+
+\Life with love has some thorns .
+0.93 (\Life with love; has; some thorns)
+
+But life with no love has no roses .
+0.94 (life with no love; has; no roses)
+
+\ " <3 "  I went through the day without being angry once at all .
+0.66 (I; went; T:through the day; T:<3)
+
+And i had legit emotions .
+0.52 (i; had; legit emotions)
+
+:) Granted it was just a short day , but hey , that's way better than before .
+0.52 (it; was; just a short day)
+0.17 (that; 's; way better than before)
+
+:)  You know what ?
+0.43 (You; know; what)
+
+I may be sunburnt , my lower back may hurt when I shift my weight , but today was a blast .
+0.23 (I; may be; sunburnt)
+0.61 (my lower; back may hurt; T:when I shift my weight , but today was a blast)
+0.37 (I; shift; my weight)
+0.62 (I; was; a blast; T:today)
+
+:) I'm so happy .
+0.28 (I; 'm; so happy)
+
+:) < PROPFIRST > and his little brother made my day .
+
+Happy Friday , everyone .
+
+:) Hope your Friday was as good as mine .
+0.88 (:) Hope; was; as good as mine)
+
+I'm so extremely thrilled about today .
+0.52 (I; 'm; so extremely thrilled about today)
+
+:) I saw my cousins and my uncles and rode a motorcycle awesomely .
+0.37 (I; saw; my cousins and my uncles)
+0.41 (I; rode; a motorcycle; awesomely)
+
+:) My uncle and my cousin will be on 9 news at 10 tonight .
+0.70 (My uncle and my cousin; will be; on 9 news; T:at 10; T:tonight)
+
+:)  You know what I want ?
+0.48 (You; know; what I want)
+0.20 Context(You know,List([4, 12))):(I; want; )
+
+More memories with you .
+
+<3  I really hope the cross country team's ok if I show up at the barbeque this Saturday ....  Somedays I just have to smile even when I don't want to .
+0.45 (I; show up; L:at the barbeque)
+0.27 (I; to smile even; T:when I don't want to)
+
+I conquered Bumblebee song finally .
+0.50 (I; conquered; Bumblebee song; T:finally)
+
+Took a migraine to do it .
+
+I think I found the right Isle of Innisfree song ... You'd be surprised how many there are .... Should've borrowed the music , guess we'll have to see tomorrow .
+0.41 (we; to see; T:tomorrow)
+
+I seriously hate nightmares .
+0.45 (I; seriously hate; nightmares)
+
+I blame you people who talked about the zombie apocalypse all week .
+0.42 (I; blame; you people who talked about the zombie apocalypse all week)
+0.60 (you people; talked; about the zombie; T:apocalypse all week)
+
+I had murderous dreams and Zombie nightmares because of you .
+0.42 (I; had; murderous dreams and Zombie nightmares; because of you)
+
+I seriously love his hugs and kisses .
+0.31 (I; seriously love; his hugs and kisses)
+
+He's so sweet .
+0.28 (He; 's; so sweet)
+
+:) I just adore him .
+0.31 (I; just adore; him)
+
+He leaves me speechless .
+0.31 (He; leaves; me; speechless)
+
+:)  Dude , isn't today 10/10/10 ?
+0.93 (:)  Dude; is n't; today 10/10/10)
+
+May be fighting with mom and drowning in school work , scrambling to memorize lines and fighting for sleep .....
+
+But he makes every day so much better .
+0.45 (he; makes; every day so much better)
+
+:) I don't mind all that when I know he's there for me .
+0.21 (I; do n't mind; all that when I know he's there for me)
+0.31 (I; know; he's there for me)
+0.31 Context(I know,List([30, 36))):(he; 's; there; for me)
+
+:)  Today was better than I thught it'd be .
+0.86 (Today; was; better than I thught it'd be)
+0.32 (I; thught; it'd be)
+0.20 Context(I thught,List([26, 34))):(it; 'd be; )
+
+I cleaned my room , got rid of my old bunk bed frame , found my awesome stuffed animals , and partied with my adorable 1 year old ( as of yesterday ) nephew .
+0.31 (I; cleaned; my room)
+0.33 (I; got; rid of my old bunk bed frame)
+0.27 (I; found; my awesome stuffed animals)
+
+Back off girls , no cradle robbing .
+0.73 (no cradle; robbing; )
+
+:)  So yesterday I drove by a couple at a bus stop .
+0.55 (I; drove; L:at a bus stop; T:yesterday)
+
+The guy was on one knee in front of her proposing .
+0.87 (The guy; was; on one knee; L:in front of her proposing)
+
+:) It would have been a sweet scene .....
+0.45 (It; would have been; a sweet scene)
+
+If only she looked happy about it .
+
+:)  I actually look somewhat pretty in my homecoming pictures .
+0.31 (I; actually look; somewhat pretty in my homecoming pictures)
+
+:)  I just want to dance , and sing along to my radio , blasting in my window , til I just can't sing or dance any more .
+0.26 (I; just want; to dance , and sing along to my radio)
+0.16 Context(I just want,List([4, 15))):(I; just want to dance; )
+0.18 Context(I just want,List([4, 15))):(I; just want to sing along; to my radio)
+0.20 (I; dance; T:any more)
+0.19 (I; just ca n't sing; )
+
+I want to hear music that makes my heart beat fast and my mind return to thoughts about you .
+0.47 (I; want; to hear music)
+0.17 Context(I want,List([0, 6))):(I; want to hear; music that makes my heart beat fast and my mind return to thoughts about you)
+0.83 (music; makes; my heart beat fast and my mind return to thoughts about you)
+0.38 Context(music makes,List([15, 31))):(my heart; beat fast; my mind return to thoughts about you)
+
+:)  I'm looking forward to a great day with < PROPFIRST > Moreno , < PROPFEMALE > M .
+0.61 (I; 'm looking forward; to a great day with < PROPFIRST > Moreno , < PROPFEMALE > M)
+
+Stuchlik , and possibly Twin tomorrow .
+
+:) Tonight I have my nephew < PROPFIRST > .
+0.44 (I; have; my nephew; T:Tonight)
+
+:)  Just call me Buttercup Elfdancer from now on ; for I'm a cheerful little sprite .
+0.47 (I; 'm; a cheerful little sprite)
+
+:P Not so much today .
+
+INBOX\  ONLY !
+
+\  Tell me something that you've always wanted to say to me .
+0.44 (you; 've wanted; to say to me; T:always)
+0.75 Context(you 've wanted,List([26, 46))):(something; to say; to me)
+
+Stays \  between us , promise : ) put this as your status , and see what you get .
+
+Yay !
+
+He's back home !
+0.28 (He; 's; back home)
+
+I'll see my boy again tomorrow !
+0.31 (I; 'll see; my boy; T:again; T:tomorrow)
+
+I've missed him so much !
+0.31 (I; 've missed; him; so much)
+
+I'm so happy , that I don't even mind that my tummy still hurts !
+0.28 (I; 'm; so happy)
+0.11 (I; do n't even mind; that my tummy still hurts)
+0.49 Context(I do n't even mind,List([20, 37))):(my tummy; hurts; T:still)
+
+<3 :)  I'm sixteen and I already have laugh lines .
+0.28 (I; 'm; sixteen)
+0.55 (I; have; laugh lines; T:already)
+
+:P  Trying to have 6 conversations at once , while searching for tights and thinking about the next few nights .......  To all the Sweeney < PROPMALE > actors and techies , thank you for an amazing time .
+
+I love you all .
+0.31 (I; love; you)
+
+Thanks to everyone who came to support people , too .
+0.88 (everyone; came; to support people)
+0.88 (everyone; to support; people)
+
+:)  Vegetarians are hypocrites .
+0.92 (Vegetarians; are; hypocrites)
+
+They refuse to eat anything living that has feelings .... Well , carrots scream too !
+0.90 (living; has; feelings)
+0.66 (carrots; scream too; )
+0.55 Context(carrots scream too,List([65, 83))):(They; refuse; to eat anything living)
+0.55 Context(They refuse carrots scream too,List([0, 83))):(They; refuse to eat; anything)
+
+I've got a screw loose for you ..... Do you need a loose screw ?
+
+;)  This is the time of year for love and peace .
+0.45 (This; is; the time of year for love and peace)
+0.39 (This; is the time of; year)
+
+< PROPFEMALE > n my family and I can feel it .
+
+It's been a wonderful break , and a great season .
+0.45 (It; 's been; a wonderful break)
+
+:) I'm sorry to everyone who hasn't been enjoying yourselves , but maybe you should out of your own emotions and make someone else's day bright .
+0.52 (I; 'm; sorry to everyone)
+0.88 (everyone; has n't been enjoying; yourselves)
+0.58 (you; make; someone else's day bright)
+
+Well , < PROPFEMALE > Christmas ( < PROPFEMALE > ) to all , and to all a great winter break .
+
+I love you .
+0.31 (I; love; you)
+
+<3  I'm sorry to everyone who just isn't having a good break .
+0.52 (I; 'm; sorry to everyone)
+0.88 (everyone; just is n't having; a good break)
+
+I hope it gets better and you don't sit in those rotten emotions for any longer .
+0.37 (you; do n't sit; in those rotten emotions; T:for any longer)
+0.26 (I; hope; it gets better)
+0.24 Context(I hope,List([0, 6))):(it; gets; better)
+
+I love you , and if you need a smile , find me .
+0.31 (I; love; you)
+0.62 (you; need; a smile)
+0.33 (I; find; me)
+
+:) I have plenty to go around .
+0.45 (I; have; plenty to go around)
+0.75 (plenty; to go; around)
+
+<3  Can't wait for tomorrow with Bekah < PROPFEMALE > , and Friday with Bekah , Devi , and < PROPFEMALE > !
+0.81 (<3; Ca n't wait; for tomorrow)
+
+Yay holiday break fun .
+
+:)  I'm just happy .
+0.28 (I; 'm; just happy)
+
+:)  My baby nephew < PROPFIRST > is turning one and we're celebrating his birthday tomorrow !
+0.31 (we; 're celebrating; his birthday; T:tomorrow)
+0.39 (< PROPFIRST >; [is] nephew [of]; baby)
+
+And I babysat my other nephew < PROPMALE > last night .
+0.35 (I; babysat; my other nephew; T:PROPMALE; T:last night)
+
+:) They are the cutest things in the world .
+0.62 (They; are; the cutest things in the world)
+0.39 (They; are the cutest things in; the world)
+
+:)  Auditions Wednesday .
+
+I'm excited .
+0.28 (I; 'm; excited)
+
+:) Are you ?
+
+Have three choices for dresses for the Opera in two weeks .
+
+Lucky me I have a fashion < PROPFEMALE > of a mom to help me choose .
+0.50 (I; have; a fashion < PROPFEMALE > of a mom)
+
+:)  Was just watching my Australia DVD of pictures from my trip .
+
+Happy sigh .
+
+I miss Australia every day .
+0.57 (I; miss; Australia; T:every day)
+
+Oh , And I need your vote .
+0.31 (I; need; your vote)
+
+< PROPMALE > Bargery and I are writing essays on the subject of who is better : Australians or Brits .
+0.78 (< PROPMALE > Bargery and I; are writing; essays on the subject of who is better : Australians or Brits)
+
+Choose carefully .
+
+:)  I really just want my shoulder to heal .
+0.26 (I; really just want; my shoulder to heal)
+0.29 Context(I really just want,List([4, 22))):(my shoulder; to heal; )
+
+I feel so helpless .
+0.23 (I; feel; so helpless)
+
+:(  < PROPFEMALE > .
+
+:)  It's not just his eyes that I love .
+0.26 (It; 's not just; his eyes)
+0.53 Context(It 's not just,List([4, 17))):(his eyes; love; I)
+
+It's not only his smile that melts my heart .
+0.15 (It; 's; his smile that melts my heart)
+0.52 (his smile; melts; my heart)
+
+It's not just his voice that makes my heart jump .
+0.14 (It; 's not just; his voice that makes my heart jump)
+0.38 (his voice; makes; my heart jump)
+0.35 Context(his voice makes,List([14, 34))):(my heart; jump; )
+
+It's not only his laugh that makes me smile .
+0.15 (It; 's; his laugh that makes me smile)
+0.38 (his laugh; makes; me smile)
+0.16 Context(his laugh makes,List([14, 34))):(me; smile; )
+
+It's not the fact that he loves me with all his heart .
+0.26 (It; 's not; the fact that he loves me with all his heart)
+0.31 (he; loves; me)
+
+It's just him .
+0.37 (It; 's just; him)
+
+I love all of him , even when he doesn't love himself .
+0.31 (I; love; all of him)
+0.31 (he; does n't love; himself)
+
+<3  Like my status and I will : \  1 .
+0.44 (<3  Like my status and I; will \; 1)
+
+Tell you what I love about you\  2 .
+
+Rate you\  3 .
+
+Tell you what color reminds me of you\  4 .
+
+Tell you what I don't like  I hope tomorrow's better .
+
+My current Pre-ACT English score is a 30 .
+0.43 (My current Pre-ACT English score; is; a 30)
+
+If today's went down , I'm gonna cry .
+0.81 (today's; went; down)
+0.17 (I; na cry; )
+
+I think I did worse this time .
+0.32 (I; think; I did worse this time)
+0.40 Context(I think,List([0, 7))):(I; did worse; T:this time)
+
+Fingers crossed .
+0.71 (Fingers; crossed; )
+
+University of Wyoming emailed me back !
+0.88 (University of Wyoming; emailed; me; back)
+
+Yes !
+
+I'll be visiting the school soon , and I can't wait .
+0.45 (I; 'll be visiting; the school; T:soon)
+0.19 (I; ca n't wait; )
+
+Hopefully I can squeeze a few scholarships out of them .
+
+Probably won't be as lucky as < PROPFIRST > Storm < PROPMALE > by getting a full ride to Mines , but I'll take anything .
+0.45 (I; 'll take; anything)
+
+:)  If truth were fiction , and fiction dreams .... Tell me ; what would your life really be ?
+0.81 (truth; were; fiction)
+0.81 (fiction dreams; Tell; me; what would your life really be)
+
+< PROPFIRST > < PROPMALE > is heaven .... :) And so is < PROPMALE > < PROPFIRST > .
+0.91 (PROPMALE >; is; heaven)
+0.45 (so; is; PROPMALE)
+
+:) Happy sigh .
+
+I was sick since Sunday , and I've missed so much .
+0.57 (I; was; sick; T:since Sunday)
+0.23 (I; 've missed; so much)
+
+Hello again , world !
+
+I do live on !
+0.23 (I; do live; L:on)
+
+<3  LIKE this , and I'll give you a confession .
+0.61 (<3; LIKE; this)
+0.31 (I; 'll give; you; a confession)
+
+Pinky promise .
+
+:) 
+

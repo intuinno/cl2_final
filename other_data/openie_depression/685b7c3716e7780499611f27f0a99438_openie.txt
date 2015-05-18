@@ -1,0 +1,123 @@
+Yay watching Sweeney < PROPMALE > and eating cereal :) Lol I just noticed cereal and serial sound the same .
+0.45 (I; just noticed; cereal and serial sound)
+
+So I'm wathching a movie about a serial killer and eating cereal .
+0.45 (I; 'm wathching; a movie about a serial killer and eating cereal)
+
+:P 
+
+I just saw a falling < PROPFEMALE > !
+0.50 (I; just saw; a falling < PROPFEMALE)
+
+Oooooo !
+
+Never seen one before !
+
+It was so cool the tail was red and then it just went out .
+0.52 (It; was; so cool the tail was red)
+0.81 (the tail; was; red)
+0.34 (it; just went; out; T:then)
+
+Awesome !
+
+The 10,000 th performance of \The Phantom of the Opera\ " starts right now in London !
+0.97 (The 10,000 th performance of \The Phantom of the Opera\; starts; T:right now; L:in London)
+
+"  Funny quote of the day : \Thanks for teaching me how to drop my pants .
+
+\""  Today I get to see my favorite actress in the world perform live AND I get to meet her afterwards .
+0.27 (I; to meet; her; T:afterwards)
+0.33 (I; to see; my favorite actress in the world perform live AND I get to meet her afterwards)
+0.38 Context(I to see,List([11, 23))):(my favorite actress in the world; perform live; )
+
+Very excited .
+
+:D  Mr. Padilla : Hanawalt !
+
+How do you spell \egg\ " ?
+
+\  Wicked was the most amazing show ever .
+0.94 (\  Wicked; was; the most amazing show ever)
+
+The sets were so amazing , I had goosebumps practically the entire show !
+0.47 (I; had; goosebumps)
+0.72 Context(I had,List([27, 32))):(The sets; were; so amazing)
+
+I loved the < PROPFEMALE > City , the wicked witch when she rises into the air , the bubble < PROPFEMALE > travels around in , and my absolute favorite , the wizard's mechanical head !
+0.50 (I; loved; the < PROPFEMALE > City)
+0.45 (she; rises; into the air)
+0.63 (PROPFEMALE; travels in; around)
+
+Me : Syd , I'm soooo sleepy .
+0.28 (I; 'm; soooo sleepy)
+
+Keep me awake .
+
+\  Sydney : Uh , ok .
+
+Beluga !!! \  Me : Huh ...? \  Sydney : Well you said to keep you awake .
+0.40 (you; said; to keep you awake)
+0.40 Context(you said,List([45, 53))):(you; said to keep; you)
+
+\  Hahaha Syd , how does that keep me awake ?
+
+Lol  Me , < PROPFEMALE > and her mom just made a zillion chocolate covered strawberrires , and then ate most of them .
+0.64 (her mom; just made; a zillion chocolate covered strawberrires)
+0.91 (a zillion chocolate; covered; strawberrires)
+0.59 (her mom; ate; most of them; T:then)
+
+Now I feel awful and want to run like 100 < PROPMALE > .
+0.34 (I; feel; awful; T:Now)
+0.37 (I; want; to run like 100; T:Now)
+
+But they were amazing :)  (: ?
+0.36 (they; were; amazing)
+
+sno ?? n ?
+
+???? no ?
+
+pu ?
+
+u ?
+
+op ?
+
+p ? sdn s ?? ?? ?
+
+sn ??? q s ?? s ??? p ??? no ?
+
+uos ??? ?
+
+luo ???  Praying for those poor people in Japan .
+0.76 (luo; Praying; for those poor people in Japan)
+
+So scary .
+
+< PROPMALE > Butler on SNL = Best night ever  They took it better than I expected .
+0.35 (They; took better; T:ever)
+0.19 (I; expected; )
+
+Today was an off kind of day :/  So , out of curiosity , I watched that < PROPFEMALE > Black video on YouTube .
+0.08 (I; watched; that)
+0.90 Context(I watched,List([57, 66))):(Today; was; an off kind of day)
+0.89 (Today; was an off kind of; day)
+
+\  WORST SONG EVER .
+
+Absolutley terrible .
+
+When I go to school , it's so hard to think about leaving because all I can think about is how much I'll miss it , but when I'm home , I'm so excited to go to St. < PROPFIRST>'s .
+0.52 (I; go; to school)
+0.58 (all I can think about; is; how much I'll miss it)
+0.32 Context(all I can think about is,List([66, 90))):(I; 'll miss; it)
+0.46 (I; to go; to St. < PROPFIRST>'s)
+0.28 (I; 'm; home)
+0.67 (I; 'm; so excited to go to St. < PROPFIRST>'s; T:when I'm home)
+0.23 (I; can think; about)
+
+It makes it so hard !
+0.31 (It; makes; it so hard)
+
+Lost my phone :/ 
+

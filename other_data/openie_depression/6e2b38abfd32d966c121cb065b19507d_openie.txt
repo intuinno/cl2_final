@@ -1,0 +1,430 @@
+Happy New Years everyone !!!!!!!!!!
+
+Its the start of a wonderful year .
+
+Great things to look a head to and goals to be reached .
+0.50 (Great things to look a head to and goals; to be reached; )
+
+this mod 2 A's and 1 B .
+
+:(  I HATE < PROPFEMALE > WARS !!!!!!!!!!  broke bitch for another week  he loves me ....... he loves me not .
+0.41 (I; broke; bitch; T:for another week)
+0.31 (he; loves; me)
+0.26 (he; loves not; me)
+0.40 Context(he loves not,List([93, 108))):(I; HATE; PROPFEMALE)
+
+which is it ?
+
+whats wrong with wanting it all and not settling for anything less ???  friend for a reason , season , or life time ......... which are you ?
+0.88 (a reason , season , or life time; are; you)
+
+step out of the way BEFORE the shit hits the fan  i hate to love you and love to hate you  i need a scare crow for school  how much love can a heart hold when its not all together ?
+0.91 (the shit; hits; the fan  i hate to love you and love to hate you)
+0.56 (i; need when not all together; a scare crow for school  how much love can a heart hold)
+0.26 (i; hate; to love you)
+0.26 Context(i hate,List([50, 56))):(i; hate to love; you)
+0.23 (i; love; to hate you)
+0.23 Context(i love,List([50, 77))):(i; love to hate; you)
+
+sometimes i wish i lived in his world so i understood  tired of being tired  the grass is always greener on the other side  sicker than a dog .
+0.57 (i; wish; i lived in his world so i understood  tired of being tired  the grass is always greener on the other side  sicker than a dog; T:sometimes)
+0.36 Context(i wish,List([10, 16))):(i; lived; L:in his world; T:so i understood  tired of being tired  the grass is always greener on the other side  sicker than a dog)
+
+at least no homework this weekend !!!!! only 2 mods left !!!!!!  why do the steelers always have to cheat ?
+0.80 (only 2 mods; left; )
+0.70 (the steelers; to cheat; )
+
+if your a good team u shouldn't have to  only bitches wave YELLOW flags !!!!!!!  i'm starting to get alone with 1 crow .
+0.71 (your a good team u; to only bitches; wave YELLOW flags)
+0.45 (i; 'm starting; to get alone with 1 crow)
+0.41 (i; to get; alone with 1 crow)
+
+i think hell froze over !!!!  starting to get along with a crow ........ i think hell froze over  Really ?????  don't start no crap ....... there won't be no crap  They want < PROPMALE>'s cards sent to a different address .
+0.91 (no crap; want; They)
+0.47 (i; think; hell froze over  Really)
+0.47 Context(i think,List([73, 80))):(i; think; hell)
+0.51 Context(i think,List([73, 80))):(hell; froze over Really; )
+0.91 (PROPMALE>'s cards; sent; to a different address)
+
+This is the CORRECT address .
+0.50 (This; is; the CORRECT address)
+
+< PROPMALE > Biorkman c/o < PROPFIRST > Biorkman 3480 Petoskey Way < PROPMALE > , Michigan 48380 USA  mama didn't raise no foo  i mean ........ really ????  Happy Friday the 13th !!!!!!!  tomorrows a gift and never promised .
+0.94 (< PROPMALE > Biorkman c/o < PROPFIRST > Biorkman 3480 Petoskey Way < PROPMALE >; did n't raise really; T:Happy Friday)
+0.19 (i; mean; )
+0.87 (< PROPMALE > Biorkman c/o < PROPFIRST > Biorkman 3480 Petoskey Way < PROPMALE >; never promised; )
+
+the only time drama is good is in a movie .  2 A's so far ......... still wating for A & P  its official .......... 3 A's!!!!!!!!!!!!! i knew me had a brain in my head ....  things that make u go hhhhmmmm ........
+0.41 (things; make; u go hhhhmmmm)
+0.21 (things; go hhhhmmmm; )
+0.32 (i; knew; me had a brain in my head ....  things)
+0.32 Context(i knew,List([135, 141))):(me; had; a brain; L:in my head)
+
+I hope everyone has a fun safe night tonight .
+0.40 (I; hope; everyone has a fun safe night tonight)
+0.90 Context(I hope,List([0, 6))):(everyone; has; a fun safe night; T:tonight)
+
+watch out for drunks and check points !!  Happy Thanksgiving !!!!!!!!!
+
+All done with ID injections .
+0.15 (All; done; )
+
+start IM injections tomorrow .
+
+Fun to be had !!!  WILL BE COMPLETELY HONEST FOR 24 HOURS ... you can ask me 1 question ( only in my INBOX ) .
+0.63 (Fun; to be had; )
+0.45 (you; can ask; me; 1 question ( only in my INBOX)
+0.86 Context(you can ask,List([62, 73))):(Fun; WILL BE; COMPLETELY HONEST; T:FOR 24 HOURS)
+
+Any question , no matter how crazy it is .
+0.24 (it; is; )
+
+You have my FULL honesty , but I DARE you to put this text on your status and see what questions you get ..... ( don't be scared ) .
+0.46 (You; have; my FULL honesty)
+0.46 (you; to put; this text; on your status)
+0.32 (I; DARE; to put this text on your status and see what questions you get)
+0.19 Context(I DARE,List([31, 37))):(I; DARE to see; what questions you get)
+0.33 Context(I DARE to see,List([31, 81))):(you; get; )
+
+why is it soooo hard for people to have manners ????? i never knew PLEASE and THANK YOU were difficult .
+0.89 (people; to have; manners)
+0.22 (i; never knew; YOU were difficult)
+0.30 Context(i never knew,List([54, 66))):(YOU; were; difficult)
+
+but i guess thats what happens when you don't have a decent parent that can teach you the basics .
+0.10 (i; guess; thats what happens)
+0.24 (you; do n't have; a decent parent that can teach you the basics)
+0.82 (a decent parent; can teach; you; the basics)
+
+Do you ever notice people that are TOTAL LOSERS try and bring you down to there level ?
+0.90 (people; are; TOTAL LOSERS)
+0.84 (people that are TOTAL LOSERS; bring; you; down; to there level)
+
+Name calling and yelling ....... how far can that get you ?
+0.71 (Name; calling; )
+
+could also explain why they end up lonely , miserable people with no one that really cares about them !!!!!
+0.81 (no one; really cares; about them)
+
+Those who live in glass houses should never throw stones ........  true forgiveness is one of the hardest things to do  yeah !!!!!!!!
+0.36 (the hardest things; to do; )
+0.91 (Those who live in glass houses; should never throw; stones; true forgiveness is one of the hardest things)
+0.44 Context(Those who live in glass houses should never throw,List([0, 49))):(Those; live; L:in glass houses)
+0.90 Context(Those who live in glass houses should never throw,List([0, 49))):(true forgiveness; is; one of the hardest things)
+0.39 (true forgiveness; is one of; the hardest things)
+
+I have my extern location !!!!!! < PROPMALE > Clinic Solon !!!!!!!!  Located right below the window of opportunity is the trap door of disaster  its going to be a bitter sweet day ...... finished with school .... but i'll miss everyone .
+0.52 (i; 'll miss; everyone)
+0.91 (Clinic Solon; Located; L:right below the window of opportunity)
+0.41 (its; to be; a bitter sweet day)
+0.39 (opportunity; is the trap door of; disaster)
+
+well ..... not everyone .
+
+but you know what i mean .
+0.47 (you; know; what i mean)
+0.16 Context(you know,List([4, 12))):(i; mean; )
+
+made it through school without crying ....... only cried a little in the car ........ so far so good .
+
+< PROPFEMALE > CHRISTMAS < PROPFEMALE > !!!!!!!!!!!!!!!  < PROPFEMALE > Christmas everyone !!!!!!!!!  feels totally strange being home today  I got my badge to start my externship on monday !!!!! ya one step closer !!!!!  had a good day .
+0.48 (I; had; a good day)
+0.25 (I; got closer; my badge)
+0.29 Context(I got closer,List([142, 214))):(I; got closer to start; my externship; T:on monday)
+
+first day of extern done .
+0.77 (first day of extern; done; )
+
+learned a couple new things .
+
+is tired .
+
+first week almost done .
+0.73 (first week; almost done; )
+
+four more to go .
+
+i still think i'll be too bored working in a doctors office ....... but we'll see .
+0.41 (i; working; L:in a doctors office)
+0.19 (we; 'll see; )
+0.53 (i; think; i'll be too bored working in a doctors office; T:still)
+0.46 Context(i think,List([0, 13))):(i; 'll be; too bored working in a doctors office)
+
+had a good 1st wk .
+
+i have to work in internal medicine this coming week .
+0.41 (i; to work; L:in internal medicine; T:this coming week)
+
+i hope its fun .
+0.31 (i; hope; its fun)
+
+starts internal medicine tomorrow .
+
+think anything ' interesting ' will happen ?
+
+Internal medicine must equal rude patients .
+0.90 (Internal medicine; must equal; rude patients)
+
+when will my life be normal ???? can everything just run smoothly for a couple weeks ????  Let's see how forthcoming our Facebook friends are .
+
+Leave a 1 word comment on this posting that you think best describes me .
+0.48 (you; think; best describes me)
+
+It can only be 1 word .
+0.45 (It; can only be; 1 word)
+
+No more than 1 word .
+
+Then copy & paste this post on your wall so I can leave a word about you .
+0.31 (I; can leave; a word; about you)
+
+This should be interesting .
+0.18 (This; should be; interesting)
+
+Wonder if I have any brave friends who will participate  i karated chopped a squirrel in line at the bank because i'm cool like that .
+0.42 (I; have; any brave friends who will participate  i karated chopped a squirrel in line at the bank)
+0.12 (i; 'm; cool like that)
+0.68 (any brave friends; will participate; i karated chopped a squirrel in line at the bank because i'm cool like that)
+0.11 Context(any brave friends will participate,List([17, 55))):(i; karated chopped; a squirrel; in line; L:at the bank; because i'm cool like that)
+
+COPY THIS INTO YOUR STATUS AND SEE WHAT PEOPLE RATE YOU !!!!
+
+You don't have to pick just one .
+0.32 (You; to pick; just one)
+
+1 = crazy , 2=i'd marry you , 3 = talkative , 4 = sarcastic , 5 = i miss ya , 6 = sweet , 7 = moody , 8 = dumb , 9 = mouthy , 10 = spoiled , 11 = random , 12 = hot , 13 = funny , 14 = fit , 15 = amazing , 16 = tough , 17 = cute , 18 = bf type , 19 = player , 20 = i love you , 21 = gorgeous , 22 = the best , 23 = friend .... WHAT AM I ??  Another week finished ...... only 2 left ...... then the REAL fun begins  wet and hard  4 weeks down and 1 to go ................. YYYYYYEEEEEEAAAAAAAHHHHHH !!!!!!!!
+0.29 (only 2; left; )
+0.32 Context(only 2 left,List([369, 380))):(i; miss; ya)
+0.34 Context(i miss only 2 left,List([66, 380))):(2=i; 'd marry; you)
+0.83 (the REAL fun; begins down; T:then)
+0.31 (i; love; you)
+0.76 (7 = moody , 8 = dumb; finished; T:Another week)
+
+The part I like about working in ped's ........... playing with the cute kids .
+0.57 (I; like; about working in ped's ........... playing with the cute kids)
+
+School and extern done .......... now the fun begins !!!!!!!!
+0.83 (the fun; begins; T:now)
+
+Why do some people think that they can say and do whatever they want and never be held accountable ????
+0.43 (they; do; whatever they want)
+0.32 Context(they do,List([30, 49))):(they; want; )
+
+You must learn to forgive before God can forgive you  I am soooooo sick and tired of LAZY people  every have that feeling to say fuck everyone and the world ???????  interesting but pointless info ......... did u know its a law in boston that you CAN NOT drive your car with a gorilla in the back seat .
+0.60 (You; must learn; to forgive before God)
+0.60 Context(You must learn,List([0, 14))):(You; must learn to forgive; before God)
+0.30 Context(You must learn,List([0, 14))):(You; must learn can forgive; you)
+0.94 (every have that feeling to say fuck everyone and the world ???????  interesting but pointless info; did u know; its a law in boston)
+0.48 Context(every have that feeling to say fuck everyone and the world ??????? interesting but pointless info did u know,List([98, 217))):(you; CAN NOT drive; your car)
+
+what i would like to know is how many people did that so they had to make it a LAW  THANK YOU FOR ALL THE BIRTHDAY WISHES !!!!  <3 THANK YOU EVERYONE FOR THE BIRTHDAY WISHES !!!!!!!!! <3  whatcha talkn ' bout < PROPMALE > ???
+0.59 (they; to make; it a LAW  THANK YOU FOR ALL THE BIRTHDAY WISHES)
+0.18 (i; would like; to know)
+0.16 Context(i would like,List([5, 17))):(i; would like to know to know; )
+0.51 (what i would like to know; is; how many people did that so they had to make it a LAW  THANK YOU FOR ALL THE BIRTHDAY WISHES !!!!  <3 THANK YOU EVERYONE FOR THE BIRTHDAY WISHES !!!!!!!!! <3  whatcha talkn ' bout < PROPMALE >)
+0.58 Context(what i would like to know is,List([0, 28))):(how many people; did; that)
+
+A woman should have one old love she can imagine going back to and one who reminds her how far she has come .
+0.89 (A woman; should have; one old love she can imagine going back to and one)
+0.18 (she; can imagine; going back to and one)
+0.18 Context(she can imagine,List([33, 48))):(she; can imagine going; back; to and one)
+0.30 (one; reminds; her; how far she has come)
+0.16 Context(one reminds,List([67, 82))):(she; has come; )
+
+Thank you God and Jesus for all the Blessings you have given me yesterday , today and for all of my tomorrows .
+0.82 (all the Blessings; have given; me; T:yesterday; T:today)
+
+Crazy ... Nutty .. Freaky ... call me whatever you want !
+0.87 (Crazy ... Nutty; call; me; whatever you want)
+0.32 Context(Crazy ... Nutty call,List([0, 34))):(you; want; )
+
+I bet you'll never be able to forget me all your life !
+0.42 (you; to forget; me; T:all your life)
+0.43 (I; bet; you'll never be able to forget me all your life)
+0.41 Context(I bet,List([0, 5))):(you; 'll never be; able to forget me all your life)
+
+Put this as your status if you or somebody you know has suffered BABY LOSS or INFERTILITY .
+0.38 (you; know; )
+0.66 (you or somebody; has suffered; BABY LOSS or INFERTILITY)
+
+???
+
+The majority won't put it on , because unlike cancer , baby loss/infertility is a taboo .
+0.89 (The majority; wo n't put; it; on; because unlike cancer , baby loss/infertility is a taboo)
+0.94 (baby loss/infertility; is; a taboo)
+
+??? Break the silence .
+
+???
+
+In Memory of all the ~ Angel ~ babies gone too soon but never forgotten , and the babies who were not possible but are so loved !
+0.74 (the babies; were not; possible)
+0.60 (the babies; are loved; )
+
+When we have nothing left but GOD , Then we realize that GOD is enough !
+0.50 (we; have; nothing left but GOD)
+0.77 (nothing; left; )
+
+HAPPY EASTER EVRYONE !!!!!!!!!
+
+Why is it that common sense is no longer common ?
+
+A good friend asks you why your crying ....... a great friend already has the shovel , dug the whole and is ready to bury the person who made you cry ...  I've been told I have an attitude , and I think that OK because in order to have an attitude one must have a personality ..  has to remember that < PROPFEMALE > is a virtue ... and is not frowned upon in society ... and that murder is punishable by 25 years to life ... don't push my buttons .
+0.77 (the person; made; you cry)
+0.32 Context(the person made,List([122, 141))):(you; cry; )
+0.25 (I; think; that OK because in order to have an attitude one must have a personality ..  has to remember that < PROPFEMALE > is a virtue ... and is not frowned upon in society ... and that murder is punishable by 25 years to life ... don't push my buttons)
+0.68 Context(I think,List([195, 202))):(OK; do n't push; my buttons)
+0.20 (I; 've been told; I have an attitude , and I think that OK because in order to have an attitude one must have a personality ..  has to remember that < PROPFEMALE > is a virtue ... and is not frowned upon in society ... and that murder is punishable by 25 years to life ... don't push my buttons)
+0.90 Context(I 've been told,List([155, 169))):(A good friend; asks; you; why your crying ....... a great friend already has the shovel)
+0.73 Context(A good friend asks I 've been told,List([0, 169))):(your crying; has; the shovel; T:already)
+0.39 Context(I 've been told,List([155, 169))):(I; have; an attitude)
+0.93 (that murder; is; punishable by 25 years to life)
+0.62 (one; must have; a personality)
+
+<3  PMS = push me stupid  Forget about past disappointments and hurts .
+
+You can't unscramble eggs .
+0.62 (You; ca n't unscramble; eggs)
+
+Move on with your life and focus on making things better and happier .
+
+;o )  You think I am a bitch .
+0.48 (You; think; I am a bitch)
+0.47 Context(You think,List([6, 15))):(I; am; a bitch)
+
+Well get in line , right behind the people who don't like the truth .
+0.89 (the people; do n't like; the truth)
+
+you may not be her first , her last , or her only .
+0.46 (you; may not be; T:her first; her last , or her only)
+
+she loved before .. she may love again .
+0.18 (she; may love; T:again)
+0.18 Context(she may love,List([20, 32))):(she; loved; T:before)
+
+but if she loves you now .. what else matters ?
+0.31 (she; loves; you; T:now)
+
+~ A prideful person is of closed mind and knows little .
+0.93 (A prideful person; is; of closed mind)
+0.80 (A prideful person; knows; little)
+
+A humble person has an open mind , that listens and learns ~  Do you ever wish you were a monkey ?
+0.83 (A humble person; has; an open mind , that listens and learns)
+0.72 (an open mind; listens; )
+0.72 (an open mind; learns; )
+
+Then if you got mad at someone , you could just fling your poo at them .
+0.68 (you; got; mad at someone)
+0.61 (you; could just fling; your poo; L:at them; T:Then)
+
+Problem solved .
+0.77 (Problem; solved; )
+
+It takes real strength to keep trying , when the whole world expects you to fail .
+0.81 (the whole world; expects; you to fail)
+0.27 Context(the whole world expects,List([45, 68))):(you; to fail; )
+
+For everyone who talks or has ever talked about me , thank you for making ME the center of YOUR world !
+0.74 (everyone; talks; )
+0.82 (everyone; has talked; about me; T:ever)
+0.66 (you; for making; ME)
+
+Im a bitch , Im sarcastic , and opinionated .
+0.58 (Im; opinionated; T:Im a bitch)
+
+I laugh when I want , cry sometimes for no reason and get angry outta the blue !
+0.24 (I; want; )
+
+This is me so piss off if you dont like it  FarmVille should grow weed then sell it to MafiaWars , who'll sell it in YoVille .
+0.31 (This; is; me)
+0.89 (MafiaWars; 'll sell; it; L:in YoVille)
+0.38 (you; do nt; )
+0.89 (FarmVille; sell; it; to MafiaWars)
+
+then YoVille will get the munchies & go to CafeWorld located in FishTown !
+0.95 (YoVille; will get; the munchies; T:then)
+0.97 (YoVille; go; to CafeWorld; T:then)
+0.93 (CafeWorld; located; L:in FishTown)
+
+Wisdom is knowing when to speak your mind and when to mind your speech .
+0.91 (Wisdom; is knowing; when to speak your mind and when to mind your speech)
+
+You never really forget the ones who touched your heart ; regardless whether it's the ones who broke it or the ones who healed it .
+0.46 (You; never really forget; the ones who touched your heart)
+0.81 (the ones; touched; your heart)
+0.81 (the ones; broke; it)
+0.81 (the ones; healed; it)
+
+Be patient with me , God isn't finished with me yet .
+0.76 (God; is n't finished; with me; T:yet)
+
+Be careful of the words you spit out today , they may be the words you have to eat tomorrow !
+0.89 (the words; spit out; T:today)
+0.46 (they; may be; the words you have to eat tomorrow)
+0.89 (the words; to eat; T:tomorrow)
+
+i have taken the paths that i have , in order to get to where i am now .
+0.14 (i; have taken; the paths that i have)
+0.88 (the paths; have; i)
+0.28 (i; am; T:now)
+
+whether they were right or wrong ..... they had to be taken  don't regret the decisions you make , just remember the reasons for making your decisions  Ever feel you're traveling down life's highway without a GPS ?
+0.36 (they; were; right or wrong)
+0.28 (they; to be taken; )
+0.32 (you; make; )
+
+Happy Mothers Day !!!  Life isn't about finding that one person that U can actually live \with\ " .
+0.85 (Life; is n't; about finding that one person)
+0.90 (U; can actually live \with\; L:one person)
+
+Its about finding the One and only that you can't live \ " Without \"!"  There's this girl & boy and they kind of stole my heart .
+0.23 (Its; about finding; the One)
+0.62 (you; ca n't live; \)
+0.46 (they; kind of stole; my heart)
+
+They calls me \Aunt\ " and I love them with all my heart !! <3 <3 <3 <3 "  We learn from our mistakes .
+0.54 (They; calls; me; \Aunt\)
+0.19 (me; \Aunt\; )
+0.26 (I; love; them)
+0.26 Context(I love,List([27, 33))):(We; learn; from our mistakes)
+
+So I can count on being a genius when I die .
+0.19 (I; die; )
+
+Be who you want to be , say what you want to say , because those who matter don't mind and those who mind don't matter  Everybody let's do this .
+0.07 (those; matter; )
+0.28 (you; to be; )
+0.30 (those who matter; do n't mind; )
+0.09 (those; mind; )
+
+We should flood \  Facebookwith this !!!...
+0.45 (We; should flood; Facebookwith; this)
+
+I pledge allegiance to the Flag of the United \  Statesof < PROPFEMALE > , and to the republic for which it stands ; one Nation \  underGOD indivisble , with < PROPFEMALE > and Justice for all .
+0.45 (I; pledge; allegiance)
+0.91 (the republic; stands; it)
+
+REPOST IF YOU \  THINKGOD , OUR COUNTRY , AND OUR FLAG DESERVE RESPECT !!  my aunt passes away last night .
+0.80 (YOU; \; THINKGOD , OUR COUNTRY , AND OUR FLAG DESERVE RESPECT)
+
+i thank god i was able to have the time with her i did .
+0.27 (i; to have; the time with her i did)
+0.47 (i; did; T:the time with her)
+0.31 (i; thank; god; i was able to have the time with her)
+0.31 Context(i thank,List([0, 7))):(i; was; able to have the time with her)
+
+i miss her sooo much already .
+0.16 (i; miss sooo much; T:already)
+
+i love you bopa and i have faith that i will see you again .
+0.31 (i; love; you)
+0.14 (i; have; faith that i will see you again)
+0.31 (i; will see; you; T:again)
+
+<3 <3 <3 <3  When someone you love becomes a memory , that memory becomes a wonderful treasure not to be forgotten .
+0.87 (someone; love; you)
+0.75 (a wonderful treasure; not to be forgotten; )
+0.60 (someone you love; becomes; a memory)
+0.87 Context(someone you love becomes,List([18, 42))):(memory; becomes; a wonderful treasure not to be forgotten)
+

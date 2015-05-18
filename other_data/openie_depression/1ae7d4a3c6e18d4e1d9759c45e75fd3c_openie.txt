@@ -1,0 +1,7 @@
+The difference bt Me and the next person is how We look on the outside , but if that wasn't what You saw first , how could You tell the difference ?
+0.91 (The difference; bt; Me and the next person is how We look on the outside)
+0.86 (the next person; is; how We look on the outside)
+0.40 Context(the next person is,List([25, 43))):(We; look; on the outside)
+0.08 (that; was n't; what You saw first)
+0.37 Context(that was n't,List([80, 91))):(You; saw; T:first)
+

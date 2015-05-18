@@ -1,0 +1,878 @@
+Gotta love this summer air !
+
+;P 
+
+Going hiking in the mountains today !
+
+chillin at the beach :D  looking for a job .
+0.94 (chillin at the beach :D; looking; for a job)
+
+all the old people are getting them :[  just a little depressed .
+0.86 (all the old people; are getting just depressed; them)
+
+ill get over it  Feeling lonely and depressed as of late .
+
+Meh .
+
+I'll get over it ^^  < PROPMALE > out at the house for a bit .
+0.49 (I; 'll get out; T:PROPMALE)
+
+had fun .
+
+now im tired and its time for some sleep :P  cleaning up the house ... yay  A lot on my mind .
+
+A lot on my mind ....  i just had the worst and best day ever .
+0.45 (i; just had; the worst and best day ever)
+
+going to greenestreet .
+
+itll be awesomesauce  Saw Paranormal Activities .
+0.57 (it; ll be; awesomesauce  Saw Paranormal Activities)
+
+Some scary shit right there ...  going to the halloween party tomorrow with < PROPMALE > E .
+
+<3 .
+
+I'm a Tavern Girl .
+0.57 (I; 'm; a Tavern Girl)
+
+He's a Zombie .
+0.57 (He; 's; a Zombie)
+
+Fun times ...  cant wait until halloween :)  This guy's a huge thorn in my side .
+0.84 (This guy; 's; a huge thorn in my side)
+
+I just feel like screaming .
+0.18 (I; just feel; like screaming)
+0.16 Context(I just feel,List([0, 11))):(I; just feel like screaming like screaming; )
+
+So much snow !
+
+Guess I'll go sledding or something .
+
+:]  So bored .
+
+Reading Shakespeare .
+
+Fun stuff :]  Think I have the flu :(  I swear the rain is just taunting me .
+0.26 (I; swear; the rain is just taunting me)
+0.80 Context(I swear,List([39, 46))):(the rain; is just taunting; me)
+
+When you're gone the pieces of my heart are missing you .
+0.32 (you; 're gone; )
+0.70 (the pieces of my heart; are missing; you; T:When you're gone)
+
+When you're gone the face I came to know is missing too .
+0.32 (you; 're gone; )
+0.19 (I; came; )
+0.86 (the face; to know; I)
+0.68 (the face I came to know; is missing too; T:When you're gone)
+
+Snow again .
+
+BAH !!!!  Nothing better than having a Disney < PROPFEMALE > movie marathon on a lazy Friday .
+
+Sleep deprivation is not fun .
+0.77 (Sleep deprivation; is not; fun)
+
+At all .
+
+aaaaaah  Birthday's April 16 .
+
+I turn 20 .
+0.28 (I; turn; 20)
+
+Give me a wii and I'll love you forever <3  I found myself in Wonderland .
+0.31 (I; 'll love; you; T:forever)
+0.35 (I; found; myself; L:in Wonderland)
+
+Get back on my feet , on the ground .
+
+Is this real ?
+
+Is this pretend ?
+
+I'll take a stand until the end .
+0.45 (I; 'll take; a stand; T:until the end)
+
+This is so wierd .
+0.22 (This; is; so wierd)
+
+It's snowing and i hear a thump at the window .
+0.19 (It; 's snowing; )
+0.45 (i; hear; a thump at the window)
+
+A bird flew into it and its wing was hurt .
+0.87 (A bird; flew; into it)
+0.34 (its wing; was hurt; )
+
+I brought it inside , my mom prayed for it and it instantly got better and flew off .
+0.37 (it; got; better; T:instantly)
+0.37 (it; flew; off; T:instantly)
+0.43 (my mom; prayed; for it)
+0.26 Context(my mom prayed,List([22, 35))):(I; brought; it; inside)
+
+I just realized what I want to do with my life .
+0.26 (I; just realized; what I want to do with my life)
+0.31 Context(I just realized,List([0, 15))):(I; want; to do with my life)
+0.26 Context(I just realized I want,List([0, 27))):(I; want to do; with my life)
+
+Work with animals <3  Just finished watching Ice Castles .
+
+I'm in love with the theme song .
+0.52 (I; 'm; in love with the theme song)
+
+One of my faves :]  What sunshine is to flowers , smiles are to humanity .
+0.59 (One of my faves; are; to humanity)
+0.91 Context(One of my faves are,List([0, 60))):(What sunshine; is; to flowers , smiles)
+
+These are but trifles , to be sure ; but , scattered along life's pathway , the good they do is inconceivable .
+0.50 (These; are; trifles)
+0.26 (These; to be; sure)
+0.91 (the good; do; they)
+0.50 (the good they do; is; inconceivable)
+
+If I had a single flower for every time I think about you , I could walk forever in my garden .
+0.52 (I; had; a single flower for every time)
+0.51 (I; think; about you; T:every time)
+0.31 (I; could walk; T:forever; L:in my garden)
+
+My older brother got married to some chick from England !
+0.76 (My older brother; got; married to some chick from England)
+0.70 (My older brother; got married; to some chick; T:from England)
+
+I'm proud of him :D  I don't even know .
+0.16 (I; do n't even know; )
+0.31 Context(I do n't even know,List([21, 38))):(I; 'm; proud of him)
+
+My life isn't going anywhere .
+
+Happy Easter everyone !
+
+It's Easter .
+0.57 (It; 's; Easter)
+
+And I smell food .
+0.52 (I; smell; food)
+
+;(  So , I really should go to sleep but .
+0.45 (I; really should go; to sleep)
+
+I can't .
+
+Hate when that happens .
+0.04 (that; happens; )
+
+someone .
+
+help .
+
+me .
+
+decide .
+
+on .
+
+a .
+
+career ...!!!  having an awesome day so far because of a certain someone :]  I couldn't sleep .
+
+So here I am .
+0.57 (here; am; I)
+
+Having problems with sleep can be such a pain in the tush .
+0.92 (Having problems with sleep; can be; such a pain in the tush)
+
+Buuut on another note ... Missing someone right now .
+0.89 (another note; Missing; someone; T:right now)
+
+You know who you are !
+0.48 (You; know; who you are)
+0.27 Context(You know,List([0, 8))):(you; are; )
+
+:3  ill be baaaack around .... idk .
+0.38 (:3  ill; be; baaaack around)
+
+late .
+
+dont miss me ;)  Getting ready for church .
+
+Haven't been in years !
+
+Tired , hungry , and bored .
+
+Going to bed early .
+
+\Sam !? Going to bed early !? \ " I know right ? :P "  Why am I up ?
+0.24 (I; know; right)
+
+o.O  Hurray for getting 3 hours of sleep ... =/  Had a Samtastic day with someone special !
+0.96 (o.O  Hurray for getting 3 hours of sleep; Had; a Samtastic day)
+
+Anyways ... I'm tired .
+0.28 (I; 'm; tired)
+
+And ... stuff .
+
+I'm suddenly craving a red hot sausage .
+0.49 (I; 'm craving; a red hot sausage; T:suddenly)
+
+I want one so baaaad .
+0.28 (I; want; one; T:so baaaad)
+
+:(  Just woke up at 4 am here .
+0.38 (:(; Just woke up; T:at 4 am here)
+
+Have a huge headache and feel like crap .
+
+:(  I never saw a wild thing sorry for itself .
+0.31 (I; never saw; a wild thing sorry for itself)
+
+A bird will fall frozen dead from a bough without ever having felt sorry for itself .
+0.89 (A bird; will fall; frozen dead from a bough without ever having felt sorry for itself)
+
+Lightning scares me .
+0.82 (Lightning; scares; me)
+
+On another note ... I have a certain someones ' Domo hat !
+0.64 (I; have; a certain someones ' Domo hat; L:On another note)
+
+MWAHAHAHA  Sick .
+
+Again ..... :(  Off to bed .
+
+Don't miss me !
+
+I smell burgers .
+0.52 (I; smell; burgers)
+
+Thanks , mom for making me suddenly very hungry .  is going to sleep .
+
+Nice good sleep ... Bed beckoning to me .... sleeeeeepy  Insane in the membrane !
+
+Watching Record of Lodoss War for the 7th time :d  Wtflip ... Brains about to ...... implode .
+
+Just finished watching Dear < PROPFIRST > .
+
+The ending surprised to to be honest .
+0.28 (The ending; to to be; honest)
+
+But it was simply amazing .
+0.28 (it; was; simply amazing)
+
+Only wish < PROPFIRST > was there to watch it with me :(  Had an awesome day with my boo .
+
+=)  Dragon Age Origins and Mass Effect 2 are very very addictive lol  Incognito Pandas ... Never saw that coming .
+0.96 (=)  Dragon Age Origins and Mass Effect 2; are; very very addictive lol  Incognito Pandas)
+0.61 (very very addictive lol  Incognito Pandas; Never saw; that coming)
+0.03 Context(very very addictive lol Incognito Pandas Never saw,List([45, 100))):(that; coming; )
+
+Don't you love when your computer decides to crash and you have a hard time just trying to turn the stupid thing on ?
+0.32 (your computer; decides; to crash)
+0.29 Context(your computer decides,List([20, 41))):(your computer; decides to crash to crash; )
+0.56 (you; have; a hard time)
+0.56 Context(you have,List([55, 63))):(you; have a hard time just trying; to turn the stupid thing on)
+
+Going to watch Eclipse with my mom in a few hours .
+
+I can't waaaait !
+0.19 (I; ca n't waaaait; )
+
+Team Jakeward :3  Death by snoo snoo .
+
+Ahhh , good ol ' Futurama ...  Fufufufu ~ ~ v.v  Good ole country fried dill pickles .
+0.95 (Fufufufu ~ ~ v.v  Good ole country; fried; dill pickles)
+
+Mmm .
+
+Can't sleep .
+
+Had less than 7 hours of sleep the past 2 days .
+
+Add another hour plus a headache .
+
+Aaaah , today's gonna suck !
+
+Hot .... sauce .... o___o ;  So confused .
+
+Conflicted with myself .
+
+Now what ?
+
+Mondays ... haaaate em .
+0.84 (Mondays; haaaate; em)
+
+Someone save me !
+0.82 (Someone; save; me)
+
+Even if I could go back and change things in the past , I wouldn't .
+0.41 (I; change; things; T:in the past)
+
+I am who I am because of those days .
+0.15 (I; am; who I am because of those days)
+0.24 Context(I am,List([0, 4))):(I; am; because of those days)
+
+So , I had a new revelation today and managed to get some things off my chest that have been bottled up for a while .
+0.52 (I; had; a new revelation; T:today)
+0.15 (I; managed; to get some things off my chest that have been bottled up for a while)
+0.23 Context(I managed,List([5, 45))):(I; managed to get; some things; off my chest)
+0.53 Context(I managed to get,List([5, 52))):(some things; have been bottled up; T:for a while)
+
+Man , it's good when people actually \listen .
+0.52 (it; 's; good; T:when people actually \listen)
+0.71 (people; actually \listen; )
+
+\""  Let's pretend I know how to dance .
+
+You know who I'm talking to ;]  Pretending to give a damn .
+0.38 (You; know; )
+0.19 (I; 'm talking; )
+
+Rum , anyone ?
+
+:]  Sick to my stomach .
+
+Story of my life .
+
+Achievement hunting on the Xbox360 .
+0.89 (Achievement; hunting; on the Xbox360)
+
+Hey , at least it's something to when you're bored shitless .
+0.43 (you; 're; bored shitless)
+
+:]  Someone entertain me .
+0.82 (Someone; entertain; me)
+
+Just bought some DLC for Dragon Age Origins on the Xbox 360 .
+
+So fun .
+
+Nerd time ;)  The rest is not real , but that is a lie .
+0.94 (The rest; is not; real; T:Nerd time)
+0.17 (that; is; a lie)
+
+\  Beneath me I see the falling sky .
+0.45 (I; see; the falling sky)
+
+Okay , < PROPFIRST > is done being lazy .
+
+I'm finally getting my license soon , and a job/school .
+0.34 (I; 'm getting; my license; T:soon; T:finally)
+
+I figure 2 years without doing anything is just .... retarded .
+0.46 (I figure 2 years without doing anything; is just; retarded)
+0.39 (I; figure; 2 years)
+0.39 Context(I figure,List([0, 8))):(I; figure 2 years without doing; anything)
+
+So , I can't sleep ... I'll no doubt end up asleep all day .
+0.16 (I; ca n't sleep; )
+0.39 Context(I ca n't sleep,List([5, 18))):(I; 'll no doubt end up; T:asleep all day)
+
+=[  Ugh , I think I'm sick .
+0.31 (I; think; I'm sick)
+0.23 Context(I think,List([10, 17))):(I; 'm; sick)
+
+And there's nothing good to drink ... =(  I need a drink .
+0.73 (nothing good; to drink; )
+0.40 (I; need; a drink)
+
+I REALLY need a drink .
+0.52 (I; REALLY need; a drink)
+
+Nerdin ' it up with Mass Effect 1 .
+
+God , I'm such an achievement whore .  is \  cleverly disguised as a responsible adult .
+
+?? q ?
+
+uo p ?? oq ??? ?
+
+?
+
+nq ?
+
+???? ?
+
+s ?? ??? s ?
+
+s ???  Damned convenience stores and their lack of hot sausages ...  Some people really should learn how to not drive like a moron ... I'm not talking about myself here- that's besides the point haha .
+0.14 (that; 's; besides the point haha)
+0.26 Context(that 's,List([170, 176))):(I; 'm not talking; about myself)
+0.88 Context(I 'm not talking that 's,List([135, 176))):(Some people; really should learn; how to not drive like a moron)
+0.68 Context(Some people really should learn I 'm not talking that 's,List([69, 176))):(Some people; really should learn how to not drive like a moron to not drive; )
+
+Got my hot sausages and I can honestly say ... I R HAPPY .
+0.26 (I; can honestly say; I R HAPPY)
+0.50 Context(I can honestly say,List([24, 42))):(I; R; HAPPY)
+
+<3333  No matter what I do , I can't sleep .
+0.24 (I; do; )
+
+Great ...  Gotta love waking up in the morning with a crick in your neck .
+
+Ah , good times .
+
+Don't you hate when you misplace your phone and can't find it ANYWHERE ?
+0.46 (you; misplace; your phone)
+0.42 (you; ca n't find; it; L:ANYWHERE)
+
+grrrr  I have a sudden craving for some chocolate milk .
+0.45 (I; have; a sudden craving for some chocolate milk)
+
+:[  Facebook needs to stop acting retarded .
+0.76 (Facebook; needs; to stop acting retarded)
+0.76 Context(Facebook needs,List([4, 18))):(Facebook; needs to stop; acting retarded)
+0.76 Context(Facebook needs to stop,List([4, 26))):(Facebook; needs to stop acting; retarded)
+
+Watching < PROPFEMALE > Eyre .
+
+This is one long ass movie  whoever says paper beats rock is an idiot .
+0.93 (whoever says paper beats rock; is; an idiot)
+0.40 Context(whoever says paper beats rock is,List([28, 60))):(This; is; one long ass movie)
+
+next time I see someone say\  that I'll throw a rock at them while they hold up a sheet of paper .
+0.62 (they; hold up; a sheet of paper)
+0.26 (I; see; someone say\  that I'll throw a rock at them; T:next time)
+0.67 Context(I see,List([10, 15))):(someone; say\; that I'll throw a rock at them while they hold up a sheet of paper)
+0.31 Context(I see someone say\,List([10, 28))):(I; 'll throw; a rock; at them; T:while they hold up a sheet of paper)
+
+is experiencing life at a rate of several wtf's a minute .
+
+\In three words I can sum up everything I've learned about life : it goes on .
+0.31 (I; can sum up; everything I've learned about life)
+0.87 (everything; 've learned; I)
+0.19 (it; goes on; )
+
+\ " - < PROPFIRST > Frost "  Couldn't sleep last night .
+0.88 (- < PROPFIRST > Frost; Could n't sleep; T:last night)
+
+I fell asleep while walking down a flight of stairs and well ... use your imagination >.<
+0.49 (I; fell; asleep; T:while walking down a flight of stairs and well ... use your imagination)
+0.38 (I; walking; down a flight of stairs and well ... use your imagination)
+
+So like half my laptop screen is black because i accidentally threw a blanket on top of it while it was on .
+0.71 (half my laptop screen; is; black; because i accidentally threw a blanket on top of it while it was on)
+0.31 (i; accidentally threw; a blanket; on top of it; T:while it was on)
+0.28 (it; was; on)
+
+FML  My little brother's graduating from National Guard BCT in 2 days !
+
+:]  In South < PROPFEMALE > .
+
+My little brother is graduating from basic tomorrow !
+0.66 (My little brother; is graduating; from basic tomorrow)
+
+Little < PROPFIRST > ... is a man now !
+0.57 (Little; is; a man; T:now)
+
+-tears-  Sweet .
+
+I got a phone call from 666-666-6666 .
+0.52 (I; got; a phone call; T:from 666-666-6666)
+
+Who the HELL was that ?
+0.83 (the HELL; was; )
+
+See what I did there ?
+
+Fruit with no taste .... Mmm .....  Ugh .
+
+I feel sick .
+0.23 (I; feel; sick)
+
+I need to cuddle :(  Interview tomorrow .
+0.45 (I; need; to cuddle :(  Interview tomorrow)
+
+Hopefully , I'll get hired .
+0.25 (I; get; hired)
+
+Been addicted to Sims 3 lately , haha !
+
+I could really use a drink right now ...  Please take time today to remember the victims of the 9/11 attacks in the Twin Towers to remember all who were lost .
+0.91 (the victims of the 9/11 attacks in the Twin Towers; to remember; all who were lost)
+0.13 (all; were lost; )
+0.39 (I; could really use; a drink; T:right now)
+0.44 Context(I could really use,List([0, 18))):(I; could really use a drink to remember; the victims of the 9/11 attacks in the Twin Towers)
+
+Someone tell my camera to fix itself .
+0.86 (Someone; tell; my camera; to fix itself)
+
+So apparently I'm gonna burn in hell for all eternity .
+0.41 (I; na burn; L:in hell)
+
+Thanks , that's real sweet of you .
+0.10 (that; 's; real sweet of you)
+
+Job interview in 30 minutes .
+
+Hope I don't fuck it up .
+0.30 (I; do n't fuck up; it)
+
+Someone play WoW with me .
+0.91 (Someone; play; WoW)
+
+:]  Just finished watching < PROPFEMALE > ... brought back memories :3  I have the sudden urge to be violent to someone right now .
+0.57 (I; have; the sudden urge to be violent to someone right now)
+
+About to cook an amazing meal .
+
+Call me Chef Beebe !
+
+I miss elementary school , when there was less drama and more play .
+0.37 (I; miss; elementary school; T:when there was less drama and more play)
+
+Happy Tree Friends is freakin ' hilarious !
+0.87 (Happy Tree Friends; is; freakin ' hilarious)
+
+Albeit sick ...  Took a nap and had a dream that I was a teenager in the 70's .
+0.91 (Albeit sick; Took; a nap)
+0.82 (Albeit sick; had; a dream that I was a teenager in the 70's)
+0.52 (I; was; a teenager in the 70's)
+0.39 (I; was a teenager in; the 70 's)
+
+I watch too much \That 70's Show\ " =/ "  Just watched one of the best movies I've ever seen : < PROPFEMALE > in Wonderland :]  I still don't feel that great .
+0.52 (I; watch; too much; T:\That 70's)
+0.83 (Show\; Just watched; one of the best movies)
+0.75 (the best movies; 've seen; T:ever)
+0.14 (I; do n't feel; that great; T:still)
+
+Stupid burger and it's stupid coleslaw ( eww )  Going to the < PROPFEMALE > classic fair today .
+0.52 (it; 's; stupid coleslaw)
+
+<3 :D  I wanna stop misplacing my phone for once .
+0.32 (I; wan; na stop misplacing my phone for once)
+0.26 Context(I wan,List([7, 12))):(I; wan na stop; misplacing my phone for once)
+0.26 Context(I wan na stop,List([7, 19))):(I; wan na stop misplacing; my phone; T:for once)
+
+So , tuna straight from the can is gross  When you have insomnia , you're never really asleep , and you're never really awake .
+0.90 (tuna straight from the can; is; gross; T:When you have insomnia)
+0.62 (you; have; insomnia)
+0.36 (you; 're never; really asleep)
+0.36 (you; 're never; really awake)
+
+Last night was freakin crazy .
+
+But awesome at the same time :]  Shittalkers only waste the Earth's precious oxygen .
+
+I have better things to do than argue with girls that wanna act like 12 year old juveniles .
+0.37 (I; have; better things to do than argue with girls that wanna act like 12 year old juveniles)
+0.86 (wan; na act; like 12 year old juveniles)
+
+Thanks , and bye .
+
+That's what I get for going outside with wet hair when it's freezing cold ...  I think I'm coming down with something .
+0.23 (it; 's freezing; cold)
+0.32 (I; think; I'm coming down with something)
+0.36 Context(I think,List([79, 86))):(That; 's; what I get for going outside with wet hair when it's freezing cold)
+0.28 Context(That 's I think,List([0, 86))):(I; get; T:when it's freezing cold)
+0.19 Context(I think,List([79, 86))):(I; 'm coming; down)
+
+I hope it's not the flu .
+0.26 (I; hope; it's not the flu)
+0.47 Context(I hope,List([0, 6))):(it; 's not; the flu)
+
+I have a zero tolerance for sanctimonious morons who try to scare people .
+0.45 (I; have; a zero tolerance for sanctimonious morons)
+0.89 (sanctimonious morons; try; to scare people)
+0.86 Context(sanctimonious morons try,List([28, 56))):(sanctimonious morons; try to scare; people)
+
+What the hell am I doing ...?  Horror movie marathon .
+
+Wish someone could watch them with me =(  It's just gonna be one of those days , I see ...  I've just done the most hardcore workout I've had in a while .
+0.42 (I; 've just done; the most hardcore workout I've had in a while)
+0.91 (the most hardcore workout; 've had; T:in a while)
+0.20 (It; na be; one of those days)
+0.19 (I; see; )
+
+Full of energy !
+
+Running up and down the stairs every few minutes to hand out < PROPFEMALE > ... fun .
+0.93 (every few minutes; to hand out; < PROPFEMALE)
+
+Appointment with the Navy recruiter tomorrow .
+
+Thank god my ASVAB is still good for 2 years .
+
+I cbf taking that again lol  [ Insert generic Facebook status ]  Some things are better left unseen ...  I speak my mind .
+0.38 (Some things; are better left; unseen)
+0.26 (I; speak; my mind)
+0.19 Context(I speak,List([105, 112))):(I; cbf taking; that; T:again; T:lol)
+
+I never mind what I speak .
+0.26 (I; never mind; what I speak)
+0.16 Context(I never mind,List([0, 12))):(I; speak; )
+
+I need a damn drink .
+0.45 (I; need; a damn drink)
+
+Goin ' down to MEPS or whatever to pick my job in the Navy , and I'll possibly get sworn in :o  Back from MEPS .
+0.90 (MEPS or whatever; to pick; my job; T:in the Navy)
+0.53 (I; get; sworn in :o  Back from MEPS)
+
+Today was sooo long .
+0.80 (Today; was; sooo long)
+
+But I picked my job , and I'll be an Operations Specialist .
+0.31 (I; picked; my job)
+0.57 (I; 'll be; an Operations Specialist)
+
+Leave for RCT in May :D  Change\  your FB profile picture to a cartoon from your childhood .
+
+The goal is\  to not see a human face on FB till Monday , December 6th .
+0.96 (The goal; is\; to not see a human face on FB till Monday , December 6th)
+
+Join the fight\  against child abuse & copy & paste to your stat to invite your\  friends to do the same .
+0.38 (your\  friends; to do; the same)
+
+Why do people buy the slowest internet possible and then complain it's too slow ?
+0.84 (people; complain; it's too slow; T:then)
+0.23 Context(people complain,List([7, 65))):(it; 's; too slow)
+
+I don't\  need an angel on my Christmas tree I already have several in heaven\  looking down on me ........ put this as your status if there is someone\  in Heaven you will miss this Christmas  Snow , for the win !
+0.24 (I; don't\; )
+0.66 (you; will miss; this Christmas  Snow)
+0.34 (I; have; several in heaven\  looking down on me; T:already)
+0.81 Context(I have,List([45, 59))):(several in heaven\; looking; down; on me)
+
+<33  I'm reeeeally itchin ' to make a snow angel .
+0.52 (I; 'm; reeeeally itchin ' to make a snow angel)
+
+>.<  Yes , I know how to shut up .
+0.28 (I; know; how to shut up)
+
+I just don't know when .
+0.23 (I; just do n't know; when)
+
+I'm in a good mood for some reason .
+0.52 (I; 'm; in a good mood; for some reason)
+
+If I had a dime for every time I lost my cellphone charger , I'd be a millionaire .
+0.52 (I; had; a dime for every time)
+0.51 (I; lost; my cellphone charger; T:every time)
+0.52 (I; 'd be; a millionaire)
+
+SO not interested .
+
+I really want to punch someone in the face .
+0.39 (I; really want; to punch someone in the face)
+0.39 Context(I really want,List([0, 13))):(I; really want to punch; someone in the face)
+
+Will you all be willing to donate your status for just a few minutes to HONOR a fallen < PROPFEMALE > who's just passed away while serving our country ... USMC Cpl .
+0.40 (you; to donate; your status; T:for just a few minutes; to HONOR a fallen < PROPFEMALE)
+0.45 Context(you to donate,List([5, 33))):(you; to donate your status to HONOR; a fallen < PROPFEMALE)
+
+< PROPMALE > < PROPMALE > died Dec 6 while serving in Afghanistan and leaves behind a wife and a newborn son named in his honor , who was born approx .
+0.94 (PROPMALE > < PROPMALE >; died; T:Dec 6; T:while serving in Afghanistan and leaves behind a wife and a newborn son)
+0.85 (a newborn son; named; L:in his honor)
+
+24 hours after news of his death .
+
+Repost to honor ...... this Hero and his family Please pray for the family  Finally managed to get some pictures of my new haircut ( along with the Christmas tree ) uploaded to facebook , albeit really blurry .
+0.73 (this Hero and his family; pray; for the family)
+
+I need a new camera .
+0.45 (I; need; a new camera)
+
+=(  I would've been happy with my old profile .
+0.44 (I; would 've been; happy with my old profile; T:=()
+
+Thanks for nothing , Facebook .
+
+Addicted to Fallout 3 !
+
+: L  I hate those nights when you can't get ANY sleep at all :(  No , all because I ask what your name is doesn't mean I want to know your life story .
+0.62 (you; ca n't get; ANY sleep)
+0.19 (I; hate; those nights)
+0.18 Context(I hate,List([5, 11))):(I; hate those nights does n't mean; I want to know your life story)
+0.31 Context(I hate does n't mean,List([5, 118))):(I; want; to know your life story)
+0.26 Context(I hate does n't mean I want,List([5, 125))):(I; want to know; your life story)
+
+Hooked on < PROPFEMALE > Wars : Knights of the Old Republic ... never knew how satisfying being an ass to everyone in a video game could be ... Nerdgirl love <3  I seem to have misplaced my Christmas spirit .
+0.19 (I; seem; )
+0.31 (I; to have misplaced; my Christmas spirit)
+
+< PROPFEMALE > Christmas , everyone !
+
+Apparently , yesterday was the first white Christmas here since 1969 .
+
+Wow , lol .
+
+Who wants to have a snowball fight ?
+
+:)  Playing video games on a crappy computer with a crappy graphics card ... kill me :(  I kind of miss my long hair ._.  Celebrating New Years alone .
+0.94 (Playing video games on a crappy computer with a crappy graphics card; kill; me)
+0.26 (I; kind of miss; my long hair)
+0.43 Context(I kind of miss,List([89, 103))):(I; kind of miss my long hair Celebrating alone; New Years)
+
+Too bad I have no alcohol :[  I feel like CRAP .
+0.35 (I; have; no alcohol; I feel like CRAP)
+0.50 (I; feel; like CRAP)
+
+I think I have that bug that's going around .
+0.74 (that bug; 's going; around)
+0.15 (I; think; I have that bug)
+0.19 Context(I think,List([0, 7))):(I; have; that bug that's going around)
+
+Really ... Idgaf .
+
+:]  if your mom is or was your hero , your best friend , or just the best mom ever , if you are blessed to still have your mom or if she is an angel in heaven , paste this to your status and let everyone know you are proud of your mom , and that you love her dearly .
+0.41 (your mom; is; )
+0.63 (your mom; was; your hero , your best friend , or just the best mom ever)
+0.32 (you; are blessed; )
+0.46 (you; to have; your mom; T:still)
+0.57 (she; is; an angel in heaven)
+0.39 (she; is an angel in; heaven)
+
+You can replace a lot of people in life , but you only have one mom  I really really really really REALLY want some damn lemonade right now !
+0.62 (You; can replace; a lot of people in life)
+0.58 (you; only have; one mom  I really really really really REALLY want some damn lemonade right now)
+0.52 (I; really really really really REALLY want; some damn lemonade; T:right now)
+
+Jesus might've died for your sins , but there are marines right now fighting and dying for your freedoms .
+0.86 (Jesus; might 've died; for your sins)
+0.82 (marines; fighting; T:right now)
+0.80 (marines; dying; for your freedoms)
+
+Please never forget those who gave some , and some who gave all .
+0.08 (those; gave; some , and some)
+0.26 (some; gave; all)
+
+About to order some pizza .
+
+So hungry I could eat a giraffe !
+0.45 (I; could eat; a giraffe)
+
+I'm out of hot sauce .
+0.52 (I; 'm; out of hot sauce)
+
+My world is going to end .
+0.30 (My world; to end; )
+
+:(  Through memorizing this navy stuff for now ... nn fb .
+
+<3  Ok , I need to stop sleeping on the couch .
+0.39 (I; need; to stop sleeping on the couch)
+0.39 Context(I need,List([9, 15))):(I; need to stop; sleeping on the couch)
+0.39 Context(I need to stop,List([9, 23))):(I; need to stop sleeping; L:on the couch)
+
+Crick in my neck :(  I love Sims 3 :3 <3  A morning sugar crash ... just what I need to start my day :(  Watching The L Word online since I have nothing better to do ...  First time I pulled an all-nighter in months ... No idea why I did it ...  I need a fucking drink .
+0.45 (I; have; nothing better to do)
+0.73 (nothing better; to do; )
+0.60 (I; pulled; an all-nighter; T:in months; T:First time)
+0.37 (I; did; it)
+
+My phone's missing again .
+0.41 (My phone's; missing; T:again)
+
+Big surprise :(  I can't get over how adorable my puppy is .
+0.31 (I; ca n't get; over how adorable my puppy is)
+0.41 (my puppy; is; )
+
+I just die of cute overload everytime he looks up at me :3333  I don't understand why Cupid was chosen to represent < PROPFIRST>'s Day .
+0.45 (I; just die; of cute overload everytime)
+0.31 (he; looks; up; at me)
+0.92 (Cupid; to represent; < PROPFIRST>'s Day)
+0.55 (I; do n't understand; why Cupid was chosen to represent < PROPFIRST>'s Day)
+0.91 Context(I do n't understand,List([63, 81))):(Cupid; was chosen; to represent < PROPFIRST>'s Day)
+
+When I think about romance , the last thing on my mind is a short , chubby toddler coming at me with a weapon .
+0.52 (I; think; about romance)
+0.84 (the last thing on my mind; is; a short , chubby toddler coming at me with a weapon; T:When I think about romance)
+0.87 (a short , chubby toddler; coming; at me)
+
+likes pizza .
+
+o.O  I love those dreams when the fate of the galaxy rests in your hands .
+0.21 (I; love; those dreams when the fate of the galaxy rests in your hands)
+0.90 (the fate of the galaxy; rests; L:in your hands)
+
+Nothing like a little Mountain Dew to relieve some stress .
+
+Three Words : Beer .
+
+Is .
+
+Nasty .
+
+< PROPFIRST > < PROPMALE > is awesome .
+0.70 (PROPMALE; is; awesome)
+
+i will admit that :)  Life's a bitch , might as well fuck her .
+0.20 (i; will admit; that :)  Life's a bitch , might as well fuck her)
+0.93 Context(i will admit,List([0, 12))):(:)  Life; 's; a bitch)
+
+You know you're a nerd when you have dreams about Fallout 3 .
+0.38 (You; know; )
+0.58 (you; 're; a nerd; T:when you have dreams about Fallout 3)
+0.66 (you; have; dreams about Fallout 3)
+
+Of course I manage to burn bacon as well .
+0.39 (I; manage; to burn bacon as well)
+0.38 Context(I manage,List([10, 18))):(I; manage to burn as well; bacon)
+
+Going to a Navy DEP meeting in a bit .
+
+Fuuun .
+
+Couldn't sleep a wink , and now I'm up at 6:20 am ... Today is gonna suck .
+0.66 (I; 'm; up; T:at 6:20 am; T:now)
+0.68 (Today; na suck; )
+
+The early bird might get the worm , but the second mouse gets the cheese .
+0.91 (The early bird; might get; the worm)
+0.93 (the second mouse; gets; the cheese)
+
+You ask why waffles are better than pancakes ?
+0.63 (You; ask; why waffles are better than pancakes)
+0.87 Context(You ask,List([0, 7))):(waffles; are; better than pancakes)
+
+Because they're pancakes with syrup traps .
+0.68 (they; 're; pancakes with syrup traps)
+
+Just found out my ferret died of old age at 7 .
+
+Wish I had her when it happened .
+0.37 (I; had; her; T:when it happened)
+0.19 (it; happened; )
+
+Wonder if she died happy .
+0.23 (she; died; happy)
+
+Hey ... she was my pet first I'm allowed to cry >.>  Who knew toddlers could be so bossy !
+0.17 (I; to cry; )
+0.31 (she; was; my pet first)
+0.16 Context(she was,List([8, 15))):(I; 'm allowed; )
+
+Looks like my brother forgot to change his tampon .
+0.43 (my brother; forgot; to change his tampon)
+0.43 Context(my brother forgot,List([11, 28))):(my brother; forgot to change; his tampon)
+
+I need a new pair of eyes .
+0.45 (I; need; a new pair of eyes)
+
+Who wants to trade ?
+
+Im such a huge dyke vagina is my fav thing in the world  Only had 3 hours of sleep in the last 48 hours .
+0.92 (such a huge dyke vagina; is; my fav thing in the world  Only had 3 hours of sleep in the last 48 hours)
+0.67 Context(such a huge dyke vagina is,List([3, 29))):(my fav thing in the world; Only had; 3 hours of sleep; T:in the last 48 hours)
+0.89 (Im such a huge dyke vagina; is my fav thing in; the world)
+
+fml :(  Pepto Bismol for breakfast , mmm .
+
+I feel like I ran straight into a wall .
+0.31 (I; feel; like I ran straight into a wall)
+0.52 (I; ran; straight into a wall)
+
+Figuratively speaking , of course .
+
+Nothing like waking up at 7:30 am ... Way too early .
+
+Someone knock me out so I can go back to sleep :D  Only about a month left until basic training !
+0.82 (Someone; knock out; me)
+0.94 (Only about a month; left; T:until basic training)
+
+I can't wait :D  YES I LUV VAGINA ... MAYBE NEXT TIME I WILL REMEMBER 2 LOG OFF THE WII !!!!  Off to bed in a bit , but I have an uncontrollable urge to eat some skittles :( 
+0.34 (I; ca n't wait Off; :D  YES I LUV VAGINA)
+0.33 (I; :D; I LUV VAGINA)
+0.45 (I; have; an uncontrollable urge to eat some skittles)
+

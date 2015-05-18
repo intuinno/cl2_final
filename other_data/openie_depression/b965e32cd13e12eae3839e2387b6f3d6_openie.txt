@@ -1,0 +1,6 @@
+Sometimes I can not take this place Sometimes its my life I can taste Sometimes I cannot feel my face You'll never see me far from grace ......... FELLIN ' LIKE A FREAK ON A LEASH
+0.60 (I; can not take; this place; T:Sometimes)
+0.46 (its my life; can taste; T:Sometimes)
+0.38 (I; can not feel; my face; T:Sometimes)
+0.40 Context(I can not feel,List([80, 93))):(You; 'll never see; me; L:far from grace)
+

@@ -1,0 +1,245 @@
+is fed up with IHS .
+
+For people who look at my info < PROPFEMALE > and don't know I am not a communist , it is just a joke from IHS .  is glad he has a late start today .  is going to have a test everyday this week .
+0.80 (people; look; at my info)
+0.52 (he; has; a late start; T:today)
+0.75 (people; do n't know; I am not a communist)
+0.39 Context(people do n't know,List([4, 60))):(I; am not; a communist)
+0.57 (it; is; just a joke from IHS)
+0.33 (it; is; glad he has a late start today)
+0.38 (it; is just a joke from; IHS)
+
+:(  Just found out that in < PROPFEMALE > one of the their pop < PROPFEMALE > is called Discobitch !
+0.71 (one of the their pop; is called; Discobitch)
+
+Is there any history homework we have to do ?
+0.88 (any history homework; to do; we)
+
+I have 5 facebook friends named < PROPFIRST > and 4 friends named < PROPFIRST > .
+0.61 (I; have; 5 facebook friends named < PROPFIRST > and 4 friends named < PROPFIRST > .)
+0.92 (4 friends; named; <; PROPFIRST >)
+
+You guys need to get more original names .
+0.59 (You guys; need; to get more original names)
+0.59 Context(You guys need,List([0, 13))):(You guys; need to get; more original names)
+
+I have 5 facebook friends with birthdays today so I wish you all a happy birthday .
+0.45 (I; have; 5 facebook friends; T:today)
+0.37 (I; wish; you; all a happy birthday)
+
+I finished my position paper !!!
+0.31 (I; finished; my position paper)
+
+One day and one final left .
+
+I just might make it .
+0.31 (I; just might make; it)
+
+I have to get up at 5:30 to go to Salem .
+0.46 (I; to get; up; T:at 5:30; to go to Salem)
+0.46 (I; to go; to Salem)
+
+Screw that and screw early mornings .
+
+Straight A's baby !
+
+I'm finally reading the Communist Manifesto ... it took me long enough .
+0.54 (I; 'm reading; the Communist Manifesto; T:finally)
+
+Who really knows me ?
+
+\  What is my ... full name , nickname , eye color , best friend , birthday , and favorite color ?
+
+\  Put this on your status and see who really knows you .
+
+Finally saw inception .
+
+Now I don't feel left out .
+0.34 (I; do n't feel; left out; T:Now)
+0.17 (I; left out; )
+
+Does this number ring a < PROPFEMALE > ( 541 ) 839-1111 ?
+
+please tell me if it does .
+0.19 (it; does; )
+
+I am pissed , who thinks this is a good idea .
+0.28 (I; am; pissed)
+
+What gives someone the right to hand out personal information that isn't theirs ?!?
+0.59 (someone; to hand out; personal information that isn't theirs)
+0.85 (personal information; is n't; theirs)
+
+I'm sorry for seeming like a freak on facebook but someone really had me going with their prank call .
+0.52 (I; 'm; sorry for seeming like a freak on facebook)
+0.78 (someone; really had; me going with their prank call)
+
+For those who don't know me that well I am not as crazy as I may have seemed last night .
+0.53 (For those; may have seemed; T:last night)
+0.10 (those; do n't know; me)
+0.18 Context(those do n't know,List([4, 24))):(I; am not; as crazy)
+
+\  \  P.S.
+
+Never post anything when you're freaked out you will seem insane .
+0.27 (you; 're freaked out; )
+
+My neighbor's deck caught on fire .
+0.68 (My neighbor's deck; caught; on fire)
+
+One more story to tell .
+0.75 (One more story; to tell; )
+
+The good news is the firefighters came quickly and the fire is out .  is now in morning IHS which is fine , but I am no longer in band , SOooooo .
+0.92 (The good news; is; the firefighters came quickly and the fire is out .  is now in morning IHS which is fine , but I am no longer in band , SOooooo)
+0.69 Context(The good news is,List([0, 16))):(the firefighters; came quickly; )
+0.57 (I; am; T:no longer; in band; SOooooo)
+0.81 (the fire; is; out)
+0.91 (the firefighters; is; T:now; in morning IHS)
+0.79 (morning IHS; is; fine)
+
+Just spent the entire day moving stuff out of the basement and washing the walls .
+
+Sounds like home improvement .
+
+One of the funnier criticisms I've gotten ... \  \Your paint looks soggy\ " \  For 24 hours you can ask me one question to my inbox and I will answer it .
+0.91 (One of the funnier criticisms; 've gotten; I)
+0.46 (you; can ask; me; one question to my inbox)
+0.31 (I; will answer; it)
+0.71 (One of the funnier criticisms I've gotten; \; \Your paint looks soggy\ " \  For 24 hours you can ask me one question to my inbox and I will answer it)
+0.59 Context(One of the funnier criticisms I 've gotten \,List([0, 47))):(\Your paint; looks; soggy\ " \)
+
+You have my full honesty .
+0.46 (You; have; my full honesty)
+
+I dare you to post this as your status and see what people ask you .
+0.46 (you; to post; this; as your status)
+0.17 (I; to see; what people ask you)
+0.83 Context(I to see,List([0, 46))):(people; ask; you)
+
+Thank you for all the birthday wishes and to everyone who made today great .
+0.88 (everyone; made; today great)
+
+I didn't get any homework for my birthday , possibly the best birthday gift of all .
+0.45 (I; did n't get; any homework)
+
+Finished the graph on the IB lab , now I just have the conclusion and to clean up the write up as a hole for tomorrow .
+0.60 (I; just have; the conclusion; T:now)
+0.40 (I; to clean up up; the write)
+
+This may be doable .
+0.18 (This; may be; doable)
+
+Man Kitzhaber isn't leading , what is the world coming to ?
+0.79 (Man Kitzhaber; is n't leading; )
+
+Hence forth this weekend will be remembered as the weekend of movies .
+
+Did we have homework for lit ?
+
+Confess something you've always wanted to tell me ( INBOX ONLY Please ) .
+0.48 (you; 've wanted; to tell me ( INBOX ONLY Please; T:always)
+0.75 Context(you 've wanted,List([18, 38))):(something; to tell; me)
+
+Then , copy and paste this as your status and see what you get .
+
+I am not looking forward to physics tomorrow .
+0.45 (I; am not looking forward; to physics; T:tomorrow)
+
+At least it's better than getting teeth pulled , which I get to enjoy Friday .
+0.51 (I; get; to enjoy Friday)
+0.89 Context(I get,List([55, 60))):(getting teeth pulled; to enjoy; T:Friday)
+
+I got wisdom teeth out and the laughing gas has mostly worn off .
+0.52 (I; got; wisdom teeth; out)
+0.75 (the laughing gas; has mostly worn off; )
+
+It is time to start feeling the pain .
+0.52 (It; is; time to start feeling the pain)
+
+I am not looking forward to my speech .
+0.19 (I; am not looking forward; )
+
+The first of the class .
+
+Not fair .
+
+There was a < PROPFEMALE > Cather question on Jeopardy tonight .
+0.88 (There; was a < PROPFEMALE > Cather question on; Jeopardy tonight)
+
+This must be a sign about my speech .
+0.25 (This; must be; a sign about my speech)
+
+The quest < PROPFEMALE > isn't loading ... shit !
+0.90 (PROPFEMALE >; is n't; loading)
+
+Go to \Call me duck\ " on YouTube to see why Auburn is awful .
+
+There tons of Auburn fans spamming the comments .
+0.93 (Auburn fans; spamming; the comments)
+
+At least Oregon is showing its class by supporting the ducks and not taking shots at Auburn .
+
+"  I hate the quest assignments .
+0.45 (I; hate; the quest assignments)
+
+It won't let me see the questions .
+0.26 (It; wo n't let; me see the questions)
+0.39 Context(It wo n't let,List([0, 12))):(me; see; the questions)
+
+Two more classes .
+
+I'm going to make !
+0.17 (I; to make; )
+
+Black Swan ... wow .
+
+People should go see it .
+0.78 (People; should go; see it)
+0.78 Context(People should go,List([0, 16))):(People; should go see; it)
+
+Went to see Itzhak Perlman in concert , he is one of the greats .
+0.52 (he; is; one of the greats)
+0.39 (he; is one of; the greats)
+
+RIP to my fellow south students .
+
+My heart goes out to those that have just lost a friend or a family member before their time .
+0.19 (My heart; goes; out to those)
+0.12 (those; have just lost; a friend or a family member before their time)
+
+I'm getting really excited for the Oscars .
+0.50 (I; 'm getting; really excited for the Oscars)
+
+Black Swan all the way .
+
+Got home from the hour and half concert only to have a 45 minute conversation about the sat with my parents .
+
+did I mention that I have a test to study for .
+
+What was our history homework ?
+
+What the hell Oscars .
+
+NO love 127 hours , and only one < PROPFIRST > for Black Swan .
+
+I'm not impressed .
+0.28 (I; 'm not; impressed)
+
+Has the turn in date for swan song come and gone without me noticing ?
+0.19 (me; noticing; )
+
+If not when are submissions due ?
+
+People in my spanish class , what was the homework for spring break ?
+0.39 (what; was the homework for; spring break)
+
+Had a great vacation visiting my brother in North < PROPFEMALE > .
+
+Now I'm ready to head home .
+0.41 (I; 'm; ready to head home; T:Now)
+0.20 (I; to head; home)
+
+History paper = finished 
+0.70 (History paper; finished; )
+

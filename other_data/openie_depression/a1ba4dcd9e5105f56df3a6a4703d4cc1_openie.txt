@@ -1,0 +1,216 @@
+I was more excited about something cooking in Cafe World than about the new year .
+0.68 (I; was; more excited about something cooking in Cafe World than about the new year)
+
+under construction :]  So if someone knows how to edit your name on this fag site , let me know ... lol .
+0.83 (someone; knows; how to edit your name on this fag site)
+0.71 Context(someone knows,List([29, 42))):(someone; knows to edit; your name; L:on this fag site)
+
+im not retarded I swear .
+0.52 (not retarded; swear; I)
+
+;]  Even a clock that doesn't work is right twice a day .
+0.72 (Even a clock; does n't work; )
+0.95 (Even a clock that doesn't work; is; T:right twice a day)
+
+is a Courage Wolf enthusiast .  1 week til bliss .
+
+misses < PROPMALE > .
+
+Keeping it real since last Tuesday .
+
+if some dumb quiz said I published some result on your profile .. I didnt .
+0.75 (some dumb quiz; said; )
+0.20 (I; did nt; )
+0.40 Context(I did nt,List([66, 73))):(I; published; some result)
+
+bah !
+
+delete it .
+
+Feel me , completer , down to my core .
+
+Open my heart and let it bleed onto yours !
+
+Purple with bunnies .
+
+;D  That boy needs therapy .
+0.90 (That boy; needs; therapy)
+
+Lie down on the couch !
+
+What does that mean ?
+
+You're a nut !
+0.68 (You; 're; a nut)
+
+You're crazy in the coconut !
+0.43 (You; 're; crazy)
+
+What does that mean ?
+
+That boy needs therapy .
+0.90 (That boy; needs; therapy)
+
+I'm gonna kill you ... That boy needs therapy .
+0.27 (I; na kill; you)
+0.88 (That boy; needs; therapy)
+
+Grab a kazoo !
+
+Lets have a duel .
+
+<--- shannyn sossamon ?
+
+:D  Shut up woman , get on my horse .
+0.90 (:D  Shut up woman; get; on my horse)
+
+Where are ya , you spongey , yellow , delicious bastards !!?  gaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay  Like this if you've ever eaten icing straight from the cup thing .
+0.32 (you; spongey; )
+0.59 (you; 've eaten; icing straight from the cup thing; T:ever)
+0.45 Context(you 've eaten,List([121, 138))):(you; 've eaten icing straight; from the cup thing)
+
+I < PROPMALE > my cat around the house like I'm a T-Rex , roaring and making my arms all < PROPFEMALE > ... but she knows I'm just kidding .
+0.57 (I; 'm; a T-Rex)
+0.79 (a T-Rex; roaring; )
+0.32 (she; knows; I'm just kidding)
+0.16 Context(she knows,List([112, 121))):(I; 'm just kidding; )
+
+:D  What if you're retarded , but just too retarded to notice ?
+0.43 (you; 're; retarded , but just too retarded to notice)
+0.28 (you; to notice; )
+
+Look , Daddy !
+
+It's another angel .
+0.52 (It; 's; another angel)
+
+I guess I kind of like Facebook after all .
+0.34 (I; guess after all; I kind of like Facebook)
+
+How can my phone spell ' perpendicular ' but not ' panda ' or ' bagel' ?
+
+The new page-link things in your profile suuuuuuck .
+
+the other day my pocket vibrated but my phone was in my hand .
+0.72 (my pocket; vibrated; T:the other day)
+0.56 (my phone; was; in my hand)
+
+wierd .
+
+\You must have smoked some BAD granola .
+0.66 (\You; must have smoked; some BAD granola)
+
+\""  Alabama , Arkansas , I sure do love my mom and < PROPFEMALE > .
+
+Please , please Mr. Postman waaaaaait waait Mr. Post Post Postman pleeease .
+0.94 (Mr. Postman; waaaaaait; waait Mr. Post Post Postman pleeease)
+
+wheat thins + string cheese <3  Who's up !
+0.85 (string cheese <3; 's; up)
+
+Last night lightning struck so close to us we were blinded & heard gunshot thunder .
+0.92 (lightning; struck; so close to us; T:Last night)
+0.17 (we; blinded; )
+0.41 (we; heard; gunshot thunder)
+
+: 0  Fun is only a relative concept .
+0.94 (0  Fun; is; only a relative concept)
+
+Anyone have an old ipod I can have ?
+0.82 (Anyone; have; an old ipod I can have)
+0.89 (an old ipod; can have; I)
+
+or similar music-playing device .
+
+My kind are so ... MacGyver-like .
+0.64 (My kind; are so; MacGyver-like)
+
+We'll find a way .
+0.52 (We; 'll find; a way)
+
+Ran from K-9 & their 5-0 friends .
+
+Whew .
+
+Want a sweet-ass hookah ?
+
+[$75 ] Yeah you know you do .
+0.38 (you; know; )
+0.38 (you; do; )
+
+Comes fuckin ' CLEAN w/ 2 hoses so you can smoke with your homies .
+0.46 (you; can smoke; with your homies)
+
+Pst .
+
+My baby died ; goodbye internet .
+0.34 (My baby; died; )
+
+:[  Gonna listen to < PROPFEMALE > Portman rap just ONE more time , and then sleep .
+
+Ha .
+
+Sprite ( sucks ) .
+0.79 (Sprite; sucks; )
+
+who could possibly be afraid of a < PROPFIRST > ?  it has been named Absalom (\the rapist\ " Bongstein ) .
+0.50 (it; has been named; Absalom)
+
+and it is final .
+0.28 (it; is; final)
+
+"  Watching a spider travel around my ceiling .
+
+That's entertainment .
+0.45 (That; 's; entertainment)
+
+Cornbread , hell yeah .
+
+Its a fine day for a picnic .
+
+< PROPFEMALE > up the chick habit \  < PROPFEMALE > it up , daddy , \  a girl's not a tonic or a pill  don't worry son , I ain't got much of a heart left to break anyway .
+0.81 (a heart; left; to break anyway)
+0.90 (a girl; 's not; a tonic or a pill)
+0.82 Context(a girl 's not,List([71, 83))):(PROPFEMALE; > up up; the chick habit)
+0.89 (a girl; do n't worry; son)
+0.45 (I; ai n't got; much of a heart)
+
+Ain't no party like my grandma's tea party !
+
+shouldn't have bothered .
+
+P :  Click click , saddle up , see you on the < PROPFEMALE > then .
+
+you're just a weatherman ;\  we make the wind blow .
+0.40 (we; make; the wind blow)
+0.63 Context(we make,List([29, 36))):(you; 're; just a weatherman)
+
+:3 \  you did the same thing < PROPFIRST > did  i love vegetables , gather round everyone !
+0.59 (you; did; the same thing; < PROPFIRST > did  i love vegetables , gather round everyone)
+0.52 Context(you did,List([6, 13))):(you; did the same thing PROPFIRST gather; round everyone)
+
+Always remember to never forget .
+
+???!!  where's the \more .
+
+\""  Makin ' math my bitch one problem at a time .
+
+grrrrrr .
+
+SOECITEDSOEXCITEDSOEXCITRD  middle fingers up !
+
+middle fingers up !
+
+:|  I am openly reggae .
+0.23 (I; am openly; reggae)
+
+HAHA .
+
+gulp .
+
+For fucks sake Heart and Brain , calm down .
+
+I need to sleep .
+0.19 (I; need; to sleep)
+0.16 Context(I need,List([0, 6))):(I; need to sleep to sleep; )
+

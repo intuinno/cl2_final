@@ -1,0 +1,43 @@
+i'm so bored , i have nothing to do today .......
+0.89 (nothing; to do; T:today)
+0.40 (i; have; nothing to do today)
+0.24 Context(i have,List([15, 21))):(i; 'm; so bored)
+
+Yuck .
+
+my whole day was bipolar .
+0.48 (my whole day; was; bipolar)
+
+i think i finally decided it was crappy , though .
+0.25 (i; think though; i finally decided it was crappy)
+0.34 Context(i think though,List([0, 48))):(i; decided; it was crappy; T:finally)
+0.23 Context(i think i decided though,List([0, 48))):(it; was; crappy)
+
+Mexican accents are funny .
+0.77 (Mexican accents; are; funny)
+
+needs somewhere to go to get away from her crazy hateable aunt .
+
+Just went and saw Zombieland ... i feel like a sick , sick person for laughing ... D:  I HATE CONCERT SEASON .
+
+had her boobs crushed about four times during red rover .
+
+yay for last-minute christmas shopping !
+
+:D  I got flipped the bird by a three year old today .
+
+Christmas shopping is scary .
+0.86 (Christmas shopping; is; scary)
+
+Birds are devil spawn .
+0.81 (Birds; are; devil spawn)
+
+:3  just got back from my grandfather's funeral .
+0.15 (:3; just got back; )
+
+\  and found out my favorite dog was dead .
+0.68 (\; found out; my favorite dog was dead)
+0.41 Context(\ found out,List([0, 16))):(my favorite dog; was; dead)
+
+worst day ever anyone ?
+

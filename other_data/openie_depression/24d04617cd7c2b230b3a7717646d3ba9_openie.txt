@@ -1,0 +1,7 @@
+is excited .
+
+I just got access to the site I will be navigating to complete my coursework .
+0.45 (I; just got; access to the site)
+0.77 (the site; will be navigating; to complete my coursework)
+0.23 Context(the site will be navigating,List([21, 50))):(I; to complete; my coursework)
+

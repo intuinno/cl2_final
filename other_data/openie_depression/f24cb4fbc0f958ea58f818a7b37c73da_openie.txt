@@ -1,0 +1,284 @@
+Your the one that makes me smile at sad times ...... but you're also the one who made the times bad ... :/
+0.62 (you; 're also; the one who made the times bad)
+0.89 (the one; made; the times bad)
+0.41 (Your the one; makes; me smile at sad times)
+0.39 Context(Your the one makes,List([0, 23))):(me; smile; T:at sad times)
+
+ah !
+
+that's bullshit !
+0.07 (that; 's; bullshit)
+
+>:o  doesnt know what to right as her status .
+
+:/  \shes the girl with her middle finger in the air cause for the last time she dosent care \""  Happy Friday the 13th everybody !!! :D  This is the most boring saturday EVER .
+0.60 (she; dosent; care \; T:the last time)
+0.40 (This; is; the most boring saturday)
+
+DX  god , im SO stupid DX  is so f***ing jealous of her friends .
+0.84 (DX  god; im; SO stupid DX  is so f)
+0.84 Context(DX god im,List([0, 12))):(SO stupid DX; is; so f)
+
+sad .
+
+:(  getting happier :)  Is ANYBODY going to parkville days ?
+0.18 (:(; getting; happier)
+0.60 (getting happier; Is; ANYBODY going to parkville days)
+
+You practice so you can be perfect .... but nobody's perfect so why practice being perfect ?
+0.36 (you; can be; perfect)
+0.80 (nobody; 's; perfect)
+
+\  -Tre ' Cool  Sometimes unexpected things happen and you die .
+0.48 (unexpected things; happen; T:Sometimes)
+0.32 (you; die; )
+
+I love you ..... <3  Who all is going to the football game ?! seriously .
+
+Who wants to < PROPFEMALE > out ?????  OMG green day ........... what have you done !?!?!?!?!? D ' :  went to the store to buy makeup , and when i was checking out the lady asked me if was excited for halloween ..... : c RUDE  FML !!!!!!!! DX nobody should be this bored !
+0.19 (i; was checking out; )
+0.87 (the lady; asked; me; if was excited for halloween; T:when i was checking out)
+0.70 Context(the lady asked,List([164, 178))):(RUDE  FML !!!!!!!! DX nobody; should be; this bored)
+
+Is going to < PROPFEMALE > today !
+
+:D  I don't need a friend like you , fake , that's what you are .
+0.08 (that; 's; what you are)
+0.26 Context(that 's,List([44, 50))):(I; do n't need; a friend like you)
+0.27 Context(that 's,List([44, 50))):(you; are; )
+
+ugh .................... if you didn't want to < PROPFEMALE > out why didn't you just say so ?
+0.60 (you; did n't want; to < PROPFEMALE > out)
+0.59 Context(you did n't want,List([28, 43))):(you; did n't want to < out; PROPFEMALE >)
+
+Instead you got my hopes up and smashed them .
+0.46 (you; got up; my hopes)
+0.42 (you; smashed; them)
+
+thank you so much ........  ................. nothing to say about a good day :)  ugh .................... dont know what to do today .
+
+:/  No < PROPFEMALE > for me .
+
+I'm so f***ing cool aren't I ?? :/  ..... I'm useless , but not for long .......
+0.23 (I; 'm; useless)
+0.35 Context(I 'm,List([42, 45))):(ing cool; are n't; I)
+0.23 Context(ing cool are n't I 'm,List([11, 45))):(I; 'm; so f)
+
+The future comin ' on .
+
+homecoming was okay .
+0.80 (homecoming; was; okay)
+
+:)  mmmm <3 yay Green Day , MUSIC , Matty < PROPFIRST > , my best friends who get me : I love you all !
+0.54 (my best friends; get; me)
+0.31 (I; love; you)
+
+UGGGHHHHHHHHHH !
+
+chat work !
+
+mmmm ?
+
+yay Green Day , MUSIC , Matty < PROPFIRST > , my best friends who get me : I love you all !
+0.54 (my best friends; get; me)
+0.31 (I; love; you)
+
+Happy Birthday < PROPFIRST > Lennon .
+
+^_^ <3  Got some new clothes .... Pretty friggen excited .
+
+:)  You people make me feel so insignificant you know that ?
+0.21 (you; know; that)
+0.43 (You people; make; me feel so insignificant)
+0.19 Context(You people make,List([4, 19))):(me; feel; so insignificant)
+
+I thinks it's unhealthy to love them THAT much .... : ?
+0.36 (I; thinks; it's unhealthy to love them THAT much)
+
+<--- confused face  is grounded for being a bad person last week ... >.<  has a question !
+
+Who sounds like an adult over the telephone ?
+
+Who's going to the football game ????????  cant go to football game because she cant get a ride .... gonna go cry now .
+0.45 (she; ca nt get; a ride)
+
+D ' :  Had a good weekend , I think ?
+0.83 (D; Had; a good weekend)
+0.24 (I; think; )
+
+:)  Why do nice pretty girls never get asked out , but fake ugly girls have boys all over them ?
+0.91 (nice pretty girls; get; asked out , but fake ugly girls have boys all over them)
+0.85 (fake ugly girls; have; boys; L:all over them)
+
+:(  Why is she mad at me !?!
+
+I don't even know her that well !
+0.30 (I; do n't even know that well; her)
+
+DX Oh yeah , and the word of the day is Ithuluu :) But why is she mad !? >.<  Told my two of best friends today that I was going to kill myself ..... they said they'd throw a party .
+0.40 (they; said; they'd throw a party)
+0.62 Context(they said,List([150, 159))):(they; 'd throw; a party)
+0.27 (I; to kill; myself)
+
+>.< :/ Really people ?
+
+Partying with people tomarrow .
+
+:P  you eat , your fat .
+
+you don't eat your a freak .
+0.46 (you; do n't eat; your a freak)
+
+You read , your a nerd , you don't read your stupid .
+0.40 (you; do n't read; your stupid)
+0.36 Context(you do n't read,List([25, 39))):(You; read; your a nerd)
+
+You wear makeup your a slag , you don't wear makeup , your ugly .
+0.40 (you; do n't wear; makeup , your ugly)
+0.27 Context(you do n't wear,List([30, 44))):(You; wear; )
+
+Don't you get it .
+
+we can never please anyone .
+0.45 (we; can never please; anyone)
+
+ever .
+
+no matter how hard we try .
+0.24 (we; try; )
+
+The worst\  feeling you'll ever feel is sitting next to the person who means the \  world to you , knowing that you mean nothing to them :(  Should I dye my hair light black ?
+0.75 (The worst\  feeling; 'll feel; T:ever)
+0.74 (The worst\  feeling you'll ever feel; is sitting; next to the person)
+0.81 (the person; means; the \  world; to you)
+
+:/  Is going away for a while .
+
+stupid < PROPMALE > home :'(  I got rejected thursday by a friend , my dad , and my family :'(  I love you <3 you know who you are ;)  HAPPY BIRTHDAY !!!! :D  Im sorry .
+0.28 (I; got; rejected)
+0.46 (I; got rejected; thursday by a friend , my dad , and my family :'(  I love you <3 you know who you are ;)  HAPPY BIRTHDAY !!!! :D  Im sorry)
+0.31 (I; love; you)
+0.48 (you; know; you are ;)  HAPPY BIRTHDAY)
+0.61 Context(you know,List([110, 118))):(you; are ;); HAPPY BIRTHDAY)
+
+that's all i can say .
+0.10 (that; 's; all i can say)
+0.34 (all; can say; i)
+
+You're awesome and don't you dare give a shit what any of them say , okay ?
+0.43 (You; 're; awesome)
+0.36 (any of them; say; )
+
+oh , my chemical romance , you always know what to say .
+0.47 (you; know; what to say; T:always)
+0.23 Context(you know,List([27, 42))):(you; know what to say to say; )
+
+:) <3  Boy : hey\  Girl : .. hey ?
+
+\  Boy : Whats wrong ?
+
+\  Girl : ... \  Boy : WHAT ?!?!? \  Girl : Well .. we used to be close .
+0.20 (we; to be; close)
+
+I liked you .. Then you went off with \  that slut and now we never talk .
+0.30 (we; never talk; T:now)
+0.73 (you; went off; with \; T:Then)
+0.25 Context(you went off,List([20, 32))):(I; liked slut; you)
+
+So yes I am surprised you said hi .
+0.37 (I; am; surprised you said hi)
+0.36 (you; said; hi)
+
+\  WTF  I love you motherf***ers .
+0.31 (I; love; you)
+
+;)  i only get one life .
+0.45 (i; only get; one life)
+
+so why the fuck should i have to rush through every single day ?
+0.89 (the fuck; to rush; through every single day)
+
+:/  pokemon month ?
+
+Today was my last day at ParkHill ;~; now to fuckin staley .......  Went to the Staley dance yesterday .
+0.88 (Today; was my last day at; ParkHill ;~)
+
+it was really great ( dead ) , the music was awesome ( NO ) , and i just had the BEST time ... ( sigh ) .
+0.50 (i; just had; the BEST time)
+0.92 (the music; was; awesome ( NO)
+0.24 Context(the music was,List([31, 44))):(it; was; really great ( dead)
+
+GO PACKERS !!!!!!!!!!!!! :DDDD  Emos want love too .
+0.92 (DDDD  Emos; want too; love)
+
+</3  say it already .
+0.25 (</3; say; it; T:already)
+
+you hate me , you love me ?
+0.41 (you; love; me)
+0.41 Context(you love,List([14, 22))):(you; hate; me)
+
+idfk  < PROPFEMALE > by My Chemical Romance <3  I know I'm late but ... happy valentines day .
+0.24 (I; know; )
+0.28 (I; 'm; late)
+
+<3  Got my nails did , got my hair cut off , and i got that bitch to make me a sandwich .
+0.17 (<3; Got; my nails did , got my hair cut off , and i got that bitch)
+0.35 Context(<3 Got,List([0, 7))):(my nails; did; )
+0.33 (my nails; got; my hair cut off , and i got that bitch)
+0.29 Context(my nails got,List([8, 26))):(my hair; cut off; )
+0.14 (i; got; that bitch; to make me a sandwich)
+0.26 Context(i got,List([49, 54))):(i; got that bitch to make; me a sandwich)
+
+My life is pretty tank .
+0.70 (My life; is; pretty tank)
+
+lol  Things are looking up and down these days .
+0.64 (lol  Things; are looking; up and down these days)
+
+</3  Always treats the ones you care about awesome , because that just might be the last time you see them .
+0.16 (</3; treats; the ones you care about awesome; because that just might be the last time; T:Always)
+0.36 (you; care; about awesome)
+0.08 (that; just might be; the last time you see them)
+0.61 (you; see; them; T:the last time)
+
+Im not a fuckin coon you bastards !
+
+>:/  The One u just called stupid ?
+0.83 (The One u; just called; stupid)
+
+She has a learning disability & studies over 4hrs a night .
+0.52 (She; has; a learning disability & studies over 4hrs a night)
+
+The One you just called ugly ?
+0.74 (The One; just called; ugly)
+
+She spends hours putting makeup on hoping people will like her .
+0.31 (She; spends; hours; putting makeup on hoping people will like her)
+0.26 Context(She spends,List([0, 10))):(She; spends hours putting; makeup; on hoping people will like her)
+0.26 Context(She spends putting,List([0, 24))):(She; spends hours putting makeup on hoping; people will like her)
+0.78 Context(She spends putting on hoping,List([0, 41))):(people; will like; her)
+
+The One you just tripped ?
+0.88 (The One; just tripped; you)
+
+She is abused enough at home .
+0.45 (She; is abused enough; L:at home)
+
+There's alot more to people than you think .
+0.38 (you; think; )
+
+I laughed a lot today .
+0.45 (I; laughed; a lot; T:today)
+
+:) thanks people .
+
+lol  i went to < PROPMALE > and camerons show ........ someone stole shit out of my car .
+0.57 (i; went; to < PROPMALE)
+0.80 (camerons; show; someone stole shit out of my car)
+0.79 Context(camerons show,List([32, 45))):(someone; stole; shit; out of my car)
+
+T_T  new status :)  Alright everybody , i have a new number :)) here you go 8165218550 
+0.45 (i; have; a new number)
+0.57 (you; go; 8165218550; L:here)
+

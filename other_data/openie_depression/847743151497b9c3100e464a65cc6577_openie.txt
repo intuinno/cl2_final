@@ -1,0 +1,38 @@
+< PROPFEMALE > is 1 years old !
+0.87 (PROPFEMALE; is; 1 years old)
+
+As of yesterday .
+
+Sorry for the late update .
+
+Why am I always so tired these days ?
+
+I hope < PROPMALE > starts feeling better .
+0.44 (I; hope; < PROPMALE > starts feeling better)
+0.58 Context(I hope,List([0, 6))):(PROPMALE; starts feeling; better)
+
+He's not feeling very well today .
+0.45 (He; 's not feeling; very well; T:today)
+
+:(  Stay away from me for at least a few days .
+0.25 (:(; Stay; away from me; T:for at least a few days)
+
+I'm sick with something and not sure what yet .
+0.52 (I; 'm; sick with something and not sure what yet)
+
+Ugh !
+
+Hate being sick ... I have to catch up on homework now .
+0.41 (I; to catch up; on homework; T:now)
+
+Oh well .
+
+At least to rest last week .
+
+Thank you everyone for the birthday wishes !
+
+Boo boo .
+
+Very BIG boo boo .
+0.82 (Very BIG; boo; T:boo)
+

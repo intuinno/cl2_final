@@ -1,0 +1,372 @@
+Currently very sad for the passing of < PROPFIRST > Roof and my prayers go out to his family in their time of need .
+0.70 (> Roof and my prayers; go; out; to his family; T:in their time of need)
+
+Hoping for a beautiful , < PROPFEMALE > weekend so we can take the bike out for the poker run !!  \Love makes your soul crawl out from its hiding place .
+0.35 (we; can take out; T:for the poker run)
+0.82 (Hoping for a beautiful , < PROPFEMALE > weekend; makes; your soul crawl out from its hiding place)
+0.43 Context(Hoping for a beautiful , < PROPFEMALE > weekend makes,List([0, 109))):(your soul; crawl out; from its hiding place)
+
+\ " ~ < PROPFEMALE > Neale Hurston "  Buying a house is a pain in the rear !!!  Going to the Lunatic Assylum in < PROPMALE > tomorrow night ... may not come back !
+0.91 (Neale Hurston; Buying; a house)
+0.39 (a house; is a pain in; the rear)
+
+( Insert evil , maniacal laugh here .
+
+)  The Lunatic Assylum wouldn't keep me ....  Happy today is Friday !!!  Stressing about my bright idea to do a massive Thanksgiving dinner for at least 8 people !! And being very Thankful for my life , my friends , and my family !! Happy Thanksgiving !
+0.91 (The Lunatic Assylum; being; very Thankful for my life , my friends , and my family)
+0.85 (The Lunatic Assylum; would n't keep; me; T:today)
+0.55 Context(The Lunatic Assylum would n't keep,List([3, 36))):(Happy; is; Friday)
+0.79 Context(The Lunatic Assylum would n't keep,List([3, 36))):(The Lunatic Assylum; would n't keep me Stressing; about my bright idea)
+
+I really need to get some good solid sleep before I get myself into some trouble .
+0.37 (I; get; myself; into some trouble)
+0.36 (I; really need; to get some good solid sleep before I get myself into some trouble)
+0.26 Context(I really need,List([0, 13))):(I; really need to get; some good solid sleep; T:before I get myself into some trouble)
+
+Trying to get into the Christmas spirit somewhat .
+
+Pandora Christmas channel is helping .
+0.80 (Pandora Christmas channel; is helping; )
+
+I passed my exam !! I am now a Certified diabetes educator !!!! WhooHoo !
+0.31 (I; passed; my exam)
+0.57 (I; am; T:now; a Certified diabetes educator)
+
+< PROPFEMALE > Christmas to all of my friends and family !
+
+Love you !
+
+I hope everyone as a healthy , happy New Years !
+0.50 (I; hope; everyone as a healthy , happy New Years)
+
+May you be lucky enough to spend it with someone you love !
+0.42 (you; to spend; it)
+0.87 (someone; love; you)
+
+OK < PROPFIRST > , here you go ... according to urbandictionary ... ( 1 ) Uncannily fashionable girl who breaks hearts and eats them for breakfast ( 2 ) An < PROPFEMALE > girl  Nothing is on my mind ... because it is fried .
+0.53 (you; go; L:here)
+0.87 (girl  Nothing; is; on my mind; because it is fried)
+0.19 (it; is fried; )
+
+I am way to young to be suffering from C.R.S. !!  Passed the test ... going to < PROPMALE > for Weight Loss Management Conference Wednesday !!!  Back from < PROPMALE > .
+0.44 (I; am Back; way to young)
+0.46 (I; to be suffering; from C.R.S.)
+
+Enjoyed the shopping , the food , the conference was ok , but I am thrilled that I got to see Dyora !
+0.81 (the conference; was; ok)
+0.21 (I; am; thrilled that I got to see Dyora)
+0.51 (I; got; to see Dyora)
+0.44 Context(I got,List([81, 86))):(I; got to see; Dyora)
+
+Brings back fun memories of high school and Japan !
+
+Can't wait to watch < PROPFIRST > < PROPMALE>'s Food Revolution tomorrow night !!!!!
+
+Is hoping that dealing with the insurance company and DMV will go at least halfway smoothly so my hubby can ride the bike this weekend ....  is wondering what happened to the nice , summer-like weather ?  says it doesn't matter who's telling the truth ...... people will only believe what they want to hear  .. How you treat me is your < PROPFEMALE > , how I react is mine .
+0.63 (DMV; will go; )
+0.19 (I; react; )
+0.81 (DMV; at least halfway smoothly is wondering; what happened to the nice , summer-like weather)
+0.46 (you; treat; me)
+0.78 (people; will only believe; what they want to hear)
+0.37 Context(people will only believe,List([259, 283))):(they; want; to hear)
+0.27 Context(people will only believe they want,List([259, 298))):(they; want to hear to hear; )
+0.70 Context(people will only believe,List([259, 283))):(How you treat me; is; your < PROPFEMALE > , how I react is mine)
+0.52 Context(people will only believe How you treat me is,List([259, 330))):(how I react; is; mine)
+
+I would like to report a theft , my weekend has been stolen !
+0.34 (my weekend; has been stolen; )
+0.39 (I; would like; to report a theft)
+0.26 Context(I would like,List([0, 12))):(I; would like to report; a theft , my weekend has been stolen)
+
+I saw it early Friday afternoon , then turned around and it was gone ..  thinks her guardian angel is on dope  Wishes she had the energy of her new puppy !?!  Says its not so clever to follow in my footsteps .. I'm well known to walk into things !!  Knowledge is like knowing that a tomato is a fruit .
+0.42 (I; saw; it; T:early Friday afternoon)
+0.37 (she; had; the energy of her new puppy !?!)
+0.41 (I; to walk; into things)
+0.19 (it; was gone; )
+
+Wisdom is knowing not to put it in your fruit cocktail .
+0.86 (Wisdom; is knowing; not to put it in your fruit cocktail)
+
+Is drinking coffee for your protection ...  If you don't tell someone you love them today , then they may never know , as tomorrow maybe just to late !!!  Whoever decided that a one inch mars bar should be called ' fun size ' needs to seriously re-examine their standards for entertainment .
+0.62 (you; do n't tell; someone)
+
+unfortunately has not become a millionaire over the weekend ... and thus as of this morning has returned to work !
+
+\Tired\ " is an understatement .
+0.93 (\Tired\; is; an understatement)
+
+\ " Half dead\ " is a better way of putting it !
+0.90 (\ " Half dead\; is; a better way of putting it)
+
+"  Just when I was getting used to yesterday , along came today ...  If you look at what you have in life , you'll always have more .
+0.41 (I; getting; used to yesterday)
+0.34 (you; 'll have; more; T:always)
+0.67 Context(you 'll have,List([108, 126))):(Just when I was getting used to yesterday; along came; T:today)
+0.45 (I; was getting used; to yesterday)
+0.46 (you; look; at what you have in life)
+0.62 (you; have; L:in life)
+
+If you look at what you don't have in life , you'll never have enough .
+0.36 (you; look; at)
+0.32 (you; do n't have; )
+0.36 (you; 'll never have; enough)
+
+sad ...  \What lies behind us and what lies ahead of us are < PROPFEMALE > matters compared to what lies within us .
+0.22 (sad; lies; behind us)
+0.82 (sad ...  \What lies behind us and what lies ahead of us; are; PROPFEMALE)
+
+\ " Thoreau "  Someone told me that had a dream about me last night and I was wearing a bikini ... I told them it was really a night-mare and they may really need some psychological help after that image !
+0.37 (they; may really need; some psychological help after that image)
+0.45 (I; was wearing; a bikini)
+0.21 (I; told; them; it was really a night-mare and they may really need some psychological help after that image)
+0.82 Context(I told,List([99, 105))):(Thoreau "  Someone; told; me; that had a dream about me last night and I was wearing a bikini)
+0.39 Context(I told,List([99, 105))):(it; was really; a night-mare)
+
+;)  thinks that drinking coffee gives her the ability to do dumb things faster and with more enthusiasm .
+0.55 (;); thinks; that drinking coffee gives her the ability)
+0.87 Context(;) thinks,List([0, 10))):(drinking coffee; gives; her; the ability to do dumb things faster and with more enthusiasm)
+
+OOOHHHHH !!! Lovin ' the mobile upload thing !
+
+I am gettin ' all high tech and junk !
+0.41 (I; am gettin; all high tech and junk)
+
+Thinks it's not WHAT you have in your life that counts , but WHO you have in your life that counts .
+
+On The Way To See Sister < PROPFEMALE > In Roanoke !
+
+Loved Sister < PROPFEMALE > !
+
+They were awesome and one of the best bands I have seen live .
+0.62 (They; were; awesome and one of the best bands)
+0.89 (the best bands; have seen live; I)
+
+One thing you really need to remember about Karma -- no matter where you are in life or what you're doing -- she will come to collect her debt .
+0.27 (she; to collect; her debt)
+0.32 (you; are; )
+0.32 (you; 're doing; )
+
+Ever notice that the people who claim to hate drama the most are the ones usually creating it or passing it around ?
+0.89 (the people who claim to hate drama the most; passing around; it)
+0.86 (the people; claim; to hate drama the most)
+0.86 Context(the people claim,List([17, 37))):(the people; claim to hate; drama; T:the most)
+
+The greatest value of having good people around you is not what you get from them but the better person you become because of them ...  is extremely blessed to have such amazing friends all over the world .
+0.59 (The greatest value of having good people around you; is not; what you get from them)
+0.47 Context(The greatest value of having good people around you is not,List([0, 58))):(you; get; from them)
+0.82 (the better person; become; because of them)
+0.85 (the better person you become because of them; is; extremely blessed to have such amazing friends all over the world)
+
+Dreams are illustrations from the book your soul is writing about you  ' s halo is held up by two horns ... mwahaha  is raising the white flag and waving frantically .
+0.86 (Dreams; are; illustrations from the book your soul is writing about)
+0.38 (your soul; is writing; about)
+0.68 (you  ' s halo; is held up; by two horns)
+0.89 (Dreams; are illustrations from; the book)
+
+Now take me to my padded room so I can have a vacation !
+0.45 (I; can have; a vacation)
+
+It's so great to find that one special person you want to annoy for the rest of your life .
+0.48 (you; want; to annoy for the rest of your life)
+0.86 Context(you want,List([46, 54))):(that one special person; to annoy; you)
+
+~ Rita Rudner  \A true friend is someone who thinks that you are a good egg even though he knows that you are slightly cracked .
+0.83 (~ Rita Rudner  \A true friend; is; someone who thinks that you are a good egg)
+0.59 (someone; thinks; that you are a good egg)
+0.55 Context(someone thinks,List([33, 51))):(you; are; a good egg)
+
+\ " \  Never try to baptise a cat ... it is not pretty .
+0.18 (it; is not; pretty)
+
+Ouch !
+
+always thought that a bag of Hershey kisses was a single serving ...  Today's forecast : slightly drowsy at first but with increasing hyperactivity later , due to high levels of caffeine .
+0.37 (a single serving; was a bag of; Hershey kisses)
+
+I wanna know who is supposed to be in charge of Monday .... it came along and ate my Thursday !
+0.31 (it; ate; my Thursday)
+0.48 (I; wan; na know who is supposed to be in charge of Monday .... it came along and ate my Thursday)
+0.44 Context(I wan,List([0, 5))):(I; wan na know; who is supposed to be in charge of Monday)
+0.19 Context(I wan na know,List([0, 12))):(it; came; along)
+
+To whomever put the crack in my coffee this morning , please come back ... I need some more .
+0.23 (I; need; some more)
+
+It is wearing off !
+0.19 (It; is wearing off; )
+
+Keep smiling , it freaks people out !!  is at work , currently taking a lunch break and catchin ' up on the Facebook posts .
+0.44 (it; freaks out; people)
+0.48 (it; is; at work)
+
+damn , damn , damn ... now a trip to ICU .
+
+Keep praying everyone , please !
+
+Please keep my grandad in your prayers .
+
+Thank you all !
+
+As far as I know , Grandad is still in ICU .
+0.24 (I; know; )
+
+Hopefully in the next day or two they will move him out to a regular room .
+0.61 (they; will move; him; out; to a regular room; T:Hopefully in the next day or two)
+
+Thank you to all of those who have prayed .
+0.07 (those; have prayed; )
+
+Wish my mother would call and give me an update on Grandad .
+0.49 (my mother; give; me; an update on Grandad)
+
+I am so worried and scared that if something happens I won't be able to get there in time .
+0.26 (I; am; so worried and scared that if something happens I won't be able to get there in time)
+0.71 (something; happens; )
+0.45 (I; wo n't be; able to get there in time)
+0.41 (I; to get; there; T:in time)
+
+Nothing else they can do for Grandad .
+0.90 (Nothing else; can do; for Grandad)
+
+We will be heading there after work .
+0.45 (We; will be heading; there; T:after work)
+
+Thank you for all of your prayers and thoughts .
+
+Grandad is off the vent breathing on his own right now but it is so hard to see him this way .
+0.89 (Grandad; is; off the vent breathing on his own; T:right now)
+
+Grandad is now in a hospice house and we are on our way home .
+0.94 (Grandad; is; T:now; in a hospice house)
+0.31 (we; are; on our way home)
+
+For now .
+
+Grandad passed away about 5am this morning .
+0.92 (Grandad; passed away; about 5am; T:this morning)
+
+I am an hour out of < PROPFEMALE > feeling kinda numb .
+0.68 (I; am; an hour out of < PROPFEMALE > feeling kinda numb)
+0.64 (PROPFEMALE; feeling; kinda numb)
+
+Guess I'll be on my way back down to Fla in a couple of days .
+
+I pray that Grandad understands why I can't be at his funeral today , and that the rest of my family understands as well .
+0.41 (the rest of my family; understands as well; )
+0.20 (I; pray; that Grandad understands why I can't be at his funeral today , and that the rest of my family understands as well)
+0.83 Context(I pray,List([0, 6))):(Grandad; understands; why I can't be at his funeral today)
+0.26 Context(I pray Grandad understands,List([0, 31))):(I; ca n't be; at his funeral; T:today)
+
+You were a good man , a spactacular grandfather , a wonderful father , and an exceptional husband .
+0.72 (You; were; a good man , a spactacular grandfather , a wonderful father , and an exceptional husband)
+
+I love you and miss you Grandad .
+0.31 (I; love; you)
+0.38 (I; miss; you; Grandad)
+
+life so sucks sometimes .
+0.77 (life; sucks; T:sometimes)
+
+knew she was getting sick .
+
+Confirmed today at work .
+
+Not the flu or strep , but a crappy virus .
+
+Got a fever and I'm freezing .
+0.19 (I; 'm freezing; )
+
+Off to home I go to bury myself in the bed .
+0.27 (I; to bury; myself; in the bed)
+
+Thank you all for the get well wishes .
+
+Tamiflu is the bomb !
+0.94 (Tamiflu; is; the bomb)
+
+Knocked it out in 3 days !
+
+I like it on the dining room table !
+0.31 (I; like; it; L:on the dining room table)
+
+Gotta love having your birthday off and your fiancee's band playing that night ... ready made party !
+
+Thank you all so very much for the birthday wishes .
+
+I am so blessed to have you all in my life .
+0.37 (I; am; so blessed to have you all in my life)
+0.27 (I; to have; you; L:in my life)
+
+I get half a day off today ... I am going to take a nap !
+0.41 (I; to take; a nap)
+
+I am so tired of hurting this bad .
+0.52 (I; am; so tired of hurting this bad)
+
+I will be insisting on surgery .
+0.45 (I; will be insisting; on surgery)
+
+Why do people bother with the ER .
+
+Hughe waste of time .
+
+is hungry .
+
+very disappointed in the Steelers .
+
+I think surgery is going to be a Godsend !
+0.90 (surgery; to be; a Godsend)
+0.51 (I; think; surgery is going to be a Godsend)
+
+Glad the work week is over .
+
+Going home .
+
+Surgery on Monday !
+
+Finally !
+
+WooHooo !!  is drugged up and tired from surgery .
+0.74 (WooHooo; is drugged up; )
+
+Getting around a little better today .
+
+But it is going to be a while yet .
+0.41 (it; to be; a while; T:yet)
+
+Having to sleep a lot and still having a good bit of nausea .
+
+Thank God for jello and apple juice .
+
+Thankful that I can enjoy the winter wonderland from the comfort of my couch .
+0.31 (I; can enjoy; the winter wonderland from the comfort of my couch)
+
+Today is not such a good day ... recovery is a rollercoaster sometimes .
+0.90 (recovery; is; a rollercoaster; T:sometimes)
+0.87 Context(recovery is,List([33, 44))):(Today; is not; such a good day)
+
+This year has been a miracle from God .
+0.92 (This year; has been; a miracle from God)
+
+Happy Birthday Jesus .
+
+I hope everyone has Christmas blessings as wonderful as I have .
+0.19 (I; have; )
+0.44 (I; hope; everyone has Christmas blessings as wonderful)
+0.92 Context(I hope,List([0, 6))):(everyone; has; Christmas blessings as wonderful)
+
+Thank you to all my friends and family .
+
+I love you .
+0.31 (I; love; you)
+
+ANNOUNCEMENT TO ALL FRIENDS and FAMILY : My name has changed , it is now < PROPFEMALE > V .
+0.50 (it; is; T:now; PROPFEMALE)
+0.29 Context(it is,List([63, 68))):(My name; has changed; )
+
+Groves .
+
+We got married today at 1pm !!!!  Thank you all so much for the congrats and well-wishes !
+0.52 (We; got; married; T:today)
+0.45 (We; got married; T:today; T:at 1pm)
+

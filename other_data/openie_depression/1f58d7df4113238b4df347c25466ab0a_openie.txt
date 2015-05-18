@@ -1,0 +1,304 @@
+I need to hook up a scanner ...
+0.40 (I; need; to hook up a scanner)
+0.40 Context(I need,List([0, 6))):(I; need to hook up; a scanner)
+
+This picture is from a year ago ... I think ... So far only one i got without a scanner :P .
+0.60 (only one; got; without a scanner :P)
+0.11 (I; think So far; )
+0.91 Context(I think So far,List([36, 54))):(This picture; is; from a year ago)
+
+How do I get more in the About Me section ?
+
+God , I need to get a new pic , I don't even have my neckerchief slide on ...  I've been fanigeling with the various options ... So if you can't see my profile even if friended ...
+0.45 (I; 've been fanigeling; with the various options)
+0.36 (I; do n't even have; my neckerchief slide on ...  I've been fanigeling with the various options)
+0.39 Context(I do n't even have,List([32, 49))):(I; need; to get a new pic)
+0.39 Context(I need I do n't even have,List([6, 49))):(I; need to get; a new pic)
+
+You know why :P .
+0.72 (You; know; why :P)
+
+I've stopped fanigling with options ...
+0.40 (I; 've stopped; fanigling with options)
+0.40 Context(I 've stopped,List([0, 12))):(I; 've stopped fanigling; with options)
+
+You can all see my glorious (: P ) profile now , all in its complete ( not very detailed ) < PROPFEMALE > .
+0.46 (You; can all see; my glorious (: P ) profile; T:now)
+
+\solambal barjer\ " was the verification code thing for Selin ... Odd ... It actually sounds like jibberish Arabic o_O ... Well at least phonetically .... Then again I never claimed to be an expert on Arabic ... or Turkish .... Or any language for that matter ... "  r cap .... :P .
+0.93 (\solambal barjer\; was; the verification code thing)
+0.24 (It; actually sounds; like jibberish Arabic o_O ... Well at least phonetically .... Then again I never claimed to be an expert on Arabic ... or Turkish .... Or any language for that matter)
+
+Read the one below me last ....  Third one from this post ...  Fourth one from THIS current post ....
+
+The most current ...  That is the most current in relation to .... Shit ...  This is going nowhere ... Tweeedlllleee !
+0.61 (That; is; the most current in relation to .... Shit ...  This is going nowhere ... Tweeedlllleee)
+0.39 (That; is the most current in; relation)
+
+\This is your publisher .
+0.81 (\This; is; your publisher)
+
+\ " This is publisher on drugs sDBHHJADSFADSHGFADBSBGEWGHRGVDSGHJGhfdGFdgfdfgdfgdfgdfgdcgffcgf2g1f3gh2f14213hjghgfh12g2f3ghf4rgh32f4 "  Wasn't able to go to < PROPFIRST>'s party :( .
+0.86 (\; Was n't; able to go to < PROPFIRST>'s party)
+0.43 Context(\ Was n't,List([0, 142))):(This; is; publisher on drugs sDBHHJADSFADSHGFADBSBGEWGHRGVDSGHJGhfdGFdgfdfgdfgdfgdfgdcgffcgf2g1f3gh2f14213hjghgfh12g2f3ghf4rgh32f4)
+0.50 (This; is publisher on; drugs)
+
+I'M SEEING < PROPMALE > POTTER TONIGHT AT 12:01 AM !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  Still look rather dorky but better than the first :P .
+0.49 (I; 'M Still better; SEEING < PROPMALE)
+
+Its 3:26 AM ... Do you know where your children are O_O .  is thinking about watching The Last Unicorn ...  I'm in Boston ... Been in Boston since Friday .... Coming back home ( or rather < PROPMALE > first on Monday ... ) Hello everybody from Boston :D .
+0.92 (The Last Unicorn; Been; in Boston; T:since Friday)
+0.50 Context(The Last Unicorn Been,List([86, 130))):(I; 'm; in Boston)
+
+Well apparently Facebook doesn't support the proper way to deal with these games >_> .
+
+Listening to Jell-O Biafra on NPR .  is currently stuck at school ...
+
+There are no public transit buses after 4:10 :D .  is currently at school .... thought his class was at 12:15 ... Its at 1:40 ....  Hey I just want to thank everyone who took the time to say happy birthday .
+0.85 (everyone; took; the time)
+0.85 Context(everyone took,List([157, 174))):(everyone; took the time to say; happy birthday)
+0.39 (I; just want; to thank everyone)
+0.39 Context(I just want,List([136, 147))):(I; just want to thank; everyone who took the time)
+0.89 (There; are no public transit buses after; 4:10 :D)
+
+I don't exactly log on alot and havn't checked my e-mail in a week .
+0.45 (I; do n't exactly log; on alot)
+0.27 (I; hav n't checked; my e-mail; T:in a week)
+
+I just don't want people thinking I'm an ungrateful bastard :D .
+0.26 (I; just do n't want; people thinking I'm an ungrateful bastard)
+0.78 Context(I just do n't want,List([0, 17))):(people; thinking; I'm an ungrateful bastard)
+0.46 Context(I just do n't want people thinking,List([0, 33))):(I; 'm; an ungrateful bastard)
+
+I ate meat on Fridays only twice this year's Lent and now I get snow in October ... Its not even Halloween yet !
+0.50 (I; ate; meat on Fridays; T:only twice)
+0.70 (I; get; snow; T:in October; T:now)
+
+Remember , to eat your tuna salad if you're Catholic kiddies , lest Hell freeze over :P .
+0.68 (you; 're; Catholic kiddies)
+0.88 (Hell; freeze; over :P)
+
+Happy New Year !  is reading Dracula ...  Also < PROPMALE > the Cat is AMAZING !
+
+\Ever mated with an aardvark before ?
+0.92 (\Ever; mated; with an aardvark; T:before)
+
+Its a rare oppurtunity- you know- we're scarce .
+0.24 (we; 're; scarce)
+0.33 Context(we 're,List([34, 39))):(you; know; )
+
+\ " lol "  drinking Ovaltine ... Chocolate malt FTW !
+
+class was cnacelled :D .
+0.84 (class; was cnacelled; T::D)
+
+Snow day !
+
+just read La Zadunga last night for Cultural Anthropology ... Took 7 hours but I did it !
+0.37 (I; did; it)
+
+Only about 175 pages long ...  Well college site is back ... But still unsure if my last class is cancelled ( first one already is ) .
+0.81 (college site; is; back)
+0.36 (my last class; is cancelled; )
+0.28 (first one; already is; )
+
+They are adding them at a rather slow pace right now .
+0.46 (They; are adding; them; T:right now)
+
+I have to leave in like half an hour and then I have no way of knowing until 3:05 :P .
+0.41 (I; to leave; T:in like half an hour)
+0.60 (I; have; no way of knowing; T:then)
+
+Seems like after I refresh the < PROPFEMALE > every few minutes more classes are added .
+0.50 (I; refresh; the < PROPFEMALE >)
+0.73 (more classes; are added; )
+
+hates Friend Facts and FriendQuiz ... Anyway to shut it off ?
+
+I hate the notifications .
+0.45 (I; hate; the notifications)
+
+also hates going to college on President's Day ....  Facebook is pissing me off with these errors >:( .
+0.82 (Facebook; is pissing off; me)
+
+dad just had a bookshelf falldown on him a few mintues ago ...
+0.70 (dad; just had; a bookshelf falldown; L:on him; T:a few mintues ago)
+
+He got better ...  No , TV in my room , so I'm gonna watch < PROPFIRST > < PROPMALE > tickle a baby otter ...  I feel really awful right now .
+0.28 (I; na watch PROPFIRST; a baby otter)
+0.12 Context(I na watch PROPFIRST,List([43, 70))):(I; na watch PROPFIRST tickle; )
+0.18 (I; feel; really awful; T:right now)
+0.31 Context(I feel,List([111, 117))):(He; got; better; L:in my room)
+
+:(  AAAAARRRRRRGGGGG !!  I will be steadily defriending , there is just too much going on that I don't care about .
+0.17 (I; steadily defriending; )
+0.18 (I; do n't care; about)
+
+Please don't take it personally .
+
+M/W\  English Comp .
+
+II 1:40 - 2:55 PM\  Intermediate\  Algebra 3:05 - 4:20 PM\  W\  Journalism I 5:00 - 6:15 PM\  \  T\  Intro .
+
+\  to Environmental Science 12:15 - 2:55 PM\  Th\  Environmental Science \  ( Lab ) 12:15 - 2:55 PM\  T/Th\  Cultural Geography 3:05 - 4:20 PM\  My college schedule , seems random but I assure anyone that my interdisplinary studies are part of a \life plan\ " ... That is if I beleived in that shit :P .
+0.66 (my interdisplinary studies; are; part of a \life plan\)
+0.27 (I; beleived; L:in that shit; T::P)
+0.20 (I; assure; anyone that my interdisplinary studies are part of a \life plan\; That is if I beleived in that shit :P)
+0.13 Context(I assure,List([184, 192))):(That; is; if I beleived in that shit :P)
+0.39 (my interdisplinary studies; are part of; a \life plan)
+
+"  Its almost 2PM ... Yet the sky is as dark as evening ...
+0.93 (the sky; is; as dark as evening)
+
+Although luckily , no green clouds .
+
+Going into the city to see The Merchant In < PROPFEMALE > in Central Park with < PROPMALE > Pacino !... Have to be on line for tickets at 4AM however ... They're free ...  I missed my bus :( .
+0.91 (Pacino; to be; on line for tickets; T:at 4AM however)
+0.26 (I; missed; my bus)
+0.37 Context(I missed,List([172, 180))):(They; 're; free)
+
+Am now stuck on Main Street until 1:11 ... Now I'm going to be 30 < PROPFEMALE > late to class ... As opposed to an hour and 35 < PROPFEMALE > early for class o_O .
+0.93 (Am; stuck; on Main Street; T:until 1:11; T:now)
+0.20 (I; to be; 30)
+
+Worst part is I kept telling myself I could just get a new printout of my schedule at the school , also I found it in the pocket of my bag I had already looked in three times :D .
+0.26 (I; found; it; L:in the pocket of my bag)
+0.89 Context(I found,List([104, 111))):(Worst part; is; I kept telling myself I could just get a new printout of my schedule at the school)
+0.36 Context(Worst part is I found,List([0, 111))):(I; kept telling; myself; I could just get a new printout of my schedule at the school)
+0.45 Context(Worst part is I kept telling I found,List([0, 111))):(I; kept telling kept; telling myself I could just get a new printout of my schedule at the school)
+0.26 Context(Worst part is I kept telling I found,List([0, 111))):(I; could just get; a new printout of my schedule)
+0.43 Context(I found,List([104, 111))):(I; had looked; in three times; T:already)
+
+Your status update is too long .
+0.48 (Your status update; is; too long)
+
+The maximum status length is 420 characters ...  Incase anyone was wondering , I was sick today with a horrible migraine , I was unable to look at a computer screen without exploding my brains :P .
+0.71 (anyone; was wondering; )
+0.41 (I; to look; at a computer screen)
+0.42 (I; was; unable to look at a computer screen without exploding my brains :P)
+0.46 Context(I was,List([123, 128))):(I; was; sick; T:today)
+0.92 Context(I was I was,List([79, 128))):(The maximum status length; is; 420 characters ...  Incase anyone was wondering)
+0.39 (I; was sick today with; a horrible migraine)
+
+It went away but I'm still feeling weird .
+0.28 (It; went; away)
+0.25 (I; 'm feeling; weird; T:still)
+
+Somehow I think I supressed that cold everybody had the first week to the < PROPMALE > :P .
+0.24 (I; think; I supressed that cold everybody had the first week to the < PROPMALE > :P)
+0.16 Context(I think,List([8, 15))):(I; supressed; )
+0.91 Context(I think I supressed,List([8, 27))):(that cold everybody; had; the first week)
+
+Thank you everyone :D .
+
+Let there be cake and happiness for all :3 .
+
+WTF is everybody becoming a < PROPMALE > ?
+
+< PROPMALE > J .
+
+care to comment :| ?
+
+I was at the Giants game tonight :D .
+0.57 (I; was; at the Giants game tonight :D)
+
+It was fun , I tailgated , drank Mt .
+
+Dew Throwback ( real sugar makes it taste awesome ! ) , and experienced a small power outage :D .
+0.89 (real sugar; experienced; a small power outage :D)
+0.80 (real sugar; makes; it taste awesome)
+
+Cellphones look cool in the dark , the whole stadium looked like it was filled with stars :D .
+0.89 (Cellphones; look; cool; L:in the dark)
+0.85 (the whole stadium; looked; like it was filled with stars)
+0.45 (it; was filled; with stars)
+0.63 (stars; :D; )
+
+Also that holding penalty was bullcrap , the Giants should have gotten that one :P .
+0.93 (that holding penalty; was; bullcrap)
+0.82 (the Giants; should have gotten; that one :P)
+
+I'm going to see Deathly Hallows in Imax tonight :D !
+0.46 (I; to see; Deathly Hallows; L:in Imax tonight :D)
+
+Happy Thanksgiving !
+
+And due to something I recently saw , I hope you enjoy your eel :D .
+0.86 (something; saw; T:recently)
+0.26 (I; hope; you enjoy your eel)
+0.40 Context(I hope,List([38, 44))):(you; enjoy; your eel)
+
+I'm not coming in today , so if you're looking for me ... STOP :D  I just saw something squirming under my covers when coming back from the bathroom and remembered my dog was under there >_> .
+0.45 (I; 'm not coming; T:in today)
+0.27 (I; remembered; my dog)
+0.46 (you; 're looking; for me)
+0.72 (STOP :D; was; under there >_>)
+0.36 (I; just saw; something squirming under my covers when coming back from the bathroom)
+0.78 Context(I just saw,List([67, 77))):(something; squirming; L:under my covers; T:when coming back from the bathroom)
+
+For a split second I almost freaked out .
+0.55 (I; almost freaked out; T:For a split second)
+
+Hmmm ... Facebook isn't updating right :P .
+0.92 (Facebook; is n't updating; right :P)
+
+MUST GET PAPER DONE NEED FEW MORE PAGES !
+
+Everybody is doing it :P .
+0.82 (Everybody; is doing; it; L::P)
+
+I need to find a more square picture .
+0.40 (I; need; to find a more square picture)
+0.40 Context(I need,List([0, 6))):(I; need to find; a more square picture)
+
+I can't find my pants !
+0.31 (I; ca n't find; my pants)
+
+My phone is in them :P .
+0.56 (My phone; is; in them)
+
+I just saw < PROPFIRST > Pilgrim , and it was good .
+0.45 (I; just saw; PROPFIRST > Pilgrim)
+0.28 (it; was; good)
+
+Absinthe is delicious ...  My whole life I thought \clandestine\ " meant \ " pure\ " thanks for the wakeup call Dictionary.com .
+0.84 (Absinthe; is; delicious)
+0.51 (I; thought; \clandestine\ " meant \ " pure\ " thanks for the wakeup call)
+
+It just sounded like a \ " good\ " word ok ?
+0.45 (It; just sounded; like a \ " good\ " word; ok)
+
+"  This little dog that pops up while watching AS is freaking me out O_O .
+0.72 (This little dog; pops up; )
+0.82 (AS; is freaking out; O_O)
+
+I was just watching Thursday's < PROPFIRST > < PROPMALE > , he lost the future .
+0.50 (I; was just watching PROPFIRST; Thursday's <)
+0.46 Context(I was just watching PROPFIRST,List([0, 42))):(he; lost; the future)
+
+I'm assuming < PROPMALE > doesn't have a facebook < PROPFEMALE > , damn , have to ask him for Minecraft info next time I see him .
+
+Getting Pokemon Black this week , within the next three days :D .
+0.81 (the next three days; :D; )
+
+Its going to be ... EPIC !
+0.41 (Its; to be; EPIC)
+
+It's National Book Week .
+0.57 (It; 's; National Book Week)
+
+The rules are : Grab the closest book to you .
+0.81 (The rules; are; Grab the closest book to you)
+
+Turn to < PROPFEMALE > 56 .
+
+Copy the 5th sentence as your status .
+
+Don't mention the book .
+
+Post these rules as part of your status .
+
+\  \For a score of centuries I lay entombed in the Land which I abhor 
+0.89 (a score of centuries; lay; in the Land)
+0.88 (the Land; abhor; I)
+

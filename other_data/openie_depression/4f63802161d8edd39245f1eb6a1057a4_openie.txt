@@ -1,0 +1,2129 @@
+helllllo 4 hours of sleep .
+
+the jammy shuffle , the jammy shuffle everyone do the jammy shuffle !
+0.90 (the jammy; shuffle; everyone)
+
+anyone know the SQR3s needed for bio ?
+0.93 (anyone; know; the SQR3s)
+0.93 (the SQR3s; needed; for bio)
+
+anyone know the sqr3s for bio ?
+0.92 (anyone; know; the sqr3s for bio)
+
+wishes i could drive  sunburnt her cheeks :)  ah .
+
+who needs them ?
+
+scrumptious brownies  he deleted me off his myspace .
+0.30 (he; deleted off; me)
+
+HA  lets get chased by people in jabberwocky masks !
+0.52 (s; get; chased by people in jabberwocky masks)
+
+sooo scary  gonna burn like a baby  today is a day which i want to run away and forget everything .. just for fun  wants to be tannnnnn  movie with < PROPFEMALE > and < PROPFEMALE > hahah  at the familyyyyyys  you can sleep when youre dead  caffeine is the instant fix  loves the exhaustion and sun burn cheer camp gives you  cheer camp !
+0.75 (sooo scary  gon; na burn; )
+0.91 (a day which i want to run away and forget everything .. just for fun; wants; to be tannnnnn  movie with < PROPFEMALE >)
+0.35 (youre; burn; )
+0.86 (a day which i want to run away and forget everything .. just for fun; to be; tannnnnn  movie with < PROPFEMALE)
+0.58 (i; want; to run away and forget everything .. just for fun)
+0.19 Context(i want,List([57, 63))):(i; want to run; away)
+0.30 Context(i want,List([57, 63))):(i; want to forget; everything)
+0.58 (you; can sleep; T:when youre dead  caffeine is the instant fix  loves the exhaustion and sun)
+0.87 (cheer camp; gives; you; T:today)
+0.94 Context(cheer camp gives,List([304, 320))):(sooo scary  gonna burn like a baby; is; a day which i want to run away and forget everything .. just for fun  wants to be tannnnnn  movie with < PROPFEMALE > and)
+0.90 (dead  caffeine; is; the instant fix  loves the exhaustion and sun)
+0.89 Context(dead caffeine is,List([235, 252))):(the instant fix; loves; the exhaustion and sun)
+
+go cheer !
+
+yeah !  has some friggin funky tan lines  stressed , tired , sunburnt .
+
+nothing works out  cheer weekend is over and im exhaust : )  so tiredddd  has krystalll over !
+0.62 (nothing; works out has krystalll over; )
+0.90 (cheer weekend; is over so tiredddd; exhaust)
+
+feels awkwardly sick  ready for a great day : )  so does this look like a sad face ?
+
+spending the weekend with sayleee and the day with < PROPFIRST > ; )  big big day coming up , so i must sleep  still waiting on that phone  such a random little night .
+0.75 (big big day; coming up; )
+0.32 (i; must sleep; T:spending the weekend with sayleee and the day with < PROPFIRST > ; )  big big day coming up , so i must sleep  still waiting on that phone  such a random little night .)
+0.31 (i; waiting; L:on that phone; T:such a random little night; T:still)
+
+love the betts/wolcott play dates/gossip nights ... guess we can coach tomorrow  10 more minutes at workkk  < PROPFEMALE > !
+
+you look like me .... Like a slut ?
+0.46 (you; look; like me)
+
+mwhahaha  wants to keep sleeping  is ready for the day !
+
+work , cheer and wolf pack coaching !
+
+wolf packkkk !
+
+o taco < PROPFEMALE > !
+
+so much time !
+
+internet shopping is not satisying  my online assignments dont post til noon ?
+0.80 (internet shopping; is not satisying; my online assignments dont post til noon)
+0.60 Context(internet shopping is not satisying,List([0, 34))):(my online assignments; do nt post; til noon)
+
+argh .
+
+im confused  ahhhh , stress stress stress  yakima was fun .
+
+school tomorrow !
+
+i love pierce  realizes .
+0.45 (i; love; pierce  realizes)
+
+why do online homework ?
+
+shake shake shake shake shake shake shake shake SHS  almost done with my homework due at midnight .
+0.76 (SHS; almost done; with my homework due at midnight)
+
+muchhh better than last week  smile :)  what are you drinking ?
+
+procrastination is an < PROPMALE >  had a great time being a twin !
+0.90 (procrastination; is; had a great time)
+0.91 (a great time; being; a twin)
+
+asl is my only class on friday .
+0.76 (asl; is; my only class on friday)
+
+oh what to do to kill time ?
+
+loves desperate housewives  < PROPFEMALE > will seek potatoes .
+0.83 (PROPFEMALE; will seek; potatoes)
+
+do what ?
+
+seek potatoes .
+
+check your t9  standing up in the library  quarter is over so sooooon !
+0.62 (check your t9  standing up in the library  quarter; is; over; T:so sooooon)
+
+im excited :)  so happy i dont go to high school :)  7 hours to make a research essay and journals .
+0.45 (i; do nt go; to high school)
+
+can i do it , yes .
+
+do i want to , no .
+
+reseach essay procrastination  i beat my online english class deadline with 40 minutes to spare  research essay in the lab , how fun .
+0.26 (i; beat; my online english class deadline; to spare  research essay in the lab)
+0.29 Context(i beat,List([31, 37))):(i; beat my online english class deadline to spare; research essay; L:in the lab)
+
+time for me to call it quits and go home to eat lunch with my tay-baby  cheeeeeeeeeeeer  theology for 5 year olds , < PROPFEMALE > is so funny  got paid  procrastination at it's finest  waste of a day .
+0.31 (me; to call; it; quits)
+0.26 (me; to go; home; to eat lunch with my tay-baby  cheeeeeeeeeeeer  theology for 5 year olds)
+0.18 Context(me to go,List([9, 35))):(me; to go to eat; lunch; with my tay-baby  cheeeeeeeeeeeer  theology)
+0.52 (it; 's; finest  waste of a day)
+0.60 (time for me to call it quits and go home; is; so funny)
+
+completely  really freaking wants taco < PROPFEMALE >  the twitch in my arm is back  final final tomorrow @ noon .
+0.35 (completely  really freaking; wants; taco)
+0.71 Context(completely really freaking wants,List([0, 33))):(the twitch in my arm; is; back; T:final final tomorrow; T:@ noon)
+
+now , watching my tivo'd shows in a comfy value village sweater :)  FREEEDOM !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  hi its lets creep on < PROPFEMALE > day !!  friday babysitting my sisters .
+0.76 (its let; s creep; on; T:day; T:now)
+
+so much fun today at the community dinner ... \your the same !! \""  would love to do something tonight  hypocrite  nice day :)  fell at least 5 times in an hour .
+
+imma nerd :)  so much to say , so little care  cheeeer tonight !
+
+yeah girls bball !
+
+goal .
+
+be awake by 9 tomorrow  fun cheer breakfast !
+
+creeeeping  cheeeeering  my gingerbread stonehenge was recognizable !!!!!!!!  when 4 girls all know asl  peppermint mocha creamer is now being made YEAR ROUND .
+0.86 (creeeeping  cheeeeering  my gingerbread stonehenge; was; recognizable; T:when 4 girls all know asl  peppermint mocha creamer is now being made YEAR ROUND)
+0.19 (all; know; )
+
+i will officially never stop drinking coffee :)))  E Special , the < PROPMALE > Brothers !!!  is it christmas ?
+0.39 (i; will officially never stop; drinking coffee)
+0.39 Context(i will officially never stop,List([0, 28))):(i; will officially never stop drinking; coffee)
+
+no ... is it christmas ( gasp ) YES !
+
+we live on front porches and swing life away  such a fun day !
+0.45 (we; live; L:on front porches and swing life; T:away; T:such a fun day)
+
+a fun girls night , coffee with some more girls , some shopping with my mom , reannie's house ( HAPPY BIRTHDAY GIRLLL ) .
+
+i love winter break :))  yeah , chill night with sayle at trevors !  4 allergy pills make me woozy .
+0.82 (4 allergy pills; make; me woozy)
+0.40 Context(4 allergy pills make,List([69, 89))):(i; love; winter break)
+0.30 Context(i love 4 allergy pills make,List([0, 89))):(i; love winter break chill; night; L:at trevors)
+
+I lalaloveeeee < PROPFEMALE > Grosse  avoiding the 15 poems i must read and analyze .
+0.92 (Grosse; avoiding; the 15 poems)
+0.17 (i; analyze; )
+0.40 (I; lalaloveeeee; PROPFEMALE)
+0.16 Context(I lalaloveeeee,List([0, 14))):(i; must read; )
+
+tomorrow should bring about 15 more .
+0.75 (tomorrow; should bring; about 15 more)
+
+yeah literature  so as im sitting on facebook playing happy aquarium , i look over to see the guy who took me to school cuz he was taking estevan also addictedly playing happy aquarium .
+0.17 (im; sitting; on facebook)
+0.16 (he; was taking estevan; )
+0.29 Context(he was taking estevan,List([124, 145))):(he; was taking estevan addictedly playing; happy aquarium)
+0.89 (facebook; playing; happy aquarium)
+0.87 (the guy; took; me; to school; T:cuz he was taking estevan also addictedly playing happy aquarium)
+
+I am validified .
+0.28 (I; am; validified)
+0.17 (I; validified; )
+
+met walmart boy today !
+
+needs sleeeep  the morning im late , class in cancelled .
+
+there is some justice in the world  english class cancelled today as well .
+0.94 (some justice in the world  english class; cancelled; T:today; as well)
+0.89 (there; is some justice in; the world)
+
+that makes 2/3  magenta !  about getting 77 on my deca test and ranked 5th in test(which we suck at ) with < PROPFIRST > for DECA area on tuesday !
+0.11 (that; makes; 2/3  magenta)
+0.20 Context(that makes,List([0, 10))):(we; suck; )
+
+soooo excited for the DECA season to commence :)  that referee beared a striking resemblence to Barack Obama !
+0.80 (the DECA season; to commence; )
+0.90 (that referee; beared; a striking resemblence)
+
+nice day planned out ! just have to finish my choressss  choreography time !
+
+lets see how this goes :)  foooood  coffee ?
+
+yes please  its like the middle of june , i mean july , i mean january  last class of the day starts in 4 minutes .
+0.19 (i; mean; )
+0.19 (i; mean; )
+0.96 (january  last class of the day; starts; T:in 4 minutes)
+
+oh so happy  went on a run for the first time in foreverrr .
+0.66 (oh so happy; went; T:on a run; T:for the first time in foreverrr)
+
+feels good  caught my sister playing happy aquarium ! that made me smile :)  DECA DAY !!  headache and frustrated .
+0.35 (feels good; caught; my sister; playing happy aquarium)
+
+fully forgot my cell at home  why is facebook acting like a pirate ?
+
+hahah made my day  nothing to eat .
+0.36 (my day  nothing; to eat; )
+
+work for 2 more hours .
+
+sucks .
+
+first date , so fun :)  i hate life  snl makes me happy  homework .
+0.26 (i; hate; life  snl makes me happy  homework)
+0.80 Context(i hate,List([24, 30))):(life  snl; makes; me happy  homework)
+
+the lamest way to spend a day  speaking Ke$ha lyrics out loud , slowly , in an almost british accent .
+
+just ran in the dark .
+
+admittedly , not the brightest idea  killlingggg time at workkkkkkkk  somedays just never end .
+
+happy aquarium currently \getting care\ " < PROPFEMALE > currently \ " freaking out \""  work soooooooon  boredddddddddd  < PROPFEMALE > Wolcott and I had a great time being idiots last night , but now im exhausted  awkward half awake morning conversations at pierce brought to you by < PROPFIRST > < PROPMALE > and < PROPMALE > Bremner :) haha  If you threw a potato at < PROPFIRST > Bush I would disown you as a sister  fridayyyy .
+0.93 (happy aquarium; \getting; care\; T:currently)
+0.90 (exhausted  awkward half awake morning conversations at pierce; brought; to you; by <)
+0.94 (work soooooooon; boredddddddddd; < PROPFEMALE > Wolcott; T:currently)
+0.68 (you; threw; a potato; at <)
+0.52 (I; had; a great time being idiots; T:last night)
+0.31 (I; would disown; you; as a sister  fridayyyy)
+0.91 (a great time; being; idiots)
+
+one more class , a lab , then sleeep to get ready for my night ~  extra caffeine !
+
+< PROPFEMALE > !
+
+< PROPFIRST > Landes will never stop creeping me out :)  happy aquarium !
+
+what are you doing ??  WOW !
+
+thats a good price !
+
+see one would think that I would be doing something at work  is actually jealous of non-running start SHS students for the first time all year .
+
+miserably sick with a group presentation and lab tomorrow when all I want to do is sleep away my aches and pains  dear little men with jackhammers in my skull , please knock it off .
+0.73 (all I want to do; is; sleep away my aches and pains  dear little men with jackhammers in my skull)
+0.24 (I; want; to do)
+0.25 Context(I want,List([67, 73))):(all; to do; I)
+
+i build things up in my mind .
+0.23 (i; build up; L:in my mind)
+
+today was easy even with me being sick and im out of class early :)  welllll no plans :/ sit at home and mope time ?
+0.22 (me; being :); sick)
+
+i think yes  Sami Houghton , < PROPFIRST > Petrovich and Estevan Camarena make me happy !
+0.43 (i; think; Sami Houghton , < PROPFIRST > Petrovich and Estevan Camarena make me happy)
+
+haha  why are < PROPFEMALE > Wolcott and I such amazing singers ?
+
+our renditions of Imogen Heap are legendary  no moping :)  life is better with < PROPFIRST > Petrovich and the capability of tagging people in posts .
+
+coffee soothes my soul  things pan out  research essay due tomorrow .
+0.79 (coffee; soothes; my soul  things pan out  research essay)
+0.31 Context(coffee soothes,List([0, 14))):(my soul  things; pan out; )
+
+hmm .
+
+this is a joke .
+0.45 (this; is; a joke)
+
+who can write a paper about such retarded things .
+
+needs to chill out and sleep for a few hours before attacking my essay .
+
+so much on my brain its hard to chill  well , whos skipping class because she didn't write her paper in time :)  myspace is for babies  Estevan Camarena '' I've only dated one boy '' quote of the day right thurr  RIP < PROPFIRST > Landes .
+0.31 (she; did n't write; her paper; T:in time)
+0.95 (myspace; is; for babies  Estevan Camarena '' I've only dated one boy '' quote of the day; T:time)
+0.45 (I; 've only dated; one boy '' quote of the day)
+
+Dragons must have eatten you  like 10 more minutes then my brain is shutting down  cheeeeer day !
+0.90 (Dragons; must have eatten then; T:like 10 more minutes)
+0.58 Context(Dragons must have eatten then,List([0, 55))):(my brain; is shutting down; cheeeeer day)
+
+left game early , head about to explode  wow !
+0.75 (left game early; to explode; wow)
+
+i love finding old friends on facebook !!  i walk between the C and L building some days every hour from 8 to 2  thanks , im stuck at the school without a ride and you could care less .
+0.36 (you; could care; less)
+0.18 (im; stuck; at the school)
+0.50 Context(im stuck,List([122, 130))):(i; walk; between the C and L)
+0.39 Context(i walk im stuck,List([43, 130))):(i; love; finding old friends on facebook)
+0.39 Context(i love i walk im stuck,List([0, 130))):(i; love finding; old friends; L:on facebook)
+0.29 Context(i walk im stuck,List([43, 130))):(i; walk building; some days; T:every hour)
+
+awesome  Rachel : The most edible female name ... thank you urbandictionary  wants to dye her hair something different  formspring.me/blaaaaablonde .
+0.42 (you; to dye; her hair something different  formspring.me/blaaaaablonde)
+
+do it hahahaha  mmmm chocolate milk shakes and green tea via < PROPMALE >  forza was rad !
+0.94 (forza; was; rad)
+
+its alllllllll good :)  when you look me in the eyes .. aahahah cheesy < PROPFIRST > bro lyrics , coffee and rearranging the room .
+0.46 (you; look; me; L:in the eyes)
+
+sweet , yes ?
+
+spring cleaning .
+
+playing hairdresser :)  who watches the superbowl ?
+
+im at < PROPFEMALE > < PROPFEMALE > Liebhauser's house with my sister < PROPFEMALE > Wolcott watching music videos .. much more entertaining  is so fetch .
+0.92 (Wolcott; watching; music videos)
+0.89 (Wolcott watching music videos; is so fetch; much more entertaining)
+
+TTFn Fail Week , < PROPFIRST > < PROPFEMALE > , you should enjoy that :)  there has to be an easy way to make a cd cover , because for the technologically impaired ( ME ) its wayyy too hard .
+0.17 (you; should enjoy; that)
+
+is a blank disc too much to ask for ?
+
+new legistlature makes my life :) no senior project/any hs grad requirement just an AA and giving up walking with sumner .
+0.83 (new legistlature; makes; my life)
+0.90 (no senior project; any hs; grad requirement)
+0.92 (just an AA; giving up; walking with sumner)
+
+Dear Sayle Namy and Sami Houghton the song Girlfriend still makes me smile :)  nothing like getting ready for school early and having Estevan Camarena downstairs eating toast .
+0.96 (Dear Sayle Namy and Sami Houghton; makes; me smile :)  nothing like getting ready for school early and having Estevan Camarena downstairs eating toast; T:still)
+0.55 Context(Dear Sayle Namy and Sami Houghton makes,List([0, 65))):(me; smile; :)  nothing like getting ready for school early and having Estevan Camarena downstairs eating toast)
+
+frustrated I cant drive :/  nice night , I cant complain : )  my armpits itch .
+0.19 (I; ca nt drive; )
+0.34 (I; ca nt complain; my armpits itch; T:frustrated I cant drive :/  nice night)
+0.35 Context(I ca nt complain,List([41, 56))):(my armpits; itch; )
+
+sometimes I legitimatley wonder what in the heck this world is coming too !
+0.70 (I; legitimatley; wonder what in the heck this world is coming too; T:sometimes)
+0.93 (this world; is coming too; L:in the heck)
+
+flipping hates being left out .
+0.30 (flipping; hates; being left out)
+0.23 (flipping; being left out; )
+
+awesome .
+
+fun movie and shopping with my girlies , but now what ?
+
+I just became a fan of < PROPFIRST > Landes .
+0.50 (I; just became; a fan of < PROPFIRST > Landes)
+
+what more could I ask for in life ?
+
+just woke up .
+
+mmmm :)  I want to know what and why I was doing what I was doing in the photo < PROPFEMALE > Mortell tagged me in !
+0.81 (< PROPFEMALE > Mortell; tagged in; me)
+0.23 (I; want; to know)
+0.16 Context(I want,List([9, 15))):(I; want to know to know; )
+0.26 (I; was doing; what I was doing in the photo)
+0.39 Context(I was doing,List([37, 48))):(I; was doing; L:in the photo)
+
+coffee date with < PROPFEMALE > !
+
+I am a fan of 1,542 things .
+0.52 (I; am; a fan of 1,542 things)
+0.89 (I; am a fan of; 1,542 things)
+
+that is a weird habit .
+0.17 (that; is; a weird habit)
+
+sweeeet day !
+
+have some fun plans for tomorrow , but til then , sleep and maybe some educational children programs  I really love not having school  grrrr .
+0.45 (I; really love not having; school  grrrr)
+
+i hate waiting  wants to kick herself in the face  its a good thing that < PROPFIRST > < PROPFEMALE > is up at 2 am , otherwise I would have no one to talk to when I wake up from a scary dream  midday caffeine crash  as much as a I love < PROPFEMALE > Madden , exchanging mock vows was just too much for me to handle  deleted my myspace : )  left my cell phone at home .
+0.24 (i; hate waiting; wants to kick herself in the face  its a good thing that < PROPFIRST > < PROPFEMALE > is up at 2 am , otherwise I would have no one to talk to when I wake up from a scary dream  midday caffeine crash  as much as a I love < PROPFEMALE > Madden , exchanging mock vows was just too much for me to handle  deleted my myspace : )  left my cell phone at home)
+0.46 (I; wake up; T:from a scary dream  midday caffeine crash; as much as a I love < PROPFEMALE > Madden , exchanging mock vows was just too much for me to handle  deleted my myspace)
+0.23 (i; to kick; herself; L:in the face)
+0.50 (I; love; < PROPFEMALE > Madden)
+0.19 (me; to handle; )
+0.91 (< PROPFIRST > < PROPFEMALE; is; up; T:at 2 am)
+0.74 (its a good thing that < PROPFIRST > < PROPFEMALE > is up at 2 am; left; my cell phone; L:at home)
+
+how obnoxious  yeah ! for caffeine :)  grrrrrrrrrrrrrrrrrrrr  got an appointment to replace my missing retainer ... need to fix up this gappy thing !
+0.76 (grrrrrrrrrrrrrrrrrrrr; got; an appointment to replace my missing retainer)
+
+I need to watch ASL copy sign , maybe start a rough draft , and study for biology test on friday .
+0.44 (I; need; to watch ASL copy sign)
+0.44 Context(I need,List([0, 6))):(I; need to watch; ASL copy sign)
+0.30 Context(I need,List([0, 6))):(I; need maybe start; a rough draft)
+0.30 Context(I need,List([0, 6))):(I; need study; for biology test; T:on friday)
+
+why have I been sitting pointlessly on facebook for hours ?
+
+absolutely loves sudden \epiphanies \""  and I think to myself , what a wonderful world : )  not going to lie , not being able to drive is probably the most stressful , annoying , retarded thing ever  today was a fabulous day : )  when did I become a night owl ?
+0.42 (I; think; to myself; what a wonderful world : )  not going to lie , not being able to drive is probably the most stressful , annoying , retarded thing)
+0.92 Context(I think,List([45, 52))):(what a wonderful world : )  not going to lie; is probably; the most stressful , annoying , retarded thing ever  today was a fabulous day : )  when did I become a night owl)
+
+fully bsed a copy sign in asl , pretty proud of myself : )  such a good day !
+
+school was so chill , the sun is out , I surprised < PROPFIRST > Landes , cheered at a BOMB basketball game , El Charro with < PROPFEMALE > Thomsen and < PROPFEMALE > Klemme , now Dear < PROPFIRST > with < PROPMALE > !
+0.14 (I; surprised PROPFIRST; )
+0.85 Context(I surprised PROPFIRST,List([39, 62))):(school; was so chill; the sun is out)
+0.78 Context(school was so chill I surprised PROPFIRST,List([0, 62))):(the sun; is; out)
+0.41 Context(I surprised PROPFIRST,List([39, 62))):(I; surprised PROPFIRST cheered; L:at a BOMB basketball game)
+
+Hopefully I can stay awake the whole time !
+
+Dear < PROPFIRST > ... not impressed .
+
+ebay bidding for a new ipod finally : )  with the use of asl pro and some weird youtube video I can almost fluently sign 2 Secondhand seranade songs .
+0.54 (I; can sign; 2 Secondhand seranade songs; T:almost fluently)
+
+I would like to say I am proud of what I accomplished on a Saturday  desperately needs to get out  my walk to the park ended with a cute outfit , chicken nuggets via < PROPMALE > , jellybeans at the park and some fun conversations : )  that's weird , your 4 piece chicken nuggets only has 3 , mine has 5 .
+0.40 (I; would like; to say I am proud of what I accomplished on a Saturday)
+0.40 Context(I would like,List([0, 12))):(I; would like to say; I am proud of what I accomplished on a Saturday)
+0.35 Context(I would like to say,List([0, 19))):(I; am; proud of what I accomplished on a Saturday)
+0.95 (the park; ended; with a cute outfit , chicken nuggets via < PROPMALE > , jellybeans at the park and some fun conversations)
+0.37 (mine; has; 5)
+0.39 Context(mine has,List([293, 301))):(your 4 piece chicken nuggets; only has; 3)
+0.05 Context(your 4 piece chicken nuggets only has mine has,List([251, 301))):(that; 's; weird)
+0.50 (I; accomplished; T:on a Saturday)
+
+< PROPFEMALE>'s pants made my night !
+0.81 (PROPFEMALE>'s pants; made; T:my night)
+
+haha  8 am asl class .... nah .
+
+< PROPFEMALE > Joy is my favorite sister ... of the morning :) and she read that out loud as I typed it , precious !
+0.89 (Joy; is; my favorite sister)
+0.23 (she; read out loud; T:as I typed it)
+0.31 (I; typed; it)
+
+needs her license asap , getting sick and tired of being so dependent on people  stop ta-ta-talking that blah blah blah  figuring out my classes for next quarter , now that I know that I want to be a Speech Therapist , its much easier figuring out what to take !
+0.46 (I; to be; a Speech Therapist)
+0.26 (I; know; that I want to be a Speech Therapist; T:now)
+0.50 Context(I know,List([173, 179))):(I; want; to be a Speech Therapist)
+
+15 more minutes then I'm dipping for cheer practice !
+
+then homework , homework , homework .
+
+sometime this weekend I feel a \car venting session\ " is in order : ) "  asl 3 , english 107 , and psych 100 .
+0.64 (I; feel; a \car venting session\ " is in order : ) "  asl 3 , english 107 , and psych 100; T:sometime this weekend)
+
+my schedule will be so much better than this quarter : )  ahhh , I think this should be my final schedule , asl 3 , public speaking and psych 100 .
+0.64 (my schedule; will be; so much better than this quarter)
+0.32 (I; think; this should be my final schedule)
+0.21 Context(I think,List([65, 72))):(this; should be; my final schedule)
+
+why am I so excited for my new retainer tomorrow ?
+
+hahaha  nice run today , finally done with my homework , sleeeeeeeeep time  we would just walk out of asl  awkwardly , accidentally playing footsies with someone across the way from me in the comp lab !
+0.86 (hahaha  nice run today; done; T:finally)
+0.38 (we; would just walk awkwardly; T:sleeeeeeeeep time)
+0.29 Context(we would just walk awkwardly,List([76, 116))):(we; would just walk awkwardly accidentally playing; footsies)
+
+work is empty , ortho at 2 , then I have to run back to Pierce because I did the \system\ " backwards :) "  back to Pierce for a signature ! the amount of hoops running start makes you jump is intense sometimes  enjoys having her phone calls being ignored ... not !
+0.81 (the amount of hoops; makes; you jump)
+0.33 Context(the amount of hoops makes,List([141, 180))):(you; jump; )
+0.36 (her phone calls; being ignored; )
+0.46 (I; to run; back to Pierce)
+0.44 (I; did backwards; the \system\)
+0.89 (hoops; running; start)
+
+what would I do without coffee ?
+
+needs to learn how to say no .
+
+grrr  i'm < PROPFEMALE > .
+0.52 (i; 'm; PROPFEMALE)
+
+on rachels facebook .
+0.73 (on rachels; facebook; )
+
+whoa .
+
+oh estevan .. always making me late to asl  inspired to start my bio project due in 2 weeks !
+
+chores then bbc timeeee :)  neeeds coffffeeee  done wasting my time , nothing is worth this much trouble ever .
+0.86 (nothing; is ever; worth this much trouble)
+0.93 Context(nothing is ever,List([70, 109))):(chores; bbc; timeeee; T:then)
+0.80 Context(chores bbc nothing is ever,List([0, 109))):(:)  neeeds; coffffeeee done wasting; my time)
+
+Who runs Auburn ???  Dennys with some friends was a nice way to end a dreary day .
+0.97 (Who runs Auburn ???  Dennys with some friends; was; a nice way to end a dreary day)
+
+party in the USA .. one of my all time favorite songs .
+
+what google offers me makes me laugh , aka the word misanthrope  could < PROPFEMALE > < PROPFIRST > be any better at describing how I feel ?
+0.83 (PROPFEMALE > < PROPFIRST; be; any better at describing how I feel)
+0.83 (google; offers; me makes me laugh)
+0.26 Context(google offers,List([5, 18))):(me; makes; me laugh)
+0.16 Context(google offers me makes,List([5, 27))):(me; laugh; )
+
+haha .
+
+It was a nice monday :)  even though I don't watch the Bachelor I am extremely excited to see Miss Slater's reaction to what happened last night , because she is a DIE HARD fan with charts and graphic organizers .
+0.52 (It; was; a nice monday)
+0.57 (she; is; a DIE HARD fan with charts and graphic organizers)
+0.46 (I; to see; Miss Slater's reaction to what happened last night)
+0.39 (she; is a DIE HARD fan with; charts)
+
+sad , thats what I'm looking forward too today !
+0.45 (I; 'm looking forward too; T:today)
+
+receptive translations are always a fun way to spend my time at work .
+0.83 (receptive translations; are; T:always; a fun way to spend my time at work)
+
+\I just wanna live my life like it's the 90's Like its a TV show there could be problems but we would solve them on next weeks episode\ " - The Secret Handshake :) "  dishes then runnnn :)  so freaking hungry !
+0.80 (\I; just wan; na live my life like it's the 90's Like its a TV show)
+0.71 Context(\I just wan,List([0, 11))):(\I; just wan na live; my life)
+0.86 (dishes; runnnn; so freaking hungry; T:then)
+0.68 (dishes; so freaking hungry; )
+0.37 (it; 's; the 90's Like its a TV show)
+0.31 (we; would solve; them; T:on next weeks episode\)
+
+work at 1 , then eating and organizing and packing :)  my excitement about deca state is growing by the hour !
+0.89 (work at 1; eating; my excitement about deca state; T:then)
+0.72 (work at 1; organizing; )
+0.72 (work at 1; packing; )
+
+I guess it's half timing and the other half luck :)  All princes start as frogs All gentleman as dogs Just wait till it's plain to see What we're growing up to be .. Cuz some frogs will still be frogs Some dogs will still be dogs But some boys can become men Just don't kiss us till then .... :)  school 8-11 then deca in Bellevue !
+0.36 (I; guess; it's half timing and the other half luck :)  All princes start as frogs All gentleman as dogs)
+0.47 Context(I guess,List([0, 7))):(it; 's; half timing and the other half luck)
+0.89 Context(I guess it 's,List([0, 12))):(All princes; start; All gentleman)
+0.90 (some boys; can become; men)
+0.17 (we; to be; )
+0.89 (some frogs; will be; frogs; T:still)
+
+whoo hoo lets go DECA thugs :)  im in asl .. hmmm  such a nice deca trip with my fabulous roommates !
+
+now working it out so i can stay home this weekend  how long until I go wake up < PROPFEMALE > and < PROPFIRST > ...  grabbing some much needed coffee ! then alllll the stuff I have been avoiding , chores , laundry , homework ..  the purple is back in my hair !
+0.89 (alllll the stuff; have been avoiding; I)
+0.87 (the purple; is; back in my hair)
+0.24 (I; go; )
+
+yeah :)  so much free time today , classes cancelled , no work , no cheer ...  pulling together my spring break plans :) one more week of quarter , finals , then break !
+0.78 (finals; break; T:then)
+0.91 Context(finals break,List([148, 167))):(classes; cancelled; no work; T:yeah :)  so much free time today)
+0.70 Context(classes cancelled finals break,List([35, 167))):(classes; cancelled pulling; together; my spring break plans)
+
+well my biology project that I have had all quarter to work on , am not done with and volunteered myself to present tomorrow should be completed and awesome sometime tonight ...  green tea in the morning :)  Sami Houghton , I am signing our story of clothing a statue to my class ... with a few embellishments :)  going to bed early !
+0.45 (I; have had; all quarter to work on)
+0.31 (I; am signing; our story of clothing a statue)
+0.51 (my biology project that I have had all quarter; am not done; with)
+0.61 (my biology project that I have had all quarter; volunteered; myself; to present tomorrow)
+
+Estevan Camarena should do the same so we can get to our 8 oclock class on time for the first time in 10 weeks :)  mornings that I wake up and put zero effort into everything that I do are the best  half an hour at work , getting some green tea then working late tonight !
+0.50 (mornings that I wake up and put zero effort into everything; are; the best)
+0.90 Context(mornings that I wake up and put zero effort into everything are,List([115, 188))):(Estevan Camarena; should do; the same; so we can get to our 8 oclock class on time for the first time in 10 weeks)
+0.31 (we; can get; to our 8 oclock class; T:on time; T:for the first time in 10 weeks)
+0.87 (mornings; wake up; I)
+0.94 (some green tea; working; T:late tonight; T:then)
+0.48 (I; put; zero effort; into everything)
+0.90 (everything; do; I)
+
+I loveeee running start :)  run in the rain .. now work til 11 30 !  working late night \cram\ " session at Pierce !
+0.51 (I; loveeee running; start :)  run in the rain .. now work til 11 30)
+0.35 Context(I loveeee running,List([0, 17))):(I; loveeee running start; run in the rain)
+0.30 Context(I loveeee running start,List([0, 23))):(I; loveeee running start run; in the rain)
+0.43 Context(I loveeee running start,List([0, 23))):(I; loveeee running start work; til 11 30; T:now)
+
+"  I need to lay off the late night caffeine .
+0.40 (I; need; to lay off the late night caffeine)
+0.40 Context(I need,List([3, 9))):(I; need to lay off; the late night caffeine)
+
+Today was surprisingly really good :)  next quarter my goal will be to not miss any asl ..  really .. still waiting for a ride .
+0.76 (my goal; will be; to not miss any asl ..  really; T:Today)
+
+< PROPFIRST > < PROPFEMALE > , cleaning , then working out with < PROPFIRST > !
+
+thank you texts from last night !
+
+\Went to the career fair today .. I handed out many resumes to find out later that they say I have a bachelor o farts degree ... Top that .
+0.21 (I; handed out; many resumes; to find out later that they say I have a bachelor o farts degree)
+
+\""  friendship is conditional ... had a butt kciking workout to get the allergy inducing Red < PROPFIRST > out of my system , now out and about with Estevan to round out a really random day !
+0.91 (a butt; kciking; workout; to get the allergy inducing Red < PROPFIRST > out of my system , now out and about with Estevan to round out a really random day)
+
+seriously ... I never get to sleep in  my 2 littlest sisters got on my fb and played Pet Society while I was away this morning ...  I am so amazed with the people in Toddlers and Tiaras and Hoarders .
+0.52 (I; was; away; T:this morning)
+0.62 (I; am; so amazed with the people in Toddlers and Tiaras and Hoarders)
+
+hot tubbing with Sayle is just what the doctor ordered :)  needs coffee .
+0.94 (hot tubbing with Sayle; is; just what the doctor ordered)
+0.69 Context(hot tubbing with Sayle is,List([0, 25))):(the doctor; ordered; )
+
+just skyped with < PROPFEMALE > < PROPMALE > !
+
+hahah  time to do my english final/final paper .
+
+dang it  some boys have absolutely no clue !
+
+hahaha , I love being able to laugh at them :)  when registration goes wrong .. all i can hope is the teachers let me add/drop because that meeting was enough to make me almost cry !
+0.31 (I; love being; able to laugh at them)
+0.27 (I; to laugh; at them)
+0.75 (registration; goes; wrong)
+0.87 (that meeting; was; enough to make me almost cry)
+0.34 (all; can hope; i)
+0.77 (that meeting; to make; me almost cry)
+0.16 Context(that meeting to make,List([135, 166))):(me; almost cry; )
+0.68 (all i can hope; is; the teachers let me add/drop; T:when registration goes wrong)
+0.75 Context(all i can hope is,List([80, 97))):(the teachers; let; me add/drop because that meeting was enough to make me almost cry)
+0.41 Context(all i can hope is the teachers let,List([80, 114))):(me; add; drop)
+
+ok .. i am in one class .. now im going to beg and plead for my next one from my english teacher this quarter and absolutely cross my fingers for psych ..  ahhh a nice day off tomorrow then my bio final thursday , until then , chillaxing :)  freaking sunburnt !! thats what I get for not tanning for everrr  just woke up :) I love community college hahaha  scratch the run .. just realized how tired I am !
+0.52 (i; am; in one class)
+0.45 (I; love; community college)
+0.28 (:)  freaking; sunburnt; )
+0.46 (I; get; for not tanning for everrr)
+0.39 Context(I get,List([274, 279))):(I; get for not tanning; for everrr)
+
+hahah  ahhh coffee  fun shopping with < PROPFIRST > Landes !
+
+Now movie time :)  a cup of crappy coffee to wake me up .
+0.92 (movie time; :); a cup of crappy coffee to wake me up; T:Now)
+
+We only got 86,400 seconds in a day to Turn it all around or to throw it all away :)  new vans ?
+0.36 (We; only got; 86,400 seconds; T:in a day; to Turn it all around or to throw it all away :)  new vans)
+0.18 Context(We only got,List([0, 11))):(We; only got 86,400 seconds to Turn; it; all around)
+
+I think so :)  tell tale signs of a nasty cold hitting me right now .. ugh ..  doctors appointment then cheer .
+0.43 (I; think; so :)  tell tale signs of a nasty cold hitting me right now .. ugh ..  doctors appointment then cheer)
+0.80 Context(I think,List([0, 7))):(doctors appointment; cheer; T:then)
+
+so fun .
+
+the doctor gave me shots in my arms .
+0.83 (the doctor; gave; me; shots in my arms)
+
+my arms are now swollen and hurt very badly :(  what is there to do when no one else is on spring break ...  subway now cheer practice .
+0.30 (my arms; hurt very badly; )
+0.93 (no one else; is; on spring break; T:now)
+
+what an exciting spring break ?!  tanning , tahitians and tacos with Sami Houghton with a surprise visit from Sayle Namy and < PROPMALE > Picha ( Happy birthday by the way !! ) makes for an awesome wednesday morning :)  taking my sisters to the park !
+0.91 (what an exciting spring break; tanning; with Sami Houghton)
+
+enjoying the sun while its out :)  funnnn day !
+
+my tongue is still blue from the slurpee !
+0.70 (my tongue; is; T:still; blue from the slurpee)
+
+I'm pretty sure I have slept more this week than I have in the past 2 months combined .
+0.37 (I; 'm; pretty sure I have slept more this week)
+0.45 (I; have slept; more; T:this week)
+0.77 (the past 2 months; combined; )
+
+drinking a blue slurpee , cleaning up and getting ready to < PROPFEMALE > out with < PROPFEMALE > Busick at the Supermall !
+
+:)  my facebook creepiness just reached a whole new level .
+0.66 (my facebook creepiness; just reached; a whole new level)
+
+awesome .
+
+sooo I thought I heard some awkward noise outside of my room , I open up the door to find my brother hanging from some contraption in his doorway doing pull ups to get ripped .
+0.26 (I; thought; I heard some awkward noise outside of my room)
+0.26 Context(I thought,List([5, 14))):(I; heard; some awkward noise; L:outside of my room)
+0.39 (I; open up; the door)
+0.36 Context(I open up,List([63, 72))):(I; open up the door to find; my brother hanging from some contraption in his doorway doing pull ups)
+0.42 Context(I open up to find,List([63, 89))):(my brother; hanging; from some contraption; L:in his doorway)
+
+I love my family .
+0.31 (I; love; my family)
+
+I just ate a lot of chips  lovely saturday :)  mini movie night with my sissy !
+0.45 (I; just ate; a lot of chips; T:lovely saturday; T:mini movie night)
+
+superfood is boss  schooool tomorrow .
+0.92 (superfood; is; boss  schooool; T:tomorrow)
+
+gr .
+
+I have so much to do to get ready for the new quarter still  the only thing that is on my mind , is who's going to run this town tonight ?
+0.23 (I; have; so much to do)
+0.57 (so much; to do; to get ready for the new quarter)
+0.61 (so much to do; to get; ready for the new quarter)
+0.54 (the only thing; is; on my mind)
+0.83 (the only thing that is on my mind; is; who's going to run this town tonight; T:still)
+
+\I'll save that for a rainy day\ " < PROPFEMALE > \ " So the next time its raining you are going to use it ?
+0.42 (you; to use; it)
+0.62 (\I; 'll save So; that; for a rainy day\)
+
+\ " \ " no .. thats an expression < PROPFEMALE >\""  torrential rain fall on first day of quarter fits all too well ..  tea and movie time .
+0.94 (PROPFEMALE >\""  torrential rain fall on first day of quarter; fits all too well; T:tea and movie time)
+
+huh .. not falling in that trap again :)  cant wait to start working .. too much time to kill these past 3 days !
+
+work !
+
+fun fun .
+
+brunette ?
+
+I think so :)  driving up to my grandparents amd back today .. should be interesting .
+
+driving to and from Port Townsend with a stop on a ferry ride and in Seattle was a fun , enexpected way to spend Friday with my mom and sisters :)  the sun is up , the sky is blue , its beautiful and so are you :)  chilllllllling .
+0.99 (driving to and from Port Townsend with a stop on a ferry ride; was; a fun; L:in Seattle)
+0.81 (the sun; is; up)
+0.91 (the sky; is; blue , its beautiful and so are you :)  chilllllllling)
+
+its been a relaxed weekend .
+0.45 (its; been; a relaxed weekend)
+
+all of the sleep Ive been getting has finally caught up to me , Im not tired .
+0.74 (all of the sleep; been getting; )
+0.83 (the sleep; has caught up; to me; T:finally)
+
+weird .
+
+pickles , pineapple , and egg salad sandwiches for lunch .
+
+what a combo  half price easter < PROPFEMALE > with < PROPFEMALE > !!  oh drama < PROPFEMALE > in my English class ... I'm your biggest fan  doctors appointments and waiting rooms , not fun !
+0.48 (I; 'm fun; your biggest fan  doctors appointments and waiting rooms , not)
+
+want to hear a joke ?
+
+Mazda 5 .
+
+thank you < PROPFIRST > Woods and < PROPFIRST > i Houghton :)  fan-freaking-tastic day  has decided work on thursday isn't as fun as work monday-wednesday .
+0.93 (fan-freaking-tastic day; has decided; work on thursday)
+
+blue slurpee = success  huh , cheer tryouts are next week , who knew ?
+0.89 (tryouts; are; T:next week)
+0.88 (blue slurpee = success  huh , cheer tryouts are next week; knew; )
+
+( ill give you a hint , I didn't )  loves friends who sit around switching parking lots in downtown puyallup for hours on a thirsday night :)  its so so pretty outside !
+0.25 (ill; give; you; a hint , I didn't )  loves friends)
+0.58 (friends; sit so so pretty outside; )
+0.88 (friends; switching; parking lots; T:for hours; T:on a thirsday night)
+
+new hurr !
+
+why I shouldnt be left alone for extended periods of time haha  sleepoverrrr !
+0.45 (I; should nt be left; alone; T:for extended periods of time haha  sleepoverrrr)
+
+daffodil parades !
+
+its the start to a longggg day , come watch em !  3 parades down , 1 to go .
+0.56 (its the start to a longggg day; come watch down; em)
+
+NO BAND KIDS !!! singing spongebob squarepants at the top of your lungs is NOT GOOD !!  woke up super late !
+0.77 (NO BAND KIDS; singing; spongebob squarepants; L:at the top of your lungs)
+0.68 (NO BAND KIDS; is NOT; GOOD)
+
+oops .
+
+fun day out for < PROPFEMALE > Wolcott's 14th birthday today :)  this is a boy beach who likes other boy beaches .
+0.45 (this; is; a boy beach who likes other boy beaches)
+0.90 (a boy beach; likes; other boy beaches)
+
+lol seriously .
+
+it is most definately Monday .
+0.57 (it; is; most definately; T:Monday)
+
+cheer meeting = superfluous  long week .
+
+work couldnt go by any slower today .
+0.78 (work; could nt go; T:today)
+
+finishing my homework then waiting to watch my tivod Glee episode ... nice way to end a less then nice day .
+
+TGI ... W ?  punching people and eating beef jerky = Sami's solution to my problem .
+0.86 (TGI ... W; punching; people)
+
+:)  my sisters are streaking around my house , how adorable  needs to get past this week ...  is pretty sure cheer tryouts just mock how out of shape I am .
+0.49 (my sisters; are streaking; around my house)
+0.91 (how adorable  needs; to get; past this week)
+0.95 (how adorable  needs to get past this week; is; pretty sure cheer tryouts just mock)
+0.75 (cheer; tryouts; just mock)
+0.24 (I; am; )
+
+no classes and no work tomorrow , so happy :)  kinda want to fast forward like 22 hours .
+
+just woke up :)  fuck highschool  new day and I still feel pretty freaking lame .
+0.25 (I; feel; pretty freaking lame; T:still)
+
+saweeeet  I want a latte , extra latte  moving on and being happy :)  ughhh .
+0.77 (extra latte; moving; on)
+
+finally happy but in so much painnnnnn physically , dang it .
+
+is extremely happy ( especially on days like today ) that I do running start  ignoring everyone .
+0.41 (I; start ignoring; everyone)
+
+its not working so well .
+0.19 (its; not working so well; )
+
+sitting with bennnnn waiting to leave for sumner !
+
+babysitting with my friends , gossip girl , the river , Fox Hollow ( where I saw < PROPFIRST >!!) , shopping , dinner , and a movie .
+0.28 (I; saw; <; T:PROPFIRST)
+
+definately the type of day I needed :)  left at home for school .
+0.90 (the type of day; needed; I)
+
+super cool  tanning and chinese food , very nice :)  this is no laughing matter , actually , it is .
+0.20 (it; is; )
+0.32 Context(it is,List([93, 98))):(this; is actually; no laughing matter)
+
+oh I love < PROPFEMALE > Wolcott  so excited to find out what the future has in store for me !
+0.18 (I; love so excited; <)
+0.18 Context(I love so excited,List([3, 44))):(I; love so excited to find out; what the future has in store for me)
+0.84 Context(I love so excited to find out,List([3, 56))):(the future; has; L:in store; for me)
+
+:)  whats on the agenda for the next few days ?
+
+Fun !
+
+:)  in the < PROPMALE > home , my hair was my room  < PROPMALE > is working at walmart wearing my Sumner cheer jacket from last year .
+0.56 (my hair; was; my room)
+
+I only know this because my sister saw him .
+0.31 (I; only know; this; because my sister saw him)
+0.56 (my sister; saw; him)
+
+weird !!  license plate number \ 4SKEEIN\ " anyone care to interpret this for < PROPFEMALE > and I ?
+
+"  pedicure time today ?
+
+Yes please :)  I swear , this is < PROPFEMALE > vu .
+0.39 (I; swear; this is < PROPFEMALE > vu)
+0.39 Context(I swear,List([15, 22))):(this; is; PROPFEMALE)
+
+psh , so ready for a chill night and to get my mind off errything !
+
+who needs to sleep ?
+
+not this girl !
+
+Lunch with < PROPMALE > Fulton and < PROPFEMALE > Betts was a fun time :)  work = facebook .
+0.89 (Betts; was; a fun time)
+
+nap time with < PROPFEMALE >  take 2 , this time I'm solo  they are going crazy in speedos , now they are shaving their legs and chests , now they are completely hairless jumping in a pool  hannahs applesauce has a pulse  a 2 hour nap and some red bull is working wonders on my mood :)  there is a cloud inbetween my ears and my head .
+0.64 (PROPFEMALE; take; 2)
+0.91 (some red bull; is working; wonders)
+0.54 (they; are shaving; their legs and chests; T:now)
+0.39 (they; are completely hairless jumping in; a pool hannahs applesauce)
+0.39 (there; is a cloud inbetween; my ears)
+
+you missed your < PROPFEMALE > opportunity .. quite literally  sooo ready for the end of this week .. so glad its tomorrow :)  driving to day 4 of cheer tryouts today ... so much of that statement is way out of the norm from 2 weeks ago !!  ahhh , such a good day .
+0.61 (you; missed quite literally sooo; opportunity)
+0.59 (its tomorrow; driving so much; T:today)
+
+no school tomorrow .
+
+loveeee life : )  3 day weekends !
+
+:)  jamming some womanizer and getting icecream for the fam to calm my nerves !! ee , 40 more minutes  Rogers cheerleader !!! :)  burned some bomb cds and waiting to head out !  middle of the road right now !! :) yellow line  peppermint mocha time !
+0.38 (:); jamming; some womanizer)
+0.34 (:); getting; icecream)
+0.83 (the fam; to calm; my nerves)
+
+was just asked out to a 9 year olds baseball game for our next date , oh < PROPMALE > !
+
+< PROPMALE > .. the boy who doesn't work at walmart anymore  punny license plate CAFN8ED  finishing some chores and getting ready to spend time with my invalid < PROPMALE > haha  The Lovely Bones is horrible !
+0.93 (the boy who doesn't work at walmart anymore; getting; ready to spend time with my invalid < PROPMALE)
+0.94 (the boy who doesn't work at walmart anymore; finishing; some chores)
+0.88 Context(the boy who does n't work at walmart anymore finishing,List([16, 99))):(the boy; does n't work; L:at walmart; T:anymore)
+0.84 Context(the boy who does n't work at walmart anymore finishing,List([16, 99))):(The Lovely Bones; is; horrible)
+
+someone said the \E\ " word ... What's the \ " E\ " word < PROPFEMALE > ?... eff "  mmm , I dont feel so good , praying that this passes quickly  well , that was a fail of a night !
+0.17 (that; was; a fail of a night)
+0.89 (someone; said; the \E\ " word)
+0.18 (I; do nt feel; so good)
+0.20 Context(I do nt feel,List([90, 101))):(I; do nt feel so good praying; that this passes quickly  well , that was a fail of a night)
+0.14 Context(I do nt feel praying,List([90, 119))):(this; passes quickly; well)
+0.27 (that; was a fail of; a night)
+
+but I didn't kill anyone and there was the guys with an oversize banana doll ..  sitting in the < PROPFEMALE > down parking lot with < PROPFEMALE > !
+0.45 (I; did n't kill; anyone)
+0.39 (there; was the guys with; an oversize banana doll)
+
+hahahahah prom stalking at its finest !
+0.83 (hahahahah prom; stalking; L:at its finest)
+
+oh me , oh my .
+
+this weekend has been classic  there is something hilarious about my Grandma doling out medications she bought in Mexico for our family which makes me realize how much I love my family :)  < PROPFEMALE > is my favorite .
+0.61 (my Grandma; doling out; medications she bought in Mexico for our family)
+0.82 (medications; bought; L:in Mexico; for our family)
+
+really doesn't understand why and how I am always this stressed when it comes to registering or in this case preregistering for classes .
+0.15 (this; stressed; )
+0.19 (it; comes; )
+
+well my monday , although stressful and cranky during the day , ended up chill :)  adventuring with Sami Houghton always makes life good :)  pretty sure I have the bestest friends ever  I am so easily distracted  baby I can see your Halo  tannnnnnnnnnnnnnn  want to get in a bikini and go crazy !
+0.40 (I; can see; your Halo  tannnnnnnnnnnnnnn  want to get in a bikini and go crazy)
+0.73 Context(I can see,List([218, 227))):(your Halo  tannnnnnnnnnnnnnn; want; to get in a bikini and go crazy)
+0.34 (your Halo  tannnnnnnnnnnnnnn; to go; crazy)
+0.45 (I; have; the bestest friends)
+0.69 (your Halo  tannnnnnnnnnnnnnn; to get; in a bikini)
+0.67 (I; am; so easily distracted  baby I can see your Halo  tannnnnnnnnnnnnnn  want to get in a bikini and go crazy; T:ever)
+
+care to join ?
+
+skating and bonfire was fun :) now hitting the hay to wake up early and spend the weekend at my grandparents !
+0.83 (skating and bonfire; was; fun)
+
+karaoke with my cousins !! :)  < PROPFEMALE > is < PROPFIRST > z and connor is < PROPFEMALE > keys !
+0.87 (PROPFEMALE; is; PROPFIRST)
+0.92 (connor; is; PROPFEMALE)
+
+why do I insist on waving and staring at people driving ?
+0.71 (people; driving; )
+
+second job ?
+
+check :)  well that was an odd time , I dislike pissy people and Tosh .
+0.50 (I; dislike; pissy people and Tosh)
+
+0 !
+
+So Rogers Cheer carwash this saturday and I would loveee for everyone to come and support my senior year of cheering !
+0.93 (Rogers Cheer; carwash; T:this saturday)
+0.42 (I; would loveee; for everyone to come and support my senior year of cheering)
+0.71 (everyone; to come; )
+0.75 (everyone; to support; my senior year of cheering)
+
+Presale tickets are 5 bucks ( or whatever you want to donate ) .
+0.83 (Presale tickets; are; 5 bucks ( or whatever you want to donate)
+0.37 (you; want; to donate)
+0.27 Context(you want,List([42, 50))):(you; want to donate to donate; )
+
+If you wanna buy one , get at me !
+0.37 (you; wan; na buy one)
+0.31 Context(you wan,List([3, 10))):(you; wan na buy; one)
+
+:)  hungryyyyy and time for class  yes !
+
+I love scaring my sister and her friend :)  tutoring , school , pickinh up my siblings , homework , coaching , a visit to the birthday girl now more homework !
+0.42 (I; love scaring; my sister and her friend; pickinh up my siblings , homework , coaching , a visit to the birthday girl)
+
+\  Tuesday , why are you so mean to me ?
+
+tried to compliment both < PROPMALE > and < PROPFIRST > and was questioned by both about my sarcasm .
+0.66 (PROPFIRST >; was questioned; by both)
+
+some will win , some will lose , some where born to sing the blues  studying starts now .
+0.39 (some; will lose; some)
+0.90 (the blues; studying; starts; T:now)
+
+long days are getting longer but running into < PROPMALE > at Target did make me smile .
+0.77 (long days; are getting; longer)
+
+why is our most played song on itunes don't forget by demi lavato ?
+
+heres too curly hair and the day ahead me !
+
+\therapy\ " with Sami then the rest of the day with < PROPMALE >!"  millions of peaches , peaches for free  Rogers cheer car wash today , 10-3 , Cool Bean Espresso on Meridian !
+0.94 (peaches for free  Rogers; cheer; car wash; T:today)
+
+Come and that would make me oh so happy :)  date night to go see Date Night  baby its cold outside  sundays are the best  we can be 3 twins !
+0.08 (that; would make; me oh so happy :)  date night)
+0.45 (we; can be; 3 twins)
+
+good job < PROPFEMALE > :)  aquarium with the fam and < PROPMALE > !
+
+sami houghton .
+
+there are about 15 things I want to text you !!  some may say I am culpable of invoking superfluous amounts of caustic comments I make however I use them congenially and free of irreverence  < PROPFEMALE > \I can do 1 pull up .
+0.32 (I; want; to text you)
+0.26 Context(I want,List([26, 32))):(I; want to text; you)
+0.26 (I; make; however I use them congenially and free of irreverence)
+0.26 Context(I make,List([128, 134))):(I; use congenially; them)
+0.44 (some; may say; I am culpable of invoking superfluous amounts of caustic comments)
+0.46 Context(some may say,List([49, 61))):(I; am; culpable of invoking superfluous amounts of caustic comments)
+0.68 (\I; can do; 1 pull up)
+
+can you ?
+
+oh wait .. you can do like 10 \""  9 days left of school !
+0.62 (you; can do; like; 10 \)
+0.78 (9 days; left; )
+
+i am so darn excited .. if only that didn't mean 9 days until finals !
+0.39 (i; am; so darn excited .. if only that didn't mean 9 days until finals)
+0.57 (only that; did n't mean; 9 days)
+
+we are almost done ..  say ok wednesday  girls day in Seattle then the a night with < PROPMALE>'s fam and a movie made the best Wednesday < PROPFEMALE > !
+0.93 (PROPMALE>'s fam and a movie; made; the best Wednesday < PROPFEMALE >)
+
+TGI .. Th ?
+
+why does this rain remind me of when sami picked me up from sumner blasting < PROPMALE > marley and my phone shorted out because it was so wet ?
+0.88 (sami; picked up; from sumner)
+0.85 (sumner; blasting; < PROPMALE > marley and my phone shorted out)
+0.49 (my phone; shorted out; because it was so wet)
+0.28 (it; was; so wet)
+
+I got lost on a search for my ASL class today , luckily I wasn't the only one .
+0.42 (I; got; lost on a search for my ASL class today)
+
+Now I'm waiting on Bennnnnn to go adventuring on this rainy friday afternoon :)  CHURCH ! ( < PROPFEMALE > Stracener will appreciate that post )  hello swollen eye ....  some will win some will lose some were born to sing the blues  peace and quiet in my home aloneeee .
+0.44 (some; will lose; some were born to sing the blues  peace and quiet in my home aloneeee)
+0.44 Context(some will lose,List([184, 198))):(some; were born; to sing the blues  peace and quiet in my home aloneeee)
+0.41 (I; to go; adventuring on this rainy friday afternoon)
+0.81 (Stracener; will appreciate; that post)
+0.22 (some; will win; )
+0.69 Context(some will win,List([170, 183))):(I; 'm waiting; L:on Bennnnnn; to go adventuring on this rainy friday afternoon :)  CHURCH !; T:Now)
+
+watched hours of Jersey Shore with < PROPMALE > after a long game of frisbee , good memorial day  oh < PROPFIRST > Blunt , you make my anxieties melt away with your depressing lyrics and annoying voice  sami on a moped , me on my Mazda 5  fathers yelling at their little daughter in freddies ..  seriously .. .
+0.60 (my Mazda 5  fathers; yelling seriously; at their little daughter)
+0.53 (you; make; my anxieties melt away with your depressing lyrics and annoying voice  sami on a moped)
+0.40 Context(you make,List([123, 131))):(my anxieties; melt; away)
+
+3 psych tests , a booty load of ASL , a very large , very important research paper/final , 2 jobs , cheer practice , wedding , SATs , Grandma's bday dinner , staff meeting .. sleep until tuesday ?
+0.94 (3 psych tests; cheer; practice , wedding , SATs , Grandma's bday dinner , staff meeting .. sleep until tuesday)
+
+no .
+
+facebook ?
+
+just enough to complain .
+
+so I guess I dont get paid until the 10th ? at least its 2 paychecks from Pierce  as I stood in front of a mirror I watched myseld eat pasta .
+0.49 (I; get; paid until the 10th ? at least its 2 paychecks from Pierce)
+0.40 (I; guess; I dont get paid until the 10th ? at least its 2 paychecks from Pierce)
+0.29 Context(I guess,List([3, 10))):(I; do nt get paid; T:until the 10th; its 2 paychecks from Pierce)
+0.40 (I; watched; myseld eat pasta)
+0.87 Context(I watched,List([114, 123))):(myseld; eat; pasta)
+
+so .
+
+darn .
+
+tired .
+
+pushing through this week with the help of my ever faithful friend , caffeine  I love how pierce is open late the night I need to study , hallelujah .
+0.19 (I; need; to study , hallelujah)
+0.16 Context(I need,List([120, 126))):(I; need to study; hallelujah)
+
+who needs sleep ?
+
+pushing though my asl class , cleaning , cheer , then a busy afternoon with a bday/grad party and wedding to go to with < PROPMALE > !
+
+deaf picnic !
+
+so rad !
+
+currently hiding for 3 minutes .. too tired to deal with birthday parties  my headache makes it hurt to move ..  hasn't felt this drained in such a long time ... :/  multigenerational Facebook technicality conversations , I'm the winner :)  < PROPFEMALE > who has 2 more days of school until her < PROPMALE > year is over ?! \  this girl : )  so we are in a jungle , you have a machete , you have a monkey , you have a rope and I have a woman  the end is so close :)  happy happy happy happy happy .
+0.45 (I; have; a woman  the end is so close)
+0.80 (year; is; over)
+0.43 (my headache; makes; it hurt to move)
+0.17 (it; to move; )
+0.96 (the end; is; so close; L:a woman)
+
+psych test in the lib , drop off my paper then its allllll over :)  summer time !!! :)  Say Ok Wednesday !
+
+want to know what almost rhymes with orphan .. dolphin .
+
+thank you < PROPMALE > :)  I love my life and my friends :)  tan , errands , hitting up the hs , practice then grad parties !
+0.88 (errands; hitting up; the hs)
+
+loving the summer  sitting at a Spartan bracelet selling booth ..  holy tan line !
+0.92 (the summer; sitting; at a Spartan bracelet)
+0.92 (a Spartan bracelet; selling; holy tan line)
+
+fun night with sami ahead !! :)  going out to tac-town to get sarahs phone fixed !  this large registration packet needs to be done and my books returned at SHS by 9 oclock tomorrow .. then I'm officially no longer a Spartan  2 hours of being lost in Tacoma , then pizza and Hercules with < PROPMALE > and < PROPFEMALE > was a nice little bonding time :) haha  such a long day :/ I want my babeee and hug .
+0.32 (I; want; my babeee and hug)
+0.91 (this large registration packet; needs; to be done and my books returned at SHS by 9 oclock tomorrow)
+0.87 (PROPFEMALE; was; a nice little bonding time)
+0.74 (this large registration packet; to be done; )
+
+sky high !!! woohoo :)  Let me riddle you a ditty , it's just an itty bitty , little thing on my mind .
+0.52 (it; 's; just an itty bitty)
+
+\  \  About a boy and a girl , trying to take on the world one kiss at a time .
+0.86 (\; \; About a boy and a girl)
+0.83 Context(\ \,List([0, 4))):(\; \ About a boy and a girl trying; to take on the world one kiss at a time)
+
+\  Now the funny thing about , ain't a story without it , but the story is mine .
+0.64 (the funny thing about; ai n't; a story without it; T:Now)
+0.87 (the story; is; mine)
+
+\  cuuuute song and another amazing summer day :)  just sprayed my house with febreze Hawaiian aloha .. when my family comes home it will smell like they came home to a tropical vacation haha  the amount of mothers digging through the gymboree sale bins is amazing  Sami Houghton's 2:30 am texts make my head spin with excitement .. time to head back to bed though  does not enjoy how its the summer and I'm getting my UV rays from the electrical beach instead of the real beach .. darn weather  oh I love working friday night then saturday morning !
+0.89 (mothers; digging; through the gymboree sale bins)
+0.38 (my family; comes; home)
+0.43 (I; love working then; T:saturday morning; T:friday night)
+0.62 (they; came; home; to a tropical vacation)
+
+so remind me why I decided to wake up at 6 am on a saturday morning in the summer ?
+0.41 (I; to wake up; T:at 6 am; T:on a saturday morning in the summer)
+
+pretty sure the emotional roller coaster that was today is one that I won't forget in a very long time .
+0.93 (the emotional roller coaster; was; T:today)
+0.86 (the emotional roller coaster that was today; is; one that I won't forget in a very long time)
+0.88 (one; wo n't forget; T:in a very long time)
+0.39 (today; is one that; I)
+
+I love < PROPFEMALE > < PROPMALE >  in a funk :/  funny !
+0.50 (I; love; < PROPFEMALE)
+
+I just woke up and Sumner gets out for summer in 1 minute .
+0.19 (I; just woke up; )
+0.94 (Sumner; gets; out; T:for summer; T:in 1 minute)
+
+\  today is a new day !
+
+why I should just stick to being late to places ...  cheer , running my currently carless boyfriend's errands and mine then saw Toy Story 3 :) good times !
+0.41 (I; to being; late to places)
+0.79 (mine; saw; Toy Story 3; T:good times; T:then)
+0.39 (I; should just stick; to being late to places; cheer)
+0.18 Context(I should just stick,List([4, 23))):(I; should just stick to being late to places running; my currently carless boyfriend's errands)
+
+when in doubt < PROPFEMALE > out with my sister and her friends  I would like rubber mechanic gloves ... guy working \would you like those with or without a mechanic ?
+0.45 (I; would like; rubber mechanic gloves)
+0.48 (I would like rubber mechanic gloves ... guy; working; )
+
+\""  wow .
+
+this is annoying being this early .
+0.22 (this; is; annoying being this early)
+0.15 (this; being; this; T:early)
+
+popcorn , seinfeld then getting up nice and early to spend the day at Gymnasticsland :))  worked , got food , now Im chilling home alone until work againnn  BBQ with my babeee tomorrow :) until then its been a long day at work , now its some relaxing timeee  loves having the car in the shop while she is home alone .. \  < PROPMALE > is picking me up in a few hours boredom until then .
+0.96 (seinfeld; getting; up; nice and early to spend the day at Gymnasticsland :))  worked , got food; T:then)
+0.75 (its some relaxing timeee; loves; having the car in the shop; T:now)
+0.62 Context(its some relaxing timeee loves,List([233, 264))):(its some relaxing timeee; loves having; the car; L:in the shop)
+0.28 (she; is; home; alone)
+
+just was fed a jello heart , oh yeah , I hate jello  cheer , then the return of the Mini mini < PROPFIRST > :)) then work !
+0.50 (I; hate; jello  cheer , then the return of the Mini mini < PROPFIRST > :)) then work)
+0.46 Context(I hate,List([39, 45))):(I; hate jello cheer; then the return of the Mini mini < PROPFIRST > :)) then work)
+
+found my ancient Reign City \we believe commitment is everything\ " tshirt organizing my closet and am wearing it to practice :) "  these party favors look like legit party favors !!  longgg day !
+0.19 (it; to practice; )
+0.73 (legit party; favors; )
+
+now < PROPFIRST > < PROPMALE > is coming ova !
+0.85 (PROPFIRST > < PROPMALE >; is coming; ova; T:now)
+
+deep cleaning my room I solved the mystery of where all my socks disappeared too :)  coffee with the very much missed < PROPFEMALE > Thomsen !
+0.36 (all my socks; disappeared too; )
+0.59 (deep cleaning my room; solved; the mystery of where all my socks disappeared too :)  coffee with the very much missed < PROPFEMALE > Thomsen)
+
+decluttering , cleaning and scrubbing my room until it is spotless ! about 75% done !
+0.28 (it; is; spotless)
+0.75 (about 75%; done; )
+
+I got 2 hours of sleep last night , therefore I am sleeping like a baby tonight :) \  suchhh a funny afternoon with < PROPMALE >  what is REALLY on my mind , I like this bottled water  working open gym this morning !
+0.91 (this bottled water; working; open gym; T:this morning)
+0.35 (I; am sleeping; T:tonight; T:suchhh a funny afternoon)
+0.46 Context(I am sleeping,List([46, 59))):(I; got; 2 hours of sleep; T:last night)
+0.40 (I; like; this bottled water  working open gym this morning)
+
+and my arms are soooo sore !!  work was chill , now cleaning , then dress shopping for a wedding , hanging out with < PROPMALE > and packing for my property !
+0.82 (work; was; chill)
+0.32 Context(work was,List([31, 39))):(my arms; are; soooo sore)
+
+happpppyyyy :)  so needs to get away , luckily I get too  this drive will be the death of me  best .
+
+wedding .
+
+ever .
+
+loves when my family freaks out about thinking I ate red meat .. sike !
+0.34 (my family; freaks out; )
+0.45 (I; ate; red meat)
+
+there was halibut  people are cheering in Swedish !
+0.92 (halibut  people; are cheering; L:in Swedish)
+
+oh my family :)  are those really your legs ?  in the grandparents westfalia !
+0.16 (my family; are; those really)
+
+entiat here we come :)  flying a Canadian flag in Leavenworth .. just a < PROPMALE > confused  on the top shelf of the westfalia .. this might be the death of me !!!!  we are hitchhiking cousins :)  leaving .
+0.11 (we; are leaving; )
+0.48 Context(we are leaving,List([168, 206))):(we; come flying; a Canadian flag; L:in Leavenworth; T:entiat here)
+
+thank the lord  love is what I got .. oh Sublime .
+
+bonfire time :)  ahhhh today was long , tomorrow will be longer .
+0.70 (tomorrow; will be; longer)
+0.74 Context(tomorrow will be,List([40, 56))):(bonfire time; was; long)
+
+reallllly can't wait til friday to see < PROPMALE > !  the heat gave me a bloody nose :(  just beat < PROPFEMALE > Rothschild's day because I am older and will always win !
+0.19 (I; will win; T:always)
+0.83 (the heat; gave; me; a bloody nose)
+0.28 (I; am; older)
+
+Red Bull Italian sodas < PROPFEMALE > ke < PROPFEMALE > life !
+
+running my sisters around , doing some errands and chores then the sun is calling my name with Sami Houghton !
+0.92 (the sun; is calling; my name; with Sami Houghton; T:then)
+
+well .
+
+today was less than exciting  free Chinese food ! say what !
+0.92 (today; was; less than exciting  free Chinese food)
+
+I would really appreciate it if I could know what in the world was going on !
+0.31 (I; would really appreciate; it)
+0.39 (I; could know; what in the world was going on)
+
+Wild Waves tomorrow with my baby ?! now I'm excited for that :)  nightmares all night long :/  getting ready then heading out to Wild Waves !
+0.22 (I; 'm long; T:now)
+
+allll day with < PROPMALE > , sure to be a good one :)  finally about to leave !
+
+haha I love how impossible it is to get anything done with that boy  awww , so good :)  Saturday lunch at red < PROPFIRST > with my sisssseter !  is there a reason I am so scared of the most retarded things ever ?
+0.52 (I; am; so scared of the most retarded things ever)
+0.71 (anything; done; )
+
+hello unopened bag of cheezits ..  lake with K madd !! :)  her lips are devil red and her skin the color mocha  escape from azkaban with bennnn  first ever < PROPMALE > potter movie I've ever actually sat through  heat nosebleed+allergy attack = no good  < PROPMALE > is taking me to work !
+0.54 (I; 've actually sat; through  heat nosebleed+allergy attack; T:< PROPMALE > potter movie; T:ever)
+0.19 (me; to work; )
+0.74 (no good  < PROPMALE; is taking; me)
+0.59 Context(no good < PROPMALE is taking,List([246, 277))):(her lips; are; devil red)
+0.89 Context(her lips are no good < PROPMALE is taking,List([59, 277))):(hello unopened bag of cheezits ..  lake with K; madd; )
+
+God bless not having my own car ...  baby I can see your halo  lazy , overcast monday lounging around in < PROPMALE>'s hoodie doing next to nothing was much needed and enjoyed :)  going to my brothers place to < PROPFEMALE > !
+0.38 (I; can see; your halo  lazy; T:baby)
+0.77 Context(I can see,List([42, 51))):(God; bless; not having my own car)
+0.71 Context(God bless I can see,List([0, 51))):(God; bless not having; my own car)
+0.90 Context(I can see,List([42, 51))):(overcast monday; lounging; around; L:in < PROPMALE>'s hoodie)
+0.89 (PROPMALE>'s hoodie; doing; L:next to nothing)
+
+I swear all I want is a < PROPFEMALE > red bull Italian soda , not to stare at your hot pink underwear  cheeeeeeer then pizza and a movie with my < PROPMALE > !
+0.40 (I; swear; is a < PROPFEMALE > red bull Italian soda)
+0.28 (I; want; not to stare at your hot pink underwear  cheeeeeeer)
+0.19 Context(I want,List([12, 18))):(I; want not to stare; at your hot pink underwear  cheeeeeeer)
+
+its only 78 ..  team bonding bonfire !
+
+:)  has spent an abundant amount of time alone this week , its much appreciated though because I am drainnnnned  coffee with < PROPFEMALE > Betts !!  hello Friday .
+0.57 (I; am; drainnnnned  coffee with < PROPFEMALE > Betts)
+0.59 (its much; appreciated though; because I am drainnnnned  coffee with < PROPFEMALE > Betts)
+0.32 Context(its much appreciated though,List([59, 86))):(:); has spent; an abundant amount of time alone; T:this week)
+
+I will bask in your nothingness and relax :)  is dating the biggest dork !
+0.17 (I; relax; )
+0.26 (I; will bask; L:in your nothingness)
+0.29 Context(I will bask,List([0, 11))):(I; will bask is dating; the biggest dork)
+
+worked 9-3 , going back to work parents night out 5 30-10 .
+0.75 (parents; night out; 5 30-10)
+
+I loved finding out two of my fav girls from work are at Morman camp the same time and place I'm at cheer camp , reading < PROPMALE > Goes to the Hospital to 4 year olds , and the insanity of parents night outs !
+0.66 (I; 'm; at cheer camp; T:the same time and place)
+0.82 (PROPMALE; Goes; to the Hospital)
+0.40 Context(PROPMALE Goes,List([123, 138))):(I; loved; finding out two of my fav girls from work are at Morman camp the same time and place)
+0.26 Context(I loved PROPMALE Goes,List([0, 138))):(I; loved finding out; two of my fav girls from work)
+0.74 Context(I loved finding out PROPMALE Goes,List([0, 138))):(finding out two of my fav girls from work; are; at Morman camp; T:the same time and place I'm at cheer camp)
+
+I'll sleep good after 10 hours of work  locksmiths are everywhere !
+
+haha  2 apricots is not sufficient !
+0.77 (2 apricots; is not; sufficient)
+
+adventures with Sami Houghton make me sleepy tired !
+0.89 (adventures with Sami Houghton; make; me sleepy tired)
+
+good thing I have to get up and workk in the morning bahah  making dinner ?! eek , thats all bad !
+0.20 (I; to get; up)
+0.31 (I; to workk; in the morning bahah  making dinner)
+0.91 (the morning bahah; making; dinner)
+
+then < PROPMALE > is picking me up , could be interesting !
+0.63 (PROPMALE; is picking up; T:then)
+0.64 (PROPMALE; could be; interesting)
+
+hello random lake days !
+
+heading out to < PROPMALE>'s best frannns house for the afternoon !
+
+just had < PROPFEMALE > talking about how \beer\ " is her favorite drink .
+0.75 (< PROPFEMALE; talking; about how \beer\ " is her favorite drink)
+0.84 (\beer\; is; her favorite drink)
+
+classic .
+
+"  what to do on such a pretty day ?
+
+no plans !
+
+ah !
+
+annoyed .
+
+those summer nights :)  im massively confused , lots of thinking  lake and sushi town with < PROPFEMALE > !!  oh my gosh I feel so terrible .
+0.96 (those summer nights; im; massively confused , lots of thinking  lake and sushi town with < PROPFEMALE >)
+0.23 (I; feel; so terrible)
+
+darn my kidneys :/  can you say sickkkk ?
+
+Bens coming over and bringing me a movie .. ugh , Ive been up since 3 30 .
+0.43 (Ive; been; up; T:since 3 30)
+
+loves phone calls just to talk :) work was tough cuz I'm still not feeling all that well , but now its chores and stuff I've been putting off , then cheer tie-dye party !
+0.67 (work; was; tough)
+0.21 (I; 'm not feeling; all; T:still)
+0.90 Context(I 'm not feeling,List([53, 74))):(that well , but now its chores and stuff I've been putting off , then; cheer; tie-dye party; T:now)
+0.19 (I; 've been putting off; T:then)
+
+never good enough :/  I'm freaking out ! why is it so hard to get a sub for work the morning of cheer camp ?! stresssss meee outtt .
+0.41 (I; 'm freaking out; meee outtt)
+
+black top burn on my thigh !
+
+ouch !
+
+wasteee of time !
+
+urgh !
+
+now , my time is free and I don't work tomorrow morning , saweet  please wake me up at 7 30 , that is much appreciated  why is everyone so stressed out ?  so darn tired !
+0.60 (my time; is; free; T:now)
+0.03 (that; appreciated; )
+0.45 (I; do n't work; T:tomorrow morning)
+0.27 (I; saweet; please wake me up at 7 30)
+0.71 (everyone; so stressed out; )
+0.13 (that; is so darn tired; much appreciated  why is everyone so stressed out)
+
+now its time to get my restttt !
+
+cheer camp tomorrow morning !
+
+on my way to cheer camp !! :)  could possibly end up waking up in a different part of the building , did I forget to mention I sleepwalk ?
+
+:)  all american !
+
+haha it was way too random  ICY HOT IS MAKING ME SO TINGLY !!!!!!!!!  so proud of my cheer team !
+0.54 (it; was so proud; way too random  ICY HOT IS MAKING ME SO TINGLY)
+
+we kicked UCA camp booty :)  power nap complete !
+0.50 (we; kicked; UCA camp booty)
+
+now news heading over :)  Coach < PROPMALE > was right , Boys are the devil .
+0.90 (news; heading; over :)  Coach; T:now)
+0.75 (PROPMALE >; was; right)
+0.92 (Boys; are; the devil)
+
+when life hands you lemons , act like a raptor and cheer in the woods  straight up yuck .
+0.86 (life; hands; you)
+
+I havent left my bed since Ive gotten home from work , anyone wanna cheer me up ?
+0.35 (I; have nt left; my bed; T:since Ive gotten home from work)
+0.68 (Ive; gotten; home; from work)
+0.79 (anyone; na cheer up; me)
+
+:(  Sayle Namy to the rescue !
+
+todays gonna be an interesting one , work then Ben .. \  lets see how this all works out  I might not be ecstatic , but for the moment I am 100% content :)  come visit me at Sumner Days !
+0.88 (todays; na be; an interesting one , work)
+0.66 (I; am; 100% content; T:for the moment)
+0.97 (todays gonna be an interesting one , work then Ben .. \  lets see how this all works out  I might not be ecstatic , but for the moment I am 100% content; come visit; me; L:at Sumner Days)
+
+Im working 10 to 7 for Roach gymnastics haha  and everything is back to normal :)  finds it really hard not too clap in a cheer clasp .. problem ?
+0.92 (everything; is; back to normal :))
+
+I think so :)  BFFFFFFFF Samiiiiii night !
+0.28 (I; think; so)
+
+I slept in today .. its 9 am .
+0.37 (I; slept; L:in today; T:its 9 am)
+
+tell people when you are dehydrated , I learned that lesson .
+0.32 (you; are dehydrated; )
+
+anyways , work was nice , chores , then cheer , then hopefully my lovely Krystallll :)  could really use a friend right now  then < PROPMALE > comes and visits me :)  work was a joy .
+0.85 (work; was; a joy)
+0.82 (chores; cheer; T:then)
+
+now to washing the car !
+
+Oh I wish I wasnt as tired as I am right now !
+0.28 (I; am; T:right now)
+0.31 (I; wish; I wasnt as tired)
+0.31 Context(I wish,List([3, 9))):(I; was nt; as tired as I am right now)
+
+singing and dancing and cleaning the car  and she broke her hand , punching my face .
+0.26 (she; broke; her hand)
+0.18 Context(she broke,List([46, 55))):(she; broke her hand punching; my face)
+
+neeeeeds coffee .. well today has potential , work soon , then bowling with < PROPMALE > .
+0.85 (neeeeeds coffee .. well today; has; potential)
+0.83 (work soon; bowling; T:then)
+
+ready for a fun day with Bennnn :)  well baby there's a lot that I'll miss in case I'm wrong  thinking I should do something productive today ..  breatheeee .
+0.91 (a lot; 'll miss; L:in case)
+0.26 (I; 'm wrong thinking; I should do something productive today)
+0.40 Context(I 'm wrong thinking,List([83, 102))):(I; should do; something productive; T:today)
+
+home watching a movie before a long weekend of work and cheer  oh man !
+
+working in a gym with no ac all day makes me tireddd !
+0.80 (all day; makes; me tireddd)
+0.16 Context(all day makes,List([28, 41))):(me; tireddd; )
+
+meatless spaghetti :) nomnom  that's why they call it murder not muckduck  cheering at Thun Field ! its gonna be a long , hot day :)  my friends are amazing :) goodnight to one of the most topsy turvy days of my life  Texas Aggies .. that really is a mascot ..  a love like whoa !
+0.10 (that; 's; why they call it murder)
+0.14 (that; really is; a mascot)
+0.54 (they; call; it; murder)
+0.49 (its gon; na be; a long , hot day :)  my friends)
+
+Mall performance at 6 by Macys !
+
+woot woot !
+
+reallllly doesn't get why all of a sudden my ankle issue is coming back !
+
+ahhh , 11 hours of sleep :)  cleaned the inside of the car and went to work , now what to do ?
+0.91 (11 hours of sleep; cleaned; the inside of the car)
+
+fun night with < PROPFEMALE > !
+
+now paying for some cheer , shopping with my momma , much needed styling of my hair and < PROPMALE > !
+
+yeah for no working Friday :)  well I love when plans go down and my whole day is pissing me off !
+0.42 (I; love; T:when plans go down and my whole day is pissing me off)
+0.67 (plans; go; down)
+
+Panda Express , a water fight at the parks drinking fountain , almost losing my phone and then making \Yarmulkas\ " and dancing to Jewish Music Videos all with < PROPMALE > haha "  nothing to do on a Saturday night ?
+0.85 (Panda Express; almost losing; my phone)
+0.91 (nothing; to do; T:on a Saturday night)
+
+story of my life .
+
+rubbed jalepeno chip stuff in my eyeee !
+
+ouchhh  way sore !
+
+time to get ready for worky work  a few hours of sleep does not work for me !
+0.87 (a few hours of sleep; does not work; for me)
+
+gross shake :( yuckkkk !
+0.34 (gross; shake; yuckkkk)
+
+you are on meth .. nuff said .
+0.78 (you are on meth; said; nuff)
+0.61 Context(you are on meth said,List([0, 28))):(you; are; on meth)
+
+this has been a loooong week !
+0.38 (this; has been; a loooong week)
+
+eeek !
+
+super excited for tomorrow .
+
+and very thirsty right now  Sami Sami Sami Sami TIMMMEEEEEEE :)  If you have a sister who has made you laugh , wiped your tears , hugged you tight , watched you succeed , saw you fall , cheered you on and kept you strong .
+0.46 (you; have; a sister who has made you laugh ,)
+0.76 (Sami Sami Sami Sami TIMMMEEEEEEE; watched; you succeed)
+0.27 Context(Sami Sami Sami Sami TIMMMEEEEEEE watched,List([28, 156))):(you; succeed; )
+0.77 (a sister; has made; you laugh)
+0.27 Context(a sister has made,List([77, 98))):(you; laugh; )
+0.88 (Sami Sami Sami Sami TIMMMEEEEEEE; wiped; your tears; T:very thirsty right now)
+0.72 (Sami Sami Sami Sami TIMMMEEEEEEE; hugged tight; T:very thirsty right now)
+
+Sisters are a promise from God that we will have a forever friend !
+0.76 (Sisters; are; a promise from God that we will have a forever friend)
+0.45 (we; will have; a forever friend)
+0.88 (Sisters; are a promise from; God)
+
+Repost if you love your sister .
+0.46 (you; love; your sister)
+
+:)  fun night :)  just realized one of my sisters left a large stack of ritz crackers with peanutbutter between every single one on my counter ... I'm blaming < PROPFEMALE >  bfffff Sami taking me to see secondhand serenade !! what a great surprise :)  \ you can break my heart if it meant id never be alone\ " cameras don't lie "  weeeeeeeeeeeeee !
+0.19 (it; meant; id never be)
+0.87 Context(it meant,List([281, 289))):(alone\ " cameras; do n't lie; weeeeeeeeeeeeee)
+0.40 (I; 'm blaming; < PROPFEMALE >  bfffff Sami taking me to see secondhand serenade !! what a great surprise :)  \ you can break my heart)
+0.59 Context(I 'm blaming,List([147, 158))):(you; can break; my heart; T:bfffff Sami taking me to see secondhand serenade)
+0.15 (id; never be; )
+0.83 (Sami; taking; me; to see secondhand serenade)
+0.90 Context(Sami taking,List([182, 193))):(Sami; taking me to see; secondhand serenade)
+
+im tired  very much enjoyed her morning relaxing then going to the pancake house with < PROPMALE > :)  just convinced my little sisters that if they scream , I am chopping off their hair in the middle of the night .
+0.32 (they; scream; )
+0.11 (<; just convinced; my little sisters; that if they scream , I am chopping off their hair in the middle of the night)
+0.26 Context(< just convinced,List([86, 117))):(I; am chopping off; their hair; L:in the middle of the night)
+
+they believe me and are terrified :)  am I reallly online shopping and looking at homecoming dresses ?
+0.28 (they; are terrified; )
+0.41 (they; believe; me)
+
+< PROPFIRST > the frog played with Aunt Sayle and Aunt < PROPFEMALE > :)  Just bought my homecoming dress and learned how to drive stick !
+0.83 (the frog; played; T:PROPFIRST)
+0.73 (PROPFEMALE; Just bought; my homecoming dress)
+0.83 (PROPFEMALE; learned; how to drive stick)
+
+woop woop !
+
+now cheer :)  sami Houghton seriously saves the day !!! I'm such a forgetful spaz :/  well that was a fun first assembly/ever going to Rogers during the day for me :) now a day of planning , prepping , team dinner then cheeeering at Sparks at 7 !
+0.93 (team dinner; cheeeering; at Sparks at 7; T:then)
+0.17 (that; was; a fun first assembly)
+
+then leaving with SAMIIIII  wooooooo !
+
+first game tonight :)  my ankle is going nuts !
+
+but miss Sami is picking me up and we are leavingggg for the weekend :)  pizza and full throttle .
+0.87 (miss Sami; is picking up; me)
+0.45 (we; are leavingggg; T:for the weekend :)  pizza and full throttle)
+
+breakfast of champs :)  my phone is in future mode  Sami Houghton and I are the smartest campers I know !
+0.74 (my phone; is; in future mode  Sami Houghton)
+0.31 (I; are; the smartest campers I know)
+0.92 (the smartest campers; know; I)
+
+hahaha  head for the hills , the kitchens of fire  buying Pierce books like a boss :)  weeeeeeeee .
+0.93 (the kitchens of fire; buying; Pierce books)
+
+bored and bummed about my ankle .
+
+its kinda weird being in summer .
+
+getting out of the house was good for my mood :) now its Big Brother time !
+0.92 (getting out of the house; was; good for my mood; T:now; T:its Big Brother time)
+
+< PROPMALE > of the Hill tonightt and I can fully cheer :) stoked :)  jamming to < PROPFEMALE > on my way to team dinner :)  70 to 12 :) gooooood night at < PROPMALE > of the Hill !
+0.31 (I; can fully cheer; jamming to < PROPFEMALE > on my way)
+
+now its time to ice and sleep  my palms are bruised from tumbling haha  backk to work , then Shelbies bday , then Scene Kid ?
+0.34 (my palms; are bruised; )
+0.62 (its time to ice and sleep  my palms are bruised from tumbling haha  backk; to work; )
+
+\  busy busy :)  front row box seats to the rodeo .. Hahahaha  MINI HORSES !
+
+lets hope Im not the one stuck picking up my sister and her friends tonight ..  hellllo benedryl :)  Hello summer .
+
+I enjoyed you and all but I want school to start .
+0.31 (I; enjoyed; you and all)
+0.47 (I; want; school to start)
+0.67 Context(I want,List([26, 32))):(school; to start; )
+
+its not everyday you hear < PROPFEMALE > in a bottle on the radio :)  hey your daughters cute  chaperoning < PROPFEMALE>'s class this morning at the fair , then running around , then performing at the fair twice tonight :)  cheeering at the fair and picking up my < PROPFEMALE > :)  goooo < PROPMALE > !! I want him to win :)  I would lock myself out of my car when I'm super hungry , sweaty , and have things to do righttt after cheer practicee :)  laame night :(  GAMMMMEEEE DAYYY :)  someone at < PROPFIRST > in the box just asked me the score of the game .. already forgot  I'M KILLING THE RADIO !!! a remix of dynamite came on right as I walk into my room .
+0.41 (I; have; things to do righttt)
+0.31 (I; want; him to win)
+0.16 Context(I want,List([305, 311))):(him; to win; )
+0.26 Context(I want,List([305, 311))):(I; would lock; myself; out of my car; T:when I'm super hungry , sweaty)
+0.28 (I; 'm; super hungry , sweaty)
+0.95 (PROPFEMALE>'s class this morning at the fair; performing; L:at the fair twice; T:tonight; cheeering at the fair and picking up my < PROPFEMALE >; T:then)
+
+fairrr traffic is my favoriteeee  when it rains it pours  I just feel ridiculous .
+0.87 (fairrr traffic; is; my favoriteeee; T:when it rains it pours  I just feel ridiculous)
+
+dear Chinese food place .
+
+does your music have to be this sad ?
+0.34 (your music; to be; this sad)
+
+everybody's working for the weekend  its looking like everything is changing in my worlddd so its time to change with it  behind a bus that is advertising Light the Night :)  friggin frick frick .
+0.82 (everybody; 's working; for the weekend  its looking)
+0.42 (its; looking; like everything is changing in my worlddd so its time)
+0.90 (a bus; is advertising; Light)
+
+last night of summer !
+
+sooo excited for tonights festivities with the girrrrls :) \  Theme Song \ Ridin Solo\ " \  you're wearing cowboy boots , don't try to be sneaky  I'm living life now that I'm free .. question < PROPFIRST > ?
+0.62 (you; 're wearing; cowboy boots)
+0.21 (I; 'm living; life; T:now that I'm free .. question < PROPFIRST >)
+0.52 (I; 'm PROPFIRST; free .. question)
+
+have you ever seen despipeple me ?
+
+hahahaha :)  tutoring center meeting , cheering at golf ( how odd ) and coaching today on my lasttt day of summer .
+0.76 (hahahaha :)  tutoring center meeting; cheering; )
+
+hello random pretty day :)  schoool here I come !
+0.19 (I; come; )
+
+they say we're young and we don't know , we won't find out until we grow  school .
+0.19 (we; do n't know; )
+0.26 (we; wo n't find out; T:until we grow  school)
+0.40 Context(we wo n't find out,List([41, 58))):(they; say; we're young and we don't know)
+0.23 Context(they say we wo n't find out,List([0, 58))):(we; 're; young)
+
+day 2 .
+
+wishes certain people would stop just listening to her and start actually hearing what she has to say  get ready for school or sit on fb ?
+0.48 (she; get; ready for school)
+0.87 (certain people; start; actually hearing what she has to say  get ready for school or sit on fb)
+0.84 Context(certain people start,List([7, 64))):(certain people; start actually hearing; what she has to say  get ready for school or sit on fb)
+0.20 Context(certain people start actually hearing,List([7, 81))):(she; has; )
+0.39 Context(certain people start actually hearing she has,List([7, 94))):(she; has to say; get ready for school or sit on fb)
+
+hmmm  I like Pierce on Fridays .
+0.50 (I; like; Pierce)
+
+its not mass mayhem .
+
+game time !
+
+woot woot !
+
+soooo .. Utopia anyone ?
+
+lazyyyy day napping after work .
+
+now what to do with this Saturday night ?
+
+thnls to the fair getting to fredmeyer is a 40 minute process  just got paged to the pharmacy of < PROPFIRST > Meyer .
+0.57 (the fair; getting; to fredmeyer)
+0.96 (thnls to the fair; is; a 40 minute process  just got paged to the pharmacy of < PROPFIRST > Meyer)
+0.94 (a 40 minute process; got; paged to the pharmacy of < PROPFIRST > Meyer)
+0.77 (a 40 minute process; just got paged; )
+
+how odd .
+
+suppp church chores homework and coffee .
+
+yeah for Sundays  time to go get food :)  I show up to school super early and my first of 2 classes is cancelled :)  ohhh myyy goshhh .
+0.45 (I; show up; to school; T:super early)
+0.66 (my first of 2 classes; is cancelled; T:ohhh myyy goshhh)
+
+Ms < PROPFEMALE > should remember to sign out of < PROPFEMALE>'s laptop !
+0.82 (PROPFEMALE; should remember; to sign out of < PROPFEMALE>'s laptop)
+0.60 Context(PROPFEMALE should remember,List([5, 33))):(PROPFEMALE; should remember to sign out of < PROPFEMALE>'s laptop to sign out; )
+
+<3 Love you girly  so excited to get things going with lifeeeeeee  so this is closure ... ( minus a jacket )  I'm teething ?
+0.24 (<3; Love girly so excited; you)
+0.52 (you; to get; things going with lifeeeeeee)
+0.40 Context(you to get,List([8, 36))):(things; going; with lifeeeeeee)
+
+how odd  I have the quesiest , weakest stomach ever .. psychology made me feel sick  caffeine is my crack  online chemistry time ?!  my alarm was set to silent this morning .. thank the lord for the sense of an internal clock  rolled out of bed , now I have a full day of Piece then cheering .
+0.60 (my alarm; to silent; T:this morning)
+0.79 (weakest stomach ever; made; me feel sick)
+0.19 Context(weakest stomach ever made,List([31, 70))):(me; feel; sick)
+0.93 (the sense of an internal clock; rolled; out of bed)
+0.83 (caffeine; is; my crack  online chemistry time)
+0.59 Context(caffeine is,List([85, 96))):(my alarm; was set; to silent this morning)
+0.58 (I; have; a full day of Piece then cheering; T:now)
+0.39 (sick caffeine; is my crack online; chemistry time)
+
+Go Thursday !
+
+haha  I want a nap .
+0.52 (I; want; a nap)
+
+now .
+
+thats one hot barista !! ahahahahaha\  I love Pierce .
+0.50 (I; love; Pierce)
+
+Thursday night games .. suck .
+0.82 (Thursday night games; suck; )
+
+time for classss  standing between mine and my sisters room listening to competing < PROPFIRST > Lambert songs from her radio station and mine  lost a debit card , gained an ipod .
+0.70 (classss; standing; between mine and my sisters room)
+0.91 (time for classss  standing between mine and my sisters room listening to competing < PROPFIRST > Lambert songs from her radio station and mine  lost a debit card; gained; an ipod)
+
+ya win some , ya lose some  I am the grape < PROPMALE > .
+0.57 (I; am; the grape < PROPMALE >)
+0.41 (ya; lose; some  I am the grape)
+0.37 Context(ya lose,List([14, 21))):(ya; win; some)
+
+classic .
+
+I just outcreeped myself  headacheeee :(  churrrchhh ! then doing work on my homework today !  with the recent return of my ipod which has been MIA for a couple of years I found old Reign City music from 07 on it .. oh the memories :)  its like a book elegantly bound but in a language that you can't read  yeahhh its MONDAYYYYY !
+0.31 (I; just outcreeped; myself)
+0.68 (its like a book elegantly bound but in a language; ca n't read; yeahhh its MONDAYYYYY)
+0.71 (headacheeee; doing; work; T:today; T:then)
+0.73 (the recent return of my ipod; has been; MIA; T:for a couple of years)
+0.50 (I; found; old Reign City music)
+0.73 (a book; elegantly bound; )
+
+my neck , my ankle , my sanity .
+
+helllo day 3 of freaskishly vivid and bizarre dreams  my public speaking teach just said < PROPMALE > < PROPMALE > and I laughed far too loud  time to go be a \Fun Specialist\ " ohhh coaching gymnastics "  well he was a meth addict with a mini puppy fetish who ate < PROPFEMALE > canes when it wasn't Christmas  waking up to realize I am fully sick .
+0.77 (my public speaking teach; just said; PROPMALE > < PROPMALE > and I laughed far too loud  time to go be a \Fun Specialist\ " ohhh coaching gymnastics "  well he was a meth addict with a mini puppy fetish; T:helllo day 3 of freaskishly vivid and bizarre dreams)
+0.52 (he; was; a meth addict with a mini puppy fetish)
+0.50 (I; laughed; T:far too loud  time to go; be a \Fun Specialist\)
+0.92 (a mini puppy fetish; ate; < PROPFEMALE > canes)
+0.81 (Christmas; to realize; I am fully sick)
+0.24 Context(Christmas to realize,List([301, 332))):(I; am; fully sick)
+0.50 (it; was; n't Christmas  waking up)
+0.39 (he; was a meth addict with; a mini puppy fetish)
+
+sweet .
+
+herrow stomach bug  I'm still really confused on how I ever met a cute Walmart employee  I love Sami Houghton !
+0.53 (I; 'm; T:still; really confused on how I ever met a cute Walmart employee)
+0.67 (I; met; a cute Walmart employee; T:ever)
+0.50 (I; love; Sami Houghton)
+
+Just saying .
+
+\the wicked with of the west is from the sound of music\ " \  monkey high five .. you'll never win  procrastination isnt toooo bad .
+0.62 (you; 'll never win; procrastination)
+
+I love you  speech , complete !
+0.31 (I; love; you)
+
+hi .
+
+I'm an airhead , I drove to the school for practice with no shoes only to find out there is no practice .
+0.39 (I; drove; to the school; for practice with no shoes)
+0.46 Context(I drove,List([17, 24))):(I; 'm; an airhead)
+0.18 Context(I drove,List([17, 24))):(I; drove only to find out; there is no practice)
+
+well for a while I thought you were a robot  my fingers are numb ..  feels horrid !
+0.38 (my fingers; are; numb)
+
+homework , college apps , cleaning , planning , organizing , church .
+
+what else are Sundays good for ?
+
+my brain hurts  just got asked to homecoming !
+0.66 (my brain; got; asked to homecoming)
+0.64 (my brain; hurts just got asked; to homecoming)
+
+my entire cul de sac is chalked up haha :)  value village time with sami before practice !
+0.70 (my entire cul de sac; is chalked up; T:haha :)  value village time)
+
+my neighbors probably think I'm insane  not gonna lie , every time I go to rogers for anything except cheer I get really confused  dear < PROPFEMALE > grosse , not even 10% of the price of yours haha  invading peoples personal privacy all in the name of cheer :)  is a happy hamper  has never cheered that hard in my life  ahhhhh !
+0.28 (I; get; really confused)
+0.85 (grosse; not is; a happy hamper; T:every time I go to rogers for anything except cheer)
+0.42 Context(grosse not is,List([151, 266))):(my neighbors; probably think; I'm insane  not gonna lie)
+0.23 Context(my neighbors probably think grosse not is,List([0, 266))):(I; 'm; insane)
+0.66 (I; go; to rogers for anything except cheer; T:every time)
+
+tonight was amazing !
+
+homecominnng tomorrow :))))  what a day :) haha  is a happy girl haha  dear Monday mornings ... bite me .
+0.94 (haha; is; a happy girl haha; T:what a day)
+
+I would go to school and work with my yoga pants on backwards ..  the unloyale strikes again !
+0.45 (I; would go; to school)
+0.33 (I; work; with my yoga pants; on backwards)
+
+oh how many times have I sat on the side of the road with < PROPFEMALE > :)  eating coooookies :) nom nom nom  really doesn't want to go take a staff picture alll the way in Sumner ... eeh , Fun Specialist  whhyyyy did I take chem online ??? \  grrrr  bored to tears .
+0.41 (I; eating; coooookies)
+0.89 (nom nom nom; really does n't want; to go take a staff picture alll the way in Sumner ... eeh , Fun Specialist  whhyyyy did I take chem online)
+
+need something to do today !
+0.89 (something; to do; T:today)
+
+Sami Houghton is making me run away from facebook .
+0.85 (Sami Houghton; is making; me run away from facebook)
+0.47 Context(Sami Houghton is making,List([0, 23))):(me; run; away from facebook)
+
+hitting my head against the wall .
+
+he's really doing parkour right now  my leg is so ITCHY !!!!
+0.45 (he; 's really doing; parkour; T:right now)
+0.45 (my leg; is; so ITCHY)
+
+I rock  Happy Birthday < PROPFEMALE > Raglin !!! Love you :)  hmm no school tomorrow :)  WAKE UP Skylar < PROPMALE > !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  I'm the big spoon !!  loves crazy people  is going to be super productive on her day off !
+0.82 (the big spoon; to be; super productive on her day off)
+0.46 (I; 'm; the big spoon)
+
+Game of the Week tonight :)) vs Phs !
+
+my house has been invaded by blonde 14 year olds  I love < PROPFEMALE > Kerschner :)  defrosting , icing my ankle and sleeping .. I luhuvvv working saturday mornings  this morning < PROPFEMALE > stumbled into my room to make sure I was still alive ...  Halloween = success :)  my house is too quiet for my liking .
+0.80 (PROPFEMALE; stumbled; into my room; to make sure I was still alive ...  Halloween = success)
+0.71 Context(PROPFEMALE stumbled,List([182, 203))):(PROPFEMALE; stumbled into my room to make; sure I was still alive ...  Halloween = success)
+0.56 (my house; is; too quiet for my liking)
+0.85 (Kerschner :); icing; my ankle)
+0.76 (Kerschner :); sleeping; )
+0.57 (I; was; T:still; alive ...  Halloween = success)
+0.40 (I; luhuvvv; working saturday mornings  this morning)
+0.40 Context(I luhuvvv,List([130, 139))):(I; love; PROPFEMALE)
+0.59 Context(I love I luhuvvv,List([50, 139))):(my house; has been invaded; by blonde 14 year olds)
+0.40 Context(I luhuvvv,List([130, 139))):(I; luhuvvv working; saturday mornings; T:this morning)
+
+feels like ish :/  rogers freaking confuses me .
+0.71 (rogers; freaking; )
+0.80 (rogers freaking; confuses; me)
+
+Pierce colleges sex education booths .. hmm , things can get weirder .
+0.23 (things; can get; weirder)
+
+I'm writing this speech if it kills me ..  please come soon Friday : )  today will be a great day : )  heyyy there procrastination .. \  most definitely need some caffeine to get all this ish done .
+0.37 (it; kills; me)
+0.87 (heyyy there procrastination; \ most definitely need; some caffeine to get all this ish done)
+0.87 Context(heyyy there procrastination \ most definitely need,List([103, 157))):(today; will be; a great day)
+
+all nighter ?
+
+yeah ?
+
+grr  love .
+
+hate .
+
+sex .
+
+pain .
+
+I hate cars and cars hate me  longest day everrrr , but I get to end it with a girrrls night with the lovely < PROPFEMALE > Madsen , redbox and a grilled cheese and soup feast for us working girls haha  I'm sitting in front of foursquare waiting for < PROPFEMALE > and Samm and a couple \hiding\ " are making out and a different kid just lit a cigarette ... "  thank you for shutting down on me in the middle of a college app stupid computer of mine  last piece of pie is mine and I didn't even know we had pie : )  this is me crossing my fingers that public speaking is cancelled .
+0.27 (I; hate; me; T:longest day everrrr)
+0.45 (I; 'm sitting; in front of foursquare)
+0.93 (Samm and a couple; just lit; a cigarette)
+0.26 (I; did n't even know; we had pie)
+0.46 Context(I did n't even know,List([481, 499))):(we; had; pie)
+0.46 (I; waiting; for < PROPFEMALE >)
+0.27 (I; to end; it; with a girrrls night)
+0.50 (this is me crossing my fingers that public speaking; is cancelled; )
+
+what the frick  ruining the car = no bueno and < PROPFEMALE > sitting at home alone .
+0.92 (the frick; ruining; the car = no bueno and < PROPFEMALE >)
+
+well .. at the Lloyds house.so
+
+friggin funny  tea and a book :)  I love < PROPFEMALE > < PROPMALE > soooo much .
+0.22 (I; love soooo much; <)
+
+you won't be 17 forever  I hate buses .
+0.40 (I; hate; buses)
+0.31 Context(I hate,List([25, 31))):(you; wo n't be; 17; T:forever)
+
+you're so sad baby you shouldbuy a happy meal , you're so skinny you should really super size the deal  yes I am 18 and yes they are singing High school musical at my party  she loves Lizzy Sayama (: happy birthday girl ! ( :  Hey she loves me tooooo !
+0.46 (they; are singing; High school musical; L:at my party)
+0.44 (she; loves; Lizzy Sayama)
+0.56 Context(she loves,List([174, 183))):(you; shouldbuy; a happy meal)
+0.63 Context(you shouldbuy she loves,List([19, 183))):(you; 're; so sad baby)
+0.26 Context(she loves,List([174, 183))):(she; loves tooooo; me)
+0.62 (you; should really super; size)
+0.24 (I; am; 18)
+0.48 Context(I am,List([108, 112))):(you; 're; so skinny you should really super size)
+
+sawah (:  birffff day is over !
+0.94 (sawah; is; over; T:birffff day)
+
+night night world !
+
+about to attack Lizzy Sayama and < PROPFEMALE > Grosse  good morning starshine ! the earth says hello !
+0.77 (the earth; says; hello)
+
+my tummy hurts !
+0.41 (my tummy; hurts; )
+
+I need motivation in the form of coffee .
+0.45 (I; need; motivation)
+
+skip to the weekend ?
+
+\  yes please !
+
+I just volunteered to be number 4 on an impromptu speech .
+0.45 (I; just volunteered; to be number 4 on an impromptu speech)
+0.41 (I; to be; number 4 on an impromptu speech)
+
+fml fml fml  phantom of the opera with lizzzy !
+
+:)  you're going to catch a cold from the ice inside your soul  sleeeeeeeepy time :)  no peppermint at starbucks , this is a disgrace  this weekend has been bosssss :)  \you can be snow < PROPFEMALE > cheerleaders\ " \  pierce is closed :)  so I enjoy this snow but I dont enjoy being stuck at my house :( boo  forgetting < PROPFEMALE > < PROPFIRST > and defrosting from my snowball fight :)  I like texting people who are in the same room as me cuz I'm super cool :)  pierce is ridiculous , they closed today when my classes got over and \start\ " tomorrow when my first class starts .. "  so ruining my car before the SATS payed off haha  port townsend in a couple hours !!!  so I guess thanksgiving is on friday now and Im not leaving until then , super .
+0.28 (Im; not leaving; T:until then)
+0.28 (I; 'm; super cool)
+0.42 (you; to catch; a cold; from the ice inside your soul)
+0.93 (the SATS; payed off; haha  port townsend; T:in a couple hours)
+0.80 (people; are; in the same room as me)
+0.45 (my classes; got; over)
+0.31 (I; do nt enjoy; being stuck at my house)
+0.90 (this weekend; has been super; bosssss)
+0.47 (my classes; \start\; T:tomorrow; T:when my first class starts)
+0.40 (they; closed; T:today; T:when my classes got over and \start\ " tomorrow)
+0.46 Context(they closed,List([492, 503))):(they; closed ruining; my car; T:before the SATS payed off haha  port townsend in a couple hours)
+0.39 Context(they closed,List([492, 503))):(I; like; texting people)
+0.26 Context(I like they closed,List([393, 503))):(I; like texting; people who are in the same room as me)
+0.75 Context(I like they closed,List([393, 503))):(pierce; is; ridiculous)
+0.87 Context(they closed,List([492, 503))):(\you; can be; snow)
+0.40 Context(\you can be they closed,List([169, 503))):(this; is; a disgrace  this weekend has been bosssss :)  \you can be snow < PROPFEMALE > cheerleaders\ " \  pierce is closed :)  so I enjoy this snow but I dont enjoy being stuck at my house :( boo  forgetting < PROPFEMALE > < PROPFIRST > and defrosting from my snowball fight :)  I like texting people who are in the same room as me cuz I'm super cool :)  pierce is ridiculous , they closed today when my classes got over and \start\ " tomorrow when my first class starts .. "  so ruining my car before the SATS payed off haha  port townsend in a couple hours !!!  so I guess thanksgiving is on friday now and Im not leaving until then , super)
+0.27 (I; being; stuck at my house)
+0.43 (my first class; starts; )
+
+yeahhh !
+
+Thanksgiving at the grandparents !
+
+\  spending the day wiff my lovely Sarahhhh :)  the turkey has been in the oven for 3 hours .. \  the oven was off .
+0.90 (the turkey; has been; in the oven; T:for 3 hours)
+0.81 (the oven; was; off)
+
+\  hahahahaha  I dont believe in black friday , I like my sleep  family picture time .. good thing I thought it was yesterday and havent showered today  Saturday morning farmers market with my cousins :))  kickin it at grandmas with my psychotic cousins  sometimes I hangout with my sister and her friends .
+0.26 (I; like; my sleep  family picture time)
+0.40 Context(I like,List([48, 54))):(I; do nt believe; in black friday)
+0.26 (I; thought; it was yesterday)
+0.47 Context(I thought,List([99, 108))):(it; was; T:yesterday)
+0.44 (I; hangout; with my sister and her friends; T:sometimes)
+
+I really want this quarter to be over , oneee moreee weeek .
+0.39 (I; really want; this quarter to be over , oneee moreee weeek)
+0.72 Context(I really want,List([0, 13))):(this quarter; to be; over)
+
+< PROPFEMALE > cant smell because of her cold , so she doesnt smell that she made our entire house smell like onions .
+0.73 (PROPFEMALE; ca nt smell; because of her cold)
+
+gag me .
+
+Adultery , I thought it meant stupid , like being an adult  needs to write two papers today , oh gee !
+0.38 (I; thought; it meant stupid; T:Adultery)
+0.18 Context(I thought,List([11, 20))):(it; meant; stupid)
+
+I'm an awful cook , I just set the fire alarms off :(  I need to exfoliate .  in a closet right now :)  I love < PROPFEMALE > < PROPMALE >  I think you should go now .. want a cookie ?!  history repeats itself ..  back to work I go !
+0.31 (I; think; you should go now .. want a cookie)
+0.38 Context(I think,List([140, 147))):(I; just set right now; the fire; alarms off)
+0.46 Context(I just set right now I think,List([20, 147))):(I; 'm; an awful cook)
+0.18 Context(I just set right now I think,List([20, 147))):(I; need; to exfoliate)
+0.16 Context(I just set I need right now I think,List([20, 147))):(I; need to exfoliate to exfoliate; )
+0.16 Context(I just set right now I think,List([20, 147))):(I; love; )
+0.55 Context(I think,List([140, 147))):(you; should go; T:now; want a cookie)
+0.45 Context(I think you should go,List([140, 161))):(you; should go want; a cookie)
+0.79 Context(I think,List([140, 147))):(?!  history; repeats back; itself)
+0.20 Context(I think ?! history repeats back,List([140, 218))):(I; go; )
+
+\  what a day ...  watching veggie tales at work :)  studying with SARAHHHHH !
+
+going to bed hairstyle from my mother ..  finals tomorrow !
+
+:)  done with fall quarter :)  life is good :)  since when do I sleep in ?
+
+sticker bushes+the dark+my cheer uniform = ouchhhh !
+
+:(  got accepted to Western !! :)  I \elfed\ " a shirt of mine and am now covered in fabric glue and mini red feathers "  call me < PROPFEMALE > the elf :)  its a gingerbread man orgy !
+0.46 (:(; got; accepted to Western !! :)  I \elfed\ " a shirt of mine and am now covered in fabric glue and mini red feathers "  call me < PROPFEMALE > the elf :)  its a gingerbread man orgy)
+0.77 (PROPFEMALE; >; the elf :)  its a gingerbread man orgy)
+0.84 Context(PROPFEMALE >,List([132, 144))):(the elf; :); its a gingerbread man orgy)
+0.43 (:(; got accepted; to Western)
+0.41 (I; \elfed\; a shirt of mine)
+0.45 (I; am covered; in fabric glue; T:now)
+0.86 (mini red feathers; call; me; <)
+
+Miss < PROPFEMALE > Wolcott forgot to lof off facebook ... hehehe !! I love you < PROPFEMALE > ~ < PROPFEMALE >  really wants to watch across the universe  just did sarahs makeup :)  things might not be perfect , but I wouldn't have them any other way :)  longest day ever .
+0.90 (Wolcott; forgot; to lof off facebook ... hehehe !! I love you < PROPFEMALE > ~ < PROPFEMALE >  really wants to watch across the universe  just did sarahs makeup :)  things might not be perfect , but I wouldn't have them any other way)
+0.90 Context(Wolcott forgot,List([20, 34))):(Wolcott; forgot to lof off; facebook)
+0.26 Context(Wolcott forgot to lof off,List([20, 45))):(I; love; you)
+
+quote from grandma \I just love this texting \""  night with Lizzy Sayama and our favorite guys :)  love love love :)  done with work now I have the wholee day in front of me :)  walking zombie status .
+0.38 (I; have; the wholee day in front of me; T:now)
+0.29 Context(I have,List([138, 144))):(I; have the wholee day in front of me walking; zombie status)
+
+I think I'm funny :)  where oh where could my debit card be ?
+0.32 (I; think; I'm funny)
+0.24 Context(I think,List([0, 7))):(I; 'm; funny)
+
+\these cheetos taste so crazy\ " < PROPMALE > Bremner after eating a dorito "  \she came out of the womb nailing things \""  really needs to start going by one last name  ahh school has started :)  today is the start of a longggg 10 weeks  smoothie between classes :) nom nom nom  just had the first of many A&P study sessions with Sayler Namy !!  fun game tonight !
+0.74 (\she came out of the womb nailing things \""  really needs to start going by one last name  ahh school; has started; )
+0.88 Context(\she came out of the womb nailing things \ " " really needs to start going by one last name ahh school has started,List([79, 193))):(\these cheetos; taste so crazy\; Bremner)
+0.45 (\she; came; out of the womb)
+0.90 (the womb; nailing; things)
+0.39 () today; is the start of; a longggg 10 weeks smoothie)
+
+now its math timeee  almost done working then class , lunch date , class , WEEKEND !
+0.55 (its math timeee; almost done; working then; T:now)
+
+all 5 girls in my fam are sitting downstairs watching the tivod bachelor :)  dinner where ?!  CSI Puyallup : < PROPFEMALE > and < PROPFEMALE > edition  federalism is not a sexy topic  its raining , its pouring , we live in Washington  homework at big foot !
+0.43 (all 5 girls in my fam; are sitting downstairs; )
+0.73 (all 5 girls in my fam; watching; the tivod bachelor :)  dinner where ?!  CSI Puyallup)
+0.91 (edition  federalism; is not; a sexy topic  its raining , its pouring , we live in Washington  homework at big foot)
+0.50 (we; live; L:in Washington  homework at big foot)
+
+I have some studying too do for sure  SAMIIIIIIIIIIIIII !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  Sami Houghton !!!!!!!!!!!!!!!!!!!!!!!!!!!  dropped a 2 gallon of apple juice on the carpet at work today  you're gonna catch a cold from the ice inside your soul  \Always kiss me goodnight \""  I'm so uncomfortable right now  6 o'clock: visine or die  irritated .
+0.22 (me; goodnight \; I'm so uncomfortable right now  6 o'clock)
+0.23 Context(me goodnight \,List([278, 292))):(I; 'm; so uncomfortable; T:right now)
+0.42 (you; na catch; a cold; from the ice inside your soul  \Always kiss)
+
+ipod but no headphones .
+
+phhhhhhhhhh , what a day :/  at the end of the day all we have is who we are  my backpack is soaked in coffee  Sami Houghton is my hero .
+0.34 (all; have; we)
+0.96 (phhhhhhhhhh , what a day :/  at the end of the day all we have is who we are  my backpack is soaked in coffee  Sami Houghton; is; my hero)
+0.79 (all we have; is; who we are  my backpack is soaked in coffee  Sami Houghton; T:at the end of the day)
+0.16 Context(all we have is,List([51, 65))):(we; are; )
+0.62 Context(all we have is we are,List([51, 76))):(my backpack; is soaked; L:in coffee  Sami Houghton)
+
+just saying .
+
+by far the best boys basketball game I have ever seen !
+0.81 (by far the best boys basketball game; have seen; T:ever)
+
+< PROPFEMALE > much fun cheering :)  I slept in :)  I am very luck to have a friend like Aubreeana Ryle who will not mess with my facebook when I leave it open on her lap top (:  Saturday nights are not supposed to be this uneventful  it is sometimes as appropriate response to reality to go insane  the world can't end in 2012 , we don't have hovercars yet !  the best laid plans of mice and men often go awry  Pack the Gym at 7 !! :))  bit off more than I can chew .. this will make for a fun week  awkward moments in the pierce bookstore  I just wanna take a nap .
+0.31 (I; leave; it; open on her lap)
+0.39 (I; just wan; na take a nap)
+0.39 Context(I just wan,List([542, 552))):(I; just wan na take; a nap)
+0.50 (this; will make; for a fun week  awkward moments in the pierce bookstore)
+0.39 (we; do n't have; hovercars; T:yet)
+0.84 Context(we do n't have,List([330, 343))):(Saturday nights; are not supposed; to be this uneventful  it is sometimes)
+0.23 Context(Saturday nights are not supposed we do n't have,List([179, 343))):(I; slept; L:in :))
+0.50 Context(I slept Saturday nights are not supposed we do n't have,List([37, 343))):(I; am; very luck to have a friend like Aubreeana Ryle)
+0.97 Context(we do n't have,List([330, 343))):(the best laid plans of mice and men; go; awry  Pack; T:at 7; T:often)
+0.85 (Aubreeana Ryle; will not mess; with my facebook; T:when I leave it open on her lap)
+0.19 (I; can chew; )
+
+that's the snooze button haha  some things are better left unsaid .
+0.21 (that; 's; the snooze button haha  some things are better left unsaid)
+0.89 Context(that 's,List([0, 6))):(the snooze button; haha; some things are better left unsaid)
+0.33 Context(that 's the snooze button haha,List([0, 29))):(some things; are better left; unsaid)
+
+overcommitment and stress finally got the best of me :/  just woke up from a nap longer than most nights I sleep .. so its late dinner and sleep time .
+0.88 (most nights; sleep; I)
+
+the kid behind me in class has a book , Dungeon Masters for Dummies  I love barging in on dates :)  < PROPMALE > < PROPMALE > and I owned Puyallup last night !
+0.78 (the kid behind me in class; has; a book , Dungeon Masters for Dummies  I love barging in on dates)
+0.50 (I; owned; Puyallup; T:last night)
+0.40 (I; love; barging in on dates)
+0.40 Context(I love,List([69, 75))):(I; love barging in; on dates)
+
+haha  I dont think I have ever been more offended in my life .
+0.26 (I; do nt think; I have ever been more offended in my life)
+0.29 Context(I do nt think,List([6, 18))):(I; have been; more offended in my life; T:ever)
+
+Im finally seeing things clearly , this isn't how things are supposed to be .
+0.17 (things; to be; )
+0.39 (this; is n't; how things are supposed to be)
+0.18 Context(this is n't,List([35, 45))):(Im; seeing clearly; T:finally)
+0.18 Context(this is n't,List([35, 45))):(things; are supposed; to be)
+
+goodmorning starshine , the earth says hello !
+0.77 (the earth; says; hello)
+
+I've been sitting in the foursquare parking lot for 45 minutes and can't get out ..  Free super on my account ?
+0.45 (I; 've been sitting; in the foursquare parking lot; T:for 45 minutes)
+0.20 (I; ca n't get; out)
+
+I didn't even know  did I just see a pierce college commercial ?
+0.26 (I; did n't even know; did I just see a pierce college commercial)
+
+helllo swollen eye  my brother is doing yoga in the living room hahaha :)  that's when I told her I loved her but I'm not the answer  Seniorrrr night :)) \  so pumped for our senior dance :)  and after all my years of cheering this is my grand finale :(  almost 24 hours of phone tag until finally reaching someone : success :)  I love < PROPFIRST > Bieber  enjoyed my surprise this lovely sunday morning :) now its time for homeworkkk !
+0.64 (my brother; is doing; yoga; L:in the living room hahaha)
+0.44 (this; is; my grand finale; T:after all my years of cheering)
+0.31 (I; told; her; I loved her)
+0.26 Context(I told,List([87, 93))):(I; loved; her)
+0.27 (I; love PROPFIRST; <)
+
+smart moment in math !!  she really just did salutation to the sun on the lawn in front of pierce  yeah for getting lost and not getting what I wanted to do done .
+0.60 (she; really just did; salutation; to the sun; T:on the lawn; L:in front of pierce; T:smart moment in math)
+
+my moms trying to shimmy and body roll to her zumba moves :)  dramatic phone calls at 2 am .
+0.43 (my moms; trying; to shimmy and body roll to her zumba moves)
+0.29 Context(my moms trying,List([0, 14))):(my moms; trying to shimmy; )
+0.33 Context(my moms trying,List([0, 14))):(my moms; trying to body; roll to her zumba moves)
+
+pissed off right now .
+
+\ somebody ate your britches !
+0.83 (\ somebody; ate; your britches)
+
+\ " Old lady at Pierce referring to my holey jeans "  got my < PROPMALE > pierced today and my ears finally yesterday :)  VICTORY ROGERS !  and Ill find strength in pain , and I will change my ways  wants school to zoom by so < PROPMALE > can pick me up for my Valentines day surprise !! :)  homemade candle lit dinner , a single red < PROPFEMALE > AND a new purse ?! \  I dont think I'll stop smiling for a while :)  so ya know people are snorting bath salts now ?! \  oh yeah ?
+0.89 (Old lady at Pierce; referring; to my holey jeans)
+0.68 (PROPMALE; can pick up; for my Valentines day surprise)
+0.66 (my ears; find; strength in pain)
+0.26 (I; do nt think; I'll stop smiling for a while)
+0.46 Context(I do nt think,List([371, 383))):(I; 'll stop; smiling for a while)
+0.39 Context(I do nt think I 'll stop,List([371, 393))):(I; 'll stop smiling; T:for a while)
+0.31 (I; will change; my ways)
+
+\  Its not going so good for them , they are dying hahahah  < PROPFEMALE > wolcott , please check your phone asap  the disabled car just flipped me off  yeah for tagging boyfriends cars when they work out :)  < PROPFEMALE > and I just ate a bag of pizza bites :)  this is what happens when 2 blondes go to seattle :)  loving my quiet time since it will soon be interrupted by lots of little children  has to drive the truck today .. oh joy  I miss my cheer girls !! :(  asl 4 , calc 1 and wellness online !
+0.45 (I; just ate; a bag of pizza bites)
+0.49 (it; will be interrupted; by lots of little children; T:soon)
+0.27 (they; are dying; )
+0.40 (this; is; what happens when 2 blondes go to seattle)
+0.81 (2 blondes; loving; my quiet time)
+0.37 (I; miss; my cheer girls)
+0.64 (PROPFEMALE; wolcott check; your phone; L:asap  the disabled car)
+0.29 (they; just flipped off; T:when they work out)
+0.93 (2 blondes; go; to seattle)
+0.32 (they; work out; )
+
+final quarter :)  plus of wearing the same size as your mom , the brand new citizens she doesn't like are now mine :)  Farellis with < PROPMALE > and his friends , then Stick It :) very nice night  this is the 2nd dumbest snow day ever , first time campus closed right after my class , this time campus opens when my first class starts .
+0.91 (first time campus; closed; T:right after my class; T:the 2nd dumbest snow day ever)
+0.90 (the brand new citizens; does n't like; she)
+0.82 (this time campus; opens; T:when my first class starts)
+0.36 Context(this time campus opens,List([286, 308))):(this; is; the 2nd dumbest snow day ever , first time campus closed right after my class)
+0.58 Context(this is this time campus opens,List([198, 308))):(the brand new citizens she doesn't like; are; T:now; mine)
+0.43 (my first class; starts; )
+0.66 (It; :); T:very nice night; T:then)
+
+date night with < PROPFEMALE > !
+
+homemade pizza , Taken and chocolate milk :)  I love not working saturday mornings :)  they are making us breakfast as we watch a chick flick :) score .
+0.70 (homemade pizza; Taken; )
+0.52 (we; watch; a chick flick :) score)
+0.53 (they; are making; us breakfast as we watch a chick flick :) score)
+0.40 Context(they are making,List([87, 102))):(I; love not working; T:saturday mornings)
+
+my < PROPMALE > is just so fun sometimes , especially when it falls out in the shower  \you look sick\ " oh thank you !
+
+"  pissed at how loud and annoying the 5 other people at big foot java are right now ...  I will be so happy I will leave , that is a lie .
+0.89 (loud and annoying the 5 other people at big foot java; are; T:right now)
+0.19 (I; will leave; )
+0.14 (that; is; a lie)
+0.26 Context(that is,List([124, 131))):(I; will be; so happy I will leave)
+
+RIP Great Great Aunt < PROPFEMALE > :((  I love sammmmmm  fun morning with my love !
+0.45 (I; love; sammmmmm  fun morning)
+
+:)  I've read about 15 statuses about not being able to sleep last night  just played 2 hours of alchemy .. addictive much ?
+0.51 (I; 've read; about 15 statuses about not being able to sleep last night)
+0.40 Context(I 've read,List([4, 13))):(I; 've read about 15 statuses about not being able to sleep last night just played; 2 hours of alchemy; addictive much)
+
+\ practice your digitools everyday so you don't forget how to make a chart\ " the genius girls sitting behind me "  veryyy chill afternoon with < PROPFEMALE > Madsen and < PROPMALE > !
+0.87 (the genius girls; sitting; behind me; T:veryyy chill afternoon; with < PROPFEMALE > Madsen and < PROPMALE >)
+0.55 (you; do n't forget; how to make a chart\)
+0.45 Context(you do n't forget,List([38, 54))):(you; do n't forget to make; a chart\)
+
+except for my little hot wax kitchen fire :) hahahaha  oh so excited for today !
+
+:)  whats on today's agenda ?
+
+\  studyyyyy !  is so darn tired ..  2 of my winter quarter classes are over !!!!!!
+0.42 (2 of my winter quarter classes; are; over)
+
+I LOVE awkward situations ...  as far as days off go , this one was upsetting ... \  last final tomorrow at least !
+0.71 (days; off go; )
+0.78 (this one; was; upsetting)
+0.39 Context(this one was,List([55, 67))):(I; LOVE as far; awkward situations)
+
+spring break !! :)  \So < PROPFEMALE >  running errands all day !
+
+and excited for this afternoon .. ahh I am enjoying my relaxing Spring Break  cleaned allll night , made breakfast , went to work now zumba !
+0.30 (I; am enjoying; my relaxing Spring Break)
+0.70 Context(I am enjoying,List([38, 51))):(my relaxing Spring Break; cleaned; T:allll night)
+0.41 (I; made; breakfast)
+
+wondering when the \crash\ " will hit me haha "  pretty sure all my < PROPMALE > does is sleep ... boredddd  ready for a goood night :)  still doesn't understand how I can sit in a 50 minute class and not talk lol  websters dictionary defines wedding as the fusing of 2 metals with a hot torch  oh how I love being left and ignored in an apartment !  up in bellingham :)  2300 people visiting western and I'm sitting by someone who's basically my neighbor :) haha  happy monday , I burnt my poptart .
+0.41 (I; ignored; L:in an apartment)
+0.19 (I; love being left; )
+0.80 (someone; 's basically; my neighbor)
+0.45 (I; 'm sitting; by someone)
+0.32 (I; not talk; lol  websters dictionary defines wedding as the fusing of 2 metals with a hot torch  oh how I love being left and ignored in an apartment)
+0.93 Context(I not talk,List([166, 209))):(lol  websters dictionary; defines; wedding; as the fusing of 2 metals with a hot torch)
+0.59 (PROPMALE; sleep; )
+0.84 (bellingham :)  2300 people; visiting; western)
+0.77 (PROPMALE; does is boredddd; ready for a goood night)
+
+I havent had coffee in 2 weeks and my lovely boyfriend brought me a very large delicious coffee .. \  I feel like running a few < PROPMALE > .
+0.45 (I; have nt had; coffee; T:in 2 weeks)
+0.51 (my lovely boyfriend; brought; me; a very large delicious coffee)
+0.44 (I; feel; like running a few < PROPMALE >)
+0.44 Context(I feel,List([102, 108))):(I; feel like running; a few < PROPMALE >)
+

@@ -1,0 +1,139 @@
+my step dad finally got to come home from the hospital today after 3 days , baby < PROPMALE > was soooo excited to see his papa , except when he saw him with white cream medicine on his face and neck he screamed and ran from him saying \papa scary\ " !!! haaa "
+0.40 (he; screamed; L:on his face and neck)
+0.62 (my step dad; to come; home; from the hospital; T:today; T:after 3 days)
+0.28 (he; ran; from him)
+0.31 Context(he ran,List([200, 219))):(he; ran from him saying; scary\ " !!! haaa)
+0.93 (baby < PROPMALE; was; soooo excited to see his papa; T:my step dad finally got to come home from the hospital today after 3 days)
+0.77 (baby < PROPMALE; to see; his papa)
+0.37 (he; saw; him)
+
+so i have managed to kill off my last goldfish of 3 that i just bought for < PROPMALE > on saturday , who kills 3 goldfish in 6 days .... me !!!! What the heck , i feed them , talk to them , what else is there ?????  On our way to step brothers and sister in law's house down south !
+0.20 (i; have managed; to kill off my last goldfish of 3 that i just bought for < PROPMALE > on saturday , who kills 3 goldfish in 6 days .... me !!!! What the heck , i feed them , talk to them , what else is there ?????  On our way to step brothers and sister in law's house down south !)
+0.20 Context(i have managed,List([3, 17))):(i; have managed to kill off; my last goldfish of 3 that i just bought for < PROPMALE > on saturday ,)
+0.28 (i; talk; to them)
+0.71 (my last goldfish of 3; just bought; for < PROPMALE >; T:on saturday)
+0.93 (saturday; kills; 3 goldfish; T:in 6 days)
+0.31 (i; feed; them)
+
+Yeah hopefully it wont be hot like it will be at home !
+0.45 (it; will be; at home)
+
+Omg watching my mom set up a facebook !
+
+She's a big girl now !
+0.52 (She; 's; a big girl; T:now)
+
+Now if we can only get my dad on board !
+
+What a horrible day ;(  oh crap , < PROPMALE > has just discovered the Wiggles and loves it !!!  my mom is spoon feeding < PROPMALE > his dinner , over kill grandma < PROPFEMALE > !!!! haaaaa , he's her baby she says !!!  Wow watching the little boy hug and kiss his dad after getting out of the capsule after being brought to the surface in Chile made me cry !!!  i just carved my first pumkin for < PROPMALE > , and it came out < PROPFEMALE > darn cute !!!!! i am so proud of myself !!
+0.36 (she; says; watching the little boy hug and kiss his dad after getting out of the capsule after being brought to the surface in Chile)
+0.29 Context(she says,List([208, 216))):(she; says watching; the little boy hug)
+0.30 Context(she says,List([208, 216))):(she; says kiss; his dad; T:after getting out of the capsule after being brought to the surface in Chile)
+0.31 Context(she says,List([208, 216))):(he; 's; her baby)
+0.82 Context(he 's she says,List([194, 216))):(PROPMALE; has just discovered; the Wiggles)
+0.68 Context(PROPMALE has just discovered he 's she says,List([36, 216))):(my mom; is; spoon feeding < PROPMALE)
+0.70 (PROPFEMALE; darn; cute)
+0.73 (PROPMALE; loves; it)
+0.50 (it; came out; < PROPFEMALE > darn cute)
+0.35 (i; just carved; my first pumkin for < PROPMALE >)
+0.91 (spoon; feeding; < PROPMALE)
+0.37 (i; am; so proud of myself)
+0.39 (my mom; is spoon feeding < PROPMALE >; his dinner)
+
+He is < PROPFEMALE > oo excited , he's just standing in front of it and staring at it !!!  Well off to jury duty ...... ugggg !
+0.27 (he; staring; at it)
+0.41 (he; to jury; duty)
+0.25 (he; 's just standing off; in front of it)
+0.46 Context(he 's just standing off,List([34, 99))):(He; is; PROPFEMALE)
+
+Damn i got picked to be on the jury  Haaa the judge keeps yelling over rulled to the lawyers !
+0.52 (i; got; picked to be on the jury)
+0.19 (i; got picked; )
+0.41 (i; to be; on the jury)
+0.80 (Haaa the judge; keeps yelling; )
+
+Hes as annoyed with them as we all are .
+0.67 (Hes; annoyed; with them)
+0.17 (we; are; )
+
+So rediculous !
+
+Really starbucks ! 12 minutes in line and im still here !
+
+You know i need my fix faster than this !
+0.38 (You; know; )
+0.30 (i; need faster; my fix)
+
+Haaaa  5 more days until my sister is here ..... yea i cant wait !!!!  Yea my sister is finally here !
+0.45 (my sister; is; here)
+0.26 (i; ca nt wait; T:Yea; T:my sister is finally here)
+0.39 Context(i ca nt wait,List([53, 64))):(my sister; is; T:finally; here)
+
+Yeah yeah yeah !
+
+Missed her so much !
+
+Love having the week off spending time with my sister !
+
+Soooo awsome to not have to get up early for work , love sleeping in and snuggling with my little man !
+0.56 (work; sleeping; L:in)
+
+only one more day with my sister :(  Thank you everyone for the birthday wishes ....... Awww 25 again !!!!! Haaaa !
+
+Driving my sissy home today ;( I miss her already :(  thank you everybody for all your birthday wishes !!!!  Really starbucks ?
+0.37 (I; miss; her; T:already)
+
+Your working my nerves and you know i have to be to work at 8 !
+0.46 (Your; working; my nerves)
+0.20 (i; to be; to work at 8)
+0.20 (i; to work; T:at 8)
+0.48 (you; know; i have to be to work at 8)
+
+Move it people , GO already !
+
+yummmm just tore it up at The Orange Works in strathmore !! homemade orange ice cream !!! soooooo goood !  at the doctor with < PROPMALE > - pet peave -- 3 different people have called him < PROPFIRST > .
+0.87 (3 different people; have called; him; < PROPFIRST >)
+
+< PROPFIRST > is a girls name and < PROPMALE > is a boys name .
+0.87 (PROPFIRST; is; a girls name)
+0.87 (PROPMALE; is; a boys name)
+
+common knowledge people come on .  in another lunch meeting about the risks of bisphosphonate medications and oral surgery combined , yawn , but on a high note the lunch is fuggazzi's!
+0.93 (common knowledge people; come on; L:in another lunch meeting about the risks of bisphosphonate medications and oral surgery)
+0.79 (bisphosphonate medications and oral surgery; combined; )
+0.93 (the lunch; is; fuggazzi's)
+
+yummmmmm  I just Love My Bestfriend < PROPFEMALE > .
+0.31 (I; just Love; My Bestfriend)
+
+She's the Best !! So Grateful For Her !
+0.28 (She; 's; the Best)
+
+I Feel So Blessed !! :)  love this weather !!!! Windows open listening to the rain and thunder , LOVE IT !!!  happy birthday to the best mother ever !
+0.23 (I; Feel; So Blessed)
+
+i love you !
+0.31 (i; love; you)
+
+happy birthday !!!  i will be holding my son tighter tonite and thankful for every second i have with him after hearing the sad outcome for juliani cardenas .
+0.31 (i; will be holding; my son; T:after hearing the sad outcome for juliani cardenas)
+0.88 (every second; have; i)
+
+i've been thinking about him everyday and how scared he must have been .
+0.31 (i; 've been thinking; about him; T:everyday)
+0.19 (he; must have been; )
+
+Rest in peace little angel .
+
+Happy Birthday < PROPMALE > Toste , i'll never forget you !
+0.31 (i; 'll never forget; you)
+
+yummmm bacon wrapped dates , mmm mmmm mmmm !!!!  i just love my friend < PROPFEMALE > Ssssooooo Mmmmuuuucccchhhhh !
+0.88 (yummmm bacon; wrapped; dates; mmm mmmm mmmm)
+0.26 Context(yummmm bacon wrapped,List([0, 20))):(i; just love; my friend)
+
+she is so beautiful :)  thanks to < PROPFEMALE > , i am now an avacado smoothy addict at fruitland .... damn you !!! < PROPFEMALE > < PROPFEMALE > !!!!  yeaaaaaa he picked < PROPFEMALE > !!!!
+0.39 (he; picked; PROPFEMALE)
+0.18 Context(he picked,List([162, 171))):(i; am damn; T:now)
+0.23 Context(i am damn he picked,List([51, 171))):(she; is; so beautiful)
+

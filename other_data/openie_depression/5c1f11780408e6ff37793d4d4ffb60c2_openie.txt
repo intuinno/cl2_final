@@ -1,0 +1,980 @@
+is hello Seattle tomorrow .
+
+is in Seattle .  is about to counsel the first session of 2 week camp !
+
+Please pray for all of us .
+
+We also do campouts with our kids this time .
+0.31 (We; also do; campouts; with our kids; T:this time)
+
+will be home in one week !
+
+For 5-6 days .....  knows that our God will work through this for His kingdom .  is up early .
+
+Busy day today before I leave for college tomorrow !  will be on the road very shortly ....  is in Missoula and about to be on the road again !  is in South < PROPFEMALE > and about to be on the road again !  is staying at the grandparents in Springfield , IL , and will be at Wheaton tomorrow !  is now at Wheaton .
+0.53 (I; leave; for college; T:tomorrow; T:Busy day)
+1.00 Context(I leave,List([22, 29))):(will be on the road very shortly ....  is in Missoula and about to be on the road again !  is in South < PROPFEMALE > and about to be on the road again !  is staying at the grandparents in Springfield , IL , and will be at Wheaton tomorrow; is; T:now; at Wheaton)
+0.41 (I; will be; on the road; T:very shortly)
+0.46 (I; will be; at Wheaton; T:tomorrow)
+0.98 (is in Missoula and about to be on the road again; is; in South < PROPFEMALE)
+
+And has succesfully connected to the internet much faster than I did last year !!!  is working un-storage .
+0.52 (I; did; T:last year)
+
+You have 40 more mins to come get your boxes if they are still here .
+0.62 (You; have; 40 more mins to come)
+0.75 (40 more mins; to come; )
+0.36 (they; are; T:still; here)
+
+good first day of classes .  is enjoying spending time with my nephew , sis , and brother-in-law !
+0.90 (good first day of classes; is enjoying; spending time with my nephew , sis , and brother-in-law)
+
+Yay for awesome family and Labor Day weekend !  has suddenly had the full blown realization that my classes this year are much harder than my classes last year .......  CLC retreat was awesome !!  is going to bed and ready to face my first organic chemistry exam tomorrow .
+0.54 (my classes this year; are; much harder than my classes; T:last year)
+0.83 (CLC retreat; was; awesome)
+0.85 Context(CLC retreat was,List([169, 184))):(Yay for awesome family and Labor Day weekend; has had; the full blown realization that my classes this year are much harder than my classes last year; T:suddenly)
+0.39 (this year; are much harder than; my classes)
+
+wishes that I would realize more often that God is God , and I am not .
+0.27 (I; would realize; T:more often that God is God)
+0.90 (God; is; God)
+0.19 (I; am not; )
+
+' s IM v-ball team is 2-1 .  is up way later than I should be ..... oh biology ......  is bleh .
+0.62 (s IM v-ball team; is; 2-1)
+0.58 (s IM v-ball team; is; up; T:way later)
+0.16 (I; should be; )
+0.73 Context(I should be,List([50, 61))):(biology; is; bleh)
+
+had a good night .
+
+Talked to an SLSer for a hour and saw District 9 .
+
+is yay another biology assignment down .  is happy .
+
+basically has finals the next 2 weeks .
+
+is it's amazing how much you realize you need God when you're taking organic chemistry .  is making progress .
+0.58 (you; is making; progress)
+0.62 (you; 're taking; organic chemistry)
+
+And God is good .
+0.73 (God; is; good)
+
+is going to be smashing away at homework/tests the next week .
+
+is orgo test tomorrow !!!!!  < PROPMALE > 12:22 -34  loves it when people borrow your stuff and then return it without telling you that they broke it ...  is psych and bio proposal !!!!!!!!!!!!!!!!! Crazie !
+0.82 (people; borrow; your stuff)
+0.84 (people; return; it; T:then)
+0.52 Context(people return,List([67, 107))):(people; return it without telling; you; that they broke it)
+0.40 Context(people return without telling,List([67, 126))):(they; broke; it)
+
+But Fall Break is coming !  is soooooooooooooooooo close with being done with my psych proposal ................  is psych proposal - check , psych exam - check , bio proposal - almost check , bio presentation - no check  is psych proposal - check , psych exam - check , bio proposal - check , bio presentation - no check  is thanks for the awesome raid 1W !  is a 7:30 am biology presentation away from being done with the craziest , most insane homework week of my life !
+0.38 (no check; is thanks for; the awesome raid 1W)
+
+Woot !
+
+IS DONEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE YAHOOOOOOOOOO !!!!! Survived the hardest week of school ever !
+
+there is nothing better than the grace of God .
+
+just picked up my neurobiology textbook for B quad .
+
+Not gonna lie , I'm excited for this course .
+0.52 (I; 'm; excited for this course)
+
+time to destroy B quad .
+
+God is awesome .
+0.73 (God; is; awesome)
+
+And bigger than we could ever imagine .  is another intense week of homework .
+0.22 (we; could imagine; T:ever)
+0.74 (bigger than we could ever imagine; is; another intense week of homework)
+
+Oh , sophomore year as a bio < PROPMALE > ......  is burrowed in the library , trying to get this literature review to work ...... ( slowly but surely )  finished my literature review , raid was awesome , minimal homework for tomorrow ..... life is good !
+0.75 (life; is; good)
+0.75 Context(life is,List([241, 248))):(raid; was; awesome)
+
+it's all about you , Jesus .
+0.42 (it; 's; all about you; Jesus)
+
+your will God , not mine .
+
+my 2 o'clock got cancelled so it's the weekend !
+0.58 (my 2 o'clock; got; cancelled so it's the weekend)
+0.51 (my 2 o'clock; got cancelled; T:so it's the weekend)
+0.52 (it; 's; the weekend)
+
+Things on the list : HoneyRock Round-Up , Laser Tag , & studying for an organic chemistry test .
+
+homework forecast for the week : a 100% < PROPMALE > of an organic chemistry storm on Wednesday and 75% < PROPMALE > of neurobiology for the rest .
+
+final lit review , psychology experiment , neuro exam , bio research paper , and then it's thx's giving break and hello Seattle !  is FRIDAY !!  is done with our biology and psychology experiments .
+
+Working on the results/write-ups .
+
+Also , got floated for the 2nd time in 2 days .  is so pumped for Thanksgiving break !!!!!!!!!!!!!! It's almost here .  is Thanksgiving break !!!!! Having a good orgo lab and getting out early was a great way to kick it off .  is home .
+0.79 (Thanksgiving break; getting; out; T:early)
+0.93 (Having a good orgo lab and getting out early; was; a great way to kick it off)
+
+is back at Wheaton .
+
+And it all starts again .
+0.25 (it; starts; T:again)
+
+Our God Reigns .  is sitting in lower beamer writing a status update .
+0.69 (Our God Reigns; is sitting; in lower beamer; writing a status update)
+0.69 (Our God Reigns; writing; a status update)
+
+Things on the list today : orgo lab report 9 , CLC dinner and meeting , im volleyball game , study organic chemistry .  is celebrating our amazing im volleyball team that went 7-1 this season .
+0.73 (our amazing im volleyball team; went; 7-1; T:this season)
+
+Play-offs here we come !  is studying organic chemistry in the Stupe .
+0.30 (we; come; L:here)
+0.91 (Play-offs; is studying; organic chemistry; L:in the Stupe)
+
+Makes for an exciting Saturday night .
+
+Another date with the Stupe and organic chemistry .
+
+Time for an intense week .
+
+Here we go !  is chem lab final done ; left for the week : chem test , psych test , bio presentation , bio paper , CLC event .  is glad that orgo exam is done !!! Up next : bio presentation , psych test , bio paper .
+0.26 (final; done; )
+0.73 (orgo exam; is done; )
+
+loves friends and life and that it is almost Christmas break .
+0.57 (it; is; almost Christmas break)
+
+soooooooooooooooooooooooooo close !!!!!! God bless on finals everyone !!! We're almost there .  is waiting to give our experimental psychology presentation while one of my partners is blasting \Apologize\ " by Timbaland on the classroom speakers .
+0.39 (one of my partners; is blasting \Apologize\; )
+0.86 (God; bless; on finals)
+0.24 Context(God bless,List([41, 50))):(We; 're; almost there)
+
+Gotta love finals week .
+
+"  orgo and neurobiology then it's home ( or should I say Florida ) free !  is I have cake if you want some ( not even kidding ) .
+0.45 (I; have; cake)
+0.38 (you; want; )
+
+I'm in my floor's cell phone chapel doing homework .  is about ready to go take my organic chemistry final !
+0.37 (I; 'm; in my floor's cell phone chapel)
+0.72 (my floor's cell phone chapel; doing; homework)
+
+Last final !
+
+done .  is so glad God created places that are warm during the winter .
+0.68 (God; created; places that are warm; T:during the winter)
+0.72 (places; are; warm)
+
+Oh , and I'm in Florida .  is oranges , reading , sun , sleeping , and maybe working out --- making for a good break .
+
+Although , I already miss my Wheaties .
+0.47 (I; miss; my Wheaties; T:already)
+
+\worked out\ " for the first time in ages today .... my hamstrings didn't like the lunges .
+0.64 (my hamstrings; did n't like; the lunges)
+
+"  is my nephew fell asleep in my arms .
+
+5East , excited to be reunited with all of you in a week !
+
+I love the smell and sound of Seattle rain .
+0.50 (I; love; the smell and sound of Seattle rain)
+
+is reading A Million < PROPMALE > in A Thousand Years .
+
+I love badugi .  is 7E5 .
+
+Balcony !  is BC homecoming tomorrow and then heading back to Wheaton on Sat !  is getting up at 5:30 to fly back to WHEATON !!!!  chillin @ Sea-Tac .... about to board .
+0.95 (Balcony; is; BC homecoming tomorrow and then heading back to Wheaton on Sat)
+
+at Wheaton .
+
+Let's see what's new ?? Hmmm SAGA has these cool new signs .
+
+Not even kidding .  is ready for another semester !
+0.62 (Not even kidding; is; ready for another semester)
+
+Sort of .
+
+I'm at least pumped !
+0.28 (I; 'm; at least pumped)
+0.17 (I; at least pumped; )
+
+So I'm not allowed this semester to post updates about homework because my family has banned me from it .
+0.49 (my family; has banned; me; from it)
+0.16 (I; 'm not allowed; )
+0.80 Context(I 'm not allowed,List([3, 18))):(this semester; to post; updates about homework; because my family has banned me from it)
+
+Hopefully this one doesn't count .
+
+Thus , I won't tell you how my new classes are going or anything else like that .
+0.17 (I; wo n't tell; you; how my new classes are going or anything else like that)
+
+I'm sure you are all highly disappointed .
+0.37 (I; 'm; sure you are all highly disappointed)
+0.36 (you; are; all highly disappointed)
+
+It's a three day weekend .
+0.52 (It; 's; a three day weekend)
+
+Yay !
+
+likes playing volleyball on Sunday afternoons with awesome people .
+
+likes root beer made from 100% cane sugar rather than high fructose corn syrup .
+0.94 (root beer; made; from 100% cane sugar rather than high fructose corn syrup)
+
+feels kinda sick .
+
+Early bedtime .
+
+Staying in shape + training for a marathon goal of the week : Run every day .
+
+TAing in the morning .
+
+think I'm going to do the London breakaway trip .... anyone else doing it and/or interested ?? They still had 7 spots left when I asked at 3:30 today .  is my definitely not warranted at all procrastination is the result of me being up this late .
+0.87 (7 spots; left; T:when I asked at 3:30 today)
+0.45 (I; asked; T:at 3:30; T:today)
+0.23 (me; being; up; T:this late)
+0.46 (I; to do; the London breakaway trip)
+0.21 (They; is definitely not warranted; )
+0.39 (all procrastination; is the result of; me)
+
+officially going to London for Breakaway during spring break .
+
+What we truly need , what will heal our pain and bring us through trials , what will remove all hatred and bitterness is the love of Jesus Christ our Lord and Savior .
+0.19 (we; truly need; )
+0.96 (What we truly need , what will heal our pain and bring us through trials , what will remove all hatred and bitterness; is; the love of Jesus Christ)
+0.38 (all hatred and bitterness; is the love of; Jesus Christ our Lord and Savior)
+
+Truth .  is meh .  is gonna be tired TAing in the morning , but that was perhaps one of the best Wheatonish debates I've had .
+0.63 (Truth; is; meh)
+0.16 (that; was perhaps; one of the best Wheatonish debates)
+0.93 (the best Wheatonish debates; 've had; I)
+0.27 (that; was perhaps one of; the best Wheatonish debates)
+
+is officially the RA for 5E next year .
+
+\You can't fully love someone [ including yourself ] until you stop expecting him or her to be perfect .
+0.80 (\You; ca n't love; someone [ including yourself)
+0.23 (her; to be; perfect)
+0.48 (you; stop; expecting him)
+0.41 Context(you stop,List([59, 67))):(you; stop expecting; him)
+
+\""  My ID card broke .
+0.44 (My ID card; broke; )
+
+When you put first things first [ aka God ] , second things are increased , not decreased .
+0.68 (you; put; first things; first)
+0.63 (second things; are increased; T:When you put first things first [ aka God)
+0.30 (second things; not decreased; )
+
+- C.S. < PROPFIRST >  La Spiaza  is blessed by so many people .  is officially registered for the 2010 Chicago Marathon .
+0.86 (C.S. < PROPFIRST; is blessed; by so many people)
+0.88 (C.S. < PROPFIRST; is officially registered; for the 2010 Chicago Marathon)
+
+definitely woke up and felt the minor earthquake last night ; funny how I experience them here but never in Seattle ......
+0.26 (definitely; woke up; )
+0.35 (I; experience; them; L:here but never in Seattle)
+
+A little bit of early morning chicken training starts the day off well .
+
+God loves us more than we could ever imagine or comprehend .
+0.76 (God; loves; us; more than we could ever imagine or comprehend)
+0.22 (we; could imagine; T:ever)
+0.27 (we; comprehend; T:ever)
+
+Running .
+
+Also steamed milk with peppermint is good .
+0.84 (steamed milk with peppermint; is; good)
+
+At HoneyRock for a work/play weekend .
+
+Innertubing , racquetball , wallyball , broomball , bonfire on a frozen lake ...... HoneyRock was awesome .
+0.84 (HoneyRock; was; awesome)
+
+God cannot give us a happiness and peace apart from Himself , because it is not there .
+0.64 (God; can not give apart; because it is not there)
+0.23 (it; is not; there)
+
+There is no such thing .
+
+- C.S. < PROPFIRST >  At the end of the day , we find the most assurance not in our conversations , not in how how hard we've worked , and not in what tomorrow brings but only in how much God deeply loves and values us and that His grace is much , much bigger and powerful than anything else .
+0.43 (we; find; the most assurance not in our conversations , not in how how hard we've worked , and not in what tomorrow brings but only in how much God deeply loves and values us and that His grace is much , much bigger and powerful than anything else; T:At the end of the day)
+0.38 (His grace; is much bigger; much)
+0.19 (we; 've worked; )
+0.77 (tomorrow; brings; )
+0.63 (God; deeply loves; )
+0.83 (God; values; us; T:At the end of the day)
+
+is packing for LONDON !!!!!! Probably going to be a late night tonight .....  off to London .  is in London .
+
+Wow , their transportation system is quite impressive .
+0.48 (their transportation system; is; quite impressive)
+
+So far things are great .
+0.34 (things; are; great; T:So far)
+
+Yesterday : church , coffee shop , the British Museum , Big < PROPMALE > , Westminster < PROPFEMALE > , and hanged out with a church youth group .
+0.64 (Westminster < PROPFEMALE; hanged out; )
+
+Awesome day .
+
+loved the East End of London .  is back .
+0.88 (loved the East End of London; is; back)
+
+Time for the last quad of sophomore year .
+
+Today is a beautiful day to enjoy God's creation .
+0.93 (Today; is; a beautiful day to enjoy God's creation)
+
+It's time for a cliche Facebook fast .
+0.52 (It; 's; time for a cliche)
+
+God is so good !!!  has very short hair .
+0.73 (God; is; so good)
+0.87 (God; has; very short hair)
+
+Sophomore year is done in 17 days .
+0.90 (Sophomore year; is done; T:in 17 days)
+
+got 10% off my Caribou coffee for answering a trivia question correctly .
+
+This is going to be a good week .
+0.34 (This; to be; a good week)
+
+( 1/3 ) papers due tomorrow done .......  ( 2/3 ) papers due tomorrow done ....... time for a sleep break .
+0.89 (1/3 ) papers due tomorrow; done; T:due tomorrow done ....... time)
+0.63 Context(1/3 ) papers due tomorrow done,List([2, 32))):(papers; done; )
+
+So close .
+
+One more < PROPFEMALE > .
+
+Finished all 3 of my papers on time !
+
+Glad that's over with !
+0.07 (that; 's; over)
+
+With Learning ( behavioral psych ) being cancelled for the rest of the week , I only have 6 more classes left !
+0.93 (Learning ( behavioral psych; being cancelled; T:for the rest of the week)
+0.45 (I; only have; 6 more classes left)
+0.80 (6 more classes; left; )
+
+Don't know how I feel about the 5E Fischer Bride writing on my wall .
+0.89 (the 5E Fischer Bride; writing; L:on my wall)
+
+Last morning of TAing tomorrow ..... I'm gonna miss my lab .
+0.27 (I; na miss; my lab)
+
+It's been real 242 Lab .
+0.45 (It; 's been; real 242 Lab)
+
+feels humbled and blessed .  is last final at 1:30 .
+
+about to take my last final !  is now a < PROPMALE > .
+
+Two years went by fast ; totally stoked for next year , though !
+
+See ya later 5E and Wheaton .
+
+It's been a good year .
+0.45 (It; 's been; a good year)
+
+Be back in less than 3 months .
+
+chillin in Iowa .
+
+Be back in Seattle on Wed .
+
+loves the smell of Seattle clean air .
+
+It's good to be back .
+
+So apparently mosquitos are attracted most to males with type O blood .
+
+Looks like I'm gourmet dinner .
+0.52 (I; 'm; gourmet dinner)
+
+went to the Seattle Sounders game today .
+
+It was awesome , even bought a jersey .  is visiting Bear Creek tomorrow + going camping this weekend on the Olympic Peninsula .
+0.28 (It; was; awesome)
+0.41 (It; even bought; a jersey)
+
+Camping was awesome , and the Olympic Peninsula is so cool .
+0.84 (Camping; was; awesome)
+0.87 (the Olympic Peninsula; is; so cool)
+
+I want to go back .
+0.24 (I; want; to go back)
+0.19 Context(I want,List([0, 6))):(I; want to go; back)
+
+Happy June everyone !
+
+So in racquetball if a player hits the ball off the front wall and then the ball proceeds to bounce off the back wall followed by bouncing off the front wall again ( without the ball ever touching the ground ) , is it legal for the opposing player to still hit it off the front wall ?
+0.93 (a player; hits; the ball)
+0.84 (the ball proceeds; to bounce off; T:then)
+0.75 (the back wall; followed; )
+0.87 (the opposing player; to hit; it; L:off the front wall; T:still)
+0.93 (the ball; touching; the ground; T:ever)
+
+Or what the heck happens ?
+0.73 (the heck; happens; )
+
+This almost happened playing racquetball today , which ... was awesome .
+0.15 (This; almost happened; )
+0.34 (This; playing; racquetball; T:today)
+0.20 (This; was; awesome)
+
+Wheaton seriously needs to get some courts .
+0.90 (Wheaton; seriously needs; to get some courts)
+0.90 Context(Wheaton seriously needs,List([0, 23))):(Wheaton; seriously needs to get; some courts)
+
+made eggs with salsa , cheese , and green peppers this morning for breakfast .
+
+Delicious .
+
+I get pumped when I see 0.01 in interest payment on the deposit column of my savings account .
+0.49 (I; get; pumped; T:when I see 0.01 in interest payment on the deposit column of my savings account)
+0.42 (I; get pumped; T:when I see 0.01 in interest payment on the deposit column of my savings account)
+0.42 (I; see; 0.01 in interest payment on the deposit column of my savings account)
+
+Peanut butter s'mores never get old .
+0.78 (Peanut butter s'mores; never get; old)
+
+So for my birthday , if you want to get me a present , then please consider donating money to my marathon fundraiser for World Vision to help those in need .
+0.48 (you; want; to get me a present)
+0.41 Context(you want,List([24, 32))):(you; want to get; me; a present)
+
+Go to http://twv.convio.net/site/TR?px=1059141&fr_id=1180&pg=personal .
+
+Only need 197 more people to donate 5 dollars to reach our goal of 1,000 !  is in Baltimore , visiting the sis and nephew .
+0.82 (197 more people; to reach; our goal of 1,000)
+
+Flying back to the 425 today .
+
+( I love being cliche and referring to my hometown as my area code )  Back in the 4 - 2 - 5 for about 1.5 months .
+0.19 (I; love; )
+
+Too many of us want God to be the world-class scholar who will write our papers and live our lives for us , when God wants us to sit at His feet and read His Word so that we can live a life in the image of His Son .
+0.73 (Too many of us; want; God to be the world-class scholar)
+0.80 Context(Too many of us want,List([0, 19))):(God; to be; the world-class scholar who will write our papers and live our lives for us)
+0.17 (us; to read; His Word; so that we can live a life in the image of His Son)
+0.85 (the world-class scholar; will write; our papers)
+0.35 (we; can live; a life; L:in the image of His Son)
+0.85 (the world-class scholar; live; our lives; for us)
+0.86 (God; wants; us to sit at His feet and read His Word)
+0.26 Context(God wants,List([113, 122))):(us; to sit; at His feet)
+
+If God figured everything out for us , we wouldn't need to focus on Him and learn to delight in His < PROPFEMALE > .
+0.68 (God; figured out; for us)
+0.40 (we; would n't need; to focus on Him and learn to delight in His < PROPFEMALE >)
+0.26 Context(we would n't need,List([39, 55))):(we; would n't need to focus; on Him)
+0.21 Context(we would n't need,List([39, 55))):(we; would n't need to learn; to delight in His < PROPFEMALE >)
+
+God says , ' I'm not giving you a < PROPFEMALE > ball .
+0.80 (God; says; I'm not giving you a < PROPFEMALE > ball)
+0.30 Context(God says,List([0, 8))):(I; 'm not giving; you; a < PROPFEMALE > ball)
+
+I'm giving you My Word .
+0.35 (I; 'm giving; you; My Word)
+
+' \ - < PROPFIRST > DeYoung "  Wheaton students : if you get an email asking for your Wheaton username and password to verify your account , do not reply .
+0.69 (you; get; an email asking for your Wheaton username and password to verify your account)
+0.86 (an email; asking; for your Wheaton username and password)
+
+Obviously a scam .
+
+likes water , metal water bottles , good books , foam rollers , running with an IPOD arm strap , sleep , and future camping prospects .  is sick .
+
+Oh , well .
+
+oh , yeah --- today is the longest evening of the year .
+0.92 (today; is; the longest evening of the year)
+0.50 (today; is the longest evening of; the year)
+
+What should I do to celebrate ?
+
+oh , yeah -- today is the longest DAY with DAYLIGHT of the year .
+0.93 (today; is; the longest DAY with DAYLIGHT of the year)
+
+What should I do to celebrate ?
+
+feels better .
+
+likes it when thwarted camping trips due to a bacterium or a virus are reinstated .
+0.86 (thwarted camping trips due to a bacterium or a virus; are reinstated; )
+
+loves running in the Pacific Northwest when the sun is setting , it's 70 degrees , the mountains are in the horizons , bikers smile as they ride past you , and the shade from the towering evergreens around you keeps you cool .
+0.46 (they; ride; past you)
+0.73 (the sun; is setting; )
+0.63 (the shade from the towering evergreens around you; keeps; you)
+0.79 (bikers; smile; T:as they ride past you)
+0.88 Context(bikers smile,List([119, 131))):(the mountains; are; in the horizons)
+0.47 Context(the mountains are bikers smile,List([83, 131))):(it; 's; 70 degrees)
+
+< PROPFEMALE > chicken + brown rice + salad + a high school friend = awesome night .
+
+What an awesome day with awesome friends !!!!!!!!  back from an amazing camping trip that included awesome friends and an intense , beautiful hike .
+0.96 (What an awesome day with awesome friends !!!!!!!!  back from an amazing camping trip; included; awesome friends and an intense , beautiful hike)
+
+midnight 5k to kick in the 4th of July ?
+
+yes , please .
+
+FIRECRACKER 5K TONIGHT !!!!!  got a crash course on llamas on a llama farm today , saw a bazillion washed up brown algae pieces , and ate lavender ice cream .
+0.89 (a bazillion; ate; lavender ice cream)
+0.86 (FIRECRACKER 5K TONIGHT; got; a crash course; T:today)
+0.83 Context(FIRECRACKER 5K TONIGHT got,List([0, 33))):(FIRECRACKER 5K TONIGHT; got a crash course saw; a bazillion washed up brown algae pieces , and ate lavender ice cream)
+0.88 Context(FIRECRACKER 5K TONIGHT got saw,List([0, 86))):(a bazillion; washed up; brown algae pieces)
+
+You know you aren't in Seattle anymore when you see a smoking lounge in the airport .
+0.38 (You; know; )
+0.51 (you; are n't; in Seattle; T:anymore; T:when you see a smoking lounge in the airport)
+0.62 (you; see; a smoking lounge in the airport)
+
+I didn't even know those still exist .  is kicking it with the cuz in Colorado Springs .
+0.10 (I; did n't even know; those still exist)
+0.14 (those; exist; T:still)
+0.31 (I; is kicking; it; with the cuz in Colorado Springs)
+
+went running today in the pouring rain at the Garden of the Gods and then topped it off with Chick-fil-A .
+
+Awesome .
+
+climbed the Mantiou incline today while it rained ( again ) and loved it .
+
+back from Colorado Springs .
+
+What a good trip !
+
+Done with VBS day one !
+
+workin on making 5E look cool .
+
+wait ....
+
+I seriously only have 15 days left in Seattle ?
+0.50 (I; seriously only have; 15 days left in Seattle)
+0.94 (15 days; left; L:in Seattle)
+
+Since when did that happen ?
+
+I have never laughed so hard in a game of tennis before .
+0.45 (I; have never laughed so hard; in a game of tennis; T:before)
+
+Time is running out .  is happy that public safety sent me an email saying that they accidently deleted my ID picture , and I have to send a new one .
+0.77 (Time; is running out; )
+0.77 (Time is running out; is; happy that public safety sent me an email)
+0.41 (I; to send; a new one)
+0.83 (public safety; sent; me; an email saying that they accidently deleted my ID picture , and I have to send a new one)
+0.74 (an email; saying; that they accidently deleted my ID picture , and I have to send a new one)
+0.46 Context(an email saying,List([59, 74))):(they; accidently deleted; my ID picture)
+
+crud ....
+
+I have a ton of stuff to do before I leave in 5 days ............  Finished all the door tags !!!!!  Agenda for Wednesday : Packing .
+0.45 (I; leave; T:in 5 days)
+
+Agenda for Thursday : Leave for the Midwest ! ( altho there are a lot of things I will miss in Seattle )  See ya later Seattle !
+0.93 (Agenda for Thursday; Leave; for the Midwest)
+0.63 (a lot of things; will miss; L:in Seattle)
+0.14 Context(a lot of things will miss,List([64, 91))):(I; See; )
+0.39 (there; are a lot of; things)
+
+Don't really know when I'll be back again .
+
+At a Starbucks in Iowa .
+
+( 5 ) days .
+
+5E will have its first ' 10-'11 resident in less than 30 hours .
+0.77 (5E; will have; )
+
+What's up 5E !!!!!!!!!!!!!!!!!!!!!!!!! Can't wait for all the rooms to be filled ......  Back from HoneyRock .
+0.75 (all the rooms; to be filled; )
+
+Freshman orientation begins in 5 days !
+0.90 (Freshman orientation; begins; T:in 5 days)
+
+feels so blessed by the awesome people around him .
+
+thinks 5E and the guys on the floor are awesome !!!!!  Fischer Fire Alarm Count : 2  Intriguing thought : So if someone's brain chemistry becomes abnormal as a consequence of their habitual thoughts --- then cannot we reverse the abnormality with medication , even though it was their bad thinking that caused the problem in the first place ?
+
+Oh , how I'm going to love cognitive psychology .
+0.41 (I; to love; cognitive psychology)
+
+God , help us to remember how much you love us .
+
+Could 5E get any cooler ??????  Naperville Trails half-marathon in 6 days !!! Wooooo !!!!  Got a blister today in ecology class and removed it .
+0.42 (5E; removed; it)
+
+Thought you wanted to know that .
+0.14 (you; wanted; to know that)
+0.14 Context(you wanted,List([8, 18))):(you; wanted to know; that)
+
+ran an official half-marathon this morning in one hour and 52 minutes .  is IN tonight .
+
+Visit me ?
+
+Bring me cookies ?
+
+Yahtzee ?
+
+I like having a wallet that smells like pine trees .
+0.91 (a wallet; smells; like pine trees)
+0.40 (I; like; having a wallet)
+0.19 Context(I like,List([0, 6))):(I; like having; a wallet that smells like pine trees)
+
+I've had congestion///a cough for about three weeks now , and I thought it was getting better but today it suddenly got worse ..... prayer would be appreciated .
+0.45 (I; 've had; congestion///a cough; T:for about three weeks; T:now)
+0.26 (I; thought; it was getting better)
+0.18 Context(I thought,List([62, 71))):(it; was getting; better)
+
+Raid = Success .
+
+Awesome job , 5E !!!! Also , I felt a lot better today ; thanks so much for the prayers !
+0.52 (I; felt; T:a lot better today)
+
+Raid - Check ; Ecology Test - Check ; Cognition Test - Friday  has bronchitis .
+0.94 (Raid - Check; has; bronchitis)
+
+And the doctor said no Chicago marathon ...... :( .
+0.92 (the doctor; said; no Chicago marathon)
+
+Feels 5x better .
+
+Marathon is definitely still a possibility .
+0.92 (Marathon; is definitely; T:still; a possibility)
+
+Got a haircut .
+
+Easy homework week .
+
+5E is awesome .
+0.84 (5E; is; awesome)
+
+Life is good .
+0.80 (Life; is; good)
+
+Thank you Jesus !  is IN !  is surrounded by incredible people .
+
+Amazing raid , 1West !  is running a marathon in less than 12 hours !!!!!!  finished the Chicago marathon .
+0.89 (Amazing raid; is running; a marathon; T:in less than 12 hours)
+0.90 (Amazing raid; finished; the Chicago marathon)
+
+Definitely the most physical pain I've ever been in .
+0.49 (I; 've been; in; T:Definitely the most physical pain; T:ever)
+
+thinks the RA staff is incredible .
+
+Also ecology test tomorrow , genogram project due Friday and a 4 hr plane ride to Seattle !!!! Can't wait to see my family !
+0.96 (ecology test tomorrow , genogram project due Friday and a 4 hr plane ride to Seattle; Ca n't wait; to see my family)
+0.96 (ecology test tomorrow , genogram project due Friday and a 4 hr plane ride to Seattle; to see; my family)
+
+@ home .
+
+And it's beautiful .
+0.28 (it; 's; beautiful)
+
+About to board a plane back to Chicago .
+
+I love getting out of lab a hour early , and then having an omelette with the ecology breakfast club and then sleeping for 3 more hours .
+0.45 (I; love getting; out of lab; T:a hour early)
+0.55 (I; having; an omelette with the ecology breakfast club; T:then)
+0.55 (I; sleeping; T:for 3 more hours; T:then)
+
+voted .
+
+Actually , I voted like 2 weeks ago .
+0.45 (I; voted; like; T:2 weeks ago)
+
+experienced for the first time the scramble and panic you feel when one of the classes you felt guaranteed to get filled up and then you had no idea what to do ....... ( dang it psychology of human sexuality ! )  I really like writing scientific papers at 2 am about invertebrate diversity and land-use effects .
+0.74 (the scramble and panic; to get filled up; )
+0.94 (one of the classes; writing; scientific papers; T:at 2 am about invertebrate diversity and land-use effects)
+0.27 (you; feel; )
+0.51 Context(you feel,List([54, 62))):(I; really like; writing scientific papers at 2 am about invertebrate diversity and land-use effects)
+0.77 (you; had; no idea what to do ....... ( dang it psychology of human sexuality; T:then)
+0.43 (you; felt; guaranteed to get filled up)
+0.82 (the scramble and panic; get; filled up)
+
+Also , I'm an excellent procrastinator .
+0.52 (I; 'm; an excellent procrastinator)
+
+Christ is ultimately all that I have .
+0.61 (Christ; is; ultimately all that I have)
+0.52 (ultimately all; have; I)
+0.89 (Christ; is ultimately all that; I)
+
+Psych of the family test tomorrow !!!! Then during Thanksgiving break , I get to work on my cognition integration paper , write an analysis of my family of origins , and write up the factors that contribute to eutrophication .
+0.56 (I; get; to work; L:on my cognition integration paper; T:Then; T:during Thanksgiving break)
+0.27 (I; write; an analysis of my family of origins)
+0.20 (I; write up; the factors that contribute to eutrophication)
+0.89 (the factors; contribute; to eutrophication)
+
+So much for a break .
+
+But I still have a lot to be thankful for .
+0.55 (I; have; a lot to be thankful for; T:still)
+0.77 (a lot; to be; thankful for)
+
+Even though it doesn't feel like it now , I have to keep the perspective that keeping focus on my work in college now will hopefully some day allow me to benefit others and society .
+0.35 (I; to keep; the perspective)
+0.61 Context(I to keep,List([42, 56))):(keeping focus on my work in college now; will hopefully allow; me to benefit others and society; T:some day)
+0.39 Context(I to keep keeping focus on my work in college now will hopefully allow,List([42, 147))):(me; to benefit; others and society)
+
+Or as Wheaton College says , \For Christ and His Kingdom .
+0.79 (Wheaton College; says; )
+
+\""  So ....... everyone has a gazillion amount of homework .
+0.92 (everyone; has; a gazillion amount of homework)
+
+Cognition integration paper : check ; ecology project : check ; psych of the family paper : in process !  12 pages later , I'm finally done analyzing my family .
+0.34 (I; 'm done analyzing; my family; T:in process; T:12 pages later; T:finally)
+
+I'm having way too much fun as a RA in an underclassman dorm ---- did I seriously just play 3.5 hours of a 50 turn < PROPFIRST > party game ??????  Shout out to my 5Easters < PROPFIRST > Marble and < PROPMALE > Heidelberger for being selected as RAs !!!!
+
+And the Hot Tamales are in the IM volleyball semi-finals .
+0.94 (the Hot Tamales; are; in the IM volleyball semi-finals)
+
+Nice work , team !
+
+Excel error bars , I have conquered you .
+0.31 (I; have conquered; you)
+
+DONE DONE DONE DONE !
+
+Well , except for three finals .
+
+I don't know why , but finals week has always been one of my favorite weeks of school .
+0.23 (I; do n't know; why)
+0.85 (finals week; has been; one of my favorite weeks of school; T:always)
+
+5E just won 10 < PROPMALE>'s pizzas thanks to those who represented the floor @ the bball game and to < PROPMALE > < PROPFIRST > de Krol for winning the knockout tie-breaker .
+0.80 (5E; just won; 10)
+0.21 (those; represented; the floor; L:@ the bball game)
+
+I have never been happier in my life to have bought chapstick .
+0.31 (I; have never been; happier; T:in my life)
+
+DONE ! ( for real )  Thanks sis for using my toothbrush , even after I warned you 100,000 times not to .
+
+Now has a niece :) .
+
+Loved playing today with my nephew , seeing my niece , and hanging out with the fam .
+
+< PROPFEMALE > Christmas , everyone , and God bless .
+0.70 (God; bless; )
+
+Today a Savior is born .
+0.95 (a Savior; is born; T:Today)
+
+Is it sad that the Christmas present I can't wait to use first is my GRE study guide book ?
+0.81 (the Christmas present; to use; T:first)
+
+night night  So Seattle is the first team to ever make the play-offs with a losing record .
+0.96 (Seattle; is; the first team to ever make the play-offs with a losing record)
+0.92 (the first team; to make; the play-offs with a losing record; T:ever)
+
+Am I still proud ?
+
+Yes .
+
+1G10 ... what the heck ?
+
+what characteristics do I have that would put me in the front ?
+
+@ the airpot .
+
+will be in Wheaton in less than 5 hours  5E , it's good to be back .
+
+SEAHAWKS ARE UP 31-20 !!!!  YEAH SEAHAWKS !!!!  Today I am going to make guacamole .
+0.41 (I; to make; guacamole)
+0.81 (SEAHAWKS; ARE; UP 31-20)
+
+Here we gooooooooooooooooooo !!!!!! Round two !
+0.30 (we; gooooooooooooooooooo; L:Here)
+
+Such an awesome day .
+
+Human physiology and microecon are going to be great classes .
+0.91 (Human physiology and microecon; to be; great classes)
+
+Chapel seat is great .
+0.81 (Chapel seat; is; great)
+
+And hanging out with 5Easters just gives me so much joy .
+0.86 (hanging out with 5Easters; just gives; me; so much joy)
+
+Today is a do laundry and sort of do homework sort of day .
+0.92 (Today; is; a do laundry)
+
+IN aga  God is so good .
+0.93 (God; is; so good; L:IN aga)
+
+He makes us a new creation every day .
+0.31 (He; makes; us a new creation every day)
+
+He has us in the palm of His hands ; it may not feel like it now , but He does .
+0.19 (He; does; )
+0.26 (it; may not feel; like it; T:now)
+0.31 Context(it may not feel,List([37, 52))):(He; has; us; L:in the palm of His hands)
+
+Just had an amazing , life-giving conversation with a friend that made that so evident .
+0.50 (a friend; made; that so evident)
+
+Well , there goes my plans ; now we'll see what God has in store .
+0.58 (we; 'll see; what God has in store; T:now)
+0.86 Context(we 'll see,List([33, 42))):(God; has; L:in store)
+
+Today it is 12 degrees instead of 0 .
+0.66 (it; is; 12 degrees instead of 0; T:Today)
+
+Things are lookig up .
+0.19 (Things; are lookig up; )
+
+Today will be a good day .
+0.89 (Today; will be; a good day)
+
+I don't have to stress out about a football game because the Seahawks are out .
+0.46 (I; to stress out; about a football game; because the Seahawks are out)
+0.82 (the Seahawks; are; out)
+
+It's 19 degrees outside .
+0.52 (It; 's; 19 degrees; L:outside)
+
+And the 5E FEAST is tonight !
+0.90 (the 5E FEAST; is; T:tonight)
+
+Today is a what the heck I need to study a TON kind of day .
+0.92 (Today; is; a what the heck I need to study a TON kind of day)
+0.44 (I; need; to study a TON kind of day)
+0.44 Context(I need,List([25, 31))):(I; need to study; a TON kind of day)
+
+what the heck is going on with my homework load ?
+0.73 (the heck; is going on; )
+
+what the heck ... what the heck ...... say it with me ....  what the heck I got sick !
+0.82 (what the heck; say; it)
+0.28 (I; got; sick)
+
+I need to find a psych internship or research position this summer .....
+0.51 (I; need; to find a psych internship or research position this summer)
+0.40 Context(I need,List([0, 6))):(I; need to find; a psych internship or research position; T:this summer)
+
+I used to hate olives .
+0.41 (I; to hate; olives)
+
+Now I like them .
+0.44 (I; like; them; T:Now)
+
+Kind of like some of my friends .
+
+Hmmmm Chicago marathon sign-ups are open .....  yeah my classes are cancelled tomorrow !!!
+0.87 (Hmmmm Chicago marathon sign-ups; are; open)
+0.64 (my classes; are cancelled; T:tomorrow)
+
+And that means no microecon test ... at least for now ....  Why am I up until 3 am ?
+0.11 (that; means; no microecon test)
+
+Oh , YEAH , cuz I'm the SUPER < PROPFEMALE > in < PROPFIRST > party !!!!!!  Time to get some theta and < PROPFEMALE > waves .
+0.57 (I; 'm; the SUPER < PROPFEMALE > in <)
+
+Air Jam tonight !
+
+7 and 10 pm @ Coray !
+
+Watch the Fischer RAs become stars !
+
+Great raid , 5E .
+
+Now for that physiology exam in 7 hours ....  Today in microecon class I ran tennis balls back and forth between 2 recycling bins .
+0.66 (I; ran; tennis balls; back and forth; T:Now)
+
+Nice .
+
+In a providential turn of events , < PROPFEMALE > HOUSE ' 11-'12!
+
+Such an awesomely crazy day .
+
+hungry .
+
+so .
+
+much .
+
+work .
+
+still .
+
+love .
+
+life .
+
+no .
+
+longer .
+
+hungry .
+
+Back from San < PROPFIRST > .
+
+Trip was incredible !
+0.67 (Trip; was; incredible)
+
+Loved the city and our group .
+
+Phone interview tomorrow for the perfect summer internship .
+
+Hope it goes well .
+0.19 (it; goes well; )
+
+Please consider voting for < PROPFIRST > & < PROPFIRST > tomorrow ( Wednesday ) .
+
+Please ask me why if you don't know why .
+
+I feel very very passionate about this .
+0.23 (I; feel; very very passionate about this)
+
+Please consider voting for < PROPFIRST > & < PROPFIRST > today through the ballot sent to your Wheaton email .
+0.89 (the ballot; sent; to your Wheaton email)
+
+Please ask me why if you don't know why .
+
+I feel very very passionate about this .
+0.23 (I; feel; very very passionate about this)
+
+RUN-OFF ELECTION : Please consider voting < PROPFIRST > Daum and < PROPFIRST > Adams in the run-off election tomorrow ( Friday) !!!
+
+They have concrete , realistic goals and have been sticking to these the whole campaign .
+0.62 (They; have; concrete , realistic goals)
+0.58 (They; have been sticking; to these the whole campaign)
+
+They would empower their board to get things done .
+0.40 (They; would empower; their board; to get things done)
+0.55 Context(They would empower,List([0, 18))):(They; would empower their board to get; things done)
+0.16 Context(They would empower to get,List([0, 37))):(things; done; )
+
+Ballots are out again in Wheaton email .
+0.91 (Ballots; are; out; T:again; L:in Wheaton email)
+
+Please consider voting for < PROPFIRST > Daum & < PROPFIRST > Adams --- fresh , concrete ideas that will happen .
+0.74 (fresh , concrete ideas; will happen; )
+
+This is very important to vote .
+
+Last < PROPMALE > and last time I'll be posting to vote for < PROPFIRST > & < PROPFIRST > .
+0.64 (I; 'll be posting; to vote for < PROPFIRST > & < PROPFIRST >; T:last time)
+0.22 Context(I 'll be posting,List([32, 47))):(I; 'll be posting to vote PROPFIRST; for <)
+
+This will be interesting .......  Chik-fil-A sounds good tonight .
+0.51 (This will be interesting; sounds; T:good tonight)
+0.14 Context(This will be interesting sounds,List([0, 51))):(This; will be; interesting)
+
+Yes .
+

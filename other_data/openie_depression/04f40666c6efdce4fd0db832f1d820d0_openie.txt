@@ -1,0 +1,640 @@
+I have a toucan on my shirt drinking a fucking < PROPFEMALE > .
+0.46 (I; have; a toucan on my shirt drinking a fucking < PROPFEMALE)
+0.74 (a toucan on my shirt; drinking; a fucking < PROPFEMALE)
+
+:] 
+
+Rest in peace < PROPFIRST > < PROPMALE > .
+
+1958-2009  What the fuck is with everyone dying this week ?! D:<  Feels anorexic .
+0.93 (the fuck; is; with everyone dying this week)
+0.89 (everyone; dying; T:this week)
+
+I've eaten a profuse amount of fatty foods in the last few days and I've lost two pounds , making my total weight 95 pounds .
+0.45 (I; 've eaten; a profuse amount of fatty foods; T:in the last few days)
+0.39 (I; 've lost; two pounds)
+0.18 Context(I 've lost,List([68, 77))):(I; 've lost two pounds making; my total weight 95 pounds)
+
+Going to < PROPFEMALE>'s going away party D: D  Fingers don't hurt anymore <3  That was some pretty epic band dodge ball .
+0.45 (That; was; some pretty epic band)
+0.81 (party D: D  Fingers; do n't hurt; T:anymore)
+
+:D  Going to go see Ponyo later <3  Ready to have a horrible day .
+0.82 (:D; to go; see Ponyo; Ready to have a horrible day)
+0.82 Context(:D to go,List([0, 15))):(:D; to go see; Ponyo)
+0.71 Context(:D to go,List([0, 15))):(:D; to go to have; a horrible day)
+
+Bring it ANGRY < PROPFIRST > .
+
+D:<  My sister says she'll give me driving lessons .
+0.43 (My sister; says; she'll give me driving lessons)
+0.26 Context(My sister says,List([5, 19))):(she; 'll give; me; driving lessons)
+
+Woot , I get to learn how to drive from someone who does 40 on a 25 MPH road .
+0.41 (I; to learn; how to drive from someone)
+0.90 (someone; does; 40; L:on a 25 MPH road)
+
+Had a good day but the night sucked .
+0.73 (the night; sucked; )
+
+Oh well .
+
+I have an autobiography to do due tomorrow , fun .
+0.45 (I; have; an autobiography to do due tomorrow , fun)
+
+D;  OMFG INTERNET , I HAVE MISSED YOU .
+0.50 (I; HAVE; MISSED)
+
+<3  1 question , 1 honest answer .
+
+You can ask me one question ( send it to my inbox ) any question any thing .
+0.46 (You; can ask; me; one question)
+
+No matter how awkward can be , I'll answer it honestly , no catch .
+
+But I dare you to post this as your status and see what people ask you .
+0.46 (you; to post; this; as your status)
+0.32 (I; dare; to post this as your status and see what people ask you)
+0.18 Context(I dare,List([4, 10))):(I; dare to see; what people ask you)
+0.82 Context(I dare to see,List([4, 50))):(people; ask; you)
+
+Pass it on ?
+
+I really do need to stop running into things and tripping over tables .
+0.57 (I; really do; need to stop running into things and tripping over tables)
+
+Playing Pokemon Stadium 2 .
+
+Love this game <3  No Causey math ?! :D  Almost threw up at practice today <3 Fun times , fun times ...  Woot .
+
+Two ambulances and one other injury made us get back to school at about 12:30 a.m.
+0.86 (Two ambulances and one other injury; made; us get back to school at about 12:30 a.m.)
+0.35 Context(Two ambulances and one other injury made,List([0, 40))):(us; get back; T:at about 12:30 a.m.)
+
+Win .
+
+:]  Tired of everything right now .
+
+I want to go back to sleep x__x  Really good day .
+0.47 (I; want; to go back to sleep x__x  Really good day)
+0.40 Context(I want,List([0, 6))):(I; want to go; back to sleep; T:Really good day)
+
+:]  Challenger game tonight .
+
+Watching people with disablilities play football , this should be fun .
+0.18 (this; should be; fun)
+
+:]  Halloween Rehersal <3  Burps taste like meat loaf ... fun .
+
+:[  Showcase <3  < PROPFEMALE>'s house tomorrow .
+
+:D  Going to make Butterbeer once my mom gets home from Publix with my ingredients .
+0.84 (:D; to make; Butterbeer; T:once my mom gets home from Publix with my ingredients)
+0.74 (my mom; gets; home from Publix)
+
+:D  Watching < PROPMALE > Potter and the Half-Blood < PROPMALE > .
+0.54 (:D; Watching; < PROPMALE > Potter and the Half-Blood < PROPMALE)
+
+Gonna watch some House later .
+0.88 (Gon; na watch; some House; T:later)
+
+Sister got me some Pocky <3  Rode a shopping cart around Publix while blaring Pokemon theme songs and made a gummy bear grow by leaving it in water .
+0.89 (Sister; got; me)
+0.96 (Pocky <3  Rode a shopping cart around Publix; blaring; Pokemon theme songs)
+0.81 (Sister; made; a gummy bear grow by leaving it in water)
+0.86 Context(Sister made,List([0, 106))):(a gummy bear; grow; by leaving it in water)
+
+Good day :]  Finally finished Lego < PROPMALE > Potter years 1-4 this morning .
+
+Jebus .
+
+Are you ready kids ?
+
+According to my Algebra II Honors class , 7-2 = 14 .
+
+We win at mathz , thank you for teaching us Dr. Causey .
+0.51 (you; for teaching; us; Dr. Causey)
+
+Best acting gram was the \Sparkly Vampire\ " hands down .
+0.94 (Best acting gram; was; the \Sparkly Vampire\)
+
+:] "  Drawing my picture for World History .
+
+Lalalala ~ .
+
+Got coloring books <3  \Speak now or forever hold your peace- I mean pee .
+0.23 (I; mean; pee)
+
+\""  Megacon fjdskafjsdl <3  Playing Robot Unicorn Attack is obviously the best way to study for my photo and math exams .
+0.94 (Megacon fjdskafjsdl <3; Playing; Robot Unicorn Attack)
+0.95 (Megacon fjdskafjsdl <3  Playing Robot Unicorn Attack; is obviously; the best way to study for my photo and math exams)
+
+So my mom < PROPFEMALE > wrapped a can of beer to keep it fresh and left it on the counter .
+0.81 (PROPFEMALE; wrapped; of beer)
+0.78 (PROPFEMALE; left; it; L:on the counter)
+
+\Hello ?
+
+\ " \ " CHOCOLATE MMMIIIILLLLKKK .
+
+\""  Staying up all night .
+
+No need to sleep when you have to be at school by 4:30 a.m. , is there ?
+0.58 (you; to be; at school; T:by 4:30 a.m.)
+0.79 (No need to sleep; is; )
+
+Off to school ~ then NY :3  Teehee .
+
+Cold in the Apollo Theatre .
+
+:D  Home ?! :O  Awkward turtle ...  I just LOVE people showing up at my door unannounced .
+0.26 (I; just LOVE; people showing up at my door unannounced)
+0.78 Context(I just LOVE,List([36, 47))):(people; showing up; L:at my door)
+
+:D  I hate when the gym leaders use potions right when I am about to make their pokemon faint ... D:<  \Do you think that girl realizes that the way she wears her pants makes her hips look even bigger ?
+0.42 (I; hate; T:when the gym leaders use potions right when I am about to make their pokemon faint ... D:)
+0.90 (the gym leaders; use; potions; T:right when I am about to make their pokemon faint ... D)
+0.31 (she; wears; her pants)
+0.37 (I; am; about to make their pokemon faint ... D)
+0.27 (I; to make; their pokemon faint ... D)
+0.35 (you; think; that girl realizes that the way she wears her pants makes her hips look even bigger)
+0.53 Context(you think,List([107, 116))):(girl; realizes; that the way she wears her pants makes her hips look even bigger)
+0.53 Context(you think girl realizes,List([107, 135))):(the way she wears her pants; makes; her hips look even bigger)
+0.33 Context(you think girl realizes the way she wears her pants makes,List([107, 174))):(her hips; look; even bigger)
+
+\ " - Gasthoff "  I hate you all .
+0.31 (I; hate; you)
+
+:D <3  Sister getting me someting < PROPMALE > Potter related at a convention :3  \Muslim training camps ... in America .
+0.92 (:D <3  Sister; getting; me someting < PROPMALE > Potter related at a convention :3  \Muslim training camps ... in America)
+0.16 Context(:D <3 Sister getting,List([0, 21))):(me; someting; )
+0.95 Context(:D <3 Sister getting me someting,List([0, 33))):(Potter; related; at a convention :3  \Muslim training camps ... in America)
+
+\""  Practice on Wednesday from 6-8 for the battery and front ensamble :P  \Michael you're in my way again .
+0.54 (you; 're; in my way; T:again)
+
+\ " \  You and me can write a bad romance ;D  Operation Get Thessa To My House And Out Again Without Mom Noticing : Accomplished .
+
+STILL laugh when I think of the words pirate or batman .
+0.52 (I; think; of the words pirate or batman)
+
+Jebus .
+
+Stomach , stop hurting .
+
+How do you expect me to do ANYTHING when you won't leave me alone ?
+0.46 (you; wo n't leave; me; alone)
+
+Lunch today was just funny .
+0.92 (Lunch; was; just funny; T:today)
+
+:3 Suicide prevention bracelets are MUCH more useful when flung like a rubber band at people .
+0.95 (:3 Suicide prevention bracelets; are; MUCH more useful when flung like a rubber band at people)
+
+Mrs. Gasthoff is back tomorrow ~ !
+0.94 (Mrs. Gasthoff; is; back; T:tomorrow)
+
+:D  < PROPFIRST > on every < PROPFEMALE > on my math test .
+
+I'm sure Causey will like it so much that she'll give me an ' A ' .
+0.29 (I; 'm; sure Causey will like it so much that she'll give me an ' A)
+0.78 (Causey; will like; it; so much that she'll give me an ' A)
+0.31 (she; 'll give; me; an ' A)
+
+One more day !
+
+:D  Ugh , family , why must you be so difficult ?  \What are you doing ?
+
+\ " \ " I'm doing YOU .
+0.31 (I; 'm doing; YOU)
+
+\ " \ " NNNOOOOOOOOOOO !
+
+\""  I need many more lamps for whenever < PROPFEMALE > < PROPFEMALE > comes over this summer .
+0.61 (I; need; many more lamps for whenever < PROPFEMALE > < PROPFEMALE > comes over this summer)
+0.83 (PROPFEMALE; comes; T:over this summer)
+
+>:3  I'm < PROPFEMALE > < PROPFEMALE > and I like too cook up people's hands and eat them .
+0.41 (3; 'm; PROPFEMALE)
+0.26 (I; like; too cook up people's hands and eat them)
+0.30 Context(I like,List([43, 49))):(I; like cook up; people's hands)
+0.19 Context(I like,List([43, 49))):(I; like eat; them)
+
+Really tired .
+
+Yay staying up late and waking up early .
+0.80 (Yay; staying; up; T:late)
+0.77 (Yay; waking up; T:early)
+
+:D  Just waiting for a clone of < PROPFIRST > to walk into a building with a bomb strapped to her .
+0.54 (:D; Just waiting; for a clone of < PROPFIRST > to walk into a building with a bomb)
+0.83 (PROPFIRST; to walk; into a building with a bomb)
+0.83 (a bomb; strapped; to her)
+
+xD  \GET IN THERE NICK !
+0.90 (xD; \GET; IN; L:THERE; T:NICK)
+
+\ " \ " Hehehe ... \ " \ " Oh shut up .
+
+\ " xD "  Love hearing all the sound effects and screaming of L4D2 over the phone .
+0.89 (Love; hearing; all the sound effects)
+
+Hilarious xD  Ready for some shenanigans at percussion practice ~ :D  < PROPFEMALE > Draco Potter is SUPER < PROPFEMALE > FOXY HOT .
+0.95 (Draco Potter; is; SUPER < PROPFEMALE > FOXY HOT)
+
+:D  Can't wait for Thursday :3  Off to < PROPFEMALE > soon :3 huzzah  A man dressed as Darth Vader robbed a bank up here .
+0.87 (:D; Ca n't wait Off; for Thursday)
+0.73 (A man; dressed; )
+0.93 (Darth Vader; robbed; a bank; L:up here)
+
+o-o  Finally home C :  Would love it if my family didn't scream at each other every time they talk .
+0.49 (my family; did n't scream; L:at each other; T:every time they talk)
+0.76 (they; talk; T:every time)
+
+Kthx .
+
+Horray , Band Camp day 1 .
+
+.__.
+
+It's depressing how much my feet hurt when all I did was stand at my instrument all day .
+0.40 (all; did; I)
+0.51 (all I did; was stand; at my instrument; T:all day)
+0.36 (It; 's depressing; how much my feet hurt when all I did was stand at my instrument all day)
+0.62 Context(It 's depressing,List([0, 15))):(my feet; hurt; T:when all I did was stand at my instrument all day)
+
+:]  Probably the work of that infamous Hogwarts Jaguar .
+
+>_<  Squirrel plus pants equals chunky pants !
+0.95 (>_<  Squirrel plus pants; equals; chunky pants)
+
+:D  Lulz .
+
+Band Camp from 1-9 .
+
+So fun .
+
+So damn confused about what buildings have what lunch .
+0.89 (buildings; have; what lunch)
+
+Bioscience Tech will be so fun : ' D  No homework but I do have band practice :[  \So ... it's like a big ass xylophone ?
+0.50 (I; do have; band practice; \So)
+0.47 (it; 's; like a big ass xylophone)
+0.78 Context(it 's,List([90, 94))):(Bioscience Tech; will be; so fun)
+
+\ " - Mr. Hennessy "  < PROPFIRST > makes really good brownies <3  < PROPFEMALE > Sword , I would just like you to know I got publix cookies JUST FOR YOU .
+0.83 (PROPFIRST; makes; really good brownies)
+0.42 (I; would just like; you to know I got publix cookies JUST FOR YOU)
+0.41 (you; to know; I got publix cookies JUST FOR YOU)
+0.47 Context(you to know,List([108, 119))):(I; got; publix cookies)
+
+I hate you , rain .
+0.31 (I; hate; you; rain)
+
+D:<  Had quite a fun day .
+0.45 (<; Had; quite a fun day)
+
+Now for some quality time with Pokemon Heart Gold .
+
+:D  Ayrn Radke , I will NOT get out of your shower .
+0.31 (I; will NOT get; out of your shower)
+
+D:<  No mom , just because I am not hungry does not mean I have an eating disorder .
+0.77 (No mom; does not mean; I have an eating disorder)
+0.39 Context(No mom does not mean,List([5, 56))):(I; have; an eating disorder)
+
+Sunburn hurts .
+0.82 (Sunburn; hurts; )
+
+So bad .
+
+\Achoo !
+
+\ " \ " Bless you .
+0.27 (\; Bless; you)
+
+\ " \ " SHE DUN GOOFED .
+
+\ " x'D "  I love creepin ' on < PROPFIRST > .
+0.45 (I; love; creepin)
+
+:D  Had quite a good day :D  Got a nosebleed Dx  feels like vomiting up everything .
+0.86 (Dx; feels; like vomiting up everything)
+0.86 (:D; Had; quite a good day)
+0.85 Context(:D Had,List([0, 7))):(:D; Had quite a good day :D Got; a nosebleed Dx  feels like vomiting up everything)
+
+:D  Game against Timber Creek and middle school night .
+
+x___x '  Well , tonight was a severe failure .
+0.93 (x___x '; was; a severe failure; T:tonight)
+
+Cheesecake canvassing today guys .
+0.92 (Cheesecake; canvassing; today guys)
+
+I am ready to ask creepers to buy stuff with < PROPFEMALE > < PROPMALE > , Ayrn Radke , < PROPMALE > Bohinsky , and < PROPFEMALE > Voorhees ;D  Watching Yu-Gi-Oh while getting hyped for Middleburg today .
+0.68 (I; am; ready to ask creepers to buy stuff with < PROPFEMALE)
+0.46 (I; to ask; creepers; to buy stuff with < PROPFEMALE)
+0.89 (creepers; to buy; stuff)
+0.88 (D; Watching; Yu-Gi-Oh; T:while getting hyped for Middleburg today)
+
+C :  < PROPFEMALE > Cook is fat and ugly .
+0.84 (Cook; is; fat and ugly)
+
+C : <3  Timber Creek Invitational today :D  Totally love throwing up at practice >_> thrice  We'll just go to target and buy Yu-Gi-Oh cards instead of going to homecoming .
+0.60 (We; 'll just go; to target; T:thrice)
+0.41 (We; buy; Yu-Gi-Oh cards)
+
+Yay for chasing bowling balls around the old gym with broomsticks tomorrow .
+
+:D  Powderpuff kind of makes me feel like I'm a lesbian .
+0.52 (I; 'm; a lesbian)
+0.84 (:D  Powderpuff; kind of makes; me feel like I'm a lesbian)
+0.26 Context(:D Powderpuff kind of makes,List([0, 28))):(me; feel; like I'm a lesbian)
+
+Fun .
+
+Chubby Unicorn .
+
+Some people need to learn to MARCH IN TIME before thinking they can get on drum line .
+0.88 (Some people; need; to learn to MARCH IN TIME before thinking they can get on drum line)
+0.82 Context(Some people need,List([0, 16))):(Some people; need to learn; to MARCH; T:IN TIME; T:before thinking they can get on drum line)
+0.72 Context(Some people need to learn,List([0, 25))):(Some people; need to learn to MARCH before thinking; they can get on drum line)
+0.55 Context(Some people need to learn before thinking,List([0, 58))):(they; can get; on drum line)
+
+Just saying .
+
+Today is just not my day .
+0.82 (Today; is just not; my day)
+
+-__-  Put this as your status if someone you knew was killed by Lord Voldemort .
+0.90 (someone; knew; you)
+0.70 (someone you knew; was killed; by Lord Voldemort)
+
+As everyone knows , being killed by Avada Kedavra , having your soul sucked out by a dementor , or getting petrified by a basilisk is a truly tragic fate for anyone , muggle or wizard .
+0.77 (everyone; knows; )
+0.39 (a basilisk; is a truly tragic fate for; anyone , muggle or wizard)
+
+93% of people won't copy and ... paste this .
+0.77 (93% of people; wo n't copy; )
+0.77 (93% of people; paste; this)
+
+Will you make this your status to spread awareness of this growing threat ?
+
+We failed at getting all the cheesecakes delivered and < PROPMALE > Bohinsky's dad fails at throwing pens .
+0.61 (We; failed; at getting all the cheesecakes delivered and < PROPMALE > Bohinsky's dad fails at throwing pens)
+0.93 (Bohinsky's dad; fails; at throwing pens)
+0.52 (We; at getting; all the cheesecakes delivered and < PROPMALE > Bohinsky's dad fails at throwing pens)
+0.71 Context(We at getting,List([0, 20))):(all the cheesecakes; delivered; )
+
+xD  Today was quite awesome .
+0.92 (xD; was; quite awesome; T:Today)
+
+Morning : Cheesecake delivery with friends .
+
+Afternoon : < PROPMALE > Magoos with pit and lake howell pit kids , oh , and < PROPFIRST > .
+0.92 (< PROPMALE > Magoos with pit and lake; howell; pit kids)
+
+Night : Saw Almost Maine with < PROPMALE > .
+
+:D Do liek today .
+
+Love creeping up on people .
+0.54 (Love; creeping up; on people)
+
+C :  No band practice ?
+
+D: I haz no life .
+0.52 (I; haz; no life)
+
+? _ ?
+
+Well , today suck < PROPMALE > .
+
+Obviously driver's < PROPMALE > is just going to make everything better .
+
+-__-  Happily scared the shit out of < PROPFEMALE > < PROPFEMALE > Guevarra :D  3 more days of driver's < PROPMALE > :D Huzzah  I KISSED A GIRL(Dani < PROPMALE > < PROPFIRST > ) AND I LIKED IT ~ <3  My nose got assaulted during lunch .
+0.95 (Guevarra; :D; 3 more days of driver's < PROPMALE >)
+0.70 (My nose; got; assaulted during lunch)
+0.50 (I; KISSED; A GIRL; T:Dani < PROPMALE > < PROPFIRST >)
+0.40 (I; LIKED; IT)
+0.59 Context(I LIKED,List([182, 189))):(My nose; got assaulted; T:during lunch)
+
+D:  Creepin ' on the Lake Howell band website , lookin ' at their pictars .
+
+Can Christmas be over now ?
+
+-__-  < PROPMALE > , Thessa , and < PROPFEMALE > have made my day xD <3  Had a great time at Universal today :3 Saw the sexy < PROPFEMALE > < PROPMALE > Sam ~ Had a few setbacks along the way but overall was fun .
+0.50 (:3; Saw; the sexy < PROPFEMALE)
+0.90 (Sam ~; Had; a few setbacks along the way)
+0.36 (overall; was; fun)
+
+I has mah wand ;D  I really don't want to go back to school tomorrow .
+0.39 (I; really do n't want; to go back to school tomorrow)
+0.39 Context(I really do n't want,List([19, 38))):(I; has mah; wand)
+0.39 Context(I really do n't want,List([19, 38))):(I; really do n't want to go; back to school; T:tomorrow)
+
+D:  Finished editing all the derp out of the Rough Rider's recording .
+0.94 (D:  Finished; editing; all the derp; out of the Rough Rider's recording)
+
+Horray .
+
+I am quite liking this ' leet speak ' language option .
+0.45 (I; am quite liking; this ' leet speak ' language option)
+
+Solo and Ensemble today .
+
+We got this .
+0.28 (We; got; this)
+
+:P  Bah .
+
+Could have done /so/ much better .
+
+:|  < PROPMALE > Nye was a Epcot today .
+0.95 (Nye; was; a Epcot; T:today)
+
+I am sad .
+0.28 (I; am; sad)
+
+Toast is such a problem to draw .
+0.94 (Toast; is; such a problem to draw)
+
+xD  Oh math class .
+
+How you annoy me yet entertain me at the same time .
+0.46 (you; annoy; me)
+
+C : Right , < PROPFEMALE > < PROPMALE > < PROPFIRST > ?
+
+Forever alone D:  -Go to your profile then look at the top 5 friends that are in the sidebar .
+0.84 (D:  -Go to your profile; look; at the top 5 friends; T:then)
+0.91 (the top 5 friends; are; in the sidebar)
+
+They are now your team in the upcoming Zombie Apocalypse .
+0.51 (They; are; T:now; your team in the upcoming Zombie Apocalypse)
+
+\  -How screwed are you ?
+
+\  - < PROPFEMALE > Davis\  - < PROPFIRST > Stanforth\  - < PROPFEMALE > Day\  - < PROPFEMALE > Frederick\  - < PROPFIRST > Mooney\  Oh god D:  < PROPMALE > Clarke sucks at pokemon .
+0.94 (Clarke; sucks; at pokemon)
+
+Just saying .
+
+Found a Ditto in pokemon White .
+
+It's breeding time .
+0.52 (It; 's; breeding time)
+
+>:D  Thanks Woodruff .
+
+I am extremely ready for our exam tomorrow .
+0.37 (I; am; extremely ready for our exam tomorrow)
+
+Ya know , the one we didn't prepare for in class at all .
+0.82 (Ya; know; )
+0.83 (the one; did n't prepare at all; we; for)
+
+Done caring .
+
+:|  Challenge Completed : Build a 21x21 full pyramid on Minecraft .
+
+\  ;D  I love making roller coasters on boats .
+0.45 (I; love making; roller coasters)
+
+:D Especially with < PROPFEMALE > < PROPMALE > < PROPFIRST > <3  I have a fat blister on my right hand pinky .
+0.31 (I; have; a fat blister on my right hand pinky)
+
+T^T  Osama Bin Laden , killed by the US .
+0.94 (T^T  Osama Bin Laden; killed; by the US)
+
+\  As Bandit < PROPFIRST > would say ; ANOTHER VICTORY FOR < PROPFEMALE > .
+0.64 (Bandit < PROPFIRST; would say; )
+
+Don't worry < PROPMALE > Bohinsky , our mousetrap car will OBVIOUSLY kill everyone else's .
+
+Tired .
+
+I feel like I'm on stage crew for showcase I have to run around so much .
+0.31 (I; feel; like I'm on stage crew for showcase)
+0.52 (I; 'm; on stage crew; for showcase)
+0.72 (showcase; to run; around; so much)
+
+: B  \Star Wars is a moving book .
+0.95 (B  \Star Wars; is; a moving book)
+
+I will never watch a moving book .
+0.45 (I; will never watch; a moving book)
+
+\ " Oh Ox .
+
+xD "  Gonna miss teh seniors <3  Gosick = amazing .
+0.88 (xD "  Gon; na miss; teh seniors)
+
+<3  I liked almost being completely stuck in an inner tube with < PROPFEMALE > < PROPMALE > < PROPFIRST > :D  < PROPFEMALE > < PROPFEMALE > , my insides are dying ;_______;  Raped that math exam and had fun with < PROPFEMALE > < PROPMALE > < PROPFIRST > by having a death match of Monopoly .
+0.34 (my insides; are dying; )
+0.52 (_______; Raped; that math exam)
+0.41 Context(_______ Raped,List([164, 179))):(I; liked; almost being completely stuck in an inner tube with < PROPFEMALE > < PROPMALE > < PROPFIRST > :D  < PROPFEMALE > < PROPFEMALE > , my insides are dying)
+0.83 (_______; had; fun)
+
+Thanks mom .
+
+When I want you to wake me up for practice , you make sure I don't .
+0.71 (you; make; sure I don't; T:When I want you to wake me up for practice)
+0.24 (I; do n't; )
+0.31 (I; want; you to wake me up for practice)
+0.45 Context(I want,List([5, 11))):(you; to wake up; T:for practice)
+
+That's cool too .
+0.17 (That; 's too; cool)
+
+-__-  First thing we do at the beach is get our laptops out and start minecraft .
+0.52 (we; do; L:at the beach)
+
+We're cool .
+0.28 (We; 're; cool)
+
+\You guys want white rice ?
+0.94 (\You guys; want; white rice)
+
+\ " \  My head hurts so bad from laughing over QWOP .
+0.34 (My head; hurts so bad; )
+
+xD < PROPFEMALE > < PROPFEMALE >  Time for some Amnesia to get my mind off of things .
+0.92 (some Amnesia; to get; my mind; off of things; T:Time)
+
+:P  Is there any good series/anime to watch ?
+0.79 (any good series/anime; to watch; )
+
+I don't feel like sitting here looking at memes forever and drawing .
+0.23 (I; do n't feel; like sitting here)
+
+God damn Crunchyroll .
+
+Stop making me want to play a billion different MMOs D:  I gots F , danks < PROPFIRST > < PROPFEMALE > Hines\  Something I like : Forests .
+0.59 (Hines\  Something; like; I)
+0.57 (I; gots; F)
+
+\  Something I dislike : Fangirls .
+0.87 (Something; dislike; I)
+
+\  Person : Frankenstein .
+
+\  Like and I'll give you a letter .
+0.31 (I; 'll give; you; a letter)
+
+;D  The trial was annoying already .
+0.81 (The trial; was; annoying; T:already)
+
+Mothers making stupid comments the whole time makes it even more unbearable .
+0.87 (Mothers making stupid comments the whole time; makes; it even more unbearable)
+0.87 Context(Mothers making stupid comments the whole time makes,List([0, 51))):(Mothers; making; stupid comments; T:the whole time)
+
+.______.
+
+'  I figured out that when I know someone is in the same area as me , I will do what I can to make sure I am not seen if I don't want to talk to them .
+0.17 (I; figured out; that when I know someone is in the same area as me , I will do what I can to make sure I am not seen if I don't want to talk to them)
+0.50 Context(I figured out,List([3, 16))):(I; will do; what I can to make sure I am not seen if I don't want to talk to them; T:when I know someone is in the same area as me)
+0.31 (I; know; someone is in the same area as me)
+0.82 Context(I know,List([27, 33))):(someone; is; in the same area as me)
+0.16 (I; am not seen; )
+0.26 Context(I am not seen,List([104, 117))):(I; do n't want; to talk to them)
+0.26 Context(I am not seen I do n't want,List([104, 133))):(I; do n't want to talk; to them)
+
+Oh lord .
+
+Pottermore , y u no come sooner ?
+0.85 (y; u; no come; T:sooner)
+
+D:  I miss me some < PROPFEMALE > < PROPMALE > < PROPFIRST > </3 : C  Happy Father's day to everyone C : Have a good day with them and make it count ~  < PROPFEMALE > < PROPMALE > Sam\  > : C = my face exactly .
+
+Techs : After moving carpets to the dumpster using carts , we have people sit on said carts and push it all the way back screaming and making noises .
+0.80 (people; push; it; all the way back)
+0.51 Context(people push,List([67, 100))):(people; push it screaming; )
+0.50 (we; have; people sit on said carts and push it all the way back; T:After moving carpets to the dumpster)
+0.90 Context(we have,List([59, 66))):(people; sit; on said carts)
+
+So productive .
+
+Surrogate , why are you so stupid and funny ?
+
+xD  < PROPFEMALE > < PROPMALE > < PROPFIRST > , I love you and us misunderstanding what you mean .
+0.31 (I; love; you)
+0.32 (you; mean; )
+
+<3  Talk to the same five people every day and it never gets boring and makes me quite happy .
+0.23 (it; never gets; boring)
+0.27 (it; makes; me quite happy)
+
+Gotta love steam friends , they make every depressing situation better .
+0.62 (they; make; every depressing situation better)
+
+<3  Oh Red vs .
+
+Blue , you really don't need another season .
+0.62 (you; really do n't need; another season)
+
+I'll watch anyway .
+0.19 (I; 'll watch anyway; )
+
+: B 
+

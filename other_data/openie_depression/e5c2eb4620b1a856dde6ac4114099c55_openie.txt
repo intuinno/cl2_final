@@ -1,0 +1,619 @@
+what a day ...
+
+friday on a monday .... that would be the way it goes .
+0.13 (that; would be; the way it goes; T:on a monday)
+0.70 (the way; goes; )
+
+please tell me that there is something going on tonight-come on weekend , dont let me down  looking at a condo ontop of sugarbush today .
+0.71 (something; going; )
+
+hope it stays nice out ..... tims 21st today ... that will be fun !
+0.23 (it; stays; nice; L:out)
+
+felt like a 16 today .... glad it wasnt though .... guess I should wash my car or some shit  home from work ... feeling like total shit .... maybe its the swine ... not looking forward to going back to jail in the am .... blah .
+0.22 (it; was though; nt)
+0.89 (some shit; feeling; like total shit)
+
+time to stop living in a dream world and be serious again .
+
+home from maine ... had such a good time and I for sure dont want to be back here in vermont .
+0.70 (I for sure; do nt want; to be back here in vermont)
+0.66 (I for sure; to be; back here in vermont)
+
+lets have some fun , this beat is sick , I wanna take a ride on your disco stick .
+0.32 (I; wan; na take a ride on your disco stick)
+0.78 Context(I wan,List([41, 46))):(this beat; is; sick)
+0.26 Context(I wan,List([41, 46))):(I; wan na take; a ride on your disco stick)
+
+way to go lady gaga .
+
+ew , I feel like I have mrsa on me !!!  yay ... home from work  hair dye fun .... girly night I guess  searching for apartments ... seems like a failed attempt .
+0.31 (I; feel; like I have mrsa on me)
+0.31 (I; have; mrsa; L:on me)
+0.19 (I; guess; )
+0.83 (ew , I feel like I have mrsa on me !!!  yay ... home from work  hair dye fun .... girly night I guess  searching for apartments; seems; )
+
+house to myself for a few hours .... god , I have no idea what to do with my time !
+0.31 (I; have; no idea what to do with my time)
+
+I won't let you turn around and tell me now I'm much too proud , all you do is fill me up with doubt .
+0.36 (I; wo n't let; you turn around and tell me now I'm much too proud , all you do is fill me up with doubt)
+0.37 Context(I wo n't let,List([0, 11))):(you; turn; around)
+0.58 (all you do; is; fill me up with doubt)
+0.55 (you; tell; me; T:now; I'm much too proud , all you do is fill me up with doubt)
+0.42 Context(you tell,List([12, 36))):(I; 'm; much too proud , all you do is fill me up with doubt)
+0.40 (all; do; you)
+
+This time baby I'll be bulletproof .
+0.66 (I; 'll be; bulletproof; T:This time)
+
+cant stop listening to LA Roux  You told me you can't wait to see me and then you didn't bother to even show up .
+0.44 (you; did n't bother; to even show up; T:then)
+0.27 Context(you did n't bother,List([78, 95))):(you; did n't bother to even show up to even show up; )
+0.59 (You; told; me; you can't wait to see me and then you didn't bother to even show up)
+0.40 Context(You told,List([32, 40))):(you; ca n't wait; to see me)
+0.42 (you; to see; me)
+
+This whole situation is incredibly typical , I should have seen it all along .
+0.26 (I; should have seen; it; L:along)
+0.79 Context(I should have seen,List([45, 63))):(This whole situation; is; incredibly typical)
+
+this time of night is always the worst for me .
+0.89 (this time of night; is; T:always; the worst for me)
+
+The world is asleep , and I am not .
+0.81 (The world; is; asleep)
+0.19 (I; am not; )
+
+I need to learn how to relax after work .
+0.40 (I; need; to learn how to relax after work)
+0.40 Context(I need,List([0, 6))):(I; need to learn; how to relax after work)
+
+has too much that needs to get done today !  2 more days till the weekend , 9 until I see my sister !!!  friggen snow on the interstate ... and fog at the same time .
+0.53 (too much; needs; to get done today)
+0.53 (too much; done; T:today)
+0.31 (I; see; my sister)
+
+what the hell is up with that ?
+0.73 (the hell; is up; )
+
+Doing a lot of mental eye rolling .
+
+this house feels like an ice box !
+0.90 (this house; feels; like an ice box)
+
+ever thought of a \dislike you\ " button ?
+
+"  I swear ... as I was using it ... facebook just changed on me .... what the hell ???  really effing excited for friday !
+0.31 (I; was using; it)
+0.32 (I; swear; as I was using it ... facebook just changed on me)
+0.79 Context(I swear,List([3, 10))):(facebook; just changed; on me)
+
+going to continue enjoying my draft cider while doing a crossword ... then passing the eff out .
+
+really really really super excited for < PROPFEMALE > to come home .... its going to be a really nice scene at the airport .
+0.41 (its; to be; a really nice scene)
+
+can't breath .... therefore can't sleep .
+
+movies with sparky ... my life is thrilling .
+0.34 (my life; is thrilling; )
+
+going to try and wake up at a reasonable hour with the hopes of maybe getting to a store or two for black friday ... I wouldn't count on it though .
+0.30 (I; would n't count though; on it)
+
+after 4 years of dying my hair different shades of brown , I have decided to bring it back it a more natural state .
+0.50 (I; have decided; to bring it back it a more natural state; T:after 4 years of dying my hair different shades of brown)
+0.26 Context(I have decided,List([59, 73))):(I; have decided to bring; it; back; it)
+
+trying to sleep all day .... back to work tonight  cannot sleep .
+0.86 (trying to sleep all day .... back to work tonight; can not sleep; )
+
+Nice .
+
+needs sleep ...  bought a new computer today !
+0.89 (needs sleep; bought; a new computer; T:today)
+
+bed .... more than 4 hours of sleep today , please ...  is sleeping through the nice weather .
+
+feels like poo .... sinus infection !
+
+store run to try and keep myself medicated ...  is spending her weekend in bed .... lame .
+0.32 (myself; medicated; )
+
+needs to center herself-time for yoga .
+
+dr. appointment at 3 .... not a big fan of docters .
+
+needs to be in the sun  bed .
+
+got to be in 4 early for 1930 ... wooo  is off to work  yoga ! and then watching boondock saints 2 !
+0.80 (wooo; is; off; to work)
+
+getting ready for work and the rainy drive .
+
+The wether has to get worse before it gets better , brighter days are soon to come !  4 early .... and praying that I don't get hit for 4 over .
+0.81 (The wether; to get; worse; T:before it gets better)
+0.25 (I; get; hit for 4 over)
+0.28 (it; gets; better)
+0.72 (brighter days; are soon early; to come)
+0.70 (brighter days; to come; )
+
+yoga , shower , work .
+
+Its my friday ( wooooo ) and I have come to terms with the fact that an order over , is without doubt , a sure thing .
+0.33 (I; have come; to terms with the fact that an order over , is without doubt , a sure thing)
+0.92 (an order over; is; without doubt)
+
+sweet pea is asleep , which means no attack < PROPFEMALE > for the moment ... and I found a wireless network that does not require a password .
+0.81 (sweet pea; is; asleep)
+0.23 (I; found; a wireless network that does not require a password)
+0.90 (a wireless network; does not require; a password)
+
+Life is good in the house/cat sitting world !
+0.92 (Life; is; good; L:in the house/cat sitting world)
+
+glad that night is over , now looking forward to the next one  is awake waaaay to early  sleeping ... more ot tonight .  is going to end up with less than 5 hours of sleep .
+0.79 (that night; is over looking forward; to the next one; T:now)
+0.97 (that night is over , now looking forward to the next one; is; awake; T:waaaay; to early  sleeping; T:more ot tonight)
+
+shiiiiit !
+
+needs an apartment ... now !  is running  is already sick of the red sox vs .
+0.64 (is running; is; T:already; sick of the red sox vs)
+
+yankees shananagins  ran 2 miles .... holy shit .
+0.93 (yankees shananagins; ran; 2 miles; T:holy shit)
+
+thank you so much , town of barre .
+
+Your construction plans really mess up my day .
+0.51 (Your construction plans; really mess up; my day)
+
+Can you please turn the water back on so I can at least wash my hands ?!?
+0.31 (I; can at least wash; my hands)
+
+I am on a quest to find running water !
+0.52 (I; am; on a quest)
+
+bed . 2 days down , 5 more to go .
+
+ew .
+
+needs more sleep ...  bed ... work at 1930 .
+
+just worked 16 hours .... the order over at the last second really added a nice topping to the shit pie of a night .
+0.94 (the order over at the last second; really added; a nice topping; to the shit pie of a night)
+
+4 days off .... woot !
+
+happy fun time 2010  has to get the hell out of this state NOW !  is feeling unmotivated .  is trying to make it through the week in one peice .
+
+sometime I feel like its the memories that make it hardest ..... but still they put a smile one my face .
+0.31 (I; feel; like its the memories)
+0.47 (its the memories; make; it hardest)
+0.67 (they; put; a smile; one my face; T:still)
+
+miss you dad , love you forever .
+
+Happy birthday .
+
+shit has once again hit the fan .  is gonna try and get at least one tattoo finished tonight .
+0.84 (shit; has hit; the fan; T:once again)
+0.52 (shit; na try; )
+
+\owning your burdens is half the battle \""  back to work .... 6 days of hell .
+0.72 (\owning your burdens; is; half the battle)
+
+to the two a-holes in the gym unit .... thanks for fighting 30 seconds before my shift was over .
+0.45 (my shift; was; over)
+
+ya ... I am gonna feel it tomorrow .
+0.27 (I; na feel; it; T:tomorrow)
+
+Dreams are excursions into the limbo of things , a semi-deliverance from the human prison .
+0.92 (Dreams; are; excursions into the limbo of things)
+0.89 (Dreams; are excursions into; the limbo)
+
+~ Henri Amiel  is going to be driving to work in the snow with bald tires ... FANTASTIC !  it really is just like camp ... except not as much fun and no beer .
+0.73 (~ Henri Amiel; to be driving; )
+0.90 Context(~ Henri Amiel to be driving,List([0, 37))):(~ Henri Amiel; to be driving to work; L:in the snow; with bald tires)
+0.50 (it; really is; just like camp ... except not as much fun and no beer)
+
+I would much rather hide under the covers today .... at least until my head stops pounding !
+0.45 (I; would much rather hide; L:under the covers; T:today)
+0.30 (my head; pounding; )
+
+long island iced tea .... you have really done it this time .
+0.46 (you; have really done; it; T:this time)
+
+so much to do .... number one on the list .... be outside !
+0.28 (so much; to do; )
+0.83 (number one on the list; be; outside)
+
+I see where you are coming from .... could you just look at my point of veiw ?
+
+you might better understand where I am coming from ...  wishes that the things that shouldn`t make her mad didn`t and that the things that should make her mad did .
+0.28 (you; might better understand; where I am coming from ...  wishes that the things that shouldn`t make her mad didn`t and)
+0.16 Context(you might better understand,List([0, 27))):(I; am coming; )
+0.66 (the things; did; her mad)
+0.20 (the things; shouldn; that the things that should make her mad did)
+0.70 (t; make; her mad didn`t)
+0.45 (the things; should make; her mad did)
+
+note to self .... don't ever .... EVER do ot on your day off .... NEVER !
+
+Stuck until the hospital trip gets back ....  woman who runs with skirt up runs faster than man with pants around ankels  don't worry I'll catch you .
+0.91 (the hospital trip; gets back faster; woman who runs with skirt up)
+0.90 (woman; runs; with skirt up)
+0.96 (Stuck until the hospital trip gets back ....  woman who runs with skirt up runs faster than man with pants around ankels; do n't worry; I'll catch you)
+0.31 Context(Stuck until the hospital trip gets back .... woman who runs with skirt up runs faster than man with pants around ankels do n't worry,List([0, 133))):(I; 'll catch; you)
+
+search and rescue mission number two is about to begin .
+0.87 (search and rescue mission number two; is; about to begin)
+0.77 (search and rescue mission number two; to begin; )
+
+You can run , but you can't hide your car .
+0.32 (You; can run; )
+0.46 (you; ca n't hide; your car)
+
+I can't say that I am shocked , but I am deffinatly not impressed .
+0.17 (I; shocked; )
+0.23 (I; am deffinatly not; impressed)
+0.17 (I; ca n't say; that I am shocked , but I am deffinatly not impressed)
+0.23 Context(I ca n't say,List([0, 11))):(I; am; shocked)
+
+back to work ... thank god its only a 4 day week :)  all I can do now is pray for the best .
+0.15 (all; can do; T:now)
+0.52 (all I can do now; is; pray for the best)
+
+Miss you sparky !
+
+why am I awake right now ???  great ... cell phone has offically shit the bed .
+0.90 (cell phone; has offically shit; the bed)
+
+Can't believe I got a whole year out of an LG .
+
+got a phone that works  sort of turned into a FML type of day  You know that it could all be as easy as you want it to be , but you would rather spin your tires in the same rut , the one that always gets you stuck .
+0.48 (you; want; it to be)
+0.16 Context(you want,List([104, 112))):(it; to be; )
+0.75 (a phone; works; )
+0.46 (you; would rather spin; your tires; T:in the same rut)
+0.35 (You; know; that it could all be as easy as you want it to be , but you would rather spin your tires in the same rut)
+0.19 Context(You know,List([63, 71))):(it; could be; as easy as you want it to be)
+0.91 (the one; gets; you stuck; T:always)
+
+What a tangled web we weave ...  It's 1am ... nothing better to do , might as well go to the gym .
+0.73 (nothing better; to do; )
+0.47 (It; 's; 1am)
+0.16 Context(It 's,List([33, 37))):(we; weave; )
+
+Thoughts and prays for co-worker Chis < PROPMALE > and his family .
+
+another night in the gym , then I get the pleasure of house 2 tomorrow .
+0.66 (I; get; the pleasure of house; T:2 tomorrow; T:another night in the gym; T:then)
+
+I cannot wait for this week to be done ...  Made it to her weekend !
+0.73 (this week; to be done; )
+
+cpr training tomorrow at 1230 ... and after my weekend can finally start !
+
+so fricken excited for friday !  is to thrilled for the events taking place tomorrow that she cannot sleep .
+0.90 (the events; taking; place; T:tomorrow)
+
+ouch .
+
+\You alone can break down the wall behind which I tremble .
+0.87 (\You alone; can break down; the wall behind which I tremble)
+0.70 (the wall; tremble; )
+
+\  the verriotto home smells like poo this morning .
+0.93 (the verriotto home; smells; like poo this morning)
+
+ew  trying to get pumped up for work ... ya , its not happening  is almost looking froward to work tomorrow .
+0.81 (ew; trying; to get pumped up for work)
+0.83 (ew; get; pumped up for work)
+0.79 (ew; to get pumped up; for work)
+0.19 (its; not happening; )
+0.58 (ya; is almost looking froward; to work; T:tomorrow)
+
+God , what a scary thing to think ...  4 early Foxtrot , then 8 hours float .... come on 2330 !  that was a sunday night for the record books ....  though it may break her heart , she is trying to ditch her dodge today  dishes : done .
+0.26 (she; is trying; to ditch her)
+0.26 Context(she is trying,List([180, 193))):(she; is trying to ditch; her)
+0.30 Context(she is trying,List([180, 193))):(she; is trying dodge; today  dishes)
+0.31 (it; may break; her heart)
+0.27 (that; was a sunday night for; the record books)
+
+laudry : sort of done .
+
+ugh .
+
+getting ready for the day ....
+
+I am so pleased that the sun is shining for my day off !  is stressing about sunday ... fathers day ....  Thank you sir , may I please have a double .
+0.83 (the sun; is shining; T:for my day off)
+
+Might as well start my week right .
+
+Is going to the dmv again .... she will not be defeated by a stupid test !
+0.45 (she; will not be defeated; by a stupid test)
+
+Now has her motorcycle permit .
+
+Motorists beware .
+0.71 (Motorists; beware; )
+
+Put a down payment on a bike yesterday .
+
+I will have it in my possesion on thursday !  is recovering and finding a hole with water in it to swim in .... like a swimming hole .
+0.23 (it; to swim; L:in)
+0.26 (I; will have; it; L:in my possesion on thursday)
+0.14 Context(I will have,List([0, 11))):(it; is recovering; )
+0.26 Context(I will have,List([0, 11))):(I; will have it finding; a hole with water in it to swim in .... like a swimming hole)
+
+feeling a little sore ... and super lousy .
+
+Just one of those days I guess .  is not moving from the couch for the rest of the night .
+0.19 (I; guess; )
+
+getting my bike tomorrow !!!
+
+I probably wont sleep tonight .
+0.45 (I; probably wo nt sleep; T:tonight)
+
+Flop .
+
+Ouch .
+
+how do I hurt more today than I did yesterday ???  WAAARRRRM !  it would be my luck that Big D is coming to town .... and i can't go because of work ...  is not looking forward to working in the hot box tonight .
+0.52 (I; did; T:yesterday)
+0.16 (it; would be; my luck that Big D is coming to town)
+0.87 (Big D; is coming; to town)
+0.45 (i; ca n't go; because of work)
+
+These 8 hours are going to dragggggg .
+0.72 (These 8 hours; to dragggggg; )
+
+another 4 hours in this inferno !
+
+SICK on my weekend .
+
+That would be my luck .
+0.25 (That; would be; my luck)
+
+the docter says I need to sleep , so whats the solution when my mind refuses to let me ???  just had a 3+ hour nap ....  bored out of my mind !
+0.84 (a 3+ hour nap; bored; out of my mind)
+0.87 (the docter; says; I need to sleep , so whats the solution)
+0.19 Context(the docter says,List([0, 15))):(I; need; to sleep)
+0.16 Context(the docter says I need,List([0, 22))):(I; need to sleep to sleep; )
+0.54 (my mind; refuses; to let me ???  just had a 3+ hour nap)
+0.42 Context(my mind refuses,List([61, 76))):(my mind; refuses to let; me ???  just had a 3+ hour nap)
+0.32 Context(my mind refuses to let,List([61, 83))):(me; just had; a 3+ hour nap ....  bored out of my mind)
+
+it's no use trying to explain , you will never get it anyway ...  would love to be able to drink water without feeling pain .
+
+She would also like her 2,000 mg's of antibiotics to start working .
+0.79 (2,000 mg's of antibiotics; to start; )
+0.26 (She; would also like; her)
+0.11 Context(She would also like,List([0, 19))):(She; would also like her working; )
+
+mono ??? shiiiiiit  go ahead , build me up and watch me fall , I will keep getting up again .  is feeling pain .... ouch !  is getting ready for a 2 day ride to the coast in N.H.
+0.26 (mono; shiiiiiit go; ahead)
+0.41 (I; is feeling; pain; T:ouch)
+0.57 (I; is getting; ready for a 2 day ride to the coast in N.H.)
+0.23 (I; will keep getting up; T:again)
+
+Riding bitch the whole way .
+
+Pain in unavoidable .
+
+new < PROPFEMALE > is on the bike !
+0.90 (PROPFEMALE >; is; on the bike)
+
+its ready to ride !!!  going for a ride .... if I break this < PROPFEMALE > I will be pretty pissed .
+0.23 (I; break; this)
+0.23 (I; will be; pretty pissed)
+
+praying for 8 , thinking its going to be 12 .
+0.20 (its; to be; 12)
+
+droid eris .
+
+how is it that just turing the phone on makes it freak out ??? \  anyway , phones out for a bit ...  Lost her phone numbers ... awesome .
+0.58 (how is it that just turing the phone on; makes anyway; it freak out)
+0.16 Context(how is it that just turing the phone on makes anyway,List([0, 72))):(it; freak out; )
+
+shoot me a text or give me a call ...  just got a confirmation e-mail about the basic riders course .
+
+8/6-8/8 .
+
+Wont be long now till I am riding .... and not hurting myself ....  Can't sleep ... my mind is racing .
+0.19 (I; am riding; )
+
+Maybe its just the redbull .
+
+needs to find something to do ...  going to bed late .... going to work early\  bad combination  day off .... so excited that I can't sleep in !
+0.90 (something to do ...; to work off; bad combination  day)
+0.23 (I; ca n't sleep; in)
+
+red eyed tree frog .... ribbit ribbit !
+
+going to stowe .... cant stand to be here with the lightining alone .
+
+omg .... work .
+
+oil change .
+
+\You can't fall off the floor .
+0.62 (\You; ca n't fall; off the floor)
+
+\ " ~ Author Unknown "  basic riders course starts today .
+0.82 (\ " ~ Author Unknown "  basic riders course; starts; T:today)
+
+trying to learn how to not fall !
+
+my mind is at ease .... sort of ....  if anyone sees my sister tonight , tell her I said happy birthday ... I would do it if I knew where to get ahold of her .
+0.37 (I; knew; where to get ahold of her)
+0.82 (anyone; sees; my sister; T:tonight)
+
+got her motorcycle license today .
+
+woot woot .
+
+day went from blah to bad to better to ...... \  on a brighter note , I saw a shooting < PROPFEMALE > tonight !
+0.51 (I; saw; a shooting < PROPFEMALE > tonight)
+
+feels slightly lost ...  is surprisingly glad to go to work ....  Barre .
+0.66 (feels slightly lost; is; surprisingly glad to go to work ....  Barre)
+
+Maine !  this night is dragging ....  the beach is less than a week away ....  one more day , then a single night of vacation .
+0.91 (this night; is dragging; the beach is less than a week away ....  one more day)
+0.90 Context(this night is dragging,List([9, 31))):(the beach; is; less than a week away; T:one more day)
+
+this too shall pass ....
+0.13 (this; shall pass; )
+
+After over 13 hours without power , its finally back .
+
+the snow was nice and pretty the first storm we had , now it is just getting old .
+0.92 (pretty the first storm; had; we)
+0.29 (it; is just getting; old; T:now)
+0.90 Context(it is just getting,List([58, 76))):(the snow; was; nice and pretty the first storm)
+
+winter vacation starts earlier than I thought it did :)  Mass .
+0.89 (winter vacation; starts; T:earlier than I thought it did :)  Mass)
+0.30 (I; thought; it did :)  Mass)
+0.51 Context(I thought,List([36, 45))):(it; did; :)  Mass)
+
+Conn .
+
+Ny .
+
+Jersey  < PROPFEMALE > .
+
+Doesn't want this vacation to end ...  Crazy to think back a year ago today and remember where I was ...  It was one of those mornings where it was easier to clean the snow off the car with a shovel ...  I 89 is a mess , avoid it .
+0.53 (it; was; easier to clean the snow off the car with a shovel; L:those mornings)
+0.65 (I 89; is; a mess)
+0.24 Context(I 89 is,List([204, 211))):(It; was; one of those mornings)
+0.39 (It; was one of; those mornings)
+
+As it gets closer to one year , I can feel the sadness building ... missing my dad .
+0.52 (it; gets; closer to one year)
+0.38 (I; can feel; the sadness building; missing my dad; T:As it gets closer to one year)
+0.18 Context(I can feel,List([32, 42))):(I; can feel the sadness building missing; my dad)
+
+After looking at homes that are thousands of < PROPMALE > away , I decided that I need to move .
+0.89 (homes; are away; thousands of < PROPMALE)
+0.17 (I; to move; )
+0.18 (I; decided; that I need to move; T:After looking at homes)
+0.18 Context(I decided,List([65, 74))):(I; need; to move)
+0.27 (that; are thousands of; < PROPMALE)
+
+I thought that California was the most expensive state to live in .... not true .
+0.80 (the most expensive state; to live; L:in)
+0.32 (I; thought; that California was the most expensive state to live in .... not true)
+0.90 Context(I thought,List([0, 9))):(California; was true; the most expensive state to live in .... not)
+
+Vermont is a great place to throw your money away ....  Monday on a Friday ... gotta love this schedule .
+
+Tila was just rolling around on the bed , rolled a little too far and had to use her claws to save herself from a terrible fall .
+0.92 (Tila; was just rolling; around; L:on the bed)
+
+Planet earth :)  Has no idea what she is going to do for the next ten hours ...  That was a bad night .
+0.41 (she; to do; T:for the next ten hours)
+0.40 (That; was; a bad night)
+0.88 Context(That was,List([81, 89))):(Planet earth; Has; no idea what she is going to do for the next ten hours)
+
+I am bored out of my mind .
+0.31 (I; am bored; out of my mind)
+
+Just thinking about how much I miss my dads cooking .
+0.31 (I; miss; my dads cooking)
+0.29 Context(I miss,List([29, 35))):(my dads; cooking; )
+
+Don't know why , because it was usually not the best , but he could make a damn good meatloaf .
+0.25 (it; was not; the best; T:usually)
+0.45 (he; could make; a damn good meatloaf)
+
+I don't know if I have ever slept this much ...  The bulletproof dodge is in the shop .
+0.26 (I; do n't know; if I have ever slept this much)
+0.21 Context(I do n't know,List([0, 12))):(I; have slept; this much; T:ever)
+0.91 Context(I do n't know,List([0, 12))):(The bulletproof dodge; is; in the shop)
+
+Thank you shitty Vermont roads for hurting my poor car :(  Getting out of the state for a few days :)  New Jersey , where they don't pump their gas , they pump their fist .
+0.42 (you; for hurting; my poor car)
+0.65 (they; do n't pump; their gas; L:New Jersey)
+0.54 (they; pump; their fist)
+
+The forecast for Manahawkin , New Jersey ; abundant sunshine .
+
+Remind me again , why am I leaving ?
+
+Spending time with the Spigel-thaxtons and the children .
+
+Oh , almost forgot , < PROPMALE > too .
+
+Me \what do you want for dinner\ " \  The snow is Vermont's way of laughing at everyone who went to a beautiful and warm destination for spring break .
+0.90 (everyone; went; to a beautiful and warm destination for spring break)
+0.92 (The snow; is; Vermont's way of laughing at everyone)
+
+Are we as citizens of this state really shocked .
+
+I am excited for tonight !
+0.52 (I; am; excited for tonight)
+
+I had a wonderful night with friends , new and old , family , and people who might as well be family , they've been there for everything anyway .
+0.88 (people; might as well be; family)
+0.55 (they; 've been anyway; T:for everything)
+0.46 Context(they 've been anyway,List([103, 143))):(I; had; a wonderful night)
+
+So , how do you get permanent marker off your face ?
+
+I feel like I have talked to 50 different land lords and rental agencies , looked at a million ads , viewed a bunch of apartments and filled out so many rental aplications ..... all without success ..... fml .
+0.42 (I; feel; like I have talked to 50 different land lords and rental agencies)
+0.45 (I; have talked; to 50 different land lords and rental agencies)
+
+watching Avatar , I love this movie  Braveheart .
+0.39 (I; love; this movie)
+
+Great movie , so sad .
+
+After submitting what feels like 50 applications , looking at 30 apartments , making a hundred phone calls , and sorting through ads on craigslist Burlington free press and the times argus , finally , we got the call we are waiting for !
+0.73 (the times; argus; )
+0.67 (we; got; the call we are waiting for; T:After submitting what feels like 50 applications , looking at 30 apartments , making a hundred phone calls , and sorting through ads on craigslist Burlington free press and the times argus; T:finally)
+0.23 (we; are waiting; for)
+
+Moving tomorrow through Thursday , any help is most welcome !
+0.81 (any help; is; most welcome)
+
+Today is cleaning and moving day one .... What fun .
+
+I am suffering from an overdose of cleaning .
+0.45 (I; am suffering; from an overdose of cleaning)
+
+Attn truck owners : help .
+
+Would only be a day of moving stuff , tomorrow if possible .
+
+Bed from Richmond , and some furniture from South Barre .
+
+Can pay with cash or beer ( if of age ) or both .
+
+Thanks .
+
+I am sleeping in my new apartment ....  Got a rider < PROPFIRST > , big items today ...
+
+There is no enthusiasm today .
+
+What a wonderful day to be moving furniture into a 3rd floor apartment .
+
+The only help I need is from mother nature , and right now , she sucks .
+0.89 (The only help; need; I)
+0.76 (The only help I need; is; from mother nature)
+0.36 (she; sucks; T:right now)
+
+We are on our last big item , for now .
+0.31 (We; are; on our last big item; T:for now)
+
+What a pain in my ass !
+

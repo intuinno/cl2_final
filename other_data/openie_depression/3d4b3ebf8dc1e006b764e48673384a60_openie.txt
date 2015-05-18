@@ -1,0 +1,347 @@
+I sure missed the internet this last month !!!
+0.45 (I; sure missed; the internet; T:this last month)
+
+smells like freedom today ... happy 4th to everyone !
+
+yeah finally a day off !!!!  only 3 more days of worky and then a nice 3 week vacation !!! hurry tues july 14th and get here before i die !!  less than 48 hrs cali , here we come !!!  today is hermosa beach day !! and shoe shopping for good walking shoes .
+0.94 (only 3 more days of worky and then a nice 3 week vacation; get; here; T:before i die)
+0.19 (i; die; )
+0.49 (here; come; we)
+0.69 (here we come; is; hermosa beach day)
+
+Big SKy Montana here we come !!! Can't wait to see the Glaciers and the House of Mystery ...  Getting the car rental back to it's home with out any extra fees !!!!  Ahh , home sweet messy home !! Time to cleany ...  All day training , here we come ...  sunday naps are a great thing ...  back to work ...  is glad to have the next 2 days off ... here we come fun !!  how gross i just laid in there the other day ...  ice cream social at the kids school and up to the epic bmx park .... yeahhhh  back to school for < PROPFIRST > tomorrow ... kether and sabae back on wed .
+0.46 (we; Ca n't wait; to see the Glaciers and the House of Mystery)
+0.80 (Ahh; to have off; the next 2 days)
+0.26 Context(Ahh to have off,List([165, 341))):(we; come fun; L:here)
+0.46 (we; to see; the Glaciers and the House of Mystery)
+0.90 (sunday naps; are back; a great thing)
+0.61 (i; just laid in; L:there; T:the other day ...  ice cream social at the kids school and up to the epic bmx park .... yeahhhh  back to school for < PROPFIRST > tomorrow)
+0.82 (Ahh; is; glad to have the next 2 days off ... here we come fun)
+0.79 (Getting the car rental back to it; 's; home with out any extra fees)
+
+time to get another part time job !!!  going to a huge wedding and seeing our friends we haven't seen in a very long time .
+0.60 (our friends; have n't seen; T:in a very long time)
+
+love you guys , cya soon ...  back to school nights are finally over .... lol  2 days off ... here comes nappy time  SNOW ... BEARS ... AND THE ASPEN CHANGING !!!
+
+Where does the time go ???  taking the kiddies and granny to the observatory in berthoud !!!  OMG it's going to take me an hour to view all my requests ...... Sorry if I don't answer all of them ughhh  is pondering the idea of snow tomorrow !!!! hummmmm  breakfast for dinner , biskers and gravy with scrambled cheezy eggzy .... heart attack here i come ...  Yeah it's still snowing ... Beautiful < PROPMALE > Mtns ...  Bear watching ... I have lived in Colorado for 12 years and I finally found a place where 6 bears are living right outside of town .
+0.31 (I; do n't answer; all of them)
+0.41 (it; is pondering; the idea of snow; T:tomorrow)
+0.18 (it; 's snowing; T:still)
+0.94 (6 bears; are living; T:right outside of town; L:a place)
+0.67 (I; found; a place where 6 bears are living right outside of town; T:finally)
+0.19 (i; come; )
+0.27 (it; to view; all my requests)
+
+Can't wait until Sat .
+
+to go see them .
+
+last minute book report time .... ugghhhh  my son got that damn book report done ... yeah i can breath !!!! ice cream time ....
+0.60 (my son; got; that damn book report done; T:last minute book report time .... ugghhhh)
+0.77 (that damn book report; done; )
+0.28 (i; can breath; T:ice cream time; T:last minute book report time .... ugghhhh  my son got that damn book report)
+
+I need a new camera , and a photographer to take the pics for me ....  Cub scout Halloween pack meeting went very well ... Bobbin for doughnuts on strings instead of sharing swine flu with the ole bobbin for apples game .... YEAH < PROPMALE > !!!  Can't wait to see \of the fourth kind\ " and \ " paranormal activity\ " .... here i come "  District 9 was a great alien moive ...  A day off ... Guess I will clean , and maybe get in a fall nappy ...
+0.41 (I; maybe get; in a fall nappy)
+0.16 (I; will clean; )
+0.40 Context(I will clean,List([400, 412))):(I; need; a new camera)
+0.69 (a photographer to take the pics for me ....  Cub scout Halloween pack meeting; went very well; )
+0.49 (here; come; i)
+0.94 (District 9; was; a great alien moive)
+0.38 (Halloween pack meeting; [is] scout [of]; Cub)
+
+Where are the damn bears ???  HI HO , HI HO , IT'S OFF TO WORK I GO ...  Nice foot or so of snow !! Keep on coming I don't want to do that 5 am flight at the airport ...  TGIF ...  It's birthday bowling for < PROPFIRST>'s 17th b'day~~~~  HAPPY HELLOWEENIE EVERYONE , BE SAFE ...  I always knew we were part alien !!!!
+0.41 (I; knew; we were part alien; T:always)
+0.39 Context(I knew,List([280, 293))):(we; were; part alien)
+0.66 (IT; TO WORK; )
+
+You know how you can tell when your kids have eaten too much Halloween < PROPFEMALE > ???
+0.63 (You; know; how you can tell when your kids have eaten too much Halloween < PROPFEMALE >)
+0.56 Context(You know,List([0, 8))):(you; can tell; when your kids have eaten too much Halloween < PROPFEMALE >)
+0.62 Context(You know you can tell,List([0, 25))):(your kids; have eaten; too much; T:Halloween; T:< PROPFEMALE)
+
+When the inside of their ears smell like tootsie rolls and hershey's < PROPFEMALE > bars !!! OMG ...  Ahhh home at last ....  2012 .................................................................................  Life is good , thank you God ...  Going to watch Kether's second basketball game this morning ... Man it's too early to look at other people ...  TGIW ...  Forgive me if my intellectual intelligence is low today , my energy has been drained ...  Happy Thanksgiving to all ... I am thankful for everything today , and will not forget to be thankful EVERYDAY ... God is good ...  OMG I went over a month with no internet service .
+0.86 (the inside of their ears; smell; like tootsie rolls and hershey's < PROPFEMALE > bars !!! OMG ...  Ahhh home)
+0.46 (I; am; thankful for everything; T:today)
+0.68 Context(I am,List([490, 494))):(TGIW; Forgive; me)
+0.46 Context(TGIW Forgive I am,List([360, 494))):(it; 's; too early to look at other people)
+0.75 Context(it 's TGIW Forgive I am,List([316, 494))):(Life; is; good)
+0.64 (my energy; has been drained; T:Happy Thanksgiving; to all)
+0.69 (God; is; good)
+0.47 Context(God is,List([575, 581))):(I; went; T:over a month; with no internet service)
+0.72 (my intellectual intelligence; is; low; T:today)
+0.62 (you; to watch; Kether's second basketball game; T:this morning)
+
+It feels weird getting back on facebook and going through 498 emails at my yahoo ... hope none of them were important !!!  Happy New Year to Everyone ...  Avatar in 3D was worth the money !!! Bad ass movie and special effects ...  My investigation background helped me to find my old friend from 20 years ago !
+0.31 (me; to find; my old friend)
+0.40 (My investigation background; helped; to find my old friend from 20 years ago)
+0.86 Context(My investigation background helped,List([231, 265))):(D; was; worth the money)
+
+I am very happy to have found her ...  Bless the Saints and New Orleans !!!!  where in the hell is my list of friends ?? when i click on friends it only gives me highschool , work and something else to choose from where are the rest of my friends , if anyone can help .... dughh ....  5 am flight is going to be pretty rough ....  My baby Sabae will be receiving his Bear rank tonight at the Masonic Lodge in Fort Collins ~ ~ Way to go Sabaean , mama is so proud of her Cub Scout .
+0.26 (it; only gives; me; highschool , work and something else)
+0.47 Context(it only gives,List([145, 158))):(I; am; very happy to have found her ...  Bless the Saints and New Orleans; T:when i click on friends)
+0.88 (mama; is; so proud of her Cub Scout)
+0.27 (I; to have found; her ...  Bless the Saints and New Orleans)
+0.47 Context(I to have found,List([0, 29))):(her; Bless; the Saints and New Orleans)
+0.61 (My baby; will be receiving; his Bear rank; T:tonight; L:at the Masonic Lodge in Fort Collins ~ ~ Way)
+0.88 (in the hell; is; my list of friends)
+0.75 (5 am flight; to be; pretty rough)
+0.66 (anyone; can help; dughh)
+0.56 Context(anyone can help,List([252, 267))):(anyone; can help dughh; )
+0.52 (i; click; L:on friends)
+0.39 (the hell; is my list of; friends)
+0.39 (where; are the rest of; my friends)
+
+Dim's my boyz ....  Half a day off !!! yeah ...  Hey to you locals it's Kids day downtown Loveland on Wed .
+0.77 (Dim; 's off; my boyz)
+0.51 Context(Dim 's off,List([0, 34))):(it; 's; Kids day downtown Loveland on Wed)
+
+from 1-4 ... Free movies at the Rialto , lots of vendors and kid friendly stuff to do ...  time to work out , omg i can hardly walk after a long day of work , sitting and investigating on the computer !!! lol  What have you done for a stranger today ?
+0.91 (lots of vendors and kid friendly stuff; to do; time to work out ,)
+0.39 (i; can hardly walk; T:after a long day of work)
+0.29 Context(i can hardly walk,List([114, 131))):(i; can hardly walk investigating; on the computer)
+
+~ :o )  Yeah its Friday ... Bounce time tonight and Wild animal santuary tomorrow after Sabae's Scrimmage .
+
+I can't wait to see my best friend and the black bears .
+0.31 (I; ca n't wait; to see my best friend and the black bears)
+0.27 (I; to see; my best friend and the black bears)
+
+hi ho hi ho its off to work i go ...  Devil's backbone hike about killed me today ... the Cub scouts did a great job setting the pace , Thank you all !!  i ran on a treadmill at the gym with out getting shot off the back of it !!!! Laughing my fat ass off all the way !!!  we are supposed to get 5-12 inches of snow tonight into tomorrow night !
+0.39 (out; getting shot; off the back of it)
+0.41 (we; to get; 5-12 inches of snow tonight; into tomorrow night)
+0.95 (the Cub scouts; did; a great job setting the pace)
+
+can't wait ...  I never realized that the Pinewood derby for Cub Scouts was such a serious sport until weigh in tonight !!!  Sabae's car won first 7 x's out of 8 , but was not enough to get a trophy !
+0.31 (I; never realized; that the Pinewood derby for Cub Scouts was such a serious sport)
+0.95 Context(I never realized,List([16, 32))):(the Pinewood derby for Cub Scouts; was; such a serious sport)
+0.83 Context(I never realized,List([16, 32))):(Sabae's car; won; T:first; 7 x's)
+0.92 (Sabae's car; was not; enough to get a trophy)
+
+Kether's car was 4th across the finish line 6 out of 8 x's ... Nice job boys !
+0.95 (Kether's car; was; 4th across the finish line)
+
+pic's coming soon .
+0.61 (pic; 's coming; T:soon)
+
+The Toothfairy with the Rock was pretty funny .
+0.89 (The Toothfairy with the Rock; was; pretty funny)
+
+Man he's gorgeous in tights !!!  SNOW DAY TOMORROW FOR THOMPSON VALLEY SCHOOLS !!! EXPECTING OVER A FOOT ... YEA HAW ...  half a day off , nice to get a nap in ... ~ :O )  Time to clean , work out and get my boys some haircuts ....  my first hockey game tonight ! the colorado eagles vs .
+0.52 (he; 's; gorgeous; L:in tights)
+0.44 (he; EXPECTING; OVER A FOOT ... YEA HAW ...  half a day off , nice to get a nap in ... ~ :O )  Time to clean , work out and get my boys some haircuts ....  my first hockey game tonight ! the colorado eagles vs)
+0.95 Context(he EXPECTING,List([4, 92))):(OVER A FOOT ... YEA HAW ...  half a day off , nice; to get; a nap; L:in; T:~ :O )  Time)
+
+the muddogs .
+
+it sure was an experience and i can't wait to take the boys ....  Happy Easter !!!
+0.45 (it; sure was; an experience)
+0.45 (i; ca n't wait; to take the boys)
+0.41 (i; to take; the boys)
+
+A day off with lots of house work and taxes to be done !!  My kids got to shoot a bb gun for the first time today !
+0.94 (A day off with lots of house work and taxes; to be done; T:My kids got to shoot a bb gun for the first time today)
+0.75 (My kids; got; to shoot a bb gun for the first time today)
+0.59 Context(My kids got,List([59, 70))):(My kids; got to shoot; a bb gun; T:for the first time; T:today)
+
+Now they want one , or 2 !!!  Baseball starts tonight !!!
+0.71 (Now they want one , or 2; starts; T:tonight)
+0.51 Context(Now they want one , or 2 starts,List([0, 45))):(they; want; one , or 2; T:Now)
+
+I can't believe I got both boys on the same team , nice !!  My boys got to see 2 rattlesnakes at Devil's backbone today !! Bummer I wish I was there so I could show them houw to skin em !!!  Less than 48 hours before I find out if ghosts really exist , I am so excited I can't even sleep !!  Whatever you give a woman , she will make it greater .
+0.31 (she; will make; it greater)
+0.26 (I; could show; them houw to skin em)
+0.26 Context(I could show,List([152, 164))):(them; houw; to skin em)
+0.26 Context(I could show them houw,List([152, 174))):(them; houw to skin; em)
+0.39 (I; find out; if ghosts really exist)
+0.50 Context(I find out,List([217, 227))):(ghosts; really exist; )
+0.55 (you; give; a woman)
+0.31 Context(you give,List([301, 309))):(I; am; so excited I can't even sleep)
+0.42 Context(I am you give,List([253, 309))):(I; wish; I was there so I could show them houw to skin em !!!  Less than 48 hours before I find out if ghosts really exist)
+0.31 Context(I wish I am you give,List([130, 309))):(I; was; there; so I could show them houw to skin em)
+0.19 (I; ca n't even sleep; )
+0.64 (My boys; to see; 2 rattlesnakes; L:at Devil's backbone; T:today)
+
+Give her sperm , she will give you a baby .
+0.31 (she; will give; you; a baby)
+
+Give her a house , she will give you a home .
+0.31 (she; will give; you; a home)
+
+Give her groceries , she will give you a meal .
+0.31 (she; will give; you; a meal)
+
+Give her a smile and she will give you her heart .
+0.31 (she; will give; you; her heart)
+
+She multiplies and enlarges what she is given .
+0.19 (She; multiplies; )
+0.23 (She; enlarges; what she is given)
+0.16 Context(She enlarges,List([0, 27))):(she; is given; )
+
+So if u give her crap , be ready to receive a ton of poo .
+
+Real women keep this going .
+0.72 (Real women; keep; this going)
+
+Our group investigation for paranormal activity was pretty queit last night at the Double R bar .
+0.72 (Our group investigation for paranormal activity; was pretty queit; T:last night; L:at the Double R bar)
+
+BOO HOO !
+
+Anyone wanting to join the Loveland Paranormal can contact me via facebook or email .
+0.90 (Anyone wanting to join the Loveland Paranormal; can contact; me)
+0.89 Context(Anyone wanting to join the Loveland Paranormal can contact,List([0, 58))):(Anyone; wanting; to join the Loveland Paranormal)
+0.89 Context(Anyone wanting to join the Loveland Paranormal can contact,List([0, 58))):(Anyone; wanting to join; the Loveland Paranormal)
+
+A messy house ... will be a beautiful home by the time the chitlins get home ...  I am going to pass my PSE with flying colors today ....
+0.96 (the chitlins; get; home; T:the time)
+0.27 (I; to pass; my PSE; T:today)
+
+I got an A++++++++++++++++ Hell yeah !!!!  Thank you all for the nice comments , you all are appreciated !! Have a great weekend and Mother's day to all ....  Road trip to the Shambala mountain center ... I think we might see a bear !!!  NO BEARS YET !!!
+0.33 (I; Thank; you; for the nice comments)
+0.36 (I; think; we might see a bear !!!  NO BEARS YET)
+0.40 Context(I think,List([205, 212))):(we; might see; a bear)
+
+I have the best kids and husband in the world !!!!
+0.45 (I; have; the best kids and husband in the world)
+
+I love you all so very much ...  SNOW STORM WARNING FOR < PROPMALE > MTN .
+0.31 (I; love; you; so very much)
+
+NATIONAL PARK , LARIMER , BOULDER AND WELD COUNTIES ..... NICEEEEEEEEE ......  looks like we might not have baseball practice tonight !!!  Remember where's the BEEF ????..................... WHERE'S THE SNOW ??????  i am so ready for another ghost hunt i can't hardly contain myself , hurry up and get better < PROPMALE > ....  Sabaean graduates tonight from a Bear to a Webelo ...
+0.75 (NATIONAL PARK; looks; like we might not have baseball practice tonight)
+0.45 (we; might not have; baseball practice; T:tonight)
+0.26 (i; ca n't hardly contain; myself)
+0.91 Context(i ca n't hardly contain,List([253, 275))):(Sabaean; graduates; T:tonight; from a Bear; to a Webelo)
+
+He can't wait until summer camp when he get's to play with BB guns and bows and arrows !!!!  Kether is going to be joining into the Webelos II as well ... Mama is proud of doz boyz !!!  Congratulations out to my oldest son < PROPMALE > for an awesome GPA 3.25 !!!!  Off to the boys baseball scrimmage .
+0.92 (Kether; to be joining; into the Webelos II; as well)
+0.62 (he; get; T:summer camp)
+0.90 (Mama; is Off; proud of doz)
+0.40 Context(Mama is Off,List([155, 269))):(He; ca n't wait; T:until summer camp)
+0.56 (doz; boyz; )
+
+Can't wait to see Sabean and Kether in those baseball pants !!! lol  Only 2 more days of school for the boys !! Can't wait for that summer trip .... 12 more days ~ :O )  Last day of school for the chitlins .....
+
+I get to look forward to a messy house all summer , lots of fights to break up , unknown kids in and out of my house , bruised knees and roadrashed elbows ... OH THE JOY OF MOTHERHOOD , I LOVE IT ....  i miss my beautiful boulder , \chief niwot here we come \"...."  Another ghost hunt .... Anyone local care to join on Friday night ???
+0.31 (i; miss; my beautiful boulder; L:niwot here)
+0.67 Context(i miss,List([202, 208))):(unknown kids in and out of my house; bruised; knees and roadrashed elbows)
+0.43 Context(i miss,List([202, 208))):(I; LOVE; IT)
+0.18 Context(i miss,List([202, 208))):(we; come; \)
+0.41 (I; to look forward; to a messy house; T:all summer)
+0.75 (lots of fights; to break up; )
+
+We finally got to see 2 balck bears ... in their natural habitat in Sequoia National park ... what a treat that was !!  The boys got stomped at their baseball game !!!
+0.87 (The boys; got; stomped at their baseball game)
+
+I hope we win one game before August !!  it was snowing up in < PROPMALE > mtn .
+0.30 (I; hope; we win one game before August)
+0.51 Context(I hope,List([0, 6))):(we; win; one game; T:before August)
+0.44 Context(I hope,List([0, 6))):(it; was snowing up; L:in < PROPMALE)
+
+national park today and trail ridge was closed with 3 inches of snow and ice ....
+
+The boys finally won one of their baseball games !! yeah haw ... 9 to 2 ... way to go Vipers !
+0.91 (The boys; won; one of their baseball games; yeah; haw; T:finally)
+
+Cub Scout day camp has come to an end ... The boys learned all kinds of cool stuff like archery , bb guns , sling shots , leave no trace camping , forestry , journeyman and played lots of games ... time to rest boys .
+0.89 (The boys; leave; no trace camping , forestry , journeyman)
+0.89 (The boys; played; lots of games; T:time to rest boys)
+0.92 (The boys; learned; all kinds of cool stuff like archery , bb guns , sling shots)
+0.92 Context(The boys learned,List([42, 58))):(Cub Scout day camp; has come; to an end)
+
+love you ...  Happy Fathers Day to all Fathers ....
+
+A day filled with housecleaning , Dr. appt ., baseball practice , planting flowers and checking my facebook account periodically ... I love those days off from work , wisley spent ...  Got to see my oldest son & his girlfriend tonight ... My how fast they grow up .
+
+Love you Phila penio !!!!  < PROPFEMALE > < PROPFEMALE > created an http://www.ourspace.com/
+
+account .
+
+Ourspace.com is the leading Urban Social Network .
+0.66 (Ourspace.com; is; the leading Urban Social Network)
+
+Connect with < PROPFEMALE > < PROPFEMALE > by visiting http://www.ourspace.com/
+
+why do i feel like a loser when i sleep in until 9:50 ???  What about that hurricane that blew through last night and cancelled our fireworks ???
+0.23 (i; sleep; L:in; T:until 9:50)
+0.91 (that hurricane; blew; through last night)
+0.81 (that hurricane; cancelled; our fireworks)
+
+The heart shaped fireworks in Loveland , CO were priceless !!!
+0.62 (CO; were; priceless)
+0.90 Context(CO were,List([41, 48))):(The heart; shaped; fireworks in Loveland)
+
+We get to go to the University of Northern Colorado today to lecture Boyscouts about how to get through the airport faster when traveling ... My advice ... Make sure you have clean socks on when you come to the airport ....  HI Ho Hi Ho ... It's off to Red Feather we go !!
+0.51 (We; to go; to the University of Northern Colorado; T:today; to lecture Boyscouts about how to get through the airport faster)
+0.26 Context(We to go,List([0, 12))):(We; to go to lecture; Boyscouts about how to get through the airport faster)
+0.63 (you; have; clean socks on when you come to the airport ....  HI Ho Hi Ho ... It's off to Red Feather we go)
+0.62 (you; come; to the airport)
+0.50 (It; 's; off to Red Feather; T:when you come to the airport)
+0.20 Context(It 's,List([241, 245))):(we; go; )
+
+There have already been 4 bear break in's this season ... If I don't show up for work on Wednesday call the Ranger's!!!  Ahh back home to our humble abode !
+0.50 (I; do n't show up; for work on Wednesday)
+
+Can't wait to sleep in a my Sealy , god I am sore ...  2 more days of summer for the boys ... back to the grind ... oh yeah !!!  My kids are so lucky ... They got 2 really great teachers this year !
+0.28 (I; am; sore)
+0.38 (My kids; are; so lucky)
+0.62 (They; got; 2 really great teachers; T:this year)
+
+To all of you parents out there , I hope your kids have a very great school year !!!
+
+The paranormal investigation @ Lionsgate Event Center was well worth the time we spent there !! < PROPFEMALE > thank you for giving us the opportunity to investigate your business .
+0.96 (The paranormal investigation @ Lionsgate Event Center; was; well worth the time)
+0.66 (we; spent; L:there; T:the time)
+0.46 (you; for giving; us; the opportunity to investigate your business)
+
+And to < PROPFEMALE > who gave us all the stories and joined us , you are an angel .
+0.62 (you; are; an angel)
+
+We will contact you shortly for a reveal date ...  I don't believe in a book , I don't believe in a priests ' words , I don't believe in a scroll .
+0.39 (I; do n't believe; in a scroll)
+0.39 Context(I do n't believe,List([118, 133))):(I; do n't believe; in a priests ' words)
+0.39 Context(I do n't believe I do n't believe,List([79, 133))):(I; do n't believe; in a book)
+0.26 Context(I do n't believe I do n't believe I do n't believe,List([51, 133))):(We; will contact; you; T:shortly; for a reveal date)
+
+I believe in ME .
+0.50 (I; believe; in ME)
+
+If you don't believe in me , join the queue of non-believers , one day you will see what I believe , that day you will believe as I do ~ ANONYMOUS  Anyone up for an airsoft gun fight or some bow and arrow target practice ???  Happy Veteran's to day to all our Veterans !
+0.46 (you; do n't believe; in me)
+0.68 (I; do ~; ANONYMOUS  Anyone up for an airsoft gun fight or some bow and arrow target practice)
+0.46 (you; will see; what I believe , that day you will believe as I do ~ ANONYMOUS  Anyone up for an airsoft gun fight or some bow and arrow target practice ???  Happy Veteran's to day; T:one day)
+0.16 Context(you will see,List([71, 83))):(I; believe; )
+0.52 (you; will believe; as I do ~ ANONYMOUS  Anyone up for an airsoft gun fight or some bow and arrow target practice; T:that day)
+
+Thank you for risking your life for our freedom < PROPFIRST > !
+0.46 (you; for risking; your life; for our freedom)
+
+I have a million things to be Thankful for !
+0.45 (I; have; a million things to be Thankful for)
+0.41 (a million things; to be; Thankful for)
+
+Thank you , Thank you , Thank you !
+
+I am blessed and Life is great .
+0.19 (I; am blessed; )
+0.80 (Life; is; great)
+
+Happy Thanksgiving to all !
+
+I wish everyone a very < PROPFEMALE > and Happy Christmas ...  IT SNOWED IN PHOENIX TODAY !!! IT MUST BE THE END OF THE WORLD AS WE KNOW IT ....  RIP Grandma < PROPFEMALE > .
+0.87 (IT; SNOWED; L:IN PHOENIX)
+0.62 (I; wish; everyone; a very < PROPFEMALE > and Happy Christmas ...  IT SNOWED IN PHOENIX TODAY !!! IT MUST BE THE END OF THE WORLD AS WE KNOW IT ....  RIP Grandma < PROPFEMALE >)
+0.88 Context(I wish,List([0, 6))):(IT; MUST BE; THE END OF THE WORLD)
+
+You are in good hands ...  When did they start doing spelling < PROPFEMALE>'s at 7:30 am on a Sat ?? Kether has made it to Districts and will be testing this morning to see if he goes to State ....
+0.62 (You; are; in good hands)
+0.77 (Kether; has made; )
+0.83 (Kether; will be testing; T:this morning; to see if he goes to State)
+0.76 Context(Kether will be testing,List([101, 152))):(Kether; will be testing to see; if he goes to State)
+0.43 Context(Kether will be testing to see,List([101, 172))):(he; goes; to State)
+
+A Toasty -13 Degrees here ....
+

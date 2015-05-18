@@ -1,0 +1,348 @@
+i have had a lot of illness in my family this year .
+0.31 (i; have had; a lot of illness; L:in my family; T:this year)
+
+i have had a lot of deaths also .
+0.44 (i; have had also; a lot of deaths)
+
+i am asking for prayer from anyone or anywhere all will be held very greayful thank you < PROPFEMALE > faulkner rudnik .
+0.45 (i; am asking; for prayer)
+
+i am trying to find my brouther his name is < PROPFIRST > < PROPMALE > .
+0.41 (i; am trying; to find my brouther his name is < PROPFIRST > < PROPMALE >)
+0.26 Context(i am trying,List([0, 11))):(i; am trying to find; my brouther)
+0.35 Context(i am trying to find,List([0, 19))):(his name; is; PROPFIRST)
+
+he has a sister < PROPFEMALE > a brouther garey .
+0.52 (he; has; a sister)
+
+his dad was < PROPFIRST > and his mom was < PROPFEMALE > i really need him in my life if anyone can help please pass along i love him very much love < PROPFEMALE >  thank everyone for all the trees and cards .
+0.70 (his dad; was; PROPFIRST)
+0.61 (his mom; was; PROPFEMALE > i really need him in my life if anyone can help please pass along i love him very much love < PROPFEMALE >  thank everyone for all the trees and cards)
+0.26 Context(his mom was,List([30, 41))):(i; really need; him; L:in my life)
+0.26 Context(his mom was i really need,List([30, 70))):(i; love; him)
+0.84 (PROPFEMALE; thank; everyone; for all the trees and cards)
+0.75 (anyone; can help; please pass)
+
+it means alot.it has been a bad year .
+0.44 (it; means; alot.it has been a bad year)
+0.90 Context(it means,List([0, 8))):(alot.it; has been; a bad year)
+
+if while on web you see the odd or unusal sites or games please forwardto me i am a bit on the weird side just a little < PROPFEMALE > rudnik thanks < PROPFEMALE > christmas .
+0.62 (you; see; the odd or unusal sites or games)
+
+looking for < PROPFEMALE > roy .
+
+tina faulkner .
+
+are you out there ???  < PROPFEMALE > christmas to all my old and new facebook friends .
+
+may the new year bring many blessing to each and everyone of you .
+
+i left a message one my wall for all my careing for all my caring friends old and new god bless you all i will get threw this .
+0.52 (i; left; a message)
+
+comment on my wall about the loss of capt .
+
+phil < PROPMALE > .
+
+he will be greatly missed .
+0.14 (he; will be missed; )
+
+rest with the lord .
+
+capt .
+
+phil rest in peace .
+
+you will be greatly missed .
+0.23 (you; will be missed; )
+
+help !! where is the icon for chatting with more than one at a time ??? just for future ref .???  i guess i was having a moment .
+0.89 (help; is; the icon for chatting with more than one at a time)
+0.26 (i; guess; i was having a moment)
+0.40 Context(i guess,List([98, 105))):(i; was having; a moment)
+
+one song lead to another .
+0.77 (one song; lead; to another)
+
+when i seen me ready to download < PROPMALE > zombie i thought < PROPFEMALE > you need to take some meds a shut it down for the nite .
+0.31 (i; seen; me ready to download)
+0.17 (me; to download; )
+0.54 (i; thought; < PROPFEMALE > you need to take some meds a shut it down for the nite; T:when i seen me ready to download)
+0.55 Context(i thought,List([53, 62))):(you; need; to take some meds)
+0.55 Context(i thought you need,List([53, 86))):(you; need to take; some meds)
+
+he even scared me .
+0.31 (he; even scared; me)
+
+what is crazy ? the world is flat .
+0.31 (what is crazy; is; flat)
+
+your crazy if man were supposed to fly god would give him wings .
+0.70 (man; were supposed; to fly god would give him wings)
+0.75 (man; to fly; god)
+0.62 Context(man to fly,List([14, 38))):(man; to fly god would give; him; wings)
+
+your crazy.no
+
+we are the center of the universe .
+0.45 (we; are; the center of the universe)
+0.89 (we; are the center of; the universe)
+
+your crazy .
+
+god never spoke to joan .
+0.81 (god; never spoke; to joan)
+
+she was crazy .
+0.28 (she; was; crazy)
+
+i guess crazy is not to bad .
+0.19 (i; guess; crazy is not to bad)
+0.25 Context(i guess,List([0, 7))):(crazy; is not; to bad)
+
+i feel in good company .
+0.45 (i; feel; in good company)
+
+love all you .
+
+this me i am sighing off and going to bed.do not worry i will bit-h more on the obama issue tomorrow , you can be sure of that .
+0.19 (i; am sighing off; )
+
+sleep well all good american and god fearing citizens .
+
+i'll give < PROPMALE > a call later today .
+0.45 (i; 'll give; <; a call; T:later today)
+
+all people have been doing is complaining around here , i finally had to say , if life is so bad take heart it is not going to last forever !!  i guess my friend < PROPFEMALE > will say again , don't post late at nite .
+0.73 (all people; have been doing; )
+0.20 (it; to last; forever)
+0.51 (i; guess; PROPFEMALE > will say again , don't post late at nite)
+0.80 Context(i guess,List([144, 151))):(PROPFEMALE; will say; T:again; don't post late at nite)
+0.17 (i; to say; )
+0.92 (life; is; so bad take heart)
+
+people will think your crazy .
+0.82 (people; will think; your crazy)
+
+what can i say ?
+
+crazy is as crazy does .
+0.36 (crazy; is; as crazy does)
+
+LT .
+
+< PROPFIRST > YOU HAVE LEGS .
+
+YES < PROPMALE > .
+
+RUN < PROPMALE > RUN .
+
+i really am crazy i can prove it .
+0.31 (i; really am; crazy i can prove it)
+0.31 (i; can prove; it)
+
+oh no RUN < PROPFEMALE > RUN .
+
+i am going to bed AND PERCHANCE TO DREAM .
+0.45 (i; am going; to bed)
+
+that i to can be like the normal people .
+0.45 (i; to can be; like the normal people)
+
+NOT !!  need ideas on how to get sleepy .
+
+NO DRUGS OR DRINKS .. I AM SO TIRED .
+0.57 (I; AM; SO TIRED)
+
+did anyone really take that IQtest i got a 122 .
+
+i do not remember taking it .
+0.26 (i; do not remember; taking it)
+0.26 Context(i do not remember,List([0, 17))):(i; do not remember taking; it)
+
+signing off for the nite .
+
+leaving you my famous quote \pretending to be a normal person day after day is exhausting\ " talk later my fb friends .
+0.58 (you; to be; a normal person day after day)
+0.80 (leaving you my famous quote \pretending to be a normal person day after day; is; exhausting\ " talk later my fb friends)
+
+"  what is it with all these sink holes ?
+0.50 (what; is it with; all these sink holes)
+
+i never know if i am going to stop at wal-mart and the floor is just going to drop from under me .
+0.46 (i; to stop; L:at wal-mart)
+0.81 (the floor; to drop; from under me)
+0.40 (i; never know; if i am going to stop at wal-mart and the floor is just going to drop from under me)
+
+let alone stopping at taco bell .
+
+THAT IS CRAZY .!!  like i have said why is it we have to worry about the sink holes .
+0.41 (we; to worry; about the sink holes)
+0.43 (THAT; IS; CRAZY)
+0.36 Context(THAT IS,List([0, 7))):(i; have said; why is it we have to worry about the sink holes)
+
+now i lay me down to sleep i pray the lord keep ground under my feet .
+0.26 (i; pray; the lord keep ground under my feet)
+0.43 Context(i pray,List([27, 33))):(i; lay down; to sleep; T:now)
+0.80 Context(i pray,List([27, 33))):(the lord; keep; ground; under my feet)
+
+if i should die before i wake .
+0.31 (i; should die; T:before i wake)
+0.19 (i; wake; )
+
+i hope to see the pearlly gates .
+0.40 (i; hope; to see the pearlly gates)
+0.40 Context(i hope,List([0, 6))):(i; hope to see; the pearlly gates)
+
+i think my laptop is crashing , be back soon .
+0.41 (my laptop; be; T:back soon)
+0.32 (i; think; my laptop is crashing , be back soon)
+0.29 Context(i think,List([0, 7))):(my laptop; is crashing; )
+
+omg .
+
+i have my laptop back .
+0.31 (i; have; my laptop; T:back)
+
+i missed it sooo much .
+0.31 (i; missed; it; sooo much)
+
+missed all my fb friends .
+
+i have been watching conspiracy theory with < PROPFIRST > ventura .
+0.45 (i; have been watching; conspiracy theory)
+
+i think hes great .
+0.24 (i; think; hes great)
+
+he has my vote for any office he wants to run for .
+0.37 (he; has; my vote for any office)
+0.24 (he; wants; to run for)
+0.84 Context(he wants,List([30, 38))):(any office; to run; he)
+
+i could look at him all day .
+0.31 (i; could look; at him; T:all day)
+
+there is something about him .
+0.89 (there; is something about; him)
+
+HUBBA-HUBBA .
+
+i am siging off for now , hope to talk to my fbf , tomorrow , have a good sleep .
+0.23 (i; am siging off; T:for now)
+0.23 (i; hope; to talk to my fbf)
+0.23 Context(i hope,List([0, 30))):(i; hope to talk; to my fbf)
+
+I HAVE SEAT IN THIS CHAIR TO LONG.my words on my laptop is blurring together i am giong to bed .
+0.44 (I; HAVE; SEAT IN THIS CHAIR TO LONG.my words)
+0.40 Context(I HAVE,List([0, 6))):(i; am giong; to bed)
+
+talk to my fbf later .
+
+good nite sleep tight .
+
+Change your facebook profile picture to a cartoon from your childhood & invite your friends to do the same .
+0.38 (your friends; to do; the same)
+
+Until monday ( Dec .
+
+6 ) .
+
+There should be no human faces on facebook , but an invasion of memories .
+
+This is for violence against children .
+0.45 (This; is; for violence against children)
+
+this is a quote of my life .... HONEST YOU CANT MAKE THIS SHIT UP .
+0.31 (this; is; a quote of my life)
+0.89 (this; is a quote of; my life)
+
+< PROPFEMALE > RUDNIK  am now calling it a nite .
+0.82 (PROPFEMALE > RUDNIK; am calling; it; a nite; T:now)
+
+have great plans for the weekend .
+
+need some sleep .
+
+after all i am in a relationship now .
+0.52 (i; am; in a relationship; T:now)
+
+i am very happy good nite .
+0.52 (i; am; very happy good nite)
+
+never underestimate the power of crazy people in large crowds.my
+
+quote of the day .
+
+you cant make this shit up .
+0.62 (you; ca nt make; this shit up)
+
+this is my frist christmas without my husband , eric .
+0.31 (this; is; my frist christmas without my husband , eric)
+0.89 (this; is my frist christmas without; my husband)
+
+without my family and friends it would be harder .
+0.23 (it; would be; harder)
+
+but mostly without the love of the lord i know for sure i would not have wanted to see this christmas .
+0.42 (i; know; for sure i would not have wanted to see this christmas)
+0.39 Context(i know,List([40, 46))):(i; would not have wanted; to see this christmas)
+0.39 Context(i know i would not have wanted,List([40, 79))):(i; would not have wanted to see; this christmas)
+
+thank u all for being here for me .
+
+fbfs have made reaching out to others when darkness falls upon me see that there is a lite burning somewhere .
+0.77 (a lite; burning; L:somewhere)
+0.86 (darkness; falls; upon me)
+0.36 (fbfs; have made; see that there is a lite)
+0.78 Context(fbfs have made,List([0, 14))):(fbfs; have made reaching; out; to others)
+
+merry christmas to u all and blessed be the lord .
+0.72 (merry; to u; all)
+
+been up all nite .
+
+had a thought out of nowhere .
+
+anyone remember chicken little .
+0.89 (anyone; remember; chicken little)
+
+and \  skylab is falling ???  well i am watching my grandson and granddaughter again tonite .
+
+new grandson that is 4weeks is in childrens hospital with RSV .
+0.79 (new grandson; is; 4weeks)
+0.95 (new grandson that is 4weeks; is; in childrens hospital with RSV)
+
+A KIND OF COLD WITH SOME BREATHING PROBLEMS . he is doing better as a precausion they are keeping him .
+0.19 (he; is doing better; )
+0.46 (they; are keeping; him)
+
+please say a prayer for him and my family .
+
+god bless and thank you .
+0.63 (god; bless; )
+0.73 (god; thank; you)
+
+thank everyone for your prayers.my
+
+grandson came home yesterday and is doing very well now .
+0.89 (grandson; came; home; T:yesterday)
+0.72 (grandson; is doing very well; T:now)
+
+god bless you all .
+
+i am going to bed because the sun is in my eyes now .
+0.31 (i; am going; to bed; because the sun is in my eyes now)
+0.87 (the sun; is; in my eyes; T:now)
+
+oh my if only i could get my sleep in the nite , things work in a daylight world.my
+0.52 (things; work; L:in a daylight)
+
+sleep cycle thinks my nites are my days .
+0.84 (sleep cycle; thinks; my nites are my days)
+0.43 Context(sleep cycle thinks,List([0, 18))):(my nites; are; my days)
+
+i need a wake call .
+0.45 (i; need; a wake call)
+

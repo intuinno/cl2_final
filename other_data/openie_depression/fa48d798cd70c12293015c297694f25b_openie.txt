@@ -1,0 +1,235 @@
+happy 2010 all
+
+The konami code isn't working for me .
+0.85 (The konami code; is n't working; for me)
+
+It's supposed to mess with your screen or something .
+0.31 (It; 's supposed; to mess with your screen or something)
+0.27 (It; to mess; with your screen or something)
+
+Hello  meh  staring at lightbulbs hurts  I just made a 11:11 wish  My sister's acting like a bitch for Christmas , & my mom's getting fed up .
+0.30 (my mom; fed up; )
+0.38 (my mom; 's getting; fed up)
+
+I think she might kick her out soon .
+0.32 (I; think; she might kick her out soon)
+0.13 Context(I think,List([0, 7))):(she; might kick out; T:soon)
+
+:-)  A < PROPFEMALE > Christmas to all , & to all a good night .
+0.90 (PROPFEMALE; >; Christmas; to all , & to all a good night)
+
+i just realized silence frightens me .
+0.45 (i; just realized; silence)
+
+My laptop turned on while it was closed , it's convenient , but it kinda freaked me out .
+0.49 (My laptop; turned on; T:while it was closed)
+0.28 (it; 's; convenient)
+0.30 (it; kinda freaked out; me)
+
+;}  is watching MAR  I just remembered I have pie .
+0.43 (I; just remembered; I have pie; T:is watching MAR)
+0.39 Context(I just remembered,List([21, 38))):(I; have; pie)
+
+I am happy .  is wondering why AP World History is shortened to WHAP instead of APWH .
+0.68 (I; am; happy; is wondering why AP World History is shortened to WHAP instead of APWH)
+0.52 (I; is wondering; why AP World History is shortened to WHAP instead of APWH)
+0.93 Context(I is wondering,List([0, 26))):(AP World History; is shortened; to WHAP instead of APWH)
+
+was confused about something , then about forgot it , then remembered he was confused , but still cannot remember what he was confused about originally .
+
+realised math is misanthropic .
+0.81 (realised math; is; misanthropic)
+
+According to it the average is mean .
+0.38 (the average; is; mean)
+
+How does Spider-man climb on walls after he puts gloves on ?
+0.44 (he; puts on; gloves)
+
+Google Chrome now has extensions , & I am very excited !!  3.14 ||PI .
+0.96 (Google Chrome; has; extensions; T:now)
+0.28 (I; am; very excited)
+
+E  Is facebook different , or is it just the oxycodone ?
+0.85 (E; Is; facebook different)
+
+just found out that food caught in a stitch tastes bloody , & not entirely bad .
+0.89 (food; caught; in a stitch)
+
+have you ever misjudged how far your hand is from a light switch , & ended up just wagging your hand in front of it repeatedly ?
+
+just watched some gundam , & is wondering whose idea was it to put the cockpit inside the gian fighting , and ofttimes exploding robot , as opposed to some sort of long distance control .
+
+Off to Oregon !
+
+Copy this into your status and see what people rate you . 1 : Crazy . 2 : I'd marry you .
+
+3 : Talkative .
+
+4 : Sarcastic .
+
+5 : Loveable .
+
+6 : Clubhead .
+
+7 : Moody .
+
+8 : Dumb .
+
+9 : Spoiled .
+
+10 : Mouthy .
+
+11 : Random .
+
+12 : Hot .
+
+13 : Funny .
+
+14 : Fit .
+
+15 : Amazing .
+
+16 : Beatuiful .
+
+17 : Cute .
+
+18 : Smarty pants  My family's going bankrupt , we're losing our house this summer , we'll have to rent somewhere nearby .
+0.20 (we; to rent; L:somewhere nearby)
+0.26 (we; 're losing; our house; T:this summer)
+
+Back home , & liking my own bed .
+0.25 (&; liking; my own bed)
+
+I love sleeping in .
+0.23 (I; love sleeping; L:in)
+
+My laptop turned on as I was reaching for it .
+0.49 (My laptop; turned on; T:as I was reaching for it)
+0.31 (I; was reaching; for it)
+
+I think it has developed ESP .
+0.36 (I; think; it has developed ESP)
+0.44 Context(I think,List([0, 7))):(it; has developed; ESP)
+
+I just got my permit !
+0.31 (I; just got; my permit)
+
+I lost my pokewalker , anyone seen it by < PROPMALE > ?
+0.37 (I; lost; my pokewalker)
+0.82 (anyone; seen; it)
+
+Has anyone else ever had one of those dreams where you look at the clock , realize it's time to get up , so you get up , look at the clock , & realize it's the middle of the night ?
+0.43 (you; get; up)
+0.51 (you; look; at the clock; L:those dreams)
+
+Yesterday I dropped my phone , & the protective casing broke .
+0.44 (I; dropped; my phone; T:Yesterday)
+0.75 (the protective casing; broke; )
+
+I don't know if that means it worked or that it didn't .
+0.24 (it; did n't; )
+0.17 (I; do n't know; if that means it worked or that it didn't)
+0.02 Context(I do n't know,List([0, 12))):(that; means; it worked or that it didn't)
+0.16 Context(I do n't know that means,List([0, 26))):(it; worked; )
+
+I just realized , Goku is Samson !
+0.39 (I; just realized; Goku is Samson)
+0.93 Context(I just realized,List([0, 15))):(Goku; is; Samson)
+
+Both get power from their hair !
+0.31 (Both; get; power; from their hair)
+
+My phone's internet is back up !
+0.50 (My phone's internet; is; back up)
+
+The backlight on my laptop is starting to go out .
+0.41 (The backlight on my laptop; is starting; )
+
+Perhaps those wires sticking out of my computer were important ...  enjoys speaking in third person .
+0.73 (those wires; sticking; )
+
+I got my scores today .
+0.37 (I; got; my scores; T:today)
+
+Chem , WHAP , & Comp Sci are all 5s .
+0.91 (Chem , WHAP , & Comp Sci; are all; 5s)
+
+Got a virus ... then got rid of a virus !
+
+Yay for system restore .
+
+Studying for driver's < PROPMALE > , apparently cars have to yield to trains .
+0.79 (cars; to yield; to trains)
+
+Who would have guess < PROPMALE > ?
+
+dislikes being aware of his tongue .
+
+My sister's downstairs yelling incoherently at whoever she can find .
+0.38 (My sister; 's yelling incoherently; T:downstairs)
+0.19 (she; can find; )
+
+Man I hope she moves out soon .
+0.26 (I; hope; she moves out soon)
+0.18 Context(I hope,List([4, 10))):(she; moves; out; T:soon)
+
+I just got the oddest sensation that my hip bone was higher than usual ... I think I need more sleep .
+0.48 (my hip bone; was; higher than usual)
+0.32 (I; think; I need more sleep)
+0.17 Context(I think,List([75, 82))):(I; just got; the oddest sensation that my hip bone was higher than usual)
+0.40 Context(I think,List([75, 82))):(I; need; more sleep)
+
+My dad just called me to tell me that I need to show him how his new cell phone works .
+0.36 (My dad; just called; me; to tell me that I need to show him how his new cell phone works)
+0.17 (me; to tell; me; that I need to show him how his new cell phone works)
+0.26 Context(me to tell,List([19, 29))):(I; need; to show him how his new cell phone works)
+0.26 Context(me to tell I need,List([19, 44))):(I; need to show; him; how his new cell phone works)
+
+What ?
+
+The backlight on my laptop went out again today , but this time when I tried to fix it it crackled , smoked , & would not turn on .
+0.76 (The backlight on my laptop; went; out; T:again; T:today)
+0.72 (The backlight on my laptop; would not turn on; T:this time when I tried to fix it it crackled)
+0.38 (I; tried; to fix it it crackled; T:this time)
+0.26 Context(I tried,List([69, 76))):(I; tried to fix; it)
+0.16 Context(I tried to fix,List([69, 83))):(it; crackled; )
+
+I think it is done .
+0.32 (I; think; it is done)
+0.16 Context(I think,List([0, 7))):(it; is done; )
+
+My new laptop arrived today !
+0.66 (My new laptop; arrived; T:today)
+
+< PROPMALE > Wiebe just took back the the Donkey Kong championship !
+0.93 (Wiebe; just took; back; the the Donkey Kong championship)
+
+I only now realized how nerdy it is that I care about that .
+0.16 (I; realized; how nerdy it is that I care about that; T:only now)
+
+I got a blanket out for the cold , and now I have a fuzzy .
+0.52 (I; got; a blanket out for the cold)
+0.34 (I; have; a fuzzy; T:now)
+
+I just spent 45 minutes helping my dad figure out how to use chrome , this makes me happy , but somehow I still don't think he gets it though .
+0.20 (this; makes; me happy)
+0.29 Context(this makes,List([70, 80))):(I; just spent; 45 minutes; helping my dad figure out how to use chrome)
+0.29 Context(I just spent this makes,List([0, 80))):(I; just spent 45 minutes helping; my dad figure out how to use chrome)
+0.62 Context(I just spent helping this makes,List([0, 80))):(my dad; figure out; how to use chrome)
+
+Did anyone else get a letter from people to people in an envelope made out of really nice paper ?
+
+\We can protect you from having conversations with each other .
+0.31 (\We; can protect; you; from having conversations with each other)
+
+\""  Welcome to zombocom .
+
+Everything is so bright & colorful ; I love eyepatches .
+0.40 (I; love; eyepatches)
+0.76 Context(I love,List([37, 43))):(Everything; is; so bright & colorful)
+
+Pickpockets beware ; I have a pocket full of broken glass .
+0.40 (I; have; a pocket full of broken glass)
+0.67 Context(I have,List([21, 27))):(Pickpockets; beware; )
+

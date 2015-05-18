@@ -1,0 +1,789 @@
+they say its good luck to hold money at 12 , so u think if i was making money at 12 that counts , cause i had to make a sandwhich at 12 and i cant do both ... happy new year everyone , im hoping this one is better then the last
+0.34 (they; say; its good luck to hold money at 12 , so u think if i was making money at 12 that counts , cause i had to make a sandwhich at 12 and i cant do both ... happy new year everyone , im hoping this one is better then the last)
+0.41 (i; to make; a sandwhich; T:at 12)
+0.39 (i; ca nt do; both ... happy new year everyone)
+0.29 Context(i ca nt do,List([140, 149))):(i; ca nt do both ... happy new year everyone im hoping; this one is better then the last)
+0.77 Context(i ca nt do im hoping,List([140, 194))):(this one; is; better; T:then)
+
+i am so missing someone , and he is missing me but why doesnt that make me feel better ?
+0.35 (i; am missing; someone)
+0.31 (he; is missing; me)
+
+wide awake at four a .
+
+m .
+
+damn the third shift !!!  so its official ladies my older brother tied the knot , yall had ur < PROPMALE > but this chic snagged him .
+0.66 (my older brother; tied; the knot)
+0.42 (this chic; snagged; him)
+
+it was a good time wish i woulda remembered my camera .
+
+wooowhooo two days off in a row !
+
+yet i have nothing to do  i wonder all the time where i'd be if i woulda graduated from girls high , even though shcool suks and i so use the knowledge of all the el stops in order by heart way more then mr.
+0.71 (nothing; to do; )
+0.36 (i; wonder; T:all the time where i'd be; a graduated from girls high , even though shcool suks and i so use the knowledge of all the el stops in order by heart way more then mr.)
+0.62 (i; 'd be; T:all the time)
+
+v's world history  < PROPFIRST > is leaving tonite , he wears my < PROPFEMALE > , i cant wait for tues .
+0.54 (he; wears; my < PROPFEMALE > , i cant wait for tues; T:v's world history)
+
+nite all week  off to the prison this morning and then work at 11pm tonite so i guess ill nap at like 6 its gonna be a long day for me  yea , my wednesday didnt end yet , still gotta get the kids to school and walk up to pay my rent which is sooo freakin late .
+0.77 (the kids; to walk; up; to pay my rent)
+0.70 (my wednesday; did nt end; T:yet; T:a long day for me)
+0.41 (my rent; is; sooo freakin late)
+
+o well , truck em '  ummm whoever did the dishes , thankyou < PROPFEMALE > freakin much i was gonna do them when i came home from work but i didnt have to , woo whooo cuz my hands were already pruny from the dishes at work  who wants a cat ?
+0.28 (i; to woo; whooo; T:cuz my hands were already pruny from the dishes at work)
+0.67 (my hands; were pruny; from the dishes at work; T:already)
+0.38 (i; na do; them; T:when i came home from work but i didnt have to , woo whooo)
+0.83 (work; wants; a cat)
+0.45 (i; came; home; from work)
+
+shes fat lazy but can catch a mouse , o n highly fertile so if u like kittens i gotta factory over here 4 u  umm i think its friday ... but im not really sure cuz i swear yesterday was wednesday , lol , im not going to sleep yet , gotta get my visit in after the boys go to school , damn imma old lady  ok so to clear this up , if anyone remembers how dumb in love i was with that kid < PROPFIRST > , can i just say that wasn't shit compared to how i feel about Shy , hence y i pick waiting for 5 hours to see him over going to bed when i havent slept more then 4 hours at a time since tuesday .
+0.44 (i; swear; yesterday was wednesday)
+0.57 (anyone; remembers; how dumb in love i was with that kid)
+0.24 Context(anyone remembers,List([331, 347))):(i; was; with that kid)
+0.27 (i; to see; him)
+0.52 (u; kittens; )
+0.19 (i; feel; )
+0.93 (the boys; go; to school)
+0.22 (i; have slept; T:nt)
+
+one more day of work or should i say nite then im off !! woo whoooo , thankyou u brit for kidnapping my son and taking him with u cause im about to go sleep and enjy this empty house  just got infrom work and whois at the door to greet me ?
+0.75 (thankyou u; brit; for kidnapping my son and taking him with u cause im)
+
+mr.
+
+< PROPFIRST > , he'salovely little boy hereally is but i am tired and indesperate need of a full body massage , imma try to get him to lay down with me , yea right  dinner at < PROPFIRST>'s was sooo good and my kid slept the whole time , well tillshesaid how great he was then he woke up crying for ten minutes straight , wonder what she's making tonite ??? lol  really i just do not like people , no particular kind just all of em , i'm a firm believer in what goes around comes around , but sometimes i run out of < PROPFEMALE > and take < PROPFEMALE > into my own hands , now if i can just figure outta way to really get away with murder ...........  going to jail ... wooowhoooo ..... kids r probly going to my moms tonite ... double wooowhooo , no i love them tons just need to get sleep before i go back to work tonite .... and gobble gobble ill be alll alone on thanksgiving , that i can b thankful for !
+0.77 (PROPFIRST>'s; was; sooo good)
+0.41 (he; crying; T:for ten minutes)
+0.28 (i; can b; thankful for)
+0.28 (i; am; tired and indesperate)
+0.70 (my kid; slept; T:the whole time)
+0.19 (he; woke up; )
+0.70 (i; run; out of < PROPFEMALE; T:sometimes)
+0.38 (my kid; tillshesaid; how great he was then)
+0.23 Context(my kid tillshesaid,List([208, 254))):(he; was; T:then)
+0.40 (i; take; <; into my own hands; T:sometimes)
+0.52 (i; go; back to work tonite)
+0.16 (i; love; )
+0.74 Context(i love,List([753, 759))):(tons; just need; to get sleep before i go back to work tonite)
+0.64 Context(i love tons just need,List([753, 779))):(tons; just need to get; sleep; T:before i go back to work tonite)
+
+long ass night , but half way through my hero of the day brought me some happiness , and now all is well , i think i pissed some people off at work but oh well their fault , you're supposed to hit up the diner after u go get drunk not freakin wawa , there are starving waitresses out there ...  is so tired , soon as i came in the house i started cleaning it , i mean my hoodie was still on and all , < PROPFIRST > is coming home later so imma be catching up on zzz's til then  never enough sleep i need like 5 more hours in my day , then i could do everything  booo my holiday is gonna suck this year , i feel like a scumbag cuase i know my kids deserve a better christmas then i can give them  worked second shift yesterday like a normal person and slept relatively well so im all hype this morning and im sure the coffee wont slow me down now if only i could wanna do the wash , cause energy or not it doesnt look like fun !
+0.58 (you; to hit up; the diner; T:after u go get drunk not freakin wawa)
+0.24 (i; know; )
+0.59 (my kids; deserve; a better christmas)
+0.40 Context(my kids deserve,List([639, 654))):(i; feel; like a scumbag cuase)
+0.19 (i; mean; )
+0.45 (so; im; all hype this morning)
+0.34 (all; is; well; T:now)
+0.27 (i; slept relatively well; T:then)
+0.32 (i; think; i pissed some people off at work)
+0.30 Context(i think,List([107, 114))):(i; pissed off; L:at work)
+0.60 (my holiday; na suck; T:this year)
+0.38 (i; started; cleaning it; T:soon as i came in the house)
+0.26 Context(i started,List([337, 346))):(i; started cleaning; it)
+0.68 (the coffee; wo nt slow down; T:now)
+0.44 (i; can give; them; worked second shift; T:yesterday; T:then)
+0.72 (you; 're supposed; to hit up the diner after u go get drunk not freakin wawa)
+
+woooowhooo pix !! there are for you cause i love my hoes  im tryin to focus on the smiles and laughs , but the weight on my shoulders is more then i can ignore sometimes i been handling it ok im just hoping my back dont give out , its gettin darker  i dont know man i try and try but some how im always the bad guy , i guess you can call me < PROPFIRST > from now on cuz im the bad guy and im grrrrreat at it apparently  i am < PROPFEMALE > oo in love , with my bed so if u need me thats where ill b till the little monster comes home , one and a half more shifts to go then i get a day off too bad its a sunday cause i < PROPFEMALE > need to get plucked up , o n if u kno how to stop the throbbin pain in my neck back n leg fill me in , ill try w/e  i miss my man like crazy , im going through affection withdrawl , and i sooo miss being the < PROPFEMALE > and not the maid , its hard to keep ur crawn around here without the < PROPMALE > to back u up , i need a step stool so these kids can do their own dishes , my hands are peeling from all the dishes i do .
+0.38 (i; been handling; it; T:sometimes)
+0.18 Context(i been handling,List([170, 185))):(i; been handling it just hoping; my back dont give out)
+0.29 Context(i been handling just hoping,List([170, 206))):(my back; do nt give out; )
+0.21 (i; try; )
+0.70 (PROPFEMALE >; need; to get plucked up)
+0.42 (i; being; the < PROPFEMALE > and not the maid , its hard to keep ur crawn around here without)
+0.31 (i; love; my hoes)
+0.46 (i; sooo miss; being the < PROPFEMALE > and not the maid , its hard to keep ur crawn around here without)
+0.83 (man; try; i)
+0.64 (im tryin; to focus; on the smiles and laughs)
+0.83 (one and a half more shifts; to go; then)
+0.62 (PROPFEMALE >; to get plucked up; )
+0.52 (the weight on my shoulders; is; more)
+0.90 (all the dishes; do; i)
+0.31 Context(all the dishes do,List([1041, 1060))):(i; get off; too bad its a sunday cause i < PROPFEMALE > need to get plucked up)
+0.20 Context(i get off all the dishes do,List([575, 1060))):(i; guess; you can call me < PROPFIRST > from now on cuz im the bad guy and im grrrrreat at it apparently  i am < PROPFEMALE > oo in love , with my bed)
+0.47 Context(i guess i get off all the dishes do,List([317, 1060))):(you; can call PROPFIRST on; me)
+0.37 (i; miss; my man like crazy)
+0.24 (i; <; )
+0.30 (i; can ignore; T:then)
+
+:(  im home im off and im tired , one day off at a time is a tease , i have to spend most of it cleaning :p not far im going to sleep before i throw a tantrum , nite fb  heres a suggestion use it in ur life as u see fit .... when someone does something nice for u for no reason just love , u should try to pay it forward , cause < PROPFEMALE > is a bish , n i cant b friends with someone who wouldnt , theres just no room for u , live n learn i guess  fried chicken , scalloped potatoes and corn ... im stuffed , two more loads of wash and ill be done all my chores for the day , wooowhooo  oh yeah i have an annoucement , as i discovered when i sined in to facebook this afternoon , my room mate is moving out on tues so i will b a ghost on facebook since this is her laptop , im glad i caught up with everyone , so if u wanna k.i.t.
+0.89 (someone; does; something nice for u; for no reason)
+0.31 (i; discovered; T:when i sined in to facebook this afternoon)
+0.19 (i; sined in; )
+0.60 (her laptop; caught up; with everyone)
+0.52 (i; throw; a tantrum)
+0.21 (this; is; her laptop , im glad i caught up with everyone)
+0.52 (u; cause; < PROPFEMALE > is a bish , n i cant b friends with someone who wouldnt , theres just no room for u , live n learn i guess  fried chicken , scalloped potatoes and corn ... im stuffed , two more loads of wash and ill be done all my chores for the day , wooowhooo  oh yeah i have an annoucement , as i discovered when i sined in to facebook this afternoon , my room mate is moving out on tues so i will b a ghost on facebook since this is her laptop , im glad i caught up with everyone , so if u wanna)
+0.31 Context(u cause,List([290, 328))):(<; is; if u wanna)
+0.23 (i; to spend; most of it; cleaning)
+0.14 Context(i to spend,List([69, 84))):(i; to spend most of it cleaning; )
+0.82 (someone; nt theres just; no room for u)
+0.65 (u; should try; to pay it forward)
+0.65 Context(u should try,List([290, 302))):(u; should try to pay; it; forward)
+0.60 (my room mate; is moving; out; T:on tues)
+0.88 Context(my room mate is moving,List([684, 706))):(nite fb; heres; a suggestion)
+0.40 (i; have; an annoucement)
+0.19 (i; guess; )
+
+just message me n ill give u my number but hey now i wont have to pay the internet < PROPMALE > so u win some u lose some right  stay tuned folks i might be leaving fb but im thinking a hot girls of girls high reunion party at my house , very soon so ill b callin ya if i got ur number and if i dont ill make sure the word gets out k love ya chickies , i really do , it was nice to b here n remind myself of a simpler time  well today is the day folks , im thinking i need a ride to rent a center , im gonna get the kids to school and go to sleep for a little bit , but im tryin to go get a computer so if anyone is headed that way after 1 pm let me kno , ill miss yall much luv , much  guess who's back ..... i just couldnt go without my chicas so glad to be here with yall  well my week of having four kids is over shortly , u would think another 7 year old wouldnt b so bad right ? well i'll just say this , after this week i need a 14 day stay at good ol friends hospital just to return to the level of insanity i was at before he got here  ok im kinda freaking out , if one more person asks me if i am ready for christmas , no i am not , i have rent n bills to pay i will not b ready for christmas till christmas < PROPFEMALE > , i kno i suck as a mom , please dont make me feel any more guilty , i have the best kids in the world and i just cant give them what they deserve but im killing myself tryin , that counts right ???  im workin second instead of third , yay for my bed all nite !! i def called out last nite tho , o well i needed the break even tho i wasted it by sleeping on the couch all nite .
+0.59 (PROPMALE; u win; )
+0.89 (hospital; just to return; to the level of insanity)
+0.55 (my week of having four kids; is; over; T:shortly)
+0.86 (the kids; to go; to sleep; for a little bit)
+0.88 (k love; chickies; ya)
+0.85 (one more person; asks; me; if i am ready for christmas)
+0.46 Context(one more person asks,List([1075, 1095))):(i; am; ready for christmas)
+0.26 (i; just ca nt give; them; what they deserve)
+0.27 Context(i just ca nt give,List([1340, 1356))):(they; deserve; )
+0.68 (tryin; counts right; )
+0.50 (u; would think; another 7 year old wouldnt b so bad right)
+0.75 Context(u would think,List([827, 840))):(another 7 year old; would nt b right; so bad)
+0.87 (the word; gets; out; k love ya chickies)
+0.60 (i; need; a 14 day stay at good ol friends; T:after this week)
+0.11 (i; just could nt go so glad; )
+0.23 Context(i just could nt go so glad,List([710, 753))):(it; was; nice)
+0.16 Context(it was i just could nt go so glad,List([367, 753))):(i; really do; )
+0.88 Context(i just could nt go so glad,List([710, 753))):(ill miss; yall; much luv)
+0.06 (im; kinda freaking out; )
+0.26 (i; wasted; it)
+0.39 Context(i wasted,List([1564, 1572))):(i; have; the best kids in the world)
+0.31 Context(i have i wasted,List([1302, 1572))):(i; kno; i suck as a mom)
+0.46 Context(i kno i have i wasted,List([1235, 1572))):(i; suck; as a mom)
+0.29 Context(i have i wasted,List([1302, 1572))):(i; def called out; last nite tho; T:im workin second instead of third)
+0.39 Context(i wasted,List([1564, 1572))):(i; wasted it by sleeping; L:on the couch; T:all nite)
+0.28 (he; got; here)
+0.33 (i; im; killing myself tryin)
+0.45 (i; do nt ill make; sure the word gets out k love)
+0.20 (i; to be; here)
+0.45 (i; needed; the break)
+0.24 (i; got; )
+0.36 (i; 'll just say; this; T:after this week i need a 14 day stay at good ol friends hospital just to return to the level of insanity)
+0.14 Context(i 'll just say,List([890, 903))):(i; was; at; T:before he got here  ok im kinda freaking out)
+0.45 (i; might be leaving; fb)
+0.95 (a simpler time; is; the day folks; T:today)
+0.41 (i; to pay; the internet)
+
+report cards today , im not worried they get their brains from me , so we r good , and shopping this weekend i cant wait to spend money on something besides the effin bills !!  good morning fb .
+0.88 (report cards today; im not; worried they get their brains from me , so we r good , and shopping this weekend i cant wait to spend money on something besides the effin bills !!  good morning fb)
+0.41 (i; to spend; money; on something besides the effin bills)
+0.54 (they; get; their brains; from me)
+0.41 (we; shopping; T:this weekend)
+0.45 (i; ca nt wait; to spend money on something besides the effin bills)
+
+im back and awake , counting downm til the kids leave tomorrow , i so need this break , but i got work all week , o well cant win them all  ok so i need some advice , i need another job and hopefully it will b during normal buisness hours , so who knows a good baby sitter or daycare that wont make it pointless for me to work after they get paid ??????? plz dnt tell me imma b stuck working the graveyard shift til he is in school ill go crazy from sleep depervation ( i kno thats not spelled right )  hello again pertty ladies ( i spelled it like that on purpose people ) my bad for being mia i was busy being verbally assaulted at work on third and chasing kids around all day at home , damn kid broke the wireless keyboard n mouse and christmas broke my pockets , but i've rebounded well  went to dinner and then to have drinks , it was an awesome night but today im sad and confused i wish your heart came with directions cause if i had a map i wouldnt b lost , n the worst thing to me is not knowing where u r going  can u fall out of love with someone and in love with someone else ?
+0.86 (a good baby sitter or daycare; wo nt make; it pointless for me to work)
+0.31 (i; spelled; it)
+0.89 (damn kid; well went; to dinner)
+0.43 (i; wish; your heart came with directions cause if i had a map i wouldnt b lost , n the worst thing to me is not knowing where u r going  can u fall out of love with someone and in love with someone else)
+0.29 Context(i wish,List([888, 894))):(your heart; came; )
+0.32 (they; get paid; )
+0.90 (the kids; leave; T:tomorrow)
+0.19 (i; 've rebounded; )
+0.43 (they; get; paid)
+0.49 (i; had; a map i wouldnt b lost , n the worst thing to me)
+0.21 (i; kno; T:again; pertty ladies ( i spelled it like that on purpose people ) my bad for being mia)
+0.03 Context(i kno,List([470, 475))):(that; s not spelled right; )
+0.44 (he; is ill; in school)
+0.31 (me; to work; T:after they get paid)
+0.86 (n mouse and christmas; broke; my pockets)
+0.53 (i; being; verbally assaulted at work on third and chasing kids around all day at home)
+0.88 (a map; would nt b lost; i)
+0.22 (it; was; an awesome night but today im sad and confused i wish your heart came with directions)
+0.88 Context(it was,List([834, 840))):(damn kid; broke; the wireless keyboard)
+0.58 Context(damn kid broke it was,List([690, 840))):(i; was; busy being verbally assaulted at work on third and chasing kids around all day at home)
+0.40 Context(i was damn kid broke it was,List([595, 840))):(i; need; another job)
+0.40 Context(i need i was damn kid broke it was,List([167, 840))):(i; need; some advice)
+0.52 (i; got; work; T:all week)
+
+or am i just falling out of love and tryin to fill that space , im so confused i could cry  im just letting it all sink in , being spoiled for once feels good , i dont wanna get used to it but a girl can have her dessert , my smile has never been bigger , even when i got cussed out again at work i just closed my eyes saw his face and smiled , f.y.i.
+0.83 (a girl; can have; her dessert)
+0.31 (i; just closed; my eyes)
+0.20 (i; to fill; that space)
+0.27 (i; na get; used to it)
+0.52 (i; got; cussed out again at work)
+0.14 (i; could cry; im)
+0.17 (i; smiled; )
+0.32 (my smile; has never been; bigger)
+0.26 Context(my smile has never been,List([223, 246))):(i; do nt wan; na get used to it)
+0.33 (i; saw; his face)
+
+i have been with out herbal remedies for like almost a month n i think im getting used to it  if anyone needs a good laugh and has a good sense of humor go to stuffwhitepeoplelike.com that < PROPFEMALE > is hilarious  in the last 5 minutes my child has managed to tear up the entire downstairs and since ive been up for more then a day straight i am not really tryin to fix it , coffee is my friend but im out of french vanilla creamer , o boy this is gonna be a lonnnnnnggggg day , p.s. plz dnt say ur tired till uve spent 36 hours awake half at ur job n the other half tending to a monster size 3 yr old  Shame on you America : the only country where we have homeless without shelter , children going to bed without eating , elderly going without needed meds , and mentally ill without treatment - yet we have a benefit for the people of Haiti on 12 TV stations .
+0.90 (anyone; has; a good sense of humor)
+0.13 (ive; been; up; T:for)
+0.23 (we; have; homeless)
+0.68 (children; without eating; )
+0.27 (i; to fix; it)
+0.34 (this; na be; a lonnnnnnggggg day)
+0.33 (my child; has managed; to tear up the entire downstairs)
+0.33 Context(my child has managed,List([240, 260))):(my child; has managed to tear up; the entire downstairs)
+0.92 (n the other half; tending; to a monster size 3 yr old  Shame on you America)
+0.89 (anyone; needs; a good laugh)
+
+( 99% of people won't have the guts to copy and repost this )  ok , jasons dad was dating this chic , me n him barely speak other then im dropping him off or hes picking him up , n she says she cant see him anymore cuz she feels like shes second to me , smells like bullshit to me little girls tryin to be grown = my biggest pet peeve  two kids out at 8:20 am , one left , he's gone by 8:50 , i'll b back in the house by 9:20 , sleep till 11:50 am then get two kids back at 12:09 , take a nap til 4 pm , ish so thats a total of like 6 hours of sleep if i can fall rite to sleep that is , 2 more then yesterday tho !!! wooowhoooo  <<< is so glad the baby got up on his own , cause i woulda felt guilty about waking him up to take him to his dad's , i was gonna do it anyway but i woulda still felt guilty  is beat i have this crazy pain in my back my neck is sore as shit and i still have to work tonite and tomorrow nite i swear it feels like i have been working for 5 days straight already im taking the kids to school and getting a nice hot bath  i definetly had the worst day ever , well not ever but the worst in a while , but for a change the guys in my life ( the twins , my lil bro , and my crush ) did the best they could to make it better and because of that i can smile  if something does'nt kill you it only makes you stronger is an accurate assumption then i could < PROPFEMALE > all the people on my friend list at the same time , therefore , if you need help moving just tell me where you want your house , and i got you  i personally had a great weekend thanks to my sister , got wasted at the bar laughed at the drunk cops and < PROPMALE > out with this sexy guy for the last two days straight , im sad he had to go to work tonite n leave me but thats one of the reasons i think hes sexy , imagine that i really am attracted to a responsible guy for once and not a dirt bag i must b growing up  blah , and that about sums it up , im over this day and its only 1030am my child is determined to push any and every button i have i am not gonna let him tho i'm gonna drown my grumpiness with food all day long  coffee makes everything better , its not a new addiction but it has intensified since i gave up the last addiction , i think if i had to go a whole day with out my coffee i wouldnt get out of bed ever and the headache that i would get would be right up there with contractions  so this sexy white guy made me a delicious dinner last nite , and he did all the dishes when we were done , i didnt sleep last nite for some reason ... back to work 2nite , whoopie , at least its only 3 days this wk and < PROPFIRST > will b gone in a hr so when i come home in the morning its sleep for me til the boys r done school , if any1 sees my babydad smack him for never being on time to get his evil child , < PROPMALE > in advance  it is ones own responsibility to make themselves happy , if you dont smile today , you can only blame that on yourself , please dont complain about how miserable you are unless you are fully aware that ur making urself that way  warning to all mom's of school age children : there are lil monsters in ur childs school , they take their pencils and u will have to spend 5.00 a week on more , i kno this must b an epidemic cuz i got 2 kids in 2 diff classes n they never have pencils !!!! im so sick of sharpening  The most beautiful , amazing , life touching girl-woman you will ever meet on this planet .
+0.75 (all mom's; to spend; 5.00; on more)
+0.22 (me; then im dropping off; him)
+0.52 (i; think; hes sexy)
+0.31 (it; only makes; you stronger)
+0.21 (i; getting; a nice hot bath  i definetly had the worst day ever , well not ever but the worst in a while , but for a change the guys in my life ( the twins , my lil bro , and my crush ) did the best they could to make it better and because of that i can smile  if something does'nt kill you it only makes you stronger is an accurate assumption then i could < PROPFEMALE > all the people on my friend list at the same time , therefore , if you need help moving just tell me where you want your house , and i got you  i personally had a great weekend thanks to my sister , got wasted at the bar laughed at the drunk cops and < PROPMALE > out with this sexy guy for the last two days straight , im sad he had to go to work tonite n leave me but thats one of the reasons i think hes sexy , imagine that i really am attracted to a responsible guy for once and not a dirt bag i must b growing up  blah , and that about sums it up , im over this day and its only 1030am my child is determined to push any and every button i have i am not gonna let him tho i'm gonna drown my grumpiness with food all day long  coffee makes everything better , its not a new addiction but it has intensified since i gave up the last addiction , i think if i had to go a whole day with out my coffee i wouldnt get out of bed ever and the headache that i would get would be right up there with contractions  so this sexy white guy made me a delicious dinner last nite , and he did all the dishes when we were done , i didnt sleep last nite for some reason ... back to work 2nite , whoopie , at least its only 3 days this wk and < PROPFIRST > will b gone in a hr so when i come home in the morning its sleep for me til the boys r done school , if any1 sees my babydad smack him for never being on time to get his evil child , < PROPMALE > in advance  it is ones own responsibility to make themselves happy , if you dont smile today , you can only blame that on yourself , please dont complain about how miserable you are unless you are fully aware that ur making urself that way  warning to all mom's of school age children)
+0.23 (he; 's gone; T:by 8:50)
+0.21 (ish; is; so glad the baby got up on his own , cause i woulda felt guilty about waking him up to take him to his dad's , i was gonna do it anyway but i woulda still felt guilty  is beat i have this crazy pain in my back my neck is sore as shit and i still have to work tonite and tomorrow nite i swear it feels like i have been working for 5 days straight already im taking the kids to school and getting a nice hot bath  i definetly had the worst day ever , well not ever but the worst in a while , but for a change the guys in my life ( the twins , my lil bro , and my crush ) did the best they could to make it better and because of that i can smile  if something does'nt kill you it only makes you stronger is an accurate assumption then i could < PROPFEMALE > all the people on my friend list at the same time , therefore , if you need help moving just tell me where you want your house , and i got you  i personally had a great weekend thanks to my sister , got wasted at the bar laughed at the drunk cops and < PROPMALE > out with this sexy guy for the last two days straight , im sad he had to go to work tonite n leave me but thats one of the reasons i think hes sexy , imagine that i really am attracted to a responsible guy for once and not a dirt bag i must b growing up  blah , and that about sums it up , im over this day and its only 1030am my child is determined to push any and every button i have i am not gonna let him tho i'm gonna drown my grumpiness with food all day long  coffee makes everything better , its not a new addiction but it has intensified since i gave up the last addiction , i think if i had to go a whole day with out my coffee i wouldnt get out of bed ever and the headache that i would get would be right up there with contractions  so this sexy white guy made me a delicious dinner last nite , and he did all the dishes when we were done , i didnt sleep last nite for some reason ... back to work 2nite , whoopie , at least its only 3 days this wk and < PROPFIRST > will b gone in a hr so when i come home in the morning its sleep for me til the boys r done school , if any1 sees my babydad smack him for never being on time to get his evil child , < PROPMALE > in advance  it is ones own responsibility to make themselves happy , if you dont smile today , you can only blame that on yourself , please dont complain about how miserable you are unless you are fully aware that ur making urself that way  warning to all mom's of school age children : there are lil monsters in ur childs school , they take their pencils and u will have to spend 5.00 a week on more , i kno this must b an epidemic)
+0.63 (all the people on my friend list at the same time; therefore just tell; me; where you want your house; T:then)
+0.47 Context(all the people on my friend list at the same time therefore just tell,List([1392, 1489))):(you; want; your house)
+0.86 (this sexy white guy; made; me a delicious dinner; T:last nite)
+0.91 (the boys r; done; school)
+0.45 (my child; is; determined to push any)
+0.63 (it; is; its sleep for me til the boys r done school , if any1 sees my babydad smack him for never being on time to get his evil child , < PROPMALE > in advance  it is ones own responsibility to make themselves happy ,)
+0.27 (me; hes picking up; him)
+0.71 (any1; sees; )
+0.29 (i; kno; urself that way  warning to all mom's of school age children : there are lil monsters in ur childs school , they take their pencils and u will have to spend 5.00 a week on more , i kno this must b an epidemic cuz i got 2 kids in 2 diff classes n they never have pencils !!!! im so sick of sharpening  The most beautiful , amazing , life touching girl-woman you will ever meet on this planet)
+0.26 Context(i kno,List([3234, 3239))):(this; must b; an epidemic; T:cuz i got 2 kids in 2 diff classes)
+0.33 (his dad's; is beat; )
+0.24 (i; definetly had; the worst day ever , well not ever but the worst in a while , but for a change the guys in my life ( the twins , my lil bro , and my crush ) did the best they could to make it better and because of that i can smile  if something does'nt kill you it only makes you stronger is an accurate assumption then i could < PROPFEMALE > all the people on my friend list at the same time , therefore , if you need help moving just tell me where you want your house , and i got you  i personally had a great weekend thanks to my sister , got wasted at the bar laughed at the drunk cops and < PROPMALE > out with this sexy guy for the last two days straight , im sad he had to go to work tonite n leave me but thats one of the reasons i think hes sexy , imagine that i really am attracted to a responsible guy for once and not a dirt bag i must b growing up  blah , and that about sums it up , im over this day and its only 1030am my child is determined to push any and every button i have i am not gonna let him tho i'm gonna drown my grumpiness with food all day long  coffee makes everything better , its not a new addiction but it has intensified since i gave up the last addiction , i think if i had to go a whole day with out my coffee i wouldnt get out of bed ever and the headache that i would get would be right up there with contractions  so this sexy white guy made me a delicious dinner last nite , and he did all the dishes when we were done , i didnt sleep last nite for some reason ... back to work 2nite , whoopie , at least its only 3 days this wk and < PROPFIRST > will b gone in a hr so when i come home in the morning its sleep for me til the boys r done school , if any1 sees my babydad smack him for never being on time to get his evil child , < PROPMALE > in advance  it is ones own responsibility to make themselves happy , if you dont smile today , you can only blame that on yourself , please dont complain about how miserable you are unless you are fully aware that ur making urself that way  warning to all mom's of school age children)
+0.31 (it; has intensified; T:since i gave up the last addiction)
+0.81 (the baby; got; up)
+0.17 (i; swear; it feels like i have been working for 5 days straight already im taking the kids to school and getting a nice hot bath)
+0.65 Context(i swear,List([921, 928))):(my neck; is; sore as shit)
+0.26 Context(my neck is i swear,List([847, 928))):(i; have; this crazy pain in my back)
+0.17 Context(i swear,List([921, 928))):(it; feels; like i have been working for 5 days straight already im taking the kids to school and getting a nice hot bath)
+0.23 (i; na let; him tho)
+0.20 Context(i na let,List([2042, 2060))):(him; tho; )
+0.31 (she; feels; like shes second to me)
+0.50 (ur; making; )
+0.72 Context(ur making,List([3045, 3054))):(that way; warning; to)
+0.82 (something; does 'nt kill; you)
+0.41 (i; to work; tonite and tomorrow nite)
+0.56 (you; need; help moving)
+0.55 Context(you need,List([1459, 1467))):(you; need moving; help)
+0.37 (i; felt; guilty; T:still)
+0.45 (i; gave up; the last addiction)
+0.74 (little girls; to be grown; =)
+0.41 (he; to go; to work)
+0.69 (my babydad; smack; him; T:when i come home in the morning)
+0.44 (i; did nt sleep back; last nite)
+0.88 (the headache; would get; i)
+0.62 (you; do nt smile; T:today)
+0.19 (we; were done; )
+0.45 (i; have been working; T:for 5 days)
+0.32 (i; got; you)
+0.26 Context(i got,List([1525, 1530))):(i; personally had; a great weekend thanks to my sister)
+0.26 (i; have; i am not gonna let him tho)
+0.19 (i; can fall; )
+0.34 (you; are; fully aware that ur making urself that way  warning to all mom's of school age children : there are lil monsters in ur childs school , they take their pencils and u)
+0.77 (little girls; tryin; to be grown =)
+0.43 (i; think; if i had to go a whole day with out my coffee i wouldnt get out of bed ever and the headache)
+0.40 Context(i think,List([2240, 2247))):(i; would nt get; out of bed; T:ever)
+0.30 Context(i think,List([2240, 2247))):(my coffee; would be; right up there)
+0.41 (they; take; their pencils and u)
+0.52 (i; got; 2 kids)
+0.19 (i; can smile; )
+0.27 (i; na do anyway; it)
+0.41 (i; taking; the kids)
+0.37 (he; did; all the dishes when we were done)
+0.32 (you; are; )
+0.46 (i; 'll b; back in the house; T:by 9:20)
+0.49 Context(i 'll b,List([393, 399))):(my biggest pet; peeve out; T:at 8:20 am)
+0.27 (i; na drown; my grumpiness)
+0.34 (my child; to push; any)
+0.45 (i; come; home; T:in the morning)
+0.39 (there; are lil monsters in; ur childs school)
+
+Or any other planet , or universe , or galaxy .
+
+Ever .
+
+*** i swear to god thats what it says when i look up my name n i gotta say i agree completely  i am finding it very hard not to tell people to stfu , i think i shoulda thought more about who i accepted as my friend on facebook , not everyone wants to hear my opinion and me not giving them it is as hard as not smoking a newport after dinner , i might delay it for a few minutes but its gonna happen  taking a smoke break , i have 1 hour and twenty < PROPFEMALE > .
+0.31 (i; accepted; as my friend on facebook)
+0.36 (me; not giving; them; it is as hard as not smoking a newport after dinner)
+0.46 Context(me not giving,List([271, 284))):(it; is; as hard as not smoking a newport after dinner)
+0.16 (it; says; )
+0.43 Context(it says,List([30, 37))):(i; think; i shoulda thought more about who i accepted as my friend on facebook , not everyone wants to hear my opinion and me not giving them it is as hard as not smoking a newport after dinner)
+0.84 Context(it says i think,List([30, 157))):(not everyone; wants; to hear my opinion)
+0.80 Context(it says i think not everyone wants,List([30, 247))):(not everyone; wants to hear; my opinion)
+0.34 (its gon; na happen; )
+0.31 (i; look up; my name)
+0.50 (i; have; 1 hour and twenty < PROPFEMALE >)
+
+to clean the bathroom , straighten the bedroom , vacuum the floors upstairs , and rearrange the babys room , so far ive cleaned the entire kitchen , the living room , done the dishes , filled 2 bags of trash ( idk where it was hiding ) , and seperated the last 3 loads of wash , im being highly productive for starting at 11 a.m.
+0.55 (it; was hiding; L:idk)
+0.92 (the last 3 loads of wash; im being; highly productive for starting at 11 a.m.)
+
+living cleaned , dining rm clean , kitchen shiny , bedroom 1 and 2 clean and clean , bathroom spotless , one load of wash down two loads left , make some dinner , and my full day of being my own wonderful house wife is complete , if iwas gay i'd clone me and marry me  n im off ... first to drop something off .. then to center city register for this ged test so i can take that next week and get a city job and not be stressed out about how im gonna buy my kids some new shoes .. i hope today is as productive as yesterday .. then i can feel good about myself while im snowed in feeding my face all weekend  dun dun dunnnnnn , ged tests scheduled !!! mayb now ill get off this tredmill i call my life and start going forward finally , im feeling extra good about myself today i think i might eat some icecream to celebrate  i made a delicious breakfast , but i really need a coffee and i do not wanna walk to dunkin donuts in this crap , if i dont go tho imma have a headache all day .
+0.79 (iwas; gay; i'd clone me and marry me)
+0.26 Context(iwas gay,List([233, 241))):(i; 'd clone; me)
+0.37 (i; call; my life)
+0.23 (i; start; going forward finally , im feeling extra good about myself today)
+0.39 (i; do not wan; na walk to dunkin donuts in this crap)
+0.39 Context(i do not wan,List([887, 899))):(i; do not wan na walk; to dunkin donuts in this crap)
+0.45 (i; really need; a coffee)
+0.73 (ged tests; scheduled; )
+0.48 (i; get; a city job)
+0.27 (i; marry; me)
+0.19 (i; do nt go tho; )
+0.39 (i; hope; today is as productive as yesterday)
+0.29 Context(i hope,List([481, 487))):(i; can take; that next week; T:then)
+0.90 Context(i hope,List([481, 487))):(today; is; as productive as yesterday)
+0.26 Context(i hope,List([481, 487))):(i; can feel; good about myself; T:while im snowed in feeding my face all weekend  dun dun dunnnnnn; T:then)
+0.89 (imma; have; a headache; T:all day)
+0.64 (my full day of being my own wonderful house wife; is; complete)
+0.09 (im; na buy; my kids)
+
+hmmm ... who can i make go get me coffee ????  ahhh , snow days , i decided im not even gonna look at the house until the kids r in bed , its nearly impossible to keep it clean with the three of them running around , i cant wait for tomorrow nite  silence isnt just < PROPFEMALE > .. the twins r playin in the snow , < PROPFIRST > is down for a nap n the only sound i can hear is the refrigerator running , i m at peace  and the goodness keeps rollin in , paid three bills today , gettin rid of < PROPFIRST > extra early tomorrow , thankgod one dad is taking care of his kid , i dont kno what else could make this a better day  im a fan of talking to the wall , cause i swear i can so do without the dumb-ass repsonses i've been getting from actually talking to people .
+0.15 (im; na look nearly impossible; at the house)
+0.46 (who can i make; is; nt)
+0.41 (i; from actually talking; to people)
+0.93 (the kids; r; L:in bed)
+0.91 (the dumb-ass repsonses; 've been getting; from actually talking to people)
+0.17 (i; do nt kno; what else could make this a better day  im a fan of talking to the wall , cause i swear i can so do without the dumb-ass repsonses)
+0.82 Context(i do nt kno,List([577, 587))):(gettin; rid PROPFIRST; T:extra early tomorrow)
+0.39 (i; ca nt wait; for tomorrow nite  silence)
+0.17 Context(i ca nt wait,List([217, 228))):(i; decided; im not even gonna look at the house until the kids r in bed , its nearly impossible to keep it clean with the three of them)
+0.89 (the goodness; paid; three bills; T:today)
+0.89 (the only sound; can hear; i)
+0.90 (the goodness; keeps; rollin; in)
+0.76 (gettin; thankgod; one dad is taking care of his kid)
+0.80 Context(gettin thankgod,List([481, 540))):(one dad; is taking; care; of his kid)
+0.24 (i; m; )
+
+its a good day for a penguin !! or a polar bear ! or < PROPFIRST > who has been outside playin for like an hour , his brother abandoned him after the first twenty minutes  see i dint mind the snow until i just read that it has caused yet another day off from school !!!!!!! now im pissed like the rest of u  im bout to drunk some malibu straight up cuz there isnt enough to get me drunk if i mix it , then mayb ill b drunk enough to not care how bored i am , its not like if it wasn't snowing i wouldn't still b in the house , but at least i'd have a choice if there wasnt 6 foot right out front of my door , i need cards !
+0.17 (i; just read; that it has caused yet another day off from school)
+0.11 Context(i just read,List([203, 214))):(it; has caused off; )
+0.32 (i; mix; it)
+0.21 Context(i mix,List([390, 395))):(i; mix it mayb; ill; T:then)
+0.19 (it; was n't snowing; )
+0.57 (his brother; abandoned now im pissed; T:after the first twenty minutes)
+0.43 Context(his brother abandoned now im pissed,List([114, 287))):(i; would n't b; in the house; T:still)
+0.45 (i; need; cards)
+
+thank goodness for twisted tea and the corner store that had cards , or else i wouldnt have made it through the night , what i could have done without is the next orr neighbor being lazy n not shoveling his car out b4 he tried to drive down the st.
+0.92 (the corner store; had; cards)
+0.19 (i; could have done; )
+
+getting stuck in the snow n flooring the gas for 20 minutes straight at 9:30 a.m.
+0.90 (the snow; n flooring; the gas; T:for 20 minutes straight at 9:30 a.m.)
+
+gotta love stupidity hope his car is broke  partied last night , party tonite , tryin to catch up while the kiddies r away  enjoying my valentines weekend at least it didnt snow ... yet ... im hoping there is school tuesday tho cuz i cant take another snow day  is freakin bored , the kids are in bed , i did all the cleaning im bout to do and theres nothing on t.v.
+0.81 (party tonite; to catch up; T:while the kiddies r away  enjoying my valentines weekend)
+0.45 (i; ca nt take; another snow day)
+0.17 (i; to do; )
+0.83 (the kiddies; r away enjoying; my valentines; T:weekend)
+0.53 (im hoping there is school tuesday tho; is; freakin bored)
+0.13 (im; hoping; there is school tuesday tho cuz i cant take another snow day)
+0.87 (party tonite; tryin; to catch up while the kiddies r away  enjoying my valentines weekend)
+0.31 (i; to theres; nothing)
+0.39 (there; is school tuesday; tho cuz)
+
+i am wondering y people friend request me on facebook , but in real life they know we dont even like eachother , people must just be bored , i hope they really don't expect me to accept them , i dont care if my friend list has 2 people on it im not worried about winning the facebook popularity contest  another lonely night in the house , this shit is getting old  i will be stronger , wiser , tougher , harder .
+0.17 (i; am wondering; y people friend request me on facebook , but in real life they know we dont even like eachother , people must just be bored , i hope they really don't expect me to accept them , i dont care if my friend list has 2 people on it im not worried about winning the facebook popularity contest  another lonely night in the house , this shit is getting old  i will be stronger , wiser , tougher , harder)
+0.82 Context(i am wondering,List([0, 14))):(y people friend; request; me; on facebook)
+0.68 (they; know; i will be stronger , wiser , tougher , harder; L:in real life)
+0.18 Context(they know,List([73, 82))):(i; will be; stronger , wiser , tougher , harder)
+0.26 Context(they know,List([73, 82))):(i; do nt care; if my friend list has 2 people on it)
+0.26 Context(they know i do nt care,List([73, 204))):(i; hope; they really don't expect me to accept them)
+0.40 Context(they know i hope i do nt care,List([73, 204))):(they; really do n't expect; me to accept them)
+0.26 Context(they know i hope they really do n't expect i do nt care,List([73, 204))):(me; to accept; them)
+0.77 (this shit; is getting; old)
+0.58 (my friend list; has; 2 people on it)
+
+i will move faster , go further , and never stop .
+0.19 (i; will move faster; )
+0.25 (i; go; further)
+0.17 (i; never stop; )
+
+i will b kinder , more thoughtful , but harder to please , i will b the best me that i can be .
+0.19 (i; can be; )
+0.31 (i; will b; the best; me)
+0.23 Context(i will b,List([59, 67))):(i; will b; kinder , more thoughtful , but harder to please)
+
+i kno i shouldn't hold hate in my heart , what i don't kno is how do i let it go ?
+0.24 (i; kno; )
+0.19 (i; do n't kno; )
+0.57 (what i don't kno; is; how do i let it go)
+0.26 Context(what i do n't kno is,List([42, 61))):(i; should n't hold; hate in my heart)
+
+how do i just get rid of it completely n dont say forgive cuz i dont think i can , but please if u have any bright ideas fill me in  i feel like starting trouble , or ending trouble , i should probly just keep my mouth shut , n my fingers still , but hurting mean people's feelings is my calling in life .... decisions , decisions .....  i told my kids last nite , they werent going to school today , even though everywhere i looked they had no posted a snow day for philly schools , i was sure when i got up that they hadn't closed school , guess my prediction was right tho , at least i dont have to write an absence note  i didnt drink last night , i went swimming in it lol n boy did i pay for it today , theres a reason why i stopped doing shots , n i remember it now  i used all of today's < PROPFEMALE > yesterday , i woke up this morning on a rampage and the is no end in sight , im not apologizing for how i feel anymore and honestly i am not sure i can restrain myself any longer , u dont have to tiptoe around me , just kno that if you're gonna act like a < PROPMALE > , im fully prepared to tell u what u are doing and i have suggestions on how u can stop  3 down two to go , cant wait til next wednesday so my doctor can tell me the hospital was wrong about my back , although the muscle relaxers they prescribed are delicious , not sure if they are working but its takin twice as long as it usually does to type  i tried to wait for the laundry < PROPFEMALE > to come but she keeps standing me up , effin bitch , im not taking none of my meds till its done cuz it would be pointless  of course the boys are sick , if the temp goes up more then 5 degrees they get a cold , now if i can just keep < PROPFIRST > away from their germs that would b a miracle  todays lesson , check the broiler for cans of tuna before using the oven , < PROPFIRST > musta put a can of tuna in the broiler the other day , and ten minutes after i take dinner out of the oven there was an explosion in my kitchen , tuna fish on the wall to the left n right all over the broiler n the inside of the oven , i was just glad it was something i could clean up n not the whole oven blowing up  my almost three yr old monster weighs 38lbs .
+0.81 (u; have; any bright ideas)
+0.26 (i; should probly just keep; my mouth shut , n)
+0.26 Context(i should probly just keep,List([184, 209))):(my mouth; shut n; )
+0.93 Context(i should probly just keep,List([184, 209))):(my fingers still , but hurting mean people's feelings is my calling in life .... decisions , decisions .....  i told my kids last nite , they werent going to school today; theres; a reason why i stopped doing shots)
+0.30 (it; does; T:usually)
+0.27 (i; to write; an absence note  i didnt drink last night)
+0.23 (i; feel; T:anymore)
+0.90 (an absence note; did nt drink; T:last night)
+0.31 (i; told; my kids; T:last nite)
+0.85 Context(i told,List([338, 344))):(people's feelings; is; my calling in life .... decisions , decisions)
+0.71 (something; could clean up not; T:n)
+0.21 (she; keeps; standing me up , effin bitch , im not taking none of my meds till its done cuz it would be pointless  of course the boys are sick , if the temp goes up more then 5 degrees they get a cold , now if i can just keep < PROPFIRST > away from their germs that would b a miracle  todays lesson , check the broiler for cans of tuna before using the oven ,)
+0.33 (i; rid; of it; T:completely n)
+0.45 (i; take; dinner; out of the oven)
+0.62 (< PROPFEMALE; to come; )
+0.45 (it; would be; pointless  of course)
+0.89 (the muscle relaxers; prescribed; they)
+0.37 (it; was; something i could clean up n not)
+0.23 (u; to tiptoe; around me)
+0.10 Context(u to tiptoe,List([992, 1013))):(u; to tiptoe just kno; a < PROPMALE > , im fully prepared to tell u what u are doing and i have suggestions on how u can stop  3 down two to go , cant wait til)
+0.20 (i; do nt say; forgive)
+0.45 (i; woke up; T:this morning; L:on a rampage)
+0.19 (its; done; )
+0.32 (you; na act; like)
+0.41 (i; to wait; for the laundry)
+0.48 (i; check; the broiler for cans of tuna; T:before using the oven)
+0.26 (hurting; mean; )
+0.67 (the muscle relaxers they prescribed; are; delicious , not sure if they are working but its takin twice as long)
+0.61 (u; can stop; 3; down; to go)
+0.31 (i; can restrain; myself; T:any longer)
+0.45 (i; have; suggestions on how u can stop  3 down)
+0.27 (she; im not taking; none of my meds)
+0.28 (i; was; sure)
+0.90 (the temp; goes; up; more then 5 degrees)
+0.20 (they; are working twice as long; )
+0.31 Context(they are working twice as long,List([1354, 1398))):(they; are working twice as long to type; i tried to wait for the laundry)
+0.40 Context(they are working twice as long to type,List([1354, 1425))):(i; tried; to wait for the laundry)
+0.39 (i; stopped; doing shots)
+0.39 Context(i stopped,List([729, 738))):(i; stopped doing; shots)
+0.42 (my doctor; can tell; me; the hospital was wrong about my back)
+0.84 Context(my doctor can tell,List([1220, 1238))):(the hospital; was; wrong about my back)
+0.19 (i; got up; )
+0.26 (i; do nt think; i can)
+0.85 (the whole oven; blowing up; my almost three yr old monster)
+0.63 (they; get; a cold)
+0.72 Context(they get,List([1668, 1676))):(the boys; are; sick)
+0.39 ('s feelings; is my calling in; life)
+0.39 (the; is no end in; sight)
+0.39 (there; was an explosion in; my kitchen)
+
+n he is 3'3 .
+0.28 (he; is; 3'3)
+
+5 inches tall , if u look at me n wonder how the hell im so skinny , just keep in mind that im lugging that kid around all day long , my biceps are ridiculous i should be a body builder  o0o0ops i fell asleep , thats gonna hurt me later tonite , and i have to get up early tomorrow  four down , one more to go , it's too easy , my boys are so grown up , they make me so proud everyday , i have to think of a good ( cheap ) way to show them how awesome i think they are ... hmmmm .........  i am in desperate need of a girls night out , maybe then i could dance this funk im in right out of me , if i get anymore desperate i'll be going out all by myself , and b the crazy alone chic in the middle of the dance floor and dance like a retard on purpose , cause noone who knows me can see !  went to < PROPMALE > e cheese's for < PROPFIRST > bday , i must say its a dangerous thing to do with 3 hours of sleep , but he had a ball , looking forward to bed time , just gotta get through dinner , baths , and that o so long wait til there is silence in my home , 9 p.m. where r u ???  something's missing , i feel unfullfilled , there's an emptiness and i'm not sure how to fill it , or what would fill it , but i have known this feeling for far too long  the decisions that a person makes do not accuratley define the person themselves , more accurately they define the situations that person has been in ....  My baby will be three tomorrow , they say they grow up so fast , but these last three years have been the longest , I'm not complaining because I know I will miss this when he's older .
+0.38 (u look at me; n wonder; how the hell im)
+0.74 Context(u look at me n wonder,List([19, 40))):(the hell; im; )
+0.28 (he; 's; older)
+0.60 (i; b; the crazy alone chic in the middle of the dance floor and dance like a retard on purpose)
+0.80 (these last three years; have been; the longest)
+0.25 (my boys; are grown up; )
+0.27 (s; na hurt later tonite; me)
+0.26 (I; 'm not complaining; because I know I will miss this)
+0.23 Context(I 'm not complaining,List([1522, 1541))):(i; fell; asleep)
+0.27 (i; to fill; it)
+0.46 (he; had; a ball)
+0.11 Context(he had,List([913, 919))):(he; had a ball looking forward; )
+0.41 (i; to think; of a good ( cheap ) way)
+0.73 (a person; makes; )
+0.84 (noone; knows; me)
+0.32 (I; know; I will miss this when he's older)
+0.26 Context(I know,List([1550, 1556))):(I; will miss; this; T:when he's older)
+0.70 (the situations; has been; )
+0.27 (they; say; )
+0.58 Context(they say,List([1439, 1447))):(My baby; will be; three tomorrow)
+0.27 Context(they say,List([1439, 1447))):(they; grow up so fast; )
+0.39 (its a dangerous thing; to do; )
+0.40 (i; to get down; T:early; T:tomorrow)
+0.45 (i; have known; this feeling; T:for far too long  the decisions)
+0.37 (i; 'm not; sure how to fill it)
+0.27 (i; cause; noone who knows me)
+0.49 (i; get; anymore desperate i'll be going out all by myself)
+0.38 (my biceps; are; ridiculous)
+0.40 (they; make; me so proud; everyday)
+0.39 (there; is silence in; my home)
+
+Damn I am old .
+0.28 (I; am; old)
+
+happy birthday to my baby , < PROPFIRST > is three , there were a couple days when i didnt think he or I would make it to the next day , but here we are 3 years later and I'm so proud of him  really , if i have to be mean to you , so that you're nice to me , i don't have a problem with that at all ... as long as you are aware of how screwed up you really are  i will have a good day today , i am going to get things accomplished , and i am going to smile n sing n dance while i'm doing it  attention : proceed with caution , <------- hazardous waste , falling rocks , dangersous road ahead , can crush u and leave u smushed on the highway  another day of chores !! yay ! at least the sun is shining , cant not smile when its beautiful outside  one kid came home then 2 kids left , now its just me n my lil monster  lookin forward to a quiet night in the house with < PROPFIRST > , peace n quiet n lotsa choclate milk  wooowhoooo , < PROPFEMALE > day , taking the baby to the beach !!!! , sand and sun here we come !!!!  it blows my mind how certain people can tell my mood or my thoughts but the tone in my voice , even when im faking , or the sound of my sigh when im trying to b silent , but other people couldn't tell even when i am trying to explain it to them with words  too tired to do anything , i feel < PROPMALE > over n i haven't had a drink in weeks  i must be a rock < PROPFEMALE > if i haven't been around in atleast a year but people kno all about my life , i must be in the tabloids somewhere , i'll give yall a hard < PROPFEMALE > t on the next headline , < PROPFEMALE > reminds bitches they can still get dropped  is at that point , where she has kept so much in that the only way to let it out is crying .. i don't wanna be angry anymore .. i dont wanna feel hurt .. i just wanna feel better when i get up tomorrow , but i dont see that happening  had to check myself this morning , im a bad bitch and it's easy to forget sometimes when so many things are tryin to pull you down , but i am me and if u cant handle it just step aside and get outta my way  account ; edit friends ; click the x ; if ur reading this then ur not a hater or someone who is speakin on shit they dont kno about , its sad when you think you know someone and you consider them a friend only to find that when ur back is turned they are just a regular hatin ass ho with no life so they must concern themselves with yours , sorry < PROPFEMALE > but you had to go  says laugh loudly , love truly , kiss slowly , look sexy and talk dirty ...  Women burn an average of 27 calories during an orgasm , Faking an orgasm burns 160 calories .
+0.47 (so many things; to pull; you; down)
+0.30 (I; 'm really; so proud of him)
+0.38 (you; are; aware of how screwed up you really are  i will have a good day today , i am going to get things accomplished , and i am going to smile n sing n dance while i'm doing it  attention : proceed with caution , <------- hazardous waste , falling rocks , dangersous road ahead , can crush u and leave u smushed on the highway  another day of chores !! yay ! at least the sun is shining , cant not smile when its beautiful outside  one kid came home then 2 kids left , now its just me n my lil monster  lookin forward to a quiet night in the house with < PROPFIRST > , peace n quiet n lotsa choclate milk  wooowhoooo , < PROPFEMALE > day , taking the baby to the beach !!!! , sand and sun here we come !!!!  it blows my mind how certain people can tell my mood or my thoughts but the tone in my voice , even when im faking , or the sound of my sigh when im trying to b silent , but other people couldn't tell even when i am trying to explain it to them with words  too tired to do anything , i feel < PROPMALE > over n i haven't had a drink in weeks  i must be a rock < PROPFEMALE > if i haven't been around in atleast a year but people kno all about my life , i must be in the tabloids somewhere , i'll give yall a hard < PROPFEMALE > t on the next headline , < PROPFEMALE > reminds bitches they can still get dropped  is at that point , where she has kept so much in that the only way to let it out is crying .. i don't wanna be angry anymore .. i dont wanna feel hurt .. i just wanna feel better when i get up tomorrow , but i dont see that happening  had to check myself this morning , im a bad bitch and it's easy to forget sometimes when so many things are tryin to pull you down , but i am me and if u cant handle it)
+0.46 (the only way to let it out; na be; angry; T:anymore)
+0.19 (i; feel; )
+0.81 (u; smushed; L:on the highway; T:another day of chores)
+0.63 (the sound of my sigh when im trying to b silent; is; at that point)
+0.31 (i; 'm doing; it  attention)
+0.40 (i; do nt wan; na feel hurt)
+0.40 Context(i do nt wan,List([1762, 1772))):(i; do nt wan na feel; hurt)
+0.50 (they; do nt kno; about; T:then)
+0.84 (2 kids; left; T:then)
+0.74 Context(2 kids left,List([769, 780))):(certain people; can tell; my mood or my thoughts but the tone in my voice; T:even when im faking , or the sound of my sigh when im trying to b silent , but other people couldn't tell even when i am trying to explain it to them with words  too tired to do anything , i feel < PROPMALE > over n i haven't had a drink in weeks)
+0.52 (i; get; up; T:tomorrow)
+0.46 (they; must concern; themselves; with yours)
+0.45 (its beautiful outside  one kid; came; home)
+0.86 (other people; could n't tell; T:even when i am trying to explain it to them with words  too tired to do anything; over n i haven't had a drink in weeks)
+0.37 (i; am; me)
+0.35 (she; has kept; so much; L:that point)
+0.36 (i; did nt think; he or I would make it to the next day)
+0.55 Context(i did nt think,List([83, 96))):(he or I; would make; T:to the next day)
+0.30 (we; come; L:here)
+0.45 (i; have n't been; around; T:in atleast)
+0.35 (happening; to check; myself; T:this morning)
+0.26 (i; just wan; na feel better when i get up tomorrow)
+0.20 Context(i just wan,List([1788, 1798))):(i; 'll give; yall; a hard < PROPFEMALE > t on the next headline , < PROPFEMALE > reminds bitches they can still get dropped  is at that point , where she has kept so much in that the only way to let it out is crying .. i don't wan)
+0.26 Context(i just wan,List([1788, 1798))):(i; just wan na feel; better; T:when i get up tomorrow)
+0.97 (hazardous waste , falling rocks , dangersous road ahead , can crush u and leave u smushed on the highway  another day of chores !! yay; ca nt not smile; T:when its beautiful outside  one kid came home)
+0.31 (u; ca nt handle; it)
+0.32 (you; really are; )
+0.68 (PROPFEMALE; reminds; bitches; they can still get dropped)
+0.30 Context(PROPFEMALE reminds,List([1577, 1597))):(they; can get dropped; T:still)
+0.61 (you; consider; them a friend; T:now)
+0.27 (i; to be; mean to you)
+0.36 (i; am trying; to explain it to them with words  too tired to do anything)
+0.26 Context(i am trying,List([1233, 1244))):(i; am trying to explain; it; to them)
+0.90 (Women; burn; an average of 27 calories; T:during an orgasm)
+0.81 Context(Women burn,List([2534, 2544))):(Women; burn an average of 27 calories Faking; an orgasm burns 160 calories)
+0.90 Context(Women burn Faking,List([2534, 2596))):(an orgasm; burns; 160 calories)
+0.17 (i; to smile; )
+0.53 (they; get; dropped; T:still)
+0.24 (you; to go; )
+0.66 Context(you to go,List([2442, 2455))):(says; laugh loudly; )
+0.46 (the only way to let it out; is crying; )
+0.72 (dangersous road ahead; can crush u; )
+0.54 (you; 're; nice to me)
+0.07 (im; trying; to b silent)
+0.60 (we; are; T:3 years later; L:here)
+0.47 (you; think; you know someone)
+0.62 Context(you think,List([2223, 2232))):(you; know; someone)
+0.38 (i; must be somewhere; in the tabloids)
+0.39 Context(i must be somewhere,List([1475, 1510))):(i; must be; a rock)
+0.82 Context(i must be somewhere,List([1475, 1510))):(people; kno; all about my life)
+0.36 (i; to get; things accomplished)
+0.16 Context(i to get,List([393, 410))):(things; accomplished; )
+0.17 (i; do nt see; that happening  had to check myself this morning , im a bad bitch and it's easy to forget sometimes when so many things are tryin to pull you down , but i am me and if u cant handle it)
+0.30 (ur; is turned; T:back)
+
+so that's how i've kept the weight off all these years  im smiling and im speechless .....  would it be completely narcissistic for me to make myself a birthday cake ?
+0.31 (me; to make; myself a birthday cake)
+0.75 (all these years; im smiling; )
+
+' s birthday is 2 morow , warn the cops .
+
+hide your children and get out the shot glasses bitches !
+
+seriously you guys rock , it was awesome to wake up to a wall full of birthday love , thankyou !!!! i will be celebrating all week , and the party doesn't really start till tuesday when my children disperse !!!! i make 27 look fan-freakin-tastic  i got carded for drinks at 27 !!!!!! that waitress was earning her tip !!!  let the countdown begin ; 1 kid gone in about an hour and the other 2 are leaving at 5 pm ; my drink and my two step will be ready  freedom freedom freedom  says \When you're having a bad day remember - It takes 42 muscles to frown and only 4 to extend your arm and smack the asshole in the mouth\ " hahahaha its so true i had to post it "  writing ; 76 th percentile in the us , reading ; 98th percentile in the us , science ; 99th percentile , and social studies ; 98th percentile , according to regulations i already have enough points for my ged , as long as i score at least 410 points on math ( the lowest points allowed to pass ) i will have my good enough diploma very very shortly  My alarm clock is 3 ft tall and sounds like this , \ Mommy !! Mommy wake up !! Mommy !! Wake Up !! \ " Too bad there is no snooze button !
+0.19 (i; make; 27 look fan-freakin-tastic)
+0.58 Context(i make,List([212, 218))):(it; was; awesome to wake up to a wall full of birthday love)
+0.40 Context(it was i make,List([26, 218))):(i; will be celebrating; all week)
+0.25 Context(i make,List([212, 218))):(27; look; fan-freakin-tastic)
+0.43 (i; let; the countdown begin)
+0.69 Context(i let,List([212, 326))):(the countdown; begin; )
+0.88 Context(i let,List([212, 326))):(1 kid; gone; in about an hour)
+0.17 (i; writing; )
+0.75 (the lowest points; allowed; )
+0.75 (\ Mommy !! Mommy; wake up Too bad; )
+0.82 (waitress; was earning; her tip)
+0.37 (My alarm clock; sounds; like this)
+0.79 (\ Mommy !! Mommy; Wake Up; )
+0.45 (i; score; at least 410 points on math)
+0.52 (i; got; carded for drinks at 27)
+0.83 (the party; does n't really start; T:till tuesday; T:when my children disperse)
+0.40 (i; have; enough points for my ged; T:already)
+0.27 (i; to post; it)
+0.34 (my children; disperse; )
+0.39 (My alarm clock; is 3 ft tall and sounds like; this)
+
+"  likes coffee like she likes her men - Hot , steamy , large , strong , satisfying and first thing in the morning !
+0.46 (she; likes; her men - Hot , steamy , large , strong , satisfying and first)
+
+happy easter , the < PROPFEMALE > was up late last night  it's funny cause they must be thinking i'm sweating them , please baby take a number , you know how many times my phone rings all day , i'm not missing anything in my life , you came looking for me so you must be missing something , don't let your head get so big you forget that , sweety  \It is easier to build strong children than to repair broken men .
+0.82 (PROPFEMALE >; was; up; T:late last night  it's funny)
+0.28 (it; 's; funny)
+0.33 (you; know; )
+0.54 Context(you know,List([145, 153))):(i; 'm not missing; anything; T:all day)
+0.62 (you; must be missing; something)
+0.40 (they; must be thinking; i'm sweating them)
+0.46 (you; came looking; for me)
+
+\ " < PROPMALE > < PROPMALE > "  dear hangover , i am not mad at you for being here cause it just means that last night rocked , i hope you are gone in a lil bit , but feel free to return again soon , as i am looking forward to many more nights that rocked like the last .
+0.31 (i; am not; mad at you for being here)
+0.70 (more nights; rocked; )
+0.17 (it; just means; that last night rocked , i hope you are gone in a lil bit)
+0.45 (i; am looking forward; to many more nights)
+
+#NEWSFLASH # police r lookin 4 sum1 described as gorgeous , sexy , intelligent , funny and amazing in bed , ur safe .......... but where the fuk am i gonna hide ????!!  .. has absolutely no intention of behaving herself .. so she's not even going to pretend to ;)  I am stronger Today than I was Yesterday ~ I'll be stronger Tomorrow than I was Today ~ * ~ GOD HELP ANYONE that pisses me off next week !
+0.92 (police r lookin 4 sum1; described; as gorgeous , sexy , intelligent , funny and amazing in bed , ur safe .......... but where the fuk am i gonna hide ????!!  .. has absolutely no intention of behaving herself .. so she's not even going to pretend to)
+0.20 (she; to pretend; to)
+0.84 (~ * ~ GOD HELP ANYONE; pisses off; T:next week)
+0.52 (I; am; stronger; T:Today)
+0.57 (I; was; T:Today; ~ * ~ GOD HELP ANYONE)
+0.70 (the fuk; na hide; )
+0.52 (I; was; T:Yesterday)
+0.39 (I; am stronger Today than; I)
+
+stop everything your doing and think about me for 3 seconds ......... ..... 3 ......... 2 ........... 1 .... ...... ... you're welcome for the best 3 seconds of your day !  to satisfy a woman : praise her , pamper her , cuddle her , hold her , kiss her , talk to her , listen to her , respect her , LOVE her .. to satisfy a man .... suck his @*@% , JOB DONE !!!  its not that i am not sure that i am intelligent , sexy , funny , and basically the shit ; i just think it sounds better leaving your lips  Couldn't keep your mouth shut could you ?
+0.28 (i; am; intelligent)
+0.27 (it; leaving; your lips)
+0.82 (its not that i am not sure that i am intelligent , sexy , funny , and basically the shit; Could n't keep; your mouth)
+0.41 (your mouth; shut; )
+
+Cant keep a secret can you ?
+
+Had to go talking my business didn't you ?
+
+Well thanks .. Now everyone knows I'm good in bed  who am i to lay claim to you , i'm not your girl , but if you ever want that to be a possibility you should let them kno now , they are simply wasting their time , cause i speak from expierience when i say , you wont find a badder chic then me , sweetheart  any man can get a million girls anyday But it takes a real man 2 love 1 girl a million ways !
+0.89 (everyone; knows; I'm good in bed; T:Now)
+0.46 Context(everyone knows,List([19, 33))):(I; 'm; good; L:in bed)
+0.32 (i; say; you wont find a badder chic then me , sweetheart  any man can get a million girls anyday But it takes a real man)
+0.55 Context(i say,List([251, 256))):(you; wo nt find; a badder chic)
+0.45 (it; takes; a real man)
+0.40 (you; should let; them kno now)
+0.23 Context(you should let,List([148, 162))):(them; kno; T:now)
+0.45 (i; speak; from expierience)
+0.49 (me; sweetheart; any man can get a million girls anyday; T:then)
+0.88 Context(me sweetheart,List([292, 307))):(any man; can get; a million girls; T:anyday)
+0.47 (you; want; that to be a possibility; T:ever)
+0.11 Context(you want,List([109, 122))):(that; to be; a possibility)
+
+I'll never be a good example so I might as well be a fabulous warning !!  im trying to work on being the bigger person when i am faced with conflict , i think i have been doing very well for a long time , but it hasn't been long enough , because i can still remember how much fun it is to get low  i know two ways to tell if i am right when i think someone is lying to me , either thier mouth is moving , or their fingers are moving , the deciding factor is what form of communication they are using to pollute my head with bullshit ; if i think you are lying , you probably are  Lady walks into a sex shop and and says \ I'll take that green one with the shiny top\ " Man says \ " Lady that's my Thermos \""  I'm gonna smile like I mean it , I'll only cry when I'm alone , but I won't feel better until you come home  im in serious need of a good hug , not a good day at all  so i hope you people got your drinks for tomorrow nite , its easy as ish to get to my house , let me kno if you need directions to the party  is living for the nights that she will never remember with the people that she can never forget !! i will see yall tomorrow nite  really its may 2 and it 1000 degrees all ready  I'm trying to see things from your point of view , but there's only room in your ass for one head , and yours is already there .
+0.45 (i; am faced; with conflict)
+0.35 (you; come im; home)
+0.32 (you; probably are; Lady walks into a sex shop and and says \ I'll take that green one with the shiny top\)
+0.40 Context(you probably are,List([562, 578))):(they; are using; to pollute my head with bullshit)
+0.40 Context(they are using you probably are,List([485, 578))):(they; are using to pollute; my head)
+0.92 Context(you probably are,List([562, 578))):(Lady; walks; into a sex shop)
+0.88 (the people; can never forget; she)
+0.63 (Man; says; )
+0.45 (I; might as well be; a fabulous warning)
+0.31 (I; mean; it)
+0.29 (i; can remember; how much fun it is to get low; T:still)
+0.20 Context(i can remember,List([246, 266))):(it; is; )
+0.91 Context(i can remember,List([246, 266))):(the deciding factor; is; what form of communication)
+0.20 (I; na smile; like)
+0.26 (I; 'll only cry; T:when I'm alone)
+0.42 Context(I 'll only cry,List([743, 756))):(i; think; i have been doing very well for a long time)
+0.39 Context(i think I 'll only cry,List([151, 756))):(I; 'll never be; a good example)
+0.39 Context(i think I 'll only cry,List([151, 756))):(i; have been doing very well; T:for a long time)
+0.89 (the nights; will never remember; with the people)
+0.75 (Lady; says; \ I'll take that green one with the shiny top\)
+0.22 Context(Lady says,List([580, 619))):(I; 'll take; that green one with the shiny top\)
+0.24 (i; know; two ways to tell if i am right when i think someone is lying to me , either thier mouth is moving , or their fingers are moving , the deciding factor is what form of communication they are using to pollute my head with bullshit ; if i think you are lying , you probably are  Lady walks into a sex shop and and says \ I'll take that green one with the shiny top\ " Man says \ " Lady that's my Thermos \""  I'm gonna smile like I mean it)
+0.26 Context(i know,List([298, 304))):(i; know to tell; if i am right when i think someone is lying to me)
+0.31 Context(i know to tell,List([298, 321))):(i; am; right; T:when i think someone is lying to me)
+0.28 (I; 'm; alone)
+0.26 (I; 'm trying; to see things from your point of view)
+0.34 (their fingers; are moving; )
+0.20 (it; to get; low)
+0.62 (you; need; directions to the party)
+0.32 (i; think; you are lying)
+0.27 Context(i think,List([538, 545))):(you; are lying; )
+0.40 Context(i think,List([538, 545))):(i; will see; yall)
+0.42 (it; has n't been; long enough; because i can still remember how much fun it is to get low  i know two ways to tell if i am right when i think someone is lying to me , either thier mouth is moving , or their fingers are moving , the deciding factor is what form of communication)
+0.21 (I; wo n't feel; better; T:until you come home  im in serious need of a good hug , not)
+0.43 (yours; is; T:already; there)
+0.31 (i; think; someone is lying to me)
+0.78 Context(i think,List([341, 348))):(someone; is lying; to me)
+0.39 (the deciding factor; is what form of; communication)
+
+most of the time using your brain doesn't feel as good as following your heart , i guess that's why my heart always leads the way  sometimes being right about something is a bad thing , please can i start being wrong more often  went on a school trip with the twins to the zoo , and had a great day , many many pictures of stinky animal butts , but still a good day  had a good mothers day , went to mymoms for dinner and came home to a clean house , now its time to make cookies for the twins to take to school tomorrow cause its there birthday , my babies are gonna be 8 !
+0.86 (most of the time; using; your brain)
+0.92 (many many pictures of stinky animal butts; came; home; to a clean house; T:now; T:its time to make cookies for the twins to take to school tomorrow cause its there birthday , my babies are gonna be 8)
+0.20 (i; being; wrong)
+0.34 (my babies; na be; 8)
+0.89 (the twins; to take; T:tomorrow; cause)
+
+sheesh  happy birthday to two of the most awesome kids i have ever met , n im not just sayin that cause they r mine , everyday they make me proud , i have never had a better job then being their mom , * tear *  It must be true that the speed of light is faster than the speed of sound .
+0.77 (the most awesome kids; have met; T:ever)
+0.89 (a better job; being; their mom; T:then)
+
+You looked pretty bright until you started talking .
+0.46 (You; looked; pretty bright; T:until you started talking)
+0.31 (you; started; talking)
+0.27 Context(you started,List([31, 42))):(you; started talking talking; )
+
+Don't let anyone rent space in your head , unless there a good tenant !
+
+anyone have a boy cat that isnt fixed , my crazy friend < PROPFEMALE > wants to get her cat knocked up , i guess it is the season  Love without reason .
+0.76 (anyone; have; a boy cat that isnt fixed , my crazy friend < PROPFEMALE > wants to get her cat knocked up , i guess it is the season  Love without reason)
+0.30 (i; guess; it is the season  Love without reason)
+0.51 Context(i guess,List([105, 112))):(it; is; the season  Love without reason)
+0.85 (PROPFEMALE; wants; to get her cat knocked up , i guess it is the season  Love without reason)
+0.81 Context(PROPFEMALE wants,List([58, 76))):(PROPFEMALE; wants to get; her cat knocked up , i guess it is the season  Love without reason)
+0.29 Context(PROPFEMALE wants to get,List([58, 83))):(her cat; knocked up; )
+0.39 (it; is the season Love without; reason)
+
+Trust with caution .
+
+Be yourself without fear .
+
+Regret nothing .
+
+i like it ontop of the stereo  Of course I'm an angel ... who cares if my wings are black , I have horns and a tainted halo ?
+0.38 (my wings; are; black)
+0.40 (I; have; horns and a tainted halo)
+0.26 Context(I have,List([92, 98))):(i; like; it)
+0.47 Context(i like I have,List([0, 98))):(I; 'm; an angel ... who cares)
+
+I'm still an angel !
+0.52 (I; 'm; T:still; an angel)
+
+Your riding a horse full speed ... a giraffe is beside u ..... and you're being chased by a lion .
+0.62 (Your; riding; a horse full speed)
+0.93 (a giraffe; is; beside u)
+0.62 (you; 're being chased; by a lion)
+
+What do you do ?............... Get your drunk ass off the fucking merry-go-round !
+
+Police Scanner just reported a drunk , naked idiot , wearing snow boots , singing free bird , riding a lawn mower down 95 !............
+0.91 (Police Scanner; just reported; a drunk , naked idiot)
+0.86 Context(Police Scanner just reported,List([0, 28))):(Police Scanner; just reported a drunk , naked idiot wearing; snow boots)
+
+Where the F *** R U GOING ?  is wondering if girls get camel toe do guys get elephant trunk ???  Hopes that in the next Twilight movie , Blade shows up and fucks up everyone  Tomorrow is National Orgasm Day .. Are you coming ?
+0.91 (the F *** R U GOING; is wondering; if girls get camel toe do guys get elephant trunk)
+0.82 Context(the F *** R U GOING is wondering,List([6, 41))):(girls; get; camel toe)
+0.95 (Blade; shows up; L:in the next Twilight movie)
+0.95 (Blade; fucks up; everyone  Tomorrow; L:in the next Twilight movie)
+
+I dont need someone to bring me the stars , just someone to lay down and watch them with .
+0.73 (just someone; to lay down; )
+0.77 (just someone; to watch; them; with)
+0.26 (I; do nt need; someone; to bring me the stars)
+0.26 Context(I do nt need,List([0, 11))):(I; do nt need someone to bring; me; the stars)
+
+<3  you think you deserve the best , you think you deserve respect , you think someone should care , so tell me how that is fair ?
+0.59 (someone; tell; me; how that is fair)
+0.05 Context(someone tell,List([79, 108))):(that; is; fair)
+0.34 (you; think; someone should care , so tell me how that is fair)
+0.66 Context(you think,List([69, 78))):(someone; should care; )
+0.47 Context(you think,List([69, 78))):(you; think; you deserve respect)
+0.47 Context(you think you think,List([37, 78))):(you; think; you deserve the best)
+0.30 Context(you think you think you think,List([4, 78))):(you; deserve; the best)
+0.55 Context(you think you think,List([37, 78))):(you; deserve; respect)
+
+what makes you better then me , what makes you think i dont deserve all three  if i had to guess i would say that the flyers won .... but thats just a completely uneducated guess , its not like every post on my wall was about the < PROPMALE > cup or something ...  Takin a nap from330 to 700 pm is never a good idea if u expect to sleep that nite  I wanna have a midnight bar b que , with good food and frosty beverages .. to the shore on thurs !
+0.17 (i; to guess; )
+0.91 (to 700 pm; is never; a good idea)
+0.89 (that nite; wan; I)
+0.36 Context(that nite wan,List([337, 353))):(I; na have; a midnight bar b que)
+
+Can't wait  Gotta pack lunch for tomorrow .
+
+Can't wait to see the ocean , it's been too long  Really sunburn , I am 27 years old , you would think I know how to avoid these kind of things .
+0.40 (you; would think; I know how to avoid these kind of things)
+0.46 Context(you would think,List([87, 102))):(I; am; 27 years old)
+0.18 Context(I am you would think,List([67, 102))):(it; 's been Really sunburn; too long)
+0.46 Context(you would think,List([87, 102))):(I; know; how to avoid these kind of things)
+
+Only a < PROPMALE > can treat his woman like a < PROPFEMALE >  I need to go back to the beach , day trip anyone ?????  My mojo was stolen !!!!!  Tryin to focus on the positive , because the negative is just so negetive at this point I'm almost hopeless , couple more no's and I will b that completely  Hopin some relief is ahead , is it possible to have a good Monday ?
+0.41 (I; to go; back to the beach)
+0.10 (I; will b; that)
+0.77 Context(I will b,List([276, 284))):(some relief; is; ahead)
+0.36 (My mojo; was stolen; T:Tryin; to focus on the positive; because the negative is just so negetive at this point I'm almost hopeless , couple more no's and I will b that completely  Hopin some relief is ahead)
+0.34 (My mojo; to focus; on the positive)
+0.91 (the negative; is; just so negetive at this point)
+0.24 Context(the negative is,List([186, 201))):(I; 'm; almost hopeless)
+
+I needa nap , what to make for dinner ......
+0.45 (I; needa; nap)
+
+I was gonna do pasta but ..... decisions decisions  Waitin for Saturday !
+0.41 (I; na do; pasta)
+
+Let the week begin ....... just one question though , where did the summer go ?
+
+Just wanted to say I am alive , I miss most of you too , lol , just been busy making a mess  I am so excited about the next snow storm ....... NOT !!!!!!!  Waiting ..........
+0.26 (I; miss too NOT; most of you)
+0.47 Context(I miss too NOT,List([32, 146))):(I; am; so excited about the next snow storm)
+0.41 (I; just been; busy making a mess)
+

@@ -1,0 +1,29 @@
+curse u computers >:(
+
+i like pie  night peps  thanks to all the people who are my friends  im pressing buttens and its fun  think he is from the kiss band or is he just scared of grow up  hi  can i use it  i am done with girlfriends but i will never stop being a friend  does anyone no a good movie because im going to get one of netflix  so how much cuold a wood < PROPMALE > < PROPMALE >  so do u know when its real ????  is school over yet ?
+0.17 (i; like; pie  night peps  thanks to all the people who are my friends  im pressing buttens and its fun  think he is from the kiss band or is he just scared of grow up  hi  can i use it)
+0.91 Context(i like,List([0, 6))):(pie  night; peps; thanks to)
+0.70 Context(i like pie night peps,List([0, 22))):(all the people who are my friends; im pressing; buttens)
+0.45 (i; will never stop; being a friend)
+0.13 (im; to get; one of netflix  so how much cuold a wood < PROPMALE > < PROPMALE >  so do u know when its real ????  is school over yet)
+0.87 Context(im to get,List([285, 300))):(one of netflix; cuold; a wood)
+0.75 Context(im to get one of netflix cuold,List([285, 334))):(< PROPMALE > < PROPMALE; so do u know; when its real ????  is school over yet)
+0.33 (he; is; he just scared of grow up)
+0.19 (i; am done; )
+0.82 (all the people; are; my friends)
+0.41 (i; being; a friend)
+0.62 (its fun; think; he is from the kiss band or is he just scared of grow up)
+0.47 Context(its fun think,List([93, 107))):(he; is; from the kiss band)
+
+even our teacher is counting .
+0.36 (even our teacher; is counting; )
+
+back from camp and still not ready for school  i thought haveing a job would be cool .
+
+to bad i work at a haunted cemitary .
+
+im texting on my psp  since im twelve and my name is gage then ............ im a twelve gage  surgery tomorrow 7:30 am yeah finally i may have feeling in my hand then 3wks for the other hand 
+0.67 (my name; is then; gage)
+0.44 (i; may have feeling; L:in my hand; then 3wks for the other hand; T:finally)
+0.95 (tomorrow 7:30 am; 3wks; for the other hand; T:then)
+

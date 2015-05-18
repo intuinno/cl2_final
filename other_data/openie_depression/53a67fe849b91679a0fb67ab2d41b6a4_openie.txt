@@ -1,0 +1,49 @@
+WTF IS SLEEP ?! ITS 3:54 N I NEED TO \WAKE UP\ " AT 7:00 "
+0.43 (I; NEED; TO \WAKE UP\ " AT 7:00)
+0.88 Context(I NEED,List([27, 33))):(WTF; IS; SLEEP)
+
+Currently wanting to buy a life !
+
+its 4:15 am and im looking for people to add on facebook\  ( paying lots )  ok well i have to wake up in 9 minutes i think ill go to sleep now  Still wanting to buy a life ...  So me and my sister decided to go watch a movie .. we got there and the fuckers had 2/3 of the parking blocked off to be repaved .
+0.46 (i; think; ill go to sleep)
+0.39 Context(i think,List([115, 122))):(ill; go; to sleep)
+0.70 (the fuckers; blocked off; )
+0.91 (people; to add; on facebook\)
+0.93 (the fuckers; had; 2/3 of the parking)
+0.91 (facebook\; paying; lots)
+0.23 (we; got; there)
+0.62 Context(we got,List([228, 234))):(me and my sister; decided; to go watch a movie)
+0.62 Context(me and my sister decided we got,List([180, 234))):(me and my sister; decided to go; watch a movie)
+0.62 Context(me and my sister decided to go we got,List([180, 234))):(me and my sister; decided to go watch; a movie)
+0.41 (i; to wake up; T:in 9 minutes)
+
+After circling the place twice and realizing we were now 20 minutes late for the movie , we ran over 3 of the cones blocking parking spaces off in front of a fat security guard and left .
+0.54 (we; left; T:After circling the place twice and realizing we were now 20 minutes late for the movie)
+0.63 (we; ran; T:over 3 of the cones; T:After circling the place twice and realizing we were now 20 minutes late for the movie)
+0.86 (the cones; blocking off; L:in front of a fat security guard)
+
+went paintballing and some fag shot me in the back of the head in the NO SHOOTING area ...  is pissed at the world  likes cute stuff  wants to have the power to flick people off the face of the earth  So , when i was taking < PROPMALE > class my teacher said that white wasn't a color ... well according to this paint commercial there are 178 shades of white !.. my conclusion : TV is sm < PROPMALE > er than teachers  i felt like ranting but i decided to put this sentence here instead ...  is bad at playing facebook :\\  GOD RAGE QUIT !
+0.40 (i; decided; to put this sentence here instead)
+0.40 Context(i decided,List([443, 452))):(i; decided to put; this sentence; here; instead)
+0.37 (my teacher; said; that white wasn't a color; T:when i was taking < PROPMALE > class)
+0.90 Context(my teacher said,List([243, 258))):(cute stuff; wants; to have the power)
+0.92 Context(cute stuff wants my teacher said,List([122, 258))):(cute stuff; wants to have; the power to flick people off the face of the earth  So)
+0.55 Context(my teacher said,List([243, 258))):(white; was n't; a color)
+0.52 (i; felt; like ranting)
+0.46 (fag; shot; me; L:in the back of the head in the NO SHOOTING area)
+0.45 (i; was taking; PROPMALE > class)
+0.39 (there; are 178 shades of; white !.)
+0.38 (TV; is sm <; PROPMALE > er)
+
+Got Penguin ?
+
+so today in english everyone sitting around me starting talking about WoW .... my head was hit many times via facepalm ...  what if all religions are true and their gods are just playing a never-ending game of risk with humanity ?
+0.86 (english everyone; sitting; around me; T:starting talking about WoW)
+0.64 (their gods; are just playing; a never-ending game of risk)
+0.90 (english everyone; starting; talking about WoW)
+0.76 (my head; was hit; T:many times; T:today)
+0.77 (all religions; are; true)
+
+o.O  ... My dog was killed yesterday ... and cant find out how or why .... T T_T T ........  ITS FRIDAY !!!! FRIDAY !!!! * queues < PROPFEMALE > black ( and random black guy )* 
+0.64 (My dog; was killed; T:yesterday)
+

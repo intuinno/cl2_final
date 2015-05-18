@@ -1,0 +1,106 @@
+is gonna watch almost famous
+
+< PROPFIRST > vedder today !
+
+yay !
+
+hanging out  worried worried worried  i love my ipod !
+0.41 (hanging out  worried worried; worried; i love my ipod)
+0.26 Context(hanging out worried worried worried,List([0, 36))):(i; love; my ipod)
+
+hendrix is pretty sick  at a superbowl party  being different doesnt make you weird , it frieking makes you unique  Going to da movies  mile marker 39  last night was EPIC  heading to kaanapali  dirt biked to olowalu  the dance was fuuun  no matter how screwed up your dreams are , you will believe their real until you wake up  my phone is tripping balls  what to do today  hold on to people their slipping away  trying to make ends meet  our differences just push us apart  hoping I can do something this weekend  last week of school !!!  being genuine is far better than being fake  parents gone for a week .
+0.34 (your dreams; are; )
+0.78 (a superbowl party; being; different)
+0.40 (you; wake up; T:my phone is tripping balls)
+0.58 Context(you wake up,List([316, 327))):(my phone; is tripping; balls)
+0.90 (kaanapali  dirt; biked; to olowalu  the dance)
+0.19 (it; frieking; )
+0.33 (us; hoping; I can do something this weekend  last week of school)
+0.40 Context(us hoping,List([466, 482))):(I; can do; something; T:this weekend; T:last week)
+0.69 Context(us hoping,List([466, 482))):(being genuine; is; far better than being fake  parents gone for a week)
+0.42 (it frieking; makes; you unique)
+0.46 (their slipping away; trying; to make ends meet  our differences)
+0.67 Context(their slipping away trying,List([393, 420))):(their slipping away; trying to make; what to do today  hold on to people their slipping away  trying to make ends meet  our differences just push us apart)
+0.65 Context(their slipping away trying to make,List([393, 428))):(ends; meet; our differences)
+
+score !!!!  you can , spend your time alone .
+0.36 (you; can spend; your time)
+
+Redigesting past regrets .
+
+Or you can , come to terms and realize , only you can forgive yourself  it wouldn't have worked out , anyway  vuelve , no volvere no volvere no volvere .
+0.51 (you; can come; to terms)
+0.28 (you; realize; )
+0.42 (only you; can forgive; yourself)
+0.11 Context(only you can forgive,List([41, 61))):(it; would n't have worked out anyway vuelve; )
+
+No quiere recordar ....
+
+No recordar  one more day of pointless education and we are done !
+0.19 (we; are done; )
+
+I am going to go pee my pants and get all jubby because I just can't help myself .
+0.31 (I; just ca n't help; myself)
+0.23 (I; to go; pee my pants and get all jubby)
+0.23 Context(I to go,List([0, 16))):(I; to go pee; my pants)
+0.17 Context(I to go,List([0, 16))):(I; to go get; all jubby; because I just can't help myself)
+
+I'm a loser .
+0.52 (I; 'm; a loser)
+
+3 days  step into the unknown and let go  in california !
+0.81 (3 days; step; into the unknown)
+
+heading out to san fransisco tomorrow  miss them already !
+
+san < PROPFIRST >  Punks  Wow  Im a flaming homosexual .
+
+Karsten just hacked your account son .
+0.86 (Karsten; just hacked; your account son)
+
+Watching scary movies  Going to < PROPFIRST > McCartney concert  < PROPFIRST > McCartney was amazing  If at first you don't succeed ... call an airstrike  In a bulletproof vest , with the windows all closed  i saw it written and i saw it say : \Pink < PROPFEMALE > is on its way \""  songs bring back memories  Ack  If someone loves you ... Dont screw up  To meditate on the warmest dream  whoever made cognitive tutoring needs to climb up a really , really tall building ... and jump off , with my math teacher too  trying to understand it  she will rise above  505  turning mistakes into gold  I wish i was the souvenir you kept your house key on  SUBLIME !
+0.59 (PROPFIRST; all closed; )
+0.89 (scary movies; Going PROPFIRST; T:McCartney concert)
+0.32 (i; saw; it written)
+0.16 Context(i saw,List([208, 213))):(it; written; )
+0.31 (I; wish; i was the souvenir)
+0.80 Context(I wish,List([596, 602))):(McCartney; was; amazing)
+0.75 Context(McCartney was I wish,List([79, 602))):(you; do n't succeed; call an airstrike  In a bulletproof vest , with the windows; T:at first)
+0.45 Context(McCartney was you do n't succeed I wish,List([79, 602))):(you; do n't succeed call; an airstrike)
+0.46 Context(I wish,List([596, 602))):(i; was; the souvenir)
+0.79 (cognitive tutoring; jump; off)
+0.82 (someone; loves; you)
+0.54 (you; kept; your house)
+0.48 (i; saw; it say : \Pink < PROPFEMALE > is on its way \""  songs bring back memories  Ack  If someone loves you ... Dont screw up  To meditate on the warmest dream  whoever made cognitive tutoring needs to climb up a really , really tall building ... and jump off , with my math teacher)
+0.26 Context(i saw,List([229, 234))):(it; say; \Pink < PROPFEMALE > is on its way)
+0.74 Context(i saw it say,List([229, 241))):(PROPFEMALE; is; on its way)
+0.82 Context(i saw it say,List([229, 241))):(songs; bring; back; memories)
+0.90 (cognitive tutoring; needs; to climb up a really , really tall building)
+
+Thanks everybody for the birthday wishes , it really means a lot to me :)  i found an island in your arms , a country in your eyes :)  having a solitary lifestyle makes you appreciate your family more .
+0.62 (a country in your eyes :)  having a solitary lifestyle; makes; you appreciate your family more)
+0.74 Context(a country in your eyes :) having a solitary lifestyle makes,List([108, 168))):(Thanks everybody for the birthday; wishes; )
+0.26 Context(Thanks everybody for the birthday wishes a country in your eyes :) having a solitary lifestyle makes,List([0, 168))):(it; really means; a lot; to me)
+0.26 Context(Thanks everybody for the birthday wishes a country in your eyes :) having a solitary lifestyle makes,List([0, 168))):(i; found; an island in your arms)
+0.41 Context(a country in your eyes :) having a solitary lifestyle makes,List([108, 168))):(you; appreciate; your family; T:more)
+0.61 Context(a country in your eyes :) having a solitary lifestyle makes,List([108, 168))):(a country in your eyes; having; a solitary lifestyle)
+
+their all you got  got any pink < PROPMALE > songs ?
+0.72 (you; got; got any pink < PROPMALE > songs)
+
+happiness is only real when shared  i love music .
+0.86 (happiness; is; only real; T:when shared  i love music)
+
+its the best thing in the damn world  you know , time is long , and life is short , begin to live while you still can .
+0.38 (you; know; )
+0.80 (life; is; short)
+0.43 (its the best thing in the damn world  you know; begin; )
+0.76 Context(its the best thing in the damn world you know begin,List([0, 89))):(time; is; long)
+
+dont be afraid to show your love , and hold onto friends .
+
+they just seem to drift away ..  Love ... is just made up of a single soul inhabiting two bodies 
+0.32 (they; to drift; away)
+0.91 (a single soul; inhabiting; two bodies)
+0.27 (they; just seem; )
+

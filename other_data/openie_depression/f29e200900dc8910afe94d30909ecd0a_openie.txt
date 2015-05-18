@@ -1,0 +1,11 @@
+gosh i cant believe school is already starting back .
+0.39 (i; ca nt believe; school is already starting back)
+0.73 Context(i ca nt believe,List([5, 19))):(school; is starting; back; T:already)
+
+man it sucks cause in three weeks my < PROPFEMALE > is leaving to go to school too .
+0.52 (it; sucks; cause; T:in three weeks)
+0.80 (PROPFEMALE; is leaving; to go to school too)
+0.80 Context(PROPFEMALE is leaving,List([39, 62))):(PROPFEMALE; is leaving to go too; to school)
+
+:( 
+

@@ -1,0 +1,26 @@
+R.I.P. < PROPFIRST > Mays You will be missed
+0.32 (You; will be missed; )
+
+Well iv decided , I am going to Law school .
+
+Most likely at Fayetteville .
+
+possibly UCA .
+
+Leaving for Chicago on Tuesday .
+
+I'm Baack !
+0.57 (I; 'm; Baack)
+
+Guess what famous civil rights leader was assassinated on this date !!!  May the Fourth be with you !
+
+Done with school !
+
+:)  Island of flowers :) \  \  http://www.youtube.com/watch?v=9LIpw1cTqcM&feature=youtube_gdata  32 !!! :DD !! \  * self-congradulatory dance of cockiness*\  A 4-point gain from last year !!! \  ( Yeaaah you scored higher than me ... THEN SHUT UP !! Let me celebrate my conceitedness without any hinderance .... ) :)  Done :) \  Less than a week , watched every episode of How I Met Your Mother :) \  Yeah ... I'm that cool :)  Once upon an old time was a dame\  She could be a huge slut without shame\  But though she was flirty \  And most limericks are dirty\  The exceptions make you lose The Game 
+0.28 (she; was; flirty)
+0.42 (I; Met; Your Mother)
+0.29 (I; 'm Once; T:upon an old time)
+0.99 Context(I 'm Once,List([410, 432))):(:)  Island of flowers :) \  \  http://www.youtube.com/watch?v=9LIpw1cTqcM&feature=youtube_gdata  32 !!! :DD !! \  * self-congradulatory dance of cockiness*\  A 4-point gain from last year !!! \  ( Yeaaah you scored higher than me ... THEN SHUT UP !! Let me celebrate my conceitedness without any hinderance; watched; every episode of How I Met Your Mother :) \  Yeah)
+0.43 Context(:) Island of flowers :) \ \ http://www.youtube.com/watch?v=9LIpw1cTqcM&feature=youtube_gdata 32 !!! : DD !! \ * self - congradulatory dance of cockiness*\ A 4 - point gain from last year !!! \ ( Yeaaah you scored higher than me ... THEN SHUT UP !! Let me celebrate my conceitedness without any hinderance watched I 'm Once,List([0, 432))):(She; could be; a huge slut without shame\)
+0.39 (an old time; was a dame \; She)
+

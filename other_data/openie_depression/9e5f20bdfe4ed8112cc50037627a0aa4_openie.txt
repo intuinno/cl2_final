@@ -1,0 +1,773 @@
+Bring on the weight loss .... because I am so going to win this !
+0.20 (I; to win; this)
+
+I am pumped !
+0.19 (I; am pumped; )
+
+HOME !
+
+oh how I have missed the internet !
+0.45 (I; have missed; the internet)
+
+How sad is that ??  Done with the first book and I can't believe how addicted I am !
+0.26 (I; ca n't believe; how addicted I am)
+0.20 Context(I ca n't believe,List([49, 64))):(I; am; )
+
+I am super excited about celebrating my birthday this weekend !
+0.37 (I; am; super excited about celebrating my birthday this weekend)
+
+Bring on the excitement !
+
+Why do I let the past interfere with how far I have come now in the present !
+0.45 (I; have come; T:now; T:in the present)
+
+What an awesome birthday camping trip !
+
+Thanks Friends ... you are all amazing !
+0.36 (you; are; all amazing)
+
+Kinda looking forward to putting 26 behind me !
+0.83 (Kinda; looking forward; to putting 26 behind me)
+0.83 Context(Kinda looking forward,List([0, 21))):(Kinda; looking forward to putting; 26; behind me)
+
+Thank you everyone for the many birthday wishes and celebrations .
+
+I am so blessed to have so many wonderful friends !
+0.52 (I; am; so blessed to have so many wonderful friends)
+0.41 (I; to have; so many wonderful friends)
+
+Children amaze me !
+0.82 (Children; amaze; me)
+
+There have been so many days that my mood has changed due to the simple acts of children and their joy for life !
+0.61 (my mood; has changed; due to the simple acts of children and their joy for life)
+
+< PROPFEMALE>'s Pool Party today ... I am so excited !
+0.28 (I; am; so excited)
+
+I hate days like today when I can't seem to dismiss negative thoughts out of my head !
+0.45 (I; hate; days like today)
+0.27 (I; to dismiss; negative thoughts; out of my head)
+
+There is always another < PROPMALE > to pay ... does it ever get any easier ?
+0.59 (PROPMALE; to pay; )
+
+One more day of work and than 2 days off !! Time to have some fun :)  I am not sure where my day went .
+0.31 (I; am not; sure where my day went)
+0.41 (my day; went; )
+
+Maybe I should get out of the house and do something !
+0.48 (I; do; something)
+
+I am happy but realizing there is a big part missing in my life !
+0.28 (I; am; happy)
+0.85 (a big part; missing; L:in my life)
+0.23 (I; realizing; there is a big part)
+
+I really want to go to the Shock game this weekend !
+0.39 (I; really want; to go to the Shock game this weekend)
+0.39 Context(I really want,List([0, 13))):(I; really want to go; to the Shock game; T:this weekend)
+
+Anyone else want to go ?
+0.78 (Anyone else; want; to go)
+0.69 Context(Anyone else want,List([0, 16))):(Anyone else; want to go to go; )
+
+Is excited for < PROPFEMALE > and I's Christmas in July party on the 25th ... so many ideas already !
+0.57 (I; 's; Christmas)
+
+I think I have FINALLY decided it is time to start studying for the nursing exam again !
+0.36 (I; think; I have FINALLY decided it is time)
+0.30 Context(I think,List([0, 7))):(I; have; FINALLY decided it is time)
+0.72 Context(I think I have,List([0, 14))):(FINALLY; decided; it is time)
+0.47 Context(I think I have FINALLY decided,List([0, 30))):(it; is; time to start studying for the nursing exam again)
+
+Shocker I know !
+0.24 (I; know; )
+
+Helping < PROPFEMALE > paint her kitchen today .
+
+I am so excited ... I love to paint !
+0.37 (I; am; so excited ... I love to paint)
+0.19 (I; love; to paint)
+0.16 Context(I love,List([20, 26))):(I; love to paint to paint; )
+
+One more little thing added on to all the other little things might ( probably will ) cause me to loose it !
+0.62 (One more little thing; added on; to all the other little things)
+
+GRRR ...  I need to start sleeping at night so I don't have to take 4 hr naps in the afternoon !
+0.41 (I; to take; 4 hr naps; T:in the afternoon)
+0.36 (I; need; to start sleeping at night so I don't have to take 4 hr naps in the afternoon)
+0.39 Context(I need,List([10, 16))):(I; need to start; sleeping at night)
+0.39 Context(I need to start,List([10, 25))):(I; need to start sleeping; T:at night)
+
+After chasing an inner tube down < PROPFIRST > I am now ready to do some reviewing for the NCLEX !
+0.46 (I; to do; some reviewing; for the NCLEX)
+
+So excited to go float the river today !
+
+Too many adventures on the river today ... including loosing 2 sets of car keys !
+
+STUDYING !
+
+So much to know and understand ... not sure even where to begin !
+
+I am so excited about Saturday that everyother day seems to drag on !
+0.44 (I; am; so excited about Saturday that everyother day seems to drag on)
+0.73 (everyother day; seems; )
+0.74 (everyother day; to drag; on)
+
+I just worked from 4:30 am till 5:15 pm straight ... what a long day !
+0.45 (I; just worked; from 4:30 am till 5:15 pm straight)
+
+And now I get to go back in less than 12 hrs .
+0.20 (I; to go; back)
+
+:(  It is TOMORROW !
+0.57 (It; is; TOMORROW)
+
+I am so excited !
+0.28 (I; am; so excited)
+
+Last night was SO much fun !
+0.93 (Last night; was; SO much fun)
+
+I really think Christmas In July is going to have to be an annual event !
+0.92 (Christmas In July; to be; an annual event)
+0.55 (I; really think; Christmas In July is going to have to be an annual event)
+
+I want to go camping this weekend ... any suggestions of good places to go near water !
+0.64 (I; want; to go camping this weekend ... any suggestions of good places)
+
+My work day was WAY too long and a bit too eventful today !
+0.76 (My work day; was; WAY; T:too long; T:today)
+
+Ready to go watch some baseball with friends !
+
+YEAH ... 2 days off !! Who wants to < PROPFEMALE > out ?
+0.96 (YEAH ... 2 days off; wants; to < PROPFEMALE > out)
+
+Prankin ' it up ... and lovin ' it !
+
+I quickly realized after stepping on a treadmill to run how horribly out of shape I am !
+0.45 (I; quickly realized; T:after stepping on a treadmill)
+
+Not a good feeling !
+
+The number of things that I have procrastinated on recently has gotten so big I am now forgeting about them !
+0.35 (The number of things; have procrastinated; T:recently)
+0.67 (The number of things that I have procrastinated on recently; has gotten; so big I am now forgeting about them)
+0.34 (I; am forgeting; about them; T:now)
+
+NOT GOOD !
+
+It should not bother me but it does ... I should not care !
+0.31 (It; should not bother; me)
+0.23 (it; does; I should not care)
+0.16 Context(it does,List([28, 35))):(I; should not care; )
+
+FYI ... I have a talent for pushing people away :(  Off for 2 days !
+0.45 (I; have; a talent for pushing people away)
+
+A very much needed break from work !
+
+I am attempting to make cinnamon rolls from scratch for the first time ... hopefully things work out  I wish I had another day to recover from the weekend ... oh well it was worth it !
+0.36 (I; am attempting; to make cinnamon rolls from scratch for the first time ... hopefully things work out  I wish I had another day to recover from the weekend ... oh well it was worth it)
+0.39 Context(I am attempting,List([0, 15))):(I; am attempting to make; cinnamon rolls; T:for the first time)
+
+The one that SHOULD be so much more !
+0.79 (The one; SHOULD be; so much more)
+
+I need someone to be me for a week and get my life back together for me ... any volunteers ;)  Exhausted ... time for bed !
+0.27 (I; to be; me; T:for a week)
+0.83 (any volunteers; Exhausted; time for bed)
+0.36 Context(any volunteers Exhausted,List([76, 104))):(I; need; someone; to be me for a week and get my life back together for me)
+0.18 Context(I need any volunteers Exhausted,List([0, 104))):(I; need someone to get; my life; back together; for me)
+
+Getting excited for the weekend even though I don't have any plans yet !
+
+I get to sleep in tomorrow !! YEAH !
+0.52 (I; get; to sleep; T:in tomorrow)
+
+I don't want summer to end !
+0.39 (I; do n't want; summer to end)
+0.66 Context(I do n't want,List([0, 12))):(summer; to end; )
+
+Can we start it all over again ?
+
+\The better part of one's life consists of his friendships .
+0.89 (\The better part of one's life; consists; of his friendships)
+
+\ " - < PROPMALE > < PROPMALE > "  Thanks < PROPFIRST > !
+
+I had no idea you had so many pictures of me :) !!  I just saw \The Ugly Truth\ " I was laughing pretty much the entire time !
+0.53 (I; had; no idea you had so many pictures of me :) !!  I just saw \The Ugly Truth\ " I was laughing pretty much the entire time)
+0.54 (you; had; so many pictures of me)
+0.26 (I; just saw; \The)
+0.39 Context(I just saw,List([52, 62))):(I; was laughing; pretty much; T:the entire time)
+
+"  Only 2 weeks till Flogging < PROPFEMALE > !
+
+I want to go to Pig out in the Park tomorrow night .
+0.63 (I; want; to go to Pig out in the Park tomorrow night)
+0.44 Context(I want,List([0, 6))):(I; want to go out; to Pig)
+
+Anyone want to join me ?
+0.83 (Anyone; want; to join me)
+0.79 Context(Anyone want,List([0, 11))):(Anyone; want to join; me)
+
+I had a really fun laid back night !
+0.52 (I; had; a really fun laid back night)
+
+And now I have to work in 3 hours ... this should be interesting !
+0.41 (I; to work; T:in 3 hours)
+0.18 (this; should be; interesting)
+
+Montana bound with a lot of coffee to drink and some music to pump me up !
+0.95 (Montana; bound; with a lot of coffee to drink and some music)
+
+I will NOT fall asleep !! :)  September is not a good time to see waterfalls in glacier !
+0.18 (I; will NOT fall; asleep)
+0.90 Context(I will NOT fall,List([0, 15))):(September; is not; a good time to see waterfalls in glacier)
+
+And the \weeping wall\ " was definately just dripping !
+0.78 (the \weeping wall\; was definately just dripping; )
+
+"  My parents laughed at me when I said we should go on the Zip Line at Big Mountain !
+0.65 (My parents; laughed; at me; T:when I said we should go on the Zip Line at Big Mountain)
+0.40 (I; said; we should go on the Zip Line at Big Mountain)
+0.43 Context(I said,List([33, 39))):(we; should go; on the Zip Line; L:at Big Mountain)
+
+I guess that isn't going to happen .
+0.04 (that; to happen; )
+0.08 (I; guess; that isn't going to happen)
+
+Stoked to be back in Spokane but not excited about the 10 days of work I have ahead of me !
+0.85 (the 10 days of work; have; L:ahead of me)
+
+In 3 days I have gone from having a house with 2 roommates ... to no roommates and giving notice and not having a place to live ... to thinking about living in a camper or on couches ... to now being offered the opportunity to live with two amazing people .
+0.64 (I; have gone; from having a house with 2 roommates ... to no roommates and giving notice and not having a place to live ... to thinking about living in a camper or on couches ... to now being offered the opportunity; T:In 3 days)
+0.39 Context(I have gone,List([10, 21))):(I; have gone from having; a house)
+
+The future really does change quick !
+0.73 (The future; really does change quick; )
+
+Thank you < PROPFEMALE > and < PROPMALE > !
+
+I am so excited about going to see Flogging < PROPFEMALE > on Wednesday and just as excited that I don't have to work at 4 am the next morning anymore !
+0.49 (I; am just as excited; so excited about going to see Flogging < PROPFEMALE)
+0.41 (I; to work; T:at 4 am; T:the next morning; T:anymore)
+
+Making a cheesecake tonight !
+
+The Flogging < PROPFEMALE > Concert was amazing !! I really did not know what I was getting myself into .... my feet hurt so bad today but it was 100% worth it !
+0.37 (it; was; 100% worth it)
+0.80 (Concert; was; amazing)
+0.26 Context(Concert was,List([28, 39))):(I; really did not know; what I was getting myself into)
+0.26 Context(Concert was I really did not know,List([28, 72))):(I; was getting; myself)
+0.58 Context(Concert was I really did not know,List([28, 72))):(my feet; hurt so bad; T:today)
+
+I am so ready for Deutsche Fest !
+0.57 (I; am; so ready for Deutsche Fest)
+
+This is going to be an awesome weekend !
+0.34 (This; to be; an awesome weekend)
+
+I am feeling a little lost ... :(  Vikings WIN !
+0.50 (I; am feeling; a little lost; T:Vikings WIN)
+0.21 (I; lost; )
+
+OH YEAH !
+
+2-0 so far this season !
+
+I don't even know where to start with packing ... moving is way too time consuming !
+0.35 (I; do n't even know; moving is way too time consuming)
+0.48 Context(I do n't even know,List([0, 17))):(moving; is way too; time consuming)
+
+Pulling a wagon with 2 kids in it is a lot harder than you would think !... Workout for today ... check !
+0.78 (Pulling a wagon with 2 kids in it; is; a lot harder than you would think !... Workout for today ... check)
+0.51 (you; would think; Workout for today)
+0.39 (it; is a lot harder than; you)
+
+I am starting to get excited about this weekend again !
+0.19 (I; am starting; )
+0.41 (I; to get; excited about this weekend; T:again)
+
+Bring it on !
+
+TGIF !!!! Off to work I go !
+0.24 (I; go; )
+
+Red wine and packing are the perfect combination !
+0.92 (Red wine and packing; are; the perfect combination)
+
+Excited for the home opener for hockey tonight and than hanging out with a pretty awesome group of friends !
+
+Great friends ... Drinks ... a fire ... good conversation with lots of laughter and maybe a little bit of packing sounds like the perfect plan for this evening !  3 days off and ALOT of organizing to do ....
+
+I hate moving !
+0.23 (I; hate; moving)
+0.17 (I; moving; )
+
+Time to get rid of stuff !
+
+I am super excited for Monday night football !
+0.57 (I; am; super excited for Monday night football)
+0.88 (I; am super excited for; Monday night football)
+
+Now I just have to find somewhere to watch it !
+0.23 (I; to find; L:somewhere; to watch it)
+0.16 Context(I to find,List([4, 23))):(I; to find to watch; it)
+
+It has been a very uneventful weekend ... which is just what I needed !
+0.45 (It; has been; a very uneventful weekend)
+
+Sometimes the best thing to do is to get rid of everything that connects you to another person so that you can fully move on !
+0.36 (the best thing; to do; )
+0.27 (you; can move; on)
+0.85 (the best thing to do; is; to get rid of everything; T:Sometimes)
+0.73 (the best thing to do; get; rid of everything)
+0.59 (everything; connects; you; so that you can fully move on)
+
+I hate that today was only my \monday\ " and I am already in need of a day off ! "  Words of advice ... When drinking with < PROPFEMALE > know that she is an amazing hostess but you will be better off if you fill your own glass :)  I love that I get to watch my too favorite sports today live !
+0.40 (I; to watch live; T:today)
+0.36 (you; will be; better off)
+0.52 (I; am; T:already; in need of a day off)
+0.54 (you; fill; your own glass)
+0.17 (I; love; that I get to watch my too favorite sports today live)
+0.17 Context(I love,List([232, 238))):(I; hate; that today was only my \monday\ " and I am already in need of a day off ! "  Words of advice)
+0.74 (PROPFEMALE; know; that she is an amazing hostess but you will be better off; T:When drinking with)
+0.46 Context(PROPFEMALE know,List([125, 142))):(she; is; an amazing hostess)
+
+Football and Hockey ... my day can not get much better :)  Confession ... It is almost 2 and I am still in bed !
+0.68 (my day; can not get; much better; Confession)
+0.28 (It; is; almost 2)
+0.52 (I; am; T:still; in bed)
+
+I never do this !
+0.23 (I; never do; this)
+
+I just bought my halloween costume !
+0.31 (I; just bought; my halloween costume)
+
+I am so ready to go back to the 50's!
+0.52 (I; am; so ready to go back to the 50's)
+0.41 (I; to go; back to the 50's)
+
+Ready to watch some amazing women play hockey !
+
+This should be exciting !
+0.18 (This; should be; exciting)
+
+Got my Halloween costume !
+
+I love it !
+0.31 (I; love; it)
+
+Now I just need to work on my self confidence to wear it :)  Moderation .... thats all I need to say about that !
+0.08 (I; need; to say about that)
+0.05 Context(I need,List([87, 93))):(all; to say; about that)
+0.38 (I; just need; to work on my self confidence to wear it; T:Now)
+0.26 Context(I just need,List([4, 15))):(I; just need to work; on my self confidence)
+0.26 Context(I just need to work,List([4, 23))):(I; just need to work on my self confidence to wear; it)
+
+:)  What was I thinking ?? :(  I love that I just realized the night before the party that my costume is an XS not a Large ... and the whole time I have been stressing !
+0.74 (my costume; is; an XS not a Large)
+0.55 (I; have been stressing; T:the whole time)
+
+definately not a size 0-2 WOW !!!
+
+I had an awesome time last night !
+0.52 (I; had; an awesome time; T:last night)
+
+I loved having so many friends in one place .
+0.40 (I; loved; having so many friends in one place)
+0.40 Context(I loved,List([0, 7))):(I; loved having; so many friends; L:in one place)
+
+Is it bad that it is after Halloween but I still want to carve my pumpkin !
+0.57 (it; is; after Halloween)
+0.41 (I; want; to carve my pumpkin; T:still)
+0.23 Context(I want,List([41, 53))):(I; want to carve; my pumpkin)
+
+I need some motivation !!!!
+0.45 (I; need; some motivation)
+
+I am so done with being sick !
+0.19 (I; am so done; )
+0.20 (I; with being; sick)
+
+Hopefully the \drug store\ " < PROPFEMALE > brought me today will help :) "  YOU HAVE TO JUST TRY IT !.... go to the bottom of your facebook < PROPFEMALE > and change the language to English ( pirate ) it is awesome !
+0.70 (the \drug store\; will help; :))
+0.66 Context(the \drug store\ will help,List([10, 70))):(the \drug store\; will help :) :); )
+0.28 (it; is; awesome)
+0.64 (YOU; TO JUST TRY; IT)
+
+I was told again tonight that I have not seen enough good movies so I need everyones help ... What movies do I absolutely need to see ?
+0.17 (I; was told; T:again; T:tonight; that I have not seen enough good movies so I need everyones help ... What movies do I absolutely need to see)
+0.39 Context(I was told,List([0, 10))):(I; have not seen; enough good movies)
+
+Working at my \old\ " starbucks tonight .
+0.64 (Working at my \old\; starbucks; T:tonight)
+
+It has been a long time and I am really excited !
+0.45 (It; has been; a long time)
+0.28 (I; am; really excited)
+
+"  I might have just changed the course of my life with a couple words .... SCARY but exciting !
+0.31 (I; might have just changed; the course of my life)
+
+Right choice ... I am still not sure !
+0.25 (I; am not; sure; T:still)
+
+I've learned that if you pursue happiness , it will elude you But , if you focus on your family , your friends , the needs of others , and doing the very best you can , happiness will find you  < PROPMALE > Lake , a pitcher of Sangria , shots fired , 21 ... oh i mean 22 sighting , 4 < PROPFEMALE > trash cans ... Oh what a night but totally worth it !
+0.17 (I; 've learned; that if you pursue happiness , it will elude you)
+0.26 Context(I 've learned,List([0, 12))):(it; will elude; you)
+0.78 (happiness; will find; you; L:<)
+0.50 Context(happiness will find,List([169, 188))):(shots; fired; )
+0.62 (you; pursue; happiness)
+0.19 (i; mean; )
+0.46 (you; focus; on your family)
+0.38 (PROPMALE > Lake; [is] a pitcher of; Sangria)
+
+Two more days of work and than I don't work again till Thanksgiving !
+0.50 (I; do n't work; T:again; T:till Thanksgiving)
+
+I am so ready for a break from it all !
+0.37 (I; am; so ready for a break from it)
+
+Montana here I come !
+0.49 (here; come; I)
+
+6 days of no work , family time , and lots of amazing food !
+
+Little sisters always get their way ... I love you but you know it is true !
+0.26 (I; love; you)
+0.89 Context(I love,List([40, 46))):(Little sisters; get; their way; T:always)
+0.48 (you; know; it is true)
+0.24 Context(you know,List([55, 63))):(it; is; true)
+
+I am so excited to have Thanksgiving with my family tomorrow !
+0.42 (I; am; so excited to have Thanksgiving with my family tomorrow)
+0.46 (I; to have; Thanksgiving; T:tomorrow)
+
+I am so thankful that we can all be together !
+0.18 (I; am; so thankful that we can all be together)
+0.16 (we; can be; together)
+
+It has been a long time !
+0.45 (It; has been; a long time)
+
+Due to all my mom's amazing skills in the kitchen I think I am going to come back to Spokane tomorrow 10 lbs heavier !
+0.40 (I; to come heavier; T:tomorrow)
+0.42 (I; think; I am going to come back to Spokane tomorrow 10 lbs heavier)
+
+So worth it :)  Home sweet home !
+0.57 (it; :); Home sweet home)
+
+But spending Thanksgiving at Starbucks ... please come visit me !
+
+It is amazing to me how much a 2 year old can make me laugh !
+
+I forget all too often about the simple things in life :)  I can't even explain how excited I am to have a day off tomorrow ... 9 days straight of work really got to me !
+0.41 (I; to have; a day; L:off tomorrow)
+0.36 (I; ca n't even explain; how excited I am to have a day off tomorrow)
+0.39 Context(I ca n't even explain,List([59, 79))):(I; forget; T:all too often; about the simple things in life)
+0.20 Context(I ca n't even explain,List([59, 79))):(I; am; )
+
+Oh what should I do tomorrow ??  Oh how I love red wine :)  Going to find an ugly christmas sweater for the hockey game tonight ... that should not be hard to find !
+0.05 (that; should not be; hard to find)
+
+Nervous !!  Is it really almost Christmas .... because it doesn't feel like it !
+0.30 (Nervous; Is really; T:almost Christmas; because it doesn't feel like it)
+0.31 (it; does n't feel; like it)
+
+It is going to be really different this year :(  I spent 10 1/2 hours of my Christmas at Starbucks :( It was a very different day so I might have to have my own Christmas another day !
+0.31 (I; to have; my own Christmas; T:another day)
+0.41 (It; to be; really different; T:this year)
+0.46 (It; was; a very different day)
+0.35 Context(It was,List([102, 108))):(I; spent; 10 1/2 hours of my Christmas; L:at Starbucks :()
+0.39 (It; was a very different day so; I)
+
+Making $24/hour just made working 10 hrs on christmas completely worth it !
+
+It is crazy to think that if things would have gone as planned I would be celebrating 4 years of marriage today ... things really do happen for a reason !
+0.19 (things; would have gone; )
+0.39 (things; really do happen; for a reason)
+
+Blue  I had a great first week of \starbucks biggest loser\ " but this coming week is going to be even better !
+0.52 (I; had; a great first week of \starbucks biggest loser\)
+0.75 (this coming week; to be; even better)
+
+oh yeah !
+
+"  So excited for Saturday ... I haven't gone out downtown in a long time and it will be great to spend time with friends !
+0.45 (I; have n't gone out; downtown; T:in a long time)
+
+Going into week #3 of \Starbucks Biggest Loser\ " and still going strong !
+
+I feel so much better and love the extra energy I have !
+0.23 (I; feel; so much better)
+0.27 (I; love; the extra energy I have)
+0.89 (the extra energy; have; I)
+
+"  Don't let the fear of the time it will take to accomplish something stand in the way of your doing it .
+0.41 (it; to accomplish; something stand)
+0.46 (your; doing; it)
+
+The time will pass anyway ; we might just as well put that passing time to the best possible use .
+0.19 (we; might just as well put; that passing time; to the best possible use)
+0.68 Context(we might just as well put,List([28, 53))):(The time; will pass anyway; )
+
+~ Earl Nightingale  I am searching for that part of myself that I found a few months ago ... the confident and strong side of me ... I need to find that again !  is hoping the Vikings play their best game this season today !
+0.14 (I; am searching; for that part of myself)
+0.08 (I; need; to find that again)
+0.08 Context(I need,List([133, 139))):(I; need to find; that; T:again)
+0.58 (that part of myself; found; T:a few months ago)
+0.23 Context(that part of myself found,List([39, 71))):(I; is hoping; the Vikings play their best game this season today)
+0.80 Context(that part of myself I found is hoping,List([39, 171))):(the Vikings; play; their best game; T:this season; T:today)
+
+Just went to my first Zumba class ....
+
+I LOVE it !
+0.31 (I; LOVE; it)
+
+Learning how to shake my hips !
+
+Frustrated ! 3 weeks of working out 5-7 days/week and I haven't lost anything the last couple weeks !
+0.45 (I; have n't lost; anything; T:the last couple weeks)
+
+I am starting to lose my motivation :(  Go to urbandictionary.com,
+0.26 (I; am starting; to lose my motivation)
+0.26 Context(I am starting,List([0, 13))):(I; am starting to lose; my motivation)
+
+type in your first name , copy and paste this as your status , and put the first entry for your name under comments .
+
+A glass of wine can make almost any day better !
+0.77 (A glass of wine; can make; )
+
+Mmmm ... Cap'n Crunch !
+
+Thank you Rosauers Cereal Sale for making me feel like a kid again !
+0.37 (you; for making; me feel like a kid again)
+0.40 Context(you for making,List([6, 41))):(me; feel; like a kid; T:again)
+
+I am sick AGAIN !
+0.57 (I; am; sick; T:AGAIN)
+
+When will I get a break ?
+
+Finally feeling better !
+
+Goal for the next 6 months = staying healthy !
+0.80 (Goal for the next 6 months; staying; healthy)
+
+In Great Falls for a couple of days to take care of my mom after her surgery .
+
+I told her I was going to have to put a shock collar on her because she keeps trying to do things she shouldn't be doing !
+0.42 (I; told; her; I was going to have to put a shock collar on her)
+0.40 (things; should n't be doing; she)
+0.27 (I; to put; a shock collar; on her)
+0.40 (she; keeps; trying to do things)
+0.40 Context(she keeps,List([68, 77))):(she; keeps trying; to do things)
+0.26 Context(she keeps trying,List([68, 84))):(she; keeps trying to do; things she shouldn't be doing)
+
+I am so excited to have my computer up and running again !
+0.49 (I; am; so excited to have my computer up and running again)
+0.27 (I; to have up; my computer)
+0.20 (I; running; T:again)
+
+Taxes done ... Check Bills paid ... Check Half a bottle of wine gone ... CHECK !!!  45 mins on the treadmill + 30 mins lifting + 1 hour zumba class = one burnt out < PROPFEMALE > !
+0.71 (Taxes; done; )
+0.94 (1 hour zumba class = one; burnt out; T:<; T:PROPFEMALE)
+0.94 (Check Bills; paid; Check Half a bottle of wine gone ... CHECK !!!  45 mins on the treadmill + 30 mins lifting + 1 hour zumba class = one burnt out < PROPFEMALE >)
+0.87 Context(Check Bills paid,List([15, 31))):(Check Bills; paid Check; Half a bottle of wine)
+0.89 Context(Check Bills paid Check,List([15, 41))):(gone ... CHECK !!!  45 mins on the treadmill + 30 mins; lifting; )
+
+I may have pushed myself a little too much !
+0.31 (I; may have pushed; myself; a little too much)
+
+I love my car ... but I have the worst luck with it !
+0.31 (I; love; my car)
+0.31 (I; have; the worst luck with it)
+
+So excited about my new phone !
+
+I have a feeling I may be distracted few a few days !
+0.42 (I; have; a feeling I may be distracted few a few days)
+0.45 (I; may be distracted; T:few a few days)
+
+< PROPMALE > and Dunn and < PROPFIRST > Aldean in concert tonight !
+
+I am more than excited :)  Tough girls come from NY .
+0.57 (I; am; more than excited :)  Tough girls come from NY)
+0.93 (excited :)  Tough girls; come; from NY)
+
+Sweet girls they're from Alabama .
+0.72 (they; 're; from Alabama)
+
+MONTANA girls , we have fire & ice in our blood !
+0.31 (we; have; fire & ice; L:in our blood)
+
+We can ride horses , ski , snowmobile , throw left hooks , build fires , shoot guns , run with the boys & drink beers ; all the while making HOT tea , APPLE pies & callin you BABE .
+0.45 (We; can ride; horses , ski , snowmobile)
+0.42 (We; throw; left hooks)
+0.26 Context(We throw,List([0, 45))):(We; throw left hooks making; HOT tea)
+0.41 (We; build; fires)
+0.87 (APPLE pies; callin; you; BABE)
+0.41 (We; shoot; guns)
+
+IF WE HAVE AN OPINION YOU KNOW YOU'RE GONNA HEAR IT , nothin like bein a MONTANA GIRL !
+0.72 (YOU; 'RE; GONNA HEAR IT)
+0.86 (WE; like bein; a MONTANA GIRL)
+
+If you're a true MONTANA GIRL repost this !!  Just found out ... In 2 weeks I will be 1 of 4 assistant managers for starbucks in the Spokane area !
+0.72 (you; 're; a true MONTANA GIRL)
+0.74 (a true MONTANA GIRL; repost; this)
+
+First day as an assistant manager !
+
+Exciting and a little scary at the same time !
+
+Lesson learned ... Know exactly what is in your car so if it is broken into I will know if I am missing anything :(  Thank you so much everyone for wishing me a happy birthday !
+0.82 (Lesson; learned; Know exactly what is in your car)
+0.42 (you; for wishing; me; a happy birthday)
+0.19 (it; is broken; )
+
+It meant alot to me .
+0.31 (It; meant; alot; to me)
+
+I had a really good day and don't feel any older :)  I am SO excited to meet the newest member of the Webb family today !
+0.52 (I; had; a really good day)
+0.42 (I; do n't feel; any older; I am SO excited to meet the newest member of the Webb family today)
+0.68 (I; am; SO excited to meet the newest member of the Webb family today)
+0.46 (I; to meet; the newest member of the Webb family; T:today)
+
+I can't wait to find out if this new baby is a boy or a girl !
+0.57 (I; ca n't wait; to find out if this new baby is a boy or a girl)
+0.46 (I; to find out; if this new baby is a boy or a girl)
+0.91 Context(I to find out,List([0, 24))):(this new baby; is; a boy or a girl)
+
+I got my motivation back finally !
+0.37 (I; got; my motivation; T:back finally)
+
+I signed up for weight watchers again and started back at the gym !
+0.45 (I; signed up; for weight watchers; T:again)
+0.41 (I; started; back at the gym)
+
+Goals are set ... It is time to achieve them !
+0.32 (It; is; time to achieve them)
+0.67 Context(It is,List([18, 23))):(Goals; are set; )
+
+Pink < PROPFEMALE > ties :) ha ... It is going to be awesome !
+0.20 (It; to be; awesome)
+
+Week one = awesome !
+
+6.2 lbs lost :)  Tonight ... Some awesome friends + a reason to celebrate + alcohol = an awesome bachelorette party for < PROPFEMALE > !
+0.78 (6.2 lbs; lost; )
+0.97 (Some awesome friends; +; a reason to celebrate + alcohol = an awesome bachelorette party for < PROPFEMALE >; T:Tonight)
+0.81 Context(Some awesome friends +,List([29, 51))):(Some awesome friends; + to celebrate; alcohol = an awesome bachelorette party)
+
+Watch out Fizzies these girls are ready to have some fun !
+0.90 (these girls; are; ready to have some fun)
+0.89 (these girls; to have; some fun)
+
+Got up at 1245 this morning to go Salmon fishing :) I hope we catch some big fish !
+0.26 (I; hope; we catch some big fish)
+0.47 Context(I hope,List([52, 58))):(we; catch; some big fish)
+
+Excited for a day off tomorrow and than some fun times at the Indians baseball game !
+
+I am SO excited for the hockey game tomorrow !
+0.52 (I; am; SO excited for the hockey game tomorrow)
+0.89 (I; am SO excited for; the hockey game tomorrow)
+
+Hockey season is so close now !
+0.86 (Hockey season; is; so close; T:now)
+
+Excited for the start of football !
+
+Go Vikings !
+
+I got my hair cut and colored yesterday .
+0.37 (I; got; my hair cut and colored; T:yesterday)
+
+I love it !
+0.31 (I; love; it)
+
+Thanks Corinne :)  Fishing time !
+
+Hopefully going to catch one bigger than the 25 pounder I got last time :)  Back to work after 10 days off !
+0.92 (the 25 pounder; got; T:last time; T:after 10 days off)
+
+Exhausted ... yet super excited for the chiefs home opener !
+0.73 (the chiefs; home opener; )
+
+My parents are coming tomorrow !
+0.64 (My parents; are coming; T:tomorrow)
+
+Hopefully I can think of enough things to do to entertain them !
+0.49 (enough things; to do; to entertain them)
+
+Excited to see the Farve/Moss combination tonight when the Vikings take on the Jets !
+
+Shopping for a halloween costume is so frustrating !
+0.85 (Shopping for a halloween costume; is; so frustrating)
+
+I am seriously considering skipping it this year .
+0.26 (I; am seriously considering; skipping it this year)
+0.26 Context(I am seriously considering,List([0, 26))):(I; am seriously considering skipping; it; T:this year)
+
+I have to be a work at 330am and I can't fall asleep :( I am going to be so exhausted !
+0.41 (I; to be; a work at 330am)
+0.23 (I; ca n't fall; asleep)
+0.20 (I; to be; so exhausted)
+
+I had so much fun carving pumpkins and watching hockey tonight !
+0.52 (I; had; so much fun carving pumpkins and watching hockey tonight)
+
+Watching football and drinking a beer ... great way to start out a Sunday !
+
+3rd times the charm ... New register system finally launched at our store .
+0.90 (3rd times the charm; launched; L:at our store; T:finally)
+
+Bad news is I feel like a new partner who has no idea what I am doing :(  I don't know why I am constantly putting so much time into making things right when there are always imperfections to be found and pointed out !
+0.89 (Bad news; is; I feel like a new partner who has no idea what I am doing :(  I don't know why I am constantly putting so much time into making things right)
+0.36 Context(Bad news is,List([0, 11))):(I; do n't know; why I am constantly putting so much time into making things right)
+0.39 Context(Bad news is I do n't know,List([0, 86))):(I; feel; like a new partner)
+0.39 Context(Bad news is I do n't know,List([0, 86))):(I; am constantly putting; so much time; into making things right)
+0.86 (a new partner; has; no idea what I am doing)
+0.19 (I; am doing; )
+0.71 (imperfections; to be found; )
+
+I can't believe it is Christmas < PROPFEMALE > .
+0.29 (I; ca n't believe; it is Christmas)
+0.50 Context(I ca n't believe,List([0, 15))):(it; is; Christmas)
+
+With everything going on at work I have not had the time to enjoy the last couple weeks .
+0.89 (everything; going on; L:at work)
+0.45 (I; have not had; the time to enjoy the last couple weeks)
+
+Wish I could rewind time .
+
+:(  Off to work ... I really hope it is better that last year !
+0.11 (I; really hope; it is better that last year)
+0.24 Context(I really hope,List([20, 33))):(it; is; better; T:that last year)
+
+People better be nice today !
+0.93 (People better; be; nice; T:today)
+
+So excited to go to the first WHL outdoor hockey game today !
+
+Go chiefs !
+
+Oh yeah !
+
+11-2 !! Go chiefs go !!!
+0.77 (chiefs; go; )
+
+So excited to have a girls night out at the hockey game tonight !  13 days till Canada and my first NHL game !
+
+I am so excited :) 
+0.28 (I; am; so excited)
+

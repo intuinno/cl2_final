@@ -1,0 +1,38 @@
+had a great day out at the barn with the horses
+
+I'm ready for my new job to start so I can feel like a real person agian It sucks to be a bum  had a great trail ride even with the rain  anyone got a boat , the bottoms are filling up quick  all are welcome at our house on saturday the 30th for our halloween party  is rcovering from the party by hanging out in pjs and making punkin mufffins with the family ( < PROPMALE > & angel )  are ready for Sons Of Anarchy night with Angel  I was just in a car wreck where some terrible man in a blue Highlander destroyed my truck and smashed my face , then told a bald faced lie about it to and ignorant cop who failed epicly to investigate anything !!!!  are so ready for SOA night .
+0.84 (a real person agian It sucks to be a bum; had; a great trail ride even with the rain  anyone)
+0.95 (some terrible man in a blue Highlander; destroyed; my truck; L:a car wreck)
+0.17 (I; to start; )
+0.52 (I; was; just in a car wreck)
+0.42 (I; can feel; like a real person agian It sucks to be a bum  had a great trail ride even with the rain  anyone)
+0.83 (a bald; faced; lie about it)
+0.73 (the bottoms; are filling up; )
+0.52 (It; sucks; to be a bum)
+0.89 (ignorant cop; failed epicly; to investigate anything)
+0.42 (quick  all; are; welcome; L:at our house)
+0.89 (ignorant cop; to investigate; anything)
+0.91 (a real person agian; to be; a bum)
+0.93 (some terrible man in a blue Highlander; smashed then; L:a car wreck)
+0.93 Context(some terrible man in a blue Highlander smashed then,List([466, 550))):(some terrible man in a blue Highlander; smashed then told; a bald faced lie about it to and ignorant cop; T:then)
+
+Maybe the termoil of a fictional California biker gang can distract us from our own .
+
+Four inches of Snow on the ground in Kensett  Searcy Beauty College is out for snow tomorrow  Tell the truth , does anyone else watch < PROPFIRST > and root for JR .
+
+< PROPMALE > seems to think it makes me evil ?
+0.59 (PROPMALE; seems; )
+0.68 (PROPMALE; to think; it makes me evil)
+0.26 Context(PROPMALE to think,List([2, 27))):(it; makes; me evil)
+
+Feeling much better thanks to a visit from my girls  eat organic , or as your grandparents called it ' food '  I was raised to be courteous , kind , compasionate and caring , honest and respectful , strong at heart and tender at the same time , help those in need if it means going out of your way and put others first cause the blessings you will recieve come from all the above and if you are blessed as a result of what you do then you will be a blessing to those you touch .
+0.20 (those; touch; you)
+0.26 (it; means; going out of your way and put others first)
+0.30 Context(it means,List([267, 275))):(it; means put; others; T:first)
+0.37 (you; will be; a blessing to those)
+0.49 (your grandparents; called; it; food)
+0.43 (you; do; T:then)
+0.44 (I; was raised; to be courteous; T:as your grandparents called it ' food)
+0.32 (you; are blessed; )
+0.20 (I; to be; courteous)
+

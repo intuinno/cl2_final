@@ -1,0 +1,53 @@
+Finally got a new Facebook !
+
+Never really did find out why my last one was disabled ... Sorry for the ugly webcam taken profile picture !
+
+Can't wait to get my new haircut tomorrow ~ And have a super awesome epic < PROPMALE > Potter Marathon with < PROPFEMALE > <3  Grr !
+
+My glasses broke last weekend so they keep falling off >:(  I'm getting really nervous about my biopsy coming up , i can just hear my family saying \ ... Lindsea died in her biospy\ " :'( Pray for me !
+0.36 (they; keep; falling off >)
+0.32 (they; keep falling off; )
+0.85 (Lindsea; died; L:in her biospy\; Pray for me)
+0.26 Context(Lindsea died,List([154, 166))):(i; can just hear; my family saying)
+0.58 Context(i can just hear Lindsea died,List([115, 166))):(My glasses; broke; T:last weekend)
+0.29 Context(i can just hear Lindsea died,List([115, 166))):(my family; saying; )
+0.31 (I; 'm getting; really nervous about my biopsy coming up)
+0.34 (my biopsy; coming up; )
+
+"  !
+
+Scary Black Widow ( I think ) in the garage !
+0.24 (I; think; )
+
+now everything i touch seems to be a scary nightmarish monster trying to kill me !
+0.87 (everything; touch; i)
+0.50 (everything i touch; seems; T:now)
+0.47 (everything i touch; to be; a scary nightmarish monster trying to kill me)
+0.86 (a scary nightmarish monster; trying; to kill me)
+
+AHH  I can't wait for Grand Assembly !
+0.50 (I; ca n't wait; for Grand Assembly)
+
+I survived my biopsy !!
+0.31 (I; survived; my biopsy)
+
+Even though they blew up two veins when they were trying to IV me :'( it hurt like crazy  I really wish I hadn't looked at the McDonalds nutrition chart .... 1 McChicken has the same amount of trans fat as 3 Subway Footlongs .
+0.40 (they; were trying; to IV me)
+0.40 Context(they were trying,List([40, 56))):(they; were trying to IV; me)
+0.96 (1 McChicken; has; the same amount of trans fat as 3 Subway Footlongs)
+0.30 Context(1 McChicken has,List([158, 173))):(it; hurt crazy; I really wish I hadn't looked at the McDonalds nutrition chart)
+0.29 Context(it hurt crazy 1 McChicken has,List([70, 173))):(I; really wish; I hadn't looked at the McDonalds nutrition chart)
+0.43 Context(it hurt crazy I really wish 1 McChicken has,List([70, 173))):(I; had n't looked; at the McDonalds nutrition chart)
+
+AAAAH !
+
+Why am I picking out all of my eyelashes ?! I have about 10-20 BLOND eyelashes on each side :'(  I love rain , but I want some < PROPFEMALE > days T_T .
+0.50 (I; have; about 10-20 BLOND eyelashes on each side)
+0.45 (I; love; rain)
+0.28 (I; want; some <)
+
+I'm sick :'(  Listing what animes I've seen makes me feel like a total nerd T_T 
+0.28 (I; 'm; sick)
+0.23 (I; Listing; what animes I've seen)
+0.16 Context(I Listing,List([0, 21))):(I; 've seen; )
+

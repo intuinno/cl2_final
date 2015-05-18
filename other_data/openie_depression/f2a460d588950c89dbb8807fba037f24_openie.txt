@@ -1,0 +1,15 @@
+Yay !
+
+My first post .
+
+Just trying out facebook to see how things go .
+
+:) I hope to add more pics soon of my ultrasounds .
+0.26 (I; hope; to add more pics soon of my ultrasounds)
+0.26 Context(I hope,List([3, 9))):(I; hope to add; more pics; T:soon of my ultrasounds)
+
+I'm so excited about sharing my journey through my pregnancy .
+0.37 (I; 'm; so excited about sharing my journey through my pregnancy)
+
+^.^ 
+

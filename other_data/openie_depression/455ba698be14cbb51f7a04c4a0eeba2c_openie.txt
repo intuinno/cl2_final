@@ -1,0 +1,1499 @@
+is back home now .
+
+WOOOOOOOO TOMORROW LINGLING .
+
+. If there's grass on the playing field , play ball .
+
+If not , flip ' em over and play in the mudd .
+
+Gross .
+
+now knows JUPITER ISN'T IN THE SOLAR SYSTEM .
+
+< PROPFEMALE > is so smart .  is breaking the hearts that wouldn't bend .  is closing the doors you use to listen through .  is BLAH  is watching < PROPMALE > , < PROPMALE > d N < PROPMALE > dy .
+0.70 (the hearts; would n't bend; )
+0.68 (the doors; use; to listen)
+0.85 Context(the doors use,List([86, 103))):(the doors; use to listen to listen; you)
+
+Wooooooo  The safety for Toxic Chemical Loaded Munition is : Must observe from 400 meters away , and clear a 2000ft downwind space .
+0.93 (Wooooooo; is; Must observe from 400 meters away , and clear a 2000ft downwind space)
+
+just got nervous about going to UXO tech 1 school in September .
+
+It's only a month long , but it's in Texas , so I'll be far from home .
+0.52 (It; 's; only a month long)
+0.57 (it; 's; in Texas)
+
+=(  Salam .
+
+Chitori ?
+
+HOLA HOLA HOLA HOLA HOLA HOLA HOLA HOLA HOLA HOLA HOLA HOLA  is going to redecorate her sitting room .
+0.89 (HOLA HOLA HOLA HOLA HOLA HOLA HOLA HOLA HOLA HOLA HOLA HOLA; to redecorate; her sitting room)
+
+Maybe Tuesday .
+
+Sweet .
+
+saw that Titanic was on TV , so she turned it to the channel .
+
+But come to find out , it was the spanish channel and the movie was voiced over in spanish .
+0.52 (it; was; the spanish channel)
+0.90 (the movie; was voiced over; L:in spanish)
+
+So I ended up going to WalMart to buy it , because I really really wanted to watch it .
+0.35 (I; ended up; going to WalMart; because I really really wanted to watch it)
+0.27 (I; to buy; it)
+0.26 (I; really really wanted; to watch it)
+0.26 Context(I really really wanted,List([51, 73))):(I; really really wanted to watch; it)
+
+So I'm watching T  shouldn't have watched Titanic .
+0.39 (I; 'm watching; T)
+0.43 Context(I 'm watching,List([3, 15))):(I; 'm watching T should n't have watched; Titanic)
+
+I miss my husband now .
+0.37 (I; miss; my husband; T:now)
+
+Oh well , he just left today and he'll be back Wednesday .
+0.45 (he; just left; T:today)
+0.57 (he; 'll be; back; T:Wednesday)
+
+I'll get over it .
+0.37 (I; 'll get; over it)
+
+Just cleaned the house .
+
+Found out I might already have a UXO job lined up .
+0.80 (a UXO job; lined up; )
+
+Wooooo .
+
+Keep your fingers crossed for me .
+
+Now , I'm off to study the color-coded marks on bombs and what they mean .
+0.63 (I; 'm; off; to study the color-coded marks on bombs and what they mean; T:Now)
+0.36 (I; to study; the color-coded marks on bombs)
+0.27 Context(I to study,List([6, 22))):(they; mean; )
+
+just picked up an icecream birthday cake for her husband .
+
+=)  when I tell you to dump a body in the marsh , you dump him IN THE MARSH .
+0.37 (I; tell; you; to dump a body in the marsh)
+0.62 (you; to dump; a body; L:in the marsh)
+0.80 (you; dump; him; L:IN THE MARSH; T:when I tell you to dump a body in the marsh)
+
+Not where some guy from < PROPFIRST > Hancock goes every thursday TO GET A FUCKIN BLOW JOB .
+0.93 (Hancock; goes; T:every thursday; TO GET A FUCKIN BLOW JOB)
+0.92 (Hancock; TO GET; A FUCKIN BLOW JOB)
+
+played beer pong with Kazakhstan Diplomats last night .
+
+sucked at darts last night and she doesn't know why .
+0.23 (she; does n't know; why)
+
+=(  will fight , but not out of spite .
+0.56 (=(; will fight; )
+
+Because someone must stand up for what's right .
+0.75 (someone; must stand up; for what's right)
+
+loves her neighbors .
+
+I swear my neighborhood is better than Spooner St. =)  wants to go to the < PROPFEMALE > .
+0.26 (I; swear; my neighborhood is better)
+0.78 Context(I swear,List([0, 7))):(my neighborhood; is; better than Spooner St. =)  wants to go to the < PROPFEMALE >)
+0.95 (Spooner St. =); wants; to go to the < PROPFEMALE >)
+0.93 Context(Spooner St. =) wants,List([39, 60))):(Spooner St. =); wants to go; to the < PROPFEMALE)
+
+And she wants a < PROPFIRST > SENTRIA VACUUM PLEASE .
+0.27 (she; wants PROPFIRST; a <)
+
+Thank you .
+
+LIFE is so much bigger than you are .
+0.86 (LIFE; is; so much bigger than you are)
+0.32 (you; are; )
+
+Get over it .
+
+< PROPFIRST > Winslow is trying to arrest his brother !!! OH NOOOO .
+
+I'm watching Family Matters .
+0.50 (I; 'm watching; Family Matters)
+
+thinks that ship has too many seamen on it's poopdeck .
+0.28 (it; 's; poopdeck)
+
+thinks her husband is the sweetest man in the world .... when he wants to be .
+0.28 (he; wants; to be)
+0.17 (he; to be; )
+0.50 (her husband; is the sweetest man in; the world)
+
+is going camping today on the mountains .
+
+=(  is in the Den practicing her darts .  is once again , going to practice her darts .
+0.87 (=(; is; in the Den)
+
+Kiss Kiss !
+
+REALLY WANTS A BLACK SHEEP ON FARMVILLE .
+
+Hook me up please .  is heaving ships to sail away .
+0.61 (ships; to sail; away)
+
+' s dog is in heat .
+0.86 (s dog; is; in heat)
+
+Guess who's going to be changing doggy diapers for 5 days ?  is getting really really excited .
+
+9 more days !!  is watch your mouth ; because you're slurring your words enough that you might just swallow your tounge .
+0.46 (you; 're slurring; your words; enough)
+0.40 (you; might just swallow; your tounge)
+
+can kill a Yak from 200 yards away with MIND BULLETS .  is leaving for College Station , Texas in 11 hours .
+
+Wish me luckkkkkkkkkkkkk .  is leaving for UXO tech 1 school .
+
+=)  drove 12 hours today .
+0.86 (=); drove; 12 hours; T:today)
+
+I'm now resting in Sonora Texas for the night at a Best Western .
+0.54 (I; 'm resting; L:in Sonora Texas; T:for the night; L:at a Best Western; T:now)
+
+Only 5 hours and 17 minutes to go tomorrow until I get to my apartment !
+0.37 (I; get; to my apartment)
+
+Wooooo .  is at her apartment in Texas .
+
+It's nice !
+0.28 (It; 's; nice)
+
+24 hour fitness center , HUGE pool , 24 hour game room and 24 hour computer lab w/ study rooms .
+
+And it has a lounge area .
+0.52 (it; has; a lounge area)
+
+It's awesome !
+0.28 (It; 's; awesome)
+
+But I'm missing my husband and friends back home in Ariiiiiiizonaaaa .
+0.35 (I; 'm missing; my husband and friends back home in Ariiiiiiizonaaaa)
+
+can't get ahold of any one to tell me when the DAMN HAZWOPER is tomorrow .
+0.90 (the DAMN HAZWOPER; is; tomorrow)
+
+I'm getting really mad .  is looking forward to UXO class tomorrow ......  had her first day of UXO today .... SO STRESSFUL !!! Just got home from the gym , about to take a shower then STUDY STUDY STUDY , then MAYBE dinner .
+0.23 (I; 'm getting; really mad)
+0.84 (SO STRESSFUL; Just got; home; about to take a shower then STUDY STUDY STUDY)
+0.73 Context(SO STRESSFUL Just got,List([111, 136))):(SO STRESSFUL; Just got home about to take; a shower)
+
+has learned how to properly identify ( and all the ID features ) of : Hand grenades , rifle grenades , projected grenades , all submunitions , all landmines ( AT , APERS , MIZNAY-SHARDIN , ect ) and all projectiles .
+
+I can also correctly identify all fuze types , and how they work .
+0.45 (I; can also correctly identify; all fuze types)
+0.38 (they; work; )
+
+AND I can give you the safeties for EVERYTHING I just said .
+0.58 (I can give you the safeties for EVERYTHING; just said; I)
+0.29 Context(I can give you the safeties for EVERYTHING just said,List([4, 58))):(I; can give; you; the safeties for EVERYTHING)
+
+OH an 96 on my first test , woo wooo .
+
+( This is only the first week , 3 more to go )  is study study study .
+0.54 (3 more; is; study study study)
+0.40 Context(3 more is,List([32, 50))):(This; is; only the first week)
+
+made a 96 on her Odinance ID test .
+
+=)  ignited her first Time Fuze today with a Pull-Friction ignitiator .
+0.79 (=); ignited; her first Time Fuze; T:today)
+
+Fun Fun Fun =) Demo , here I come .
+0.49 (here; come; I)
+
+Blew shit up today and yesterday .
+
+=) MADE A 100 ON MY NON-ELECTRIC DETONATION PROCEDURE TEST .
+
+Electric procedure test on Friday .
+
+That one's going to be tricky .
+0.28 (That one; to be; tricky)
+
+passed her final with a 100 ( which means a 96.8 overall average ) and won the lottery in one day .
+
+Sweet .
+
+quotes \The only true wisdom is knowing you know NOTHING \""  is I NEED A JOB .
+0.53 (you; know; NOTHING \""  is I NEED A JOB)
+0.79 Context(you know,List([40, 48))):(NOTHING \; is; I NEED A JOB)
+
+Well , it's back to the street corner for me .
+0.52 (it; 's; back to the street corner)
+
+=)  is gone to do her 4 mile walk .
+0.73 (=); to do; her 4 mile walk)
+
+I'll end up doing it again tonight .
+0.31 (I; 'll end up; doing it again tonight)
+0.27 (I; doing; it; T:again; T:tonight)
+
+8 < PROPMALE > in one day , sweet .  is bored and wishes she had friends within 400 < PROPMALE > of her .
+
+got yelled at because it's a STEER , not a cow .
+0.57 (it; 's; a STEER , not)
+
+Because that's a very IMPORTANT piece of knowledge .  is going to Cabella's then to the range to shoot her Glock and M-4 .  is FINALLY going to the range to shoot .  is going on her 4 mile walk .
+0.17 (that; 's; a very IMPORTANT piece of knowledge)
+
+NEEDS MORE LOTTERY TICKETS .
+
+got second place in the Texas Hold ' em game last night .
+
+Woo hoo .
+
+always developes stomach problems when she hosts dinner parties and doesn't know why .
+0.52 (she; hosts; dinner parties)
+0.20 (she; does n't know; why)
+
+It's really starting to get annoying .
+0.19 (It; 's really starting; )
+0.20 (It; to get; annoying)
+
+says the couch is looking more and more comfy as the night goes by .  is going to Texas on Tuesday .
+0.77 (the night; goes; by)
+
+would divorce her husband for a < PROPMALE > with < PROPFEMALE > Wilde .
+
+nous allons trouver une solution  Mais d'autre part personne cherche une solution  is in a big Texas Hold'em game tonight .
+0.95 (nous allons; trouver; une solution  Mais d'autre part personne cherche une solution  is in a big Texas Hold'em game tonight)
+0.97 (Mais d'autre part personne cherche une solution; is; in a big Texas Hold'em game; T:tonight)
+
+Wish me luck .
+
+got 3rd out of 8 .
+
+Not bad .
+
+is still pissed she lost her two 2's with an ace high , to two 9's .
+
+Only had like 3 dollars in chips , so I went all in .
+0.23 (I; went; T:all in)
+
+Shouldn't have listened to anyone .
+
+got 2nd out of 10 tonight in Texas Hold'em .
+
+Only time I bought in was the initial buy in .
+0.60 (I; bought; L:in; T:Only time)
+0.76 (Only time I bought in; was; the initial buy in)
+
+And I profited 9 dollars all together .
+0.45 (I; profited; 9 dollars; all together)
+
+Tonight was a good night .  is about to do some < PROPMALE > house cleaning .
+
+has a job in South < PROPFEMALE > in November .
+
+UXO , here I come !!!!  will keep her guns , freedom and money .
+0.30 (I; come; L:here)
+0.27 (I; will keep; her guns)
+
+You can keep the \Change \"."  is headed to Lompoc California for a few days , and I'm going to Monterey to see what all the fuss is about .  is GO PHILLIES .
+0.55 (You; can keep; the \Change)
+0.36 (I; to see; what all the fuss is)
+0.76 Context(I to see,List([83, 111))):(all the fuss; is; )
+
+I'm also not looking forward to the drive through LA tomorrow .
+0.39 (I; 'm not looking forward; to the drive through LA tomorrow)
+
+Way too much traffic .
+
+6 - 1 for game 1 ?
+
+HELL YEAH .  is taking children trick-or-treating tonight with neigbors .
+0.85 (HELL YEAH; is taking; children)
+
+got 3 ACES in 2 DIFFERENT hands tonight .
+
+Got to love Hold'em .
+
+has a long list of cleaning tomorrow and I can't wait .
+0.19 (I; ca n't wait; )
+
+=)  has to draw you .....  haha , propane .  is packing for Cali .
+0.27 (=); to draw; you; haha; propane)
+0.46 (=); is packing; for Cali)
+
+I'll be living 15 minutes from the ocean , who's complaining ?!  Spent yesterday walking on uninhabited beaches with not another person in site .
+0.45 (I; 'll be living; T:15 minutes from the ocean , who's complaining)
+0.83 (Spent; walking; L:on uninhabited beaches)
+
+So beautiful here .
+
+it was way too cold to go to the beach today .
+0.52 (it; was; way too cold to go to the beach today)
+
+had a fun time at the beach today .
+
+rescued a seagull-type bird at the beach yesterday with some friends .
+
+It had a completely broken wing and kept biting the Aussie .  is watching a documentary on JFK .
+0.52 (It; had; a completely broken wing)
+0.53 (It; kept; biting the Aussie)
+
+doesn't believe in signs anymore .
+
+WHO'S SOULJA BOI ?!?!?!?!?!?!!?!??!!?!??  has been married a year today .
+
+49 to go .
+0.26 (49; to go; )
+
+Just watched a MISSLE launch from less than a mile away .
+
+SOOO LOUD .  is thinking about going to buy The Sims 3 today .
+0.87 (SOOO LOUD; is thinking; about going to buy The Sims 3 today)
+
+My back is effing killing me .  is thankful she changed from TMOBILE 2 weeks ago , because I guess it went down today in Alabama .
+0.45 (My back; killing; me)
+0.50 (she; changed; from TMOBILE; T:2 weeks ago)
+0.30 (I; guess; it went down today in Alabama)
+0.51 Context(I guess,List([91, 98))):(it; went; down; T:today; L:in Alabama)
+
+Ha !!!  will officially be in Huntsville the night of the 30th .
+
+So New Years < PROPFEMALE > .
+
+Is there anywhere I should attend for this occasion ?
+
+Ding fries are done , Ding fries are done .
+0.75 (Ding fries; are done; )
+0.75 Context(Ding fries are done,List([22, 41))):(Ding fries; are done; )
+
+9 more days Ville .
+
+And my poor little < PROPFIRST > is sick =( She was snoring all night and running a fever .
+0.39 (my poor little < PROPFIRST; is; sick)
+0.45 (She; was snoring; T:all night)
+0.41 (She; running; a fever)
+
+My poor baby .
+
+think some people are just so damn stupid .
+
+Did I say that I need you ?
+
+Did I say that I want you ?
+
+If I did , I'm a fool .  is all that we see or seem , but a dream within a dream ?
+0.48 (I; did; a dream within a dream)
+0.34 (all; see; we)
+
+ugh .
+
+Things I'm doing in order : Packing Apartment ; Driving 8 hours home to Phoenix ; Leaving Christmas night for a 22 hour drive to St. < PROPFIRST > ; 7 hour drive to Huntsville on the 30th ; 7 hour drive to Columbia S.C. on the 4th .  is staying up late so I can sleep in late so I can stay up late tomorrow night while we're driving .
+0.41 (Things; 'm doing; in order)
+0.42 (I; can sleep; L:in late; so I can stay up late tomorrow night while we're driving)
+0.31 (I; can stay; up; T:late tomorrow night; T:while we're driving)
+0.19 (we; 're driving; )
+0.97 (7 hour drive to Huntsville on the 30th ; 7 hour drive to Columbia S.C. on the 4th; is staying; up; T:late; so I can sleep in late so I can stay up late tomorrow night)
+0.62 Context(7 hour drive to Huntsville on the 30th ; 7 hour drive to Columbia S.C. on the 4th is staying,List([149, 244))):(Things I'm doing in order; Driving home; 8 hours)
+
+Wooooo .
+
+I'm fucking STARVING .
+0.57 (I; 'm; fucking STARVING)
+
+My plan to sleep in late didn't work to well .
+0.28 (My plan to sleep in; did n't work well; )
+
+I'm getting everything ready for the 22 hour drive today .
+0.45 (I; 'm getting; everything ready for the 22 hour drive today)
+
+Leaving in maybe 2 hours .
+
+Oh yeah , < PROPFEMALE > Christmas and what-not .
+
+The loft is ALMOST done !! Yaaaaaay .
+0.78 (The loft; is ALMOST done; )
+
+Heading back to El Paso tomorrow .
+
+first day of work is tomorrow .
+0.94 (first day of work; is; tomorrow)
+
+It's going to be an early morning .
+0.41 (It; to be; an early morning)
+
+And I miss my husband .
+0.37 (I; miss; my husband)
+
+can't seem to wake up this morning !! I'm STARVINGGGGG  has spent the last 2 and a half hours making sense of this live landmine fuze we found today .
+
+I have to host a briefing on it in the morning .
+0.27 (I; to host; a briefing on it in the morning)
+
+I think I finally have it down .
+0.32 (I; think; I finally have it down)
+0.35 Context(I think,List([0, 7))):(I; have; it; down; T:finally)
+
+I smelled a spoon in your bathroom because I'm sexy and do what I want .  is ready to go  that tractor can't get across Crocodile Lake !!!!!  is OMG bored .
+0.28 (I; 'm; sexy)
+0.29 (I; do; what I want)
+0.20 Context(I do,List([43, 58))):(I; want; )
+0.90 (is ready to go  that tractor can't get across Crocodile Lake; is; bored)
+0.26 Context(is ready to go that tractor ca n't get across Crocodile Lake is,List([74, 144))):(I; smelled; a spoon; L:in your bathroom; because I'm sexy and do what I want)
+
+In the War of 1812 , Osama Bin Laden declared Jihad on the West Coast and killed Tupac .
+0.97 (Osama Bin Laden; declared; Jihad; L:on the West Coast; L:In the War of 1812)
+0.96 (Osama Bin Laden; killed; Tupac; L:In the War of 1812)
+
+In retaliation , we tried to killed the Notorious Suddam Hossein , but ended up killing the Notorious Biggie Smalls .
+0.58 (we; tried; to killed the Notorious Suddam Hossein; L:In retaliation)
+0.43 Context(we tried,List([17, 25))):(we; tried to killed; the Notorious Suddam Hossein)
+0.39 (we; ended up; killing the Notorious Biggie Smalls)
+0.39 Context(we ended up,List([17, 79))):(we; ended up killing; the Notorious Biggie Smalls)
+
+True Story .
+
+Walt Whitman is over 3,000 years old and 90 stories tall .
+0.94 (Walt Whitman; is; over 3,000 years old and 90 stories tall)
+
+With his blue Ox named < PROPFEMALE > Dickenson , he traveled across < PROPFEMALE > to form it into what it is today .
+0.44 (his blue Ox; named; )
+0.52 (it; is; T:today)
+0.29 (he; traveled; across < PROPFEMALE; to form it into what it is today)
+0.23 Context(he traveled,List([50, 61))):(he; traveled across < PROPFEMALE to form; it)
+
+He dropped his angry ax to form the Grand Canyon and the stomp of his mighty boot caused the Stock Market to crash .
+0.46 (He; dropped; his angry ax to form the Grand Canyon and the stomp of his mighty boot)
+
+Him and his friend , Huck Fin , traveled down the Mississippi and freed all of the slaves .
+0.69 (Him and his friend; traveled; down the Mississippi)
+0.64 (Him and his friend; freed; all of the slaves)
+
+He died a lonely man in Walt Disney World .
+0.50 (He; died; a lonely man in Walt Disney World)
+
+TRUE STORY  has a masterplan that isn't working .
+0.76 (TRUE STORY; has; a masterplan that isn't working)
+0.70 (a masterplan; is n't working; )
+
+thinks Solham is going to have a blast pulling the weeds in my lawn today .  is now a woman .
+0.84 (Solham; to have; a blast pulling the weeds in my lawn today)
+0.83 (a blast; pulling; the weeds; in my lawn; T:today)
+
+Watch Out For Falling Nuts !!!!  has realized that all marriage is , is a one night stand gone horribly wrong .
+0.92 (Watch Out For Falling Nuts !!!!  has realized that all marriage is; is; gone horribly wrong)
+0.91 (Watch Out For Falling Nuts !!!!  has realized that all marriage is; gone; horribly wrong)
+
+absolutely LOVES Bare Minerals .
+
+Is studying her coaching handbook for .
+
+22 firearms .
+
+I coach my first group Tuesday !
+0.35 (I; coach; my first group; T:Tuesday)
+
+Wooohooo  Is getting her hair dyed at 2pm in < PROPFEMALE > < PROPFEMALE > .
+0.91 (Wooohooo; Is getting; her hair dyed at 2pm in < PROPFEMALE > < PROPFEMALE >)
+0.63 Context(Wooohooo Is getting,List([0, 20))):(her hair; dyed; T:at 2pm in < PROPFEMALE)
+
+It's time to go dark again !
+0.52 (It; 's; time to go dark again)
+
+Blondes are dumb anyways .
+0.74 (Blondes; are anyways; dumb)
+
+EXCEPT FOR YOU BFF JOSHHHHHHHHH  Back home in phx , sitting in a Home Depot parking lot waiting for roadside assistance .
+0.71 (EXCEPT FOR YOU BFF JOSHHHHHHHHH  Back home in phx; sitting; in a Home Depot parking lot; waiting for roadside assistance)
+
+Seeing as how I have no other friends to call for help .
+0.45 (I; have; no other friends to call for help)
+
+Depressing .  is going to the Diamondbacks vs Pittsburg MLB game this Saturday .
+
+Seats 15 rows behind the dugout ?
+
+Hell Yes .
+
+Would totally KILL for a SUGAR GLIDER !!! They're soooo cute !!!
+0.43 (They; 're; soooo cute)
+
+But I can't have one .
+0.23 (I; ca n't have; one)
+
+I wish I knew someone with one so I could play with it .
+0.82 (someone with one; could play; with it)
+0.32 (I; wish; I knew someone with one)
+0.32 Context(I wish,List([0, 6))):(I; knew; someone with one so I could play with it)
+
+:(  it's sooooooooo late .
+0.28 (it; 's; sooooooooo late)
+
+Is sitting at the airport ... bored .
+
+My Texas Holdem game on my phone isn't working .
+0.53 (My Texas Holdem game on my phone; is n't working; )
+
+loves Pride and Prejudice .
+
+It doesn't matter how many times I've watched the movie , I'll still always get sad .
+0.26 (I; 'll get; sad; T:still; T:always)
+
+wishes she had grandparents to tell her stupid stories that I would just roll my eyes to  has adopted a BEAUTIFUL schnauzer/dachshund/poodle mix from the Animal Shelter .
+0.78 (wishes she had grandparents; has adopted; a BEAUTIFUL schnauzer/dachshund/poodle mix from the Animal Shelter)
+0.21 (she; had; grandparents to tell her stupid stories that I would just roll my eyes to)
+0.18 Context(she had,List([7, 14))):(she; had to tell; her; stupid stories)
+0.26 Context(she had to tell,List([7, 35))):(I; would just roll; my eyes; to)
+
+I get to pick her up tomorrow .
+0.31 (I; to pick up; T:tomorrow)
+
+Her name is going to be < PROPFEMALE > .
+0.60 (Her name; to be; PROPFEMALE)
+
+I'm super super excited .
+0.28 (I; 'm; super super excited)
+
+=)  She's running around wagging her tail now .
+0.18 (She; 's running; around)
+0.18 Context(She 's running,List([4, 17))):(She; 's running wagging; her tail; T:now)
+
+=) And wow she has a HUGE appetite .
+0.57 (she; has; a HUGE appetite)
+
+NCIS use to come on ALL THE TIME .
+0.81 (NCIS; use; to come on ALL THE TIME)
+0.79 (NCIS; to come; T:on ALL THE TIME)
+
+WTF HAPPENED ?!?!?!?!?!?
+
+I miss it .
+0.37 (I; miss; it)
+
+Took Bailey-Jo to the vet , everything looks fine !
+0.75 (everything; looks; fine)
+
+She has some allergies but the Dr. Told me children Benedryl will fix it .
+0.46 (She; has; some allergies)
+0.78 Context(She has,List([0, 7))):(the Dr.; Told; me; children)
+0.83 Context(She has the Dr. Told,List([0, 39))):(Benedryl; will fix; it)
+
+She's such a good doggy !
+0.52 (She; 's; such a good doggy)
+
+S-S-S-S-S-S-SUBBBBWAAAAAAYYYYY for lunch ?
+
+Yes please .  is coaching a .
+
+22 firearms class tonight , then it's off to Cali again .
+
+I'll get there around 6 or 7 am .
+0.52 (I; 'll get; there; around 6 or 7 am)
+
+Sweet .
+
+Dear California drivers , I absolutely love it when you stay in my blind spot and speed up so I can't pass .
+0.42 (I; absolutely love; it; T:when you stay in my blind spot and speed up)
+0.46 (you; stay; in my blind spot)
+0.42 (you; speed up; so I can't pass)
+0.19 (I; ca n't pass; )
+
+It turns me on .
+0.30 (It; turns on; me)
+
+So please , keep doing so .
+
+Everyone knows that if a gay Republican comes out of the closet and sees his shadow , that means 6 more years of a Democratic Administration .
+0.93 (a gay Republican; comes; out of the closet)
+0.86 (a gay Republican; sees; his shadow)
+0.77 (Everyone; knows; that if a gay Republican comes out of the closet and sees his shadow , that means 6 more years of a Democratic Administration)
+0.13 Context(Everyone knows,List([0, 14))):(that; means; 6 more years of a Democratic Administration)
+
+says that Meatball sub really hit the spot .
+
+Now it's time to play more Scrabble .
+0.70 (it; 's; time to play more Scrabble; T:Now)
+
+< PROPFIRST > WILL NOT beat me again =)  thinks the death sentence should be issued for less violent crimes .
+
+I believe that even murdering one person ( depending on the circumstances ) should be tried for death .
+0.89 (one person; depending; on the circumstances)
+0.28 (I; believe; that even murdering one person ( depending on the circumstances ) should be tried for death)
+
+A life for a life .
+
+Is the official Scrabble < PROPFEMALE > .
+
+Tie breaker score : 273 me , 192 < PROPFIRST > .
+
+Hoyeah !!  is oh so very bored .
+
+Both the doggy's are at the groomers .
+0.93 (the doggy's; are; at the groomers)
+
+I don't know what to do with this free time .
+0.45 (I; do n't know; what to do with this free time)
+
+is ohemgee tired .
+
+Ugh .
+
+thinks she is going to go to the beach for a little bit today .
+0.41 (she; to go; to the beach; for a little bit; T:today)
+
+Nothing better to do .
+0.73 (Nothing better; to do; )
+
+Picnic on the beach ?
+
+Yes please .
+
+I'm on my way .
+0.37 (I; 'm; on my way)
+
+is bored , lonely , and has a HUGE sweet tooth .
+
+Well the dogs are wrestling on the couch .
+0.90 (the dogs; are wrestling; on the couch)
+
+They're wearing themselves OUT .
+0.46 (They; 're wearing OUT; themselves)
+
+Good news for me .
+
+Maybe now < PROPFEMALE > < PROPFEMALE > will sleep past 4/5am .
+
+Hold me til I die -- See you on the other side  finally moving !
+0.19 (I; die; )
+
+Yay no more climbing stairs !! Or having to park a mile away from the apartment !
+
+Is at the dog park with her babies .
+
+\There was a man who cried because he had no shoes .
+0.81 (a man; cried; because he had no shoes)
+0.52 (he; had; no shoes)
+
+Then he met a man who had no feet \""  is watching RiceBowl for the day .
+0.91 (a man; had; no feet \)
+0.60 (he; met; a man who had no feet \; T:Then)
+0.33 Context(he met,List([5, 11))):(he; met a man who had no feet \ is watching; RiceBowl; T:for the day)
+
+< PROPFIRST > , < PROPFEMALE > , and RiceBowl are being bad bad babies .
+0.92 (RiceBowl; are being; bad bad babies)
+
+has 3 wet , pissed off doggies .
+
+Brought to you courtesy ... Of the Red , White and Blue .
+
+really sees you upside down .
+
+thinks some people should just kill themselves .
+
+It would be the best for everyone .  is leaving for Phoenix in an hour .
+0.45 (It; would be; the best for everyone)
+
+Looooong drive .
+
+got this outfit from your mother .
+
+forgot to mention how nice it is to be home .
+0.20 (it; to be; home)
+
+I didn't realize how much I missed our house !! The dogs missed the space , too .
+0.88 (The dogs; missed; the space; too)
+0.26 Context(The dogs missed,List([48, 63))):(I; did n't realize; how much I missed our house)
+0.26 Context(I did n't realize The dogs missed,List([0, 63))):(I; missed; our house)
+
+has been pulling weeds like crazy in the yard .
+
+Me and Solham are going to Lowes now and buying some stuff to make my front yard prettier !!  it feels great to know I'm not the only one awake at an ungodly hour .
+0.44 (Me and Solham; to Lowes; T:now)
+0.55 (Me and Solham; buying; some stuff; to make my front yard prettier)
+
+I started cleaning , then I couldn't stop ...  People are crazy !!!!!!!!!!  Played Soccer with my BFF .
+0.49 (I; could n't stop; People are crazy; T:then)
+0.18 Context(I could n't stop,List([26, 41))):(I; started; cleaning)
+0.16 Context(I started I could n't stop,List([0, 41))):(I; started cleaning cleaning; )
+0.70 Context(I could n't stop,List([26, 41))):(People; are; crazy)
+
+You think you're so cool because you can pee with your penis .
+0.32 (you; can pee; )
+0.60 (You; think; you're so cool because you can pee with your penis)
+0.48 Context(You think,List([0, 9))):(you; 're; so cool; because you can pee with your penis)
+
+makes these bitches crawl .
+
+Likes her women a little on the trashy side .
+
+has been up since 2:30 am , after going to bed at 11pm .
+
+Sleep is coming very very very soon .
+0.80 (Sleep; is coming; T:very very very soon)
+
+Bertolli's Chicken Parmigiana for dinner , with a Fuzzy Naval to drink .
+0.80 (a Fuzzy Naval; to drink; )
+0.88 (Parmigiana; [is] Chicken [of]; Bertolli)
+
+Yes Yes Yes Yes Yes .
+
+Oh my my , oh hell yes .
+
+< PROPFEMALE > put on that party dress .
+0.65 (PROPFEMALE; put on; that party dress)
+
+Just got done watching Shutter Island with < PROPFIRST > .
+
+Pretty fucked up movie .
+
+Now we're about to leave to see Shrek Forever After !!!! Woooooooo .
+0.41 (we; 're; about to leave; T:Now)
+0.40 (we; to leave; to see Shrek Forever After !!!! Woooooooo)
+0.40 Context(we to leave,List([4, 24))):(we; to leave to see; Shrek Forever After !!!! Woooooooo)
+
+South < PROPFEMALE > , I'll see you in a week !!!  was up at 5:30 .
+0.26 (I; 'll see; you; T:in a week)
+0.33 Context(I 'll see,List([23, 31))):(you; was; up; T:at 5:30)
+
+Taking < PROPFIRST > to the Armory , then maybe to the range a little later today .  is feeling great today .
+
+Drinking some coffee , then it's off to the Gun Range to put in some hours !  got her haircut .
+
+I really really like it .
+0.31 (I; really really like; it)
+
+Thanks Everyone !!  Lol , once again , Thanks everyone !! I have to do a mass Thank You or else it would take forever !!!
+0.41 (I; to do; a mass)
+
+Is still not a fan of Vodka .
+
+flies out in the morning for South < PROPFEMALE > .
+
+Too bad my plane is going to crash and burn .
+0.30 (my plane; to crash; )
+0.22 (my plane; to burn; )
+
+just got done packing up the dogs stuff .
+
+I'm going to miss them this week !!!!  just dropped the dogs off at the nicenicenice lady's house who's going to watch them for the week .
+0.27 (I; to miss; them; T:this week)
+0.89 (the nicenicenice lady's house; to watch; them; T:for the week)
+
+=( I miss them already !!!!!
+0.37 (I; miss; them; T:already)
+
+I was 30 minutes late waking up , and with a lot of fuckups along the way , I made it to my terminal with no time to spare .
+0.52 (I; was; 30 minutes late waking up)
+0.73 (30 minutes; late waking up; )
+0.27 (I; made; to my terminal with no time)
+
+just got to my hotel in Columbia , SC .
+
+IT'S SO FUCKING HOT .
+0.67 (IT; 'S; SO FUCKING HOT)
+
+I DO NOT miss this humidity !!!!!!!!!!
+0.45 (I; DO NOT miss; this humidity)
+
+This coffee tastes like mudd water .
+0.90 (This coffee; tastes; like mudd water)
+
+misses < PROPFIRST > , < PROPFIRST > < PROPFIRST > , and < PROPFEMALE > < PROPFEMALE > .
+
+=( At least I'm getting a good tan .
+
+says South < PROPFEMALE > is hereby banned from the United States for being so fucking hot .
+0.64 (PROPFEMALE; for being; so fucking hot)
+
+was up at 4am .
+
+I might go grab a hooker or something .
+0.39 (I; might go; grab a hooker or something)
+0.39 Context(I might go,List([0, 10))):(I; might go grab; a hooker or something)
+
+Love is like the ozone layer .
+0.92 (Love; is; like the ozone layer)
+
+Just got a casual \War Eagle\ " while in line at Mcdonalds .
+
+That hasn't happened in a while and I miss it .
+0.38 (That; has n't happened; T:in a while)
+0.37 (I; miss; it)
+
+"  is ... sooooo bored .
+
+No car , and no one I know except for the front desk people who are very very nice .
+0.24 (I; know; )
+0.77 (the front desk people; are; very very nice)
+
+Only 4 more days and I get to see my babies .
+0.27 (I; to see; my babies)
+
+Oh , and < PROPFIRST > .
+
+Hahahah  OMG I WANT A MEATBALL SUB !
+
+Really wants a Shark Navigator !!! Just saw an Infomercial for one .
+
+Too bad it's really expensive .
+0.28 (it; 's; really expensive)
+
+woke up sickkkkk .
+
+Ugggghhhhhh not today please !!!!  Twilight is gay .
+0.84 (Twilight; is; gay)
+
+I'm tired of seeing all the damn posts on it .
+0.37 (I; 'm; tired of seeing all the damn posts on it)
+0.27 (I; of seeing; all the damn posts on it)
+
+I'll start doing it too .
+0.31 (I; 'll start; doing it too)
+0.26 Context(I 'll start,List([0, 10))):(I; 'll start doing; it; too)
+
+OMG I WATCHED THE WEDDING SINGER YESTERDAY .
+0.57 (I; WATCHED; THE WEDDING SINGER; T:YESTERDAY)
+
+IT WAS SOOOOOO AWESOME .
+0.87 (IT; WAS; SOOOOOO AWESOME)
+
+mama ...... mama I'm coming hoooooooooooooooooooome .  is soooo excited she gets to sleep in her own bed tonight .
+0.23 (I; 'm coming; hoooooooooooooooooooome)
+0.45 (I; is; soooo excited she gets to sleep in her own bed tonight)
+0.24 (she; gets; )
+0.27 (she; to sleep; L:in her own bed; T:tonight)
+
+Had an awesome nights sleep .
+
+But woke up thin < PROPMALE > she was in her < PROPMALE > size bed at home and almost smacked < PROPFIRST > in the face .
+0.42 (she; was; in her < PROPMALE > size bed)
+
+I dodged a bullet there people .
+0.45 (I; dodged; a bullet; L:there)
+
+Hanging out with the COOLEST women to enter the U.S. We are NOT eating icecream .
+
+it's Wednesday !
+0.57 (it; 's; Wednesday)
+
+knows your mother very intimately .
+
+loves the new Old Spice commercial .
+
+SWAN DIVE !
+
+Is going on a date tonight with a very handsome fella .
+
+has some good friends over tonight .
+
+Drinking games ?
+
+Yes .
+
+Fucking .
+
+Awesome .
+
+Night .
+
+We'll be President next time Stace !!!!!  has had an awesome day .
+0.57 (We; 'll be; President next time Stace)
+0.93 (President next time Stace; has had; an awesome day)
+
+Went for a walk on the beach with < PROPFIRST > , ate a wonderful dinner , now just relaxing with some NCIS .
+
+Is in < PROPFEMALE > < PROPFEMALE > with the coolest person in the world .
+
+BFF dayyyyy !!!!  7 hours of Psych , and 9 hours of NCIS today on USA .
+0.86 (BFF; dayyyyy !!!!; 7 hours of Psych)
+
+Fuck yeah .
+
+Just realized she has Hey < PROPMALE > , < PROPMALE > , and Rugrats On Demand in the Nickolodeon ; NickReWind section .
+
+Guess what I'm doing most of the day tomorrow ?!?!  Is going to the beach .
+
+It's too nice out to NOT go anywhere .
+
+Stace , saddle up .
+
+Round 1 of me and stace trying to fish off the pier .
+0.74 (Round 1 of me and stace; trying; to fish off the pier)
+0.37 Context(Round 1 of me and stace trying,List([0, 30))):(Round 1 of me; stace; )
+0.74 Context(Round 1 of me and stace trying,List([0, 30))):(Round 1 of me and stace; trying to fish off; the pier)
+
+Had an AWESOME day .
+
+Now I'm watching a Rocket Competition on TV with < PROPFIRST > .
+0.64 (I; 'm watching; a Rocket Competition; L:on TV with < PROPFIRST >; T:Now)
+
+Then beeeedtime .
+
+Long/exciting/awesome day instore for tomorrow .
+
+Party at my house .
+
+Heyyyy  Had an awesome night .
+0.94 (Heyyyy; Had; an awesome night)
+
+Beach today with the dogs ( counting < PROPFIRST > ) then maybe bowling later .
+
+Is getting excited about her fishing expedition that's taking place tomorrow .
+0.62 (her fishing expedition; 's taking; place; T:tomorrow)
+
+\Her early leaf's a flower ; But only so an hour\ " .
+0.93 (\Her early leaf; 's; a flower)
+
+Is going fishing in T-Minus 49 minutes and 28 seconds .
+
+SADDLE UP STACE .
+
+"  ' The reason is : no one likes you .
+0.80 (no one; likes; you)
+0.74 Context(no one likes,List([21, 33))):(The reason; is; )
+
+You'll learn .
+0.32 (You; 'll learn; )
+
+' I forgot how much I liked Ghost Ship .
+0.30 (I; forgot; how much I liked Ghost Ship)
+0.44 Context(I forgot,List([2, 10))):(I; liked; Ghost Ship)
+
+Awesome movie .
+
+Fucking cable and internet is out ... AGAIN .
+0.84 (Fucking cable and internet; is; out)
+
+Its like the 6th time in 2 weeks .
+
+Guess I'll make today a laundry day .
+
+Is about to witness a hotdog eating contest .
+0.90 (a hotdog; eating; contest)
+
+And spending time with my future son < PROPFIRST > .
+
+Cutest baby .
+
+Is married to < PROPFEMALE > .
+
+She knows how to treat me right .  is about to play some poker .
+0.32 (She; knows; how to treat me right)
+
+Then party later .
+
+Sweet .
+
+Going to the casino !! Then I get to babysit little < PROPFIRST > !!  poor < PROPFEMALE > .
+0.27 (I; get < PROPFIRST; T:Then)
+
+Her Allergies are acting up .
+0.34 (Her Allergies; are acting up; )
+
+She has a little rash and she won't stop scratching !! Childrens Benedryl , here we come .
+0.18 (she; wo n't stop; scratching)
+0.16 Context(she wo n't stop,List([26, 40))):(she; wo n't stop scratching scratching; )
+0.44 (here; come; we)
+0.47 Context(here come,List([76, 88))):(She; has; a little rash)
+
+STUPID GODDAMN MOTHERFUCKIN PIECE OF SHIT COMCAST .
+
+That is all .
+0.22 (That; is; all)
+
+Watched Walk Hard with a Kangaroo Wrestler earlier .
+0.66 (Watched; Walk; Hard; T:earlier)
+
+Took us 493334 years to find it .
+
+Dog park later , yaaaaaaaaaaaaaay .
+
+If you smell something delicious , its not your tailpipe .
+0.68 (you; smell; something delicious)
+
+Its a little bit of shake .
+
+And a little bit of bake .
+
+Shake and Bake baby .
+
+loves Italian food , whiskey and Dr Pepper .
+
+I don't like sweet potatos , carbonated water or lemon pepper seasoning .
+0.45 (I; do n't like; sweet potatos , carbonated water or lemon pepper seasoning)
+
+I think Religion is an opinion , women are just as big as whores as men and dogs are better than people .
+0.94 (Religion; is; an opinion)
+0.88 (women; are; better than people)
+0.63 (I; think; Religion is an opinion , women are just as big as whores as men and dogs are better than people)
+0.87 Context(I think,List([0, 7))):(women; are; just as big as whores as men and dogs)
+
+I'm Republican and I believe that everybody is Hypocritical .
+0.28 (I; 'm; Republican)
+0.19 (I; believe; that everybody is Hypocritical)
+0.76 Context(I believe,List([19, 28))):(everybody; is; Hypocritical)
+
+I'm very paranoid and see the worst in people .
+0.28 (I; 'm; very paranoid)
+0.41 (I; see; the worst; L:in people)
+
+I hate teenage girls and the fact you can't watch a decent cartoon anymore .
+0.42 (I; hate; teenage girls and the fact you can't watch a decent cartoon anymore)
+0.62 (you; ca n't watch; a decent cartoon; T:anymore)
+
+You're welcome .
+0.43 (You; 're; welcome)
+
+wants to thank everyone who showed up to < PROPFIRST>'s surprise birthday party !! And I want to thank Stace for helping with everything !!!! AND THANK YOU FOR KEEPING YOUR MOUTHS SHUT :)  Going shark fishing with great friends .
+0.92 (Stace; for helping; with everything)
+0.38 (I; THANK; YOU; FOR KEEPING)
+0.68 (everyone; showed up; )
+0.51 (I; want; to thank Stace for helping with everything)
+0.44 Context(I want,List([87, 93))):(I; want to thank; Stace; for helping with everything)
+
+Woke up to hearing the gay guy next door having sex .
+
+Australians give birth in nests high up in trees .
+0.92 (Australians; give high up; L:in nests)
+
+Driving back to Arizona tonight .
+
+Then taking Stace to Tombstone , AZ tomorrow !!  Having a great fucking time in Tombstone , AZ with Miss Stace !!!  Packed up some of the little things in the house .
+
+Still have a lot more to pack up though .
+
+Now on our way back to California .
+
+Good for < PROPFIRST > Slater .
+
+Just ate some AWESOME pea soup from the world famous Andersons Pea Soup Restraunt .
+
+Happy Ramadan .
+
+I'm honestly tring Saym , but I still have to drink water and smoke .
+0.50 (I; 'm honestly tring; Saym)
+0.41 (I; to drink; water and smoke)
+
+But hey , I'm wingin it .
+0.31 (I; 'm wingin; it)
+
+got her Offer Letter yesterday .
+
+I leave in 2 days ( Sunday ) for the < PROPFEMALE > Army Depot .
+0.50 (I; leave; T:in 2 days; T:for the < PROPFEMALE > Army Depot)
+
+Be back on October 29 .
+
+< PROPMALE > , < PROPMALE > .
+
+We've got clearance , Clerance .
+0.45 (We; 've got; clearance)
+
+What's our vector , < PROPFIRST > ??  Just beat the Police Trainer video game at Pizza Garden .
+0.90 (the Police; video; game; L:at Pizza Garden)
+
+Fuck to the Yeah .
+
+Just went to the La Purisima Mission with Mikey , < PROPFIRST > and Stace .
+
+Now off to < PROPFEMALE > < PROPFIRST > for some BBQ !
+
+Just bought the most beautiful knife .
+
+I swear I got wet the moment I saw it .
+0.51 (I; saw; it; T:the moment)
+0.26 (I; swear; I got wet the moment)
+0.24 Context(I swear,List([0, 7))):(I; got; wet)
+
+Made it to Susanville !
+
+Work starts tomorrow .
+0.85 (Work; starts; T:tomorrow)
+
+No one will ever completely understand Sweet Lady Propane .
+0.93 (No one; will understand; Sweet Lady Propane; T:ever)
+
+Is working 5 days a week , 10 hours a day .
+
+Which is awesome .
+
+Buts its actually 12 hours a day , we're just not getting paid drive time .
+0.17 (we; getting; )
+
+Booo .
+
+Missing home already  There are dust storms everywhere today .
+
+Can't hear shit while I'm working .
+0.19 (I; 'm working; )
+
+Shot the < PROPFEMALE > valence .
+
+Didn't do shit at work today .
+
+Damn ATVs keep getting flats .
+0.88 (Damn ATVs; keep; getting flats)
+0.88 Context(Damn ATVs keep,List([0, 14))):(Damn ATVs; keep getting; flats)
+
+Tomorrow hopefully I'll work my ass off !!  Used to love her , but I had to kill her .
+0.27 (I; to kill; her)
+
+Is in Reno , NV .
+
+Wooooo .
+
+You keep the sunshine , I'll take the rain .
+0.39 (I; 'll take; the rain)
+0.55 Context(I 'll take,List([24, 33))):(You; keep; the sunshine)
+
+Got to the cabin last night in the mountains .
+
+Will be here until Sunday .
+
+No signal , so the phone will be off .
+0.77 (the phone; will be; off)
+
+Is loving life right now .
+
+Doesn't want to wake up .
+
+Thinks 90's music is the fucking best there is .
+0.79 (Thinks 90's music; is; the fucking best)
+
+Hell to the Yeah .
+
+\I goosed a sombrero yesterday\ " - < PROPFIRST > "  Is back in Lompoc , Ca .
+0.86 (\I; goosed PROPFIRST; a sombrero yesterday\)
+
+It was a fun job , and I'm sad it ended .
+0.52 (It; was; a fun job)
+0.37 (I; 'm; sad it ended)
+0.19 (it; ended; )
+
+I worked with some great characters .
+0.45 (I; worked; with some great characters)
+
+Going to Vegas today .
+
+I'm still soooooo sick though .
+0.22 (I; 'm though; T:still; T:soooooo)
+
+Uggggghhh .
+
+Vegas hasn't changed a bit .
+0.92 (Vegas; has n't changed; a bit)
+
+Wedding , then God knows what , then BOOOOOOOBIES !!!!!  wonders what you're going to do with all that junk inside your trunk .
+0.21 (you; to do; with all that junk inside your trunk)
+0.58 (then BOOOOOOOBIES; wonders; what you're going to do with all that junk inside your trunk)
+0.80 Context(then BOOOOOOOBIES wonders,List([32, 64))):(God; knows; what; T:then)
+
+Its days like this that make it SUCK to have no AC .
+0.54 (Its days like this; make; it SUCK to have no AC)
+0.46 (it; to have; no AC)
+
+Has been asleep pretty much all day .
+
+Its awesome .
+
+The fact that you would give a woman credit for anything , shows you're a liberal .
+0.62 (you; would give; a woman credit for anything)
+0.67 (The fact that you would give a woman credit for anything; shows; you're a liberal)
+0.37 Context(The fact that you would give a woman credit for anything shows,List([0, 64))):(you; 're; a liberal)
+
+Bought The Tudors Season III and < PROPMALE > Season 1 .
+
+Its going to be an awesome uneventful day .
+0.41 (Its; to be; an awesome uneventful day)
+
+Congrats to Halladay for joining Larson in the Big Leagues .
+
+Likes having sex with chicks .
+
+likes her Orange Juice how she likes her men , Ice Cold .
+0.31 (she; likes; her men)
+
+leaves for Texas in 2 days .
+
+Hopefully the job will go the full 6 months .
+
+I like money .
+0.45 (I; like; money)
+
+Is on her way to Texas .
+
+Who would think that this would be the ONE time that dumping piss on your head wouldn't work in your favor .
+0.82 (the ONE time; dumping; piss; L:on your head)
+
+Just rented Dispicable Me on my TV .
+
+Taco < PROPFEMALE > and a movie ?
+
+CHECK .
+
+15 people have died in Juarez since I've been in El Paso .
+0.86 (15 people; have died; L:in Juarez; since I've been in El Paso)
+0.50 (I; 've been; in El Paso)
+
+Which has only been exactly a week .
+
+Will teach you how to be a bomb technician .
+0.58 (you; to be; a bomb technician)
+
+Everybody get a hammer and a screwdriver and follow me .
+0.92 (Everybody; get; a hammer and a screwdriver)
+0.80 (Everybody; follow; me)
+
+Thinks a certain person is a moron .
+
+And he/she needs to be cut .
+0.23 (she; needs; to be cut)
+0.36 (he; to be cut; she)
+
+( I'm being politically correct ) .
+0.23 (I; 'm being; politically correct)
+
+Is like a human , only better .
+
+Got her hotel room upgraded for free to a suite with a seperate living room , bedroom and bathroom .
+0.76 (her hotel room; upgraded; for free to a suite with a seperate living room , bedroom and bathroom)
+
+Also bought my first MP3 player today , I'm catching up world !
+0.39 (I; 'm catching up; world)
+
+After reading everyones status ' , I've come to the conclusion that people are morons and shouldn't speak .
+0.46 (I; 've come; to the conclusion that people are morons and shouldn't speak; T:After reading everyones status)
+0.89 (people; are; morons)
+0.68 (people; should n't speak; )
+
+Is the Juggernaut , BITCH .
+
+Thinks today is going to suck .
+0.30 (Thinks today; to suck; )
+
+Its soooooo < PROPFEMALE > .
+
+Can't stick her penis in your childhood dreams or life goals .
+
+Knock knock .
+
+Who's there ?
+
+Its me ; wondering why you're not naked .
+0.39 (Its me; wondering; why you're not naked)
+0.31 Context(Its me wondering,List([0, 18))):(you; 're not; naked)
+
+Is thankful for hookers and cocaine .
+
+Spent too much money today .
+
+Just a heads up , I WILL NOT be coming to Huntsville for Christmas .
+0.94 (Just a heads up; WILL NOT be coming; to Huntsville; for Christmas)
+
+Sorry .
+
+Soooo it started snowing at work today and got sooooo cold .
+0.45 (it; started; snowing at work today)
+0.41 (it; snowing; L:at work; T:today)
+0.25 (it; got; sooooo cold)
+
+I'm not looking forward to tomorrow .
+0.45 (I; 'm not looking forward; to tomorrow)
+
+Its 16 degrees in White Sands , NM .
+
+Send warm thoughts .
+
+Is semi-glad she won't be home when the big Auburn game happens , because my house is down the street from where it will be in Glendale and I hate traffic .
+0.45 (I; hate; traffic)
+0.46 (she; wo n't be; home; T:when the big Auburn game happens; because my house is down the street from where it will be in Glendale and I hate traffic)
+0.82 (the big Auburn game; happens; )
+0.71 (my house; is; down the street from where it will be in Glendale)
+0.50 (it; will be; in Glendale)
+
+Is sooooooo tired .
+
+I can't wait for my Christmas vacation .
+0.35 (I; ca n't wait; for my Christmas vacation)
+
+Is at the doctors .
+
+Hopefully they'll amputate my finger .
+
+Then ( so I don't miss overtime ) I shall drive myself to work .
+0.45 (I; do n't miss; overtime)
+0.44 (I; shall drive; myself; to work; T:Then)
+
+Can't wait to get home .
+
+I'm redecorating the house and finally fixing up and decorating the loft upstairs .
+0.45 (I; 'm redecorating; the house)
+0.30 (I; fixing up; T:finally)
+0.40 (I; decorating upstairs; the loft)
+
+Sooooo much fun .
+
+Excuse me while I roll over and die .
+0.28 (I; roll; over)
+0.17 (I; die; )
+
+Should only take a second .
+
+Just realized how much she loves her sister !
+
+All of your problems can be solved by my penis .
+0.54 (All of your problems; can be solved; by my penis)
+
+3 more days until I can go home .
+0.23 (I; can go; home)
+
+I actually miss Phoenix .... somewhat .
+0.50 (I; actually miss; Phoenix; somewhat)
+
+Is at home in Phoenix with the christmas tree up , house semi-clean , and getting ready to watch the most AWESOME movie ever .
+0.93 (the christmas; tree up; house semi-clean , and getting ready to watch the most AWESOME movie ever)
+
+Its a Makers < PROPFIRST > Christmas .
+
+Forgot how much she loved indoor rock climbing .
+
+Is all moved in to her apartment in Texas .
+
+My deck overlooks the pool and its at the base of a mountain !
+0.64 (My deck; overlooks; the pool)
+
+Too bad my ankles are swollen .
+0.38 (my ankles; are; swollen)
+
+I hate wearin new boots  Have you ever heard of Vietnam ?
+0.35 (I; hate; wearin new boots; Have you ever heard of Vietnam)
+
+YOU'RE ENTERING A WORLD OF PAIN .
+0.72 (YOU; 'RE ENTERING; A WORLD OF PAIN)
+
+Got her eyebrow repierced last night and is thinking about putting her lip ring back in .
+
+Loves < PROPMALE > Burnham .
+
+You know what turns me on ?
+0.48 (You; know; what turns me on)
+
+Consent .
+
+My favorite position is mutual agreement style .
+0.72 (My favorite position; is; mutual agreement style)
+
+Hoooooray for a wind chill of -1 degrees tomorrow !!  So .... its 0 degrees at the work site , with a -18 windchill and ice/snow .
+
+PLEASE CALL OFF WORK .
+
+I didn't wake up today wanting to die .
+0.45 (I; did n't wake up; T:today)
+0.20 (I; wanting; to die)
+0.17 (I; to die; )
+
+This world has gone from Socrates , to Snooki .
+0.92 (This world; has gone; from Socrates; to Snooki)
+
+Bought the final season of The Tudors , and every season of Sex and the City .
+
+Its going to be an awesome break .
+0.41 (Its; to be; an awesome break)
+
+Is the expert at one-liners and you have the curve of all curves .
+0.62 (you; have; the curve of all curves)
+
+Gold teeth and the curse of this town , are all in my mouth .
+0.86 (Gold teeth and the curse of this town; are; in my mouth)
+
+Just heard a 6 year old girl say to her 6 year old friends \I'm NOT a lesbian !
+
+I'm totally straight\ " .
+0.28 (I; 'm; totally straight\)
+
+Wow .
+
+They know that word already ?
+0.44 (They; know; that word; T:already)
+
+"  is spending her friday night with some frozen yogurt with fresh fruit , and SPICE WORLD .
+
+Not to shabby .
+
+Is watching a man with a sombraro singing in the middle of a boxing ring .
+
+Mi gusta sombraros azule .
+0.80 (Mi gusta sombraros; azule; )
+
+How do we determine the fine line between wasting time , and savoring it ?
+0.27 (we; savoring; it)
+
+IS COMING TO HUNTSVILLE NEXT WEEK .
+
+NOW GET OFF MAH BACK .
+
+can officially run a 10 minute mile and then keep running .
+
+Going to try for 8 minute tomorrow .
+
+Damn you Vandenburg , and your need to send rockets and satellites into space at 2 am .
+
+I woke up thinking there was an earthquake .
+0.19 (I; woke up; )
+0.23 (I; thinking; there was an earthquake)
+
+4 MORE DAYS < PROPFIRST > Baraty Solaimon Baraty < PROPFEMALE > < PROPFIRST > < PROPMALE > Barkley  is making < PROPFIRST > Marchetti go clothes shopping with her .
+0.84 (Marchetti; shopping; with her)
+
+This will be a BLAST .
+0.38 (This; will be; a BLAST)
+
+Is about to eat pizza in Chicago .
+
+How awesome does it get ?
+
+Is officially in Huntsville , and going to sleep .
+
+O .
+
+M .
+
+F .
+
+G  was told she had pink eye when she woke up .
+0.19 (she; woke up; )
+0.65 (G; was told; she had pink eye when she woke up)
+0.32 Context(G was told,List([0, 11))):(she; had; pink eye; T:when she woke up)
+
+JOKES ON YOUR LINGLING , IT'S CLEARED UP !!!!!!!  Take whatever you want ....
+0.90 (IT; 'S; CLEARED UP)
+
+But you leave me my monkey .
+0.46 (you; leave; me; T:my monkey)
+
+Hates when there's so many rocks in my watch that I can't tell what the time is .
+0.39 (I; ca n't tell; what the time is)
+0.74 Context(I ca n't tell,List([50, 62))):(the time; is; )
+
+Leaves for Indiana/Kentucky in the morning .
+
+Bye Bama !
+
+Is super excited she gets to sleep in until 5am .
+0.24 (she; gets; )
+0.41 (she; to sleep; L:in; T:until 5am)
+
+Ft Bliss ' 4am wake ups were terrible .
+0.87 (Bliss ' 4am wake ups; were; terrible)
+
+Is going to eat the whore out of you .
+
+Don't you hate it when you're at work vacuuming out an abandoned warehouse and your vacuum gets clogged , only to find your nozzle sucked up an animal skeleton ?
+0.34 (your vacuum; gets clogged; )
+0.68 (you; 're; at work)
+0.58 (you; vacuuming out; an abandoned warehouse)
+0.45 (your vacuum; gets; clogged)
+

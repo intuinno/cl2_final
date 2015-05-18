@@ -1,0 +1,20 @@
+yes you do and it hurts
+0.38 (you; do; )
+0.24 (it; hurts; )
+
+< PROPFEMALE > christmas to all  at Mcfee no calls slow night would like to go home and be with kids and < PROPFEMALE >  FREEZING RAIN out mite have to call in the guys to go sand at 3:30 am they we love me and it mite pick up here at mcfee  A good friend will come bail you out of jail , but a bestfriend will be sitting next to you saying damn we had fun .
+0.30 (<; christmas; to all; L:at Mcfee; no calls slow night would like to go home and be with kids and < PROPFEMALE >  FREEZING RAIN out mite have to call in the guys)
+0.86 Context(< christmas,List([0, 24))):(no calls; would like; to go home and be with kids and < PROPFEMALE >  FREEZING RAIN out mite have to call in the guys)
+0.68 Context(< christmas no calls would like,List([0, 72))):(no calls; would like to go; home)
+0.28 (mite; to call; )
+0.27 (we; bail; you; out of jail)
+0.58 (mite; to go; sand; T:at 3:30 am)
+0.75 (A good friend; will come; )
+0.37 (they; saying; damn we had fun)
+0.31 (we; love; me)
+0.84 (no calls; to be; with kids)
+0.83 (a bestfriend; will be sitting; next to you; saying damn we had fun)
+0.45 (it; mite pick up; L:here; T:at mcfee)
+
+so lets roll !!!!!!!!!!!!!!!!!  at MCFEE 10.5 more hr no calls now we will have call at 230am  home sick this suck  I\  AM A NON-APOLOGETIC AMERICAN : \I pledge allegiance to the flag of the \ 
+

@@ -1,0 +1,782 @@
+is hoping 2010 brings a lot more joy to all of our lives
+
+feels a little better , slept all day yesterday .
+
+lets see how my stomache deals with today .
+
+tgif  i just love rainy mondays .
+0.45 (i; just love; rainy mondays)
+
+feels much better after going to the gym .
+
+starting to get quite frustrated .
+
+its almost the weekend , 1 more day of work .
+
+waking up at 6:30 on asaturday is not good .
+0.83 (waking up at 6:30 on asaturday; is not; good)
+
+misses her man .  is very happy .
+
+It's a long weekend , and i get to see my man tonight !! Hopefully .?.  had a great 4th .
+0.52 (It; 's; a long weekend)
+0.27 (i; to see; my man; T:tonight)
+
+finally got to spend time with my man .
+
+:)  cant wait for the weekend !!!  it's Monday already !?  the week is half over !
+0.50 (it; 's; Monday; T:already)
+0.32 Context(it 's,List([35, 39))):(:); ca nt wait; T:for the weekend)
+0.77 Context(it 's,List([35, 39))):(the week; is; half over)
+
+Cant wait for tomorrow when i get to see my < PROPFIRST >  i absolutely love this weather !!!  here's to hoping that this week goes by as fast as last week .
+0.27 (i; to see; my < PROPFIRST >  i absolutely love this weather)
+0.40 Context(i to see,List([28, 40))):(i; absolutely love; this weather)
+
+for a monday i'm awfully awake and alert .
+0.66 (i; 'm; awfully awake and alert; T:for a monday)
+
+ok , done at the gym .
+
+By wednesday i probably wont be able to move .
+0.64 (i; probably wo nt be; able to move; T:By wednesday)
+0.17 (i; to move; )
+
+lol  is not as sore as i thought i would be .
+0.70 (lol; is not; as sore as i thought i would be)
+0.26 (i; thought; i would be)
+0.16 Context(i thought,List([23, 32))):(i; would be; )
+
+has no ambition to go to work today .
+
+so thanks to some kind of flying insect , i know look like i was stabbed in the neck with an ice pick .
+0.24 (i; know; )
+0.45 (i; was stabbed; L:in the neck; with an ice pick)
+
+WTF !  has an annoying little headache that wont go away .
+0.71 (WTF; has; an annoying little headache that wont go away)
+0.77 (an annoying little headache; wo nt go; away)
+
+It's pay day !!  has the day off tomorrow !!  doesnt want to go back to work tomorrow .
+0.52 (It; 's; pay day)
+0.40 (It; has off; the day)
+
+finally the weekend !  has the day off !  is sad that i have to go back to work today  home at last .
+0.95 (the weekend; has; the day; off; T:finally)
+0.87 (the weekend; is; sad; T:finally)
+0.40 (i; to go home; T:today)
+
+time to sleep  off to six flags with the family today  after walking around in the sun for 8 hours , im not as burnt as i thought i would be .
+0.26 (i; thought; i would be)
+0.16 Context(i thought,List([120, 129))):(i; would be; )
+
+really does not want to go back to work for a staff meeting  banana cream cheesecake !!!  out of work early !
+
+now what to do before i go to the gym ?
+0.52 (i; go; to the gym)
+
+another short day i hope , yesterday dragged .
+0.19 (i; hope; )
+0.78 (another short day i hope; dragged; T:yesterday)
+
+wants to be in comfty pjs all day  Goodnight all .
+
+oh god , it's Monday already .
+0.57 (it; 's; Monday; T:already)
+
+is sore and doesnt want to move  has the day off .  is surprised at how easy it was to get up at 5am today .
+0.91 (the day off; is; surprised at how easy it was to get up at 5am today)
+
+it's Friday , and we have a long weekend , yay !
+0.57 (it; 's; Friday)
+0.45 (we; have; a long weekend)
+
+have a happy long weekend everyone .
+
+look out world , another woman is going to be entering the LaBreck clan .
+0.90 (another woman; to be entering; the LaBreck clan)
+
+going out with my soon to-be sister in law today  sick = bed all day .
+
+hi ho hi ho its back to work i go ....  hopefully i can last the whole day at work today .
+0.44 (i; go; T:hopefully i can last the whole day at work today)
+
+thank god its almost the weekend !
+
+one more day  really doesn't want to be up at 5am tomorrow .
+
+3 day weekend for me !!  very tired today .
+
+has dinner made and with < PROPFIRST > for the night  half way through the week  its gonna be a long friday  wishes her bf was closer for a movie day .
+0.34 (its gon; na be; )
+0.82 (a long friday; wishes; her bf was closer for a movie day)
+0.49 Context(a long friday wishes,List([94, 115))):(her bf; was; closer for a movie day)
+
+cant wait ti gi back to bed later .
+
+its a bad idea to go to the gym when you are already extremely over tired  its friday .
+0.54 (its a bad idea; to go; to the gym; T:when you are already extremely over tired  its friday)
+0.36 (you; are; T:already; extremely over tired)
+
+work is done .
+0.56 (work; is done; )
+
+thank god  it is soooooo cold out this morning  hates cold mornings  doent like that the warm weather is gone and the freezing cold will be here soon  has had it with the dog and i just got home .
+0.78 (the freezing cold; will be; here)
+0.23 (i; just got; home)
+0.75 (the warm weather; is gone; )
+
+the little\ prince\ " decides that when i take him to the bathroom that it is a good time to go visit all of our neighbor friends .
+0.31 (i; take; him; to the bathroom)
+0.69 (the little\ prince\; decides; that when i take him to the bathroom that it is a good time)
+0.58 Context(the little\ prince\ decides,List([0, 29))):(it; is; a good time to go visit all of our neighbor friends; T:when i take him to the bathroom)
+
+so im standind in the yard like an idiot calling him for 20 < PROPFEMALE > .
+0.83 (an idiot; calling; him)
+
+then just prances right back to me like he did a good thing .
+0.52 (he; did; a good thing)
+
+he is so lucky he is so damn cute right now .
+0.37 (he; is; so lucky he is so damn cute right now)
+0.28 (he; is; so damn cute; T:right now)
+
+"  does anyone else think that it is just wrong that it is snowing already ?
+
+up at 5 am again , for another short day at work  where it the light at the end of the tunnel ?
+
+where is the light at the end of the tunnel ?
+
+will i ever see it ?
+
+swine flu is in Grafton .
+0.94 (swine flu; is; in Grafton)
+
+finally the weekend .
+
+sick , slept all day and still feel tired .
+0.41 (sick; slept; T:all day)
+
+so after 2 days of nothing but sleeping , i still feel gross , but not getting sick anymore so i HAVE to go to work .
+0.55 (i; feel; gross; T:after 2 days of nothing but sleeping; T:still)
+0.41 (i; to go; to work)
+
+lets see how the day plays out .
+
+yay ! the lyme test came back negative .
+0.78 (the lyme test; came; back; negative)
+
+they think he may have just sprained his leg , pr tore the muscle a little ( lets hope its not a tear )  If nothing else thank the lord for your family .
+0.29 (pr; tore; the muscle; a little ( lets hope its not a tear )  If nothing else thank the lord for your family)
+0.47 Context(pr tore,List([47, 54))):(they; think; he may have just sprained his leg)
+0.26 Context(they think pr tore,List([0, 54))):(he; may have just sprained; his leg)
+
+cause when shit hits the fan , they are the only ones to help you with it .
+0.85 (shit; hits; the fan)
+0.82 (the only ones; to help; with it)
+
+i love days that turn out way better then you think they will !
+0.23 (i; love; days that turn out way better)
+0.68 (days; turn out way better; )
+0.67 (you; think; they will; T:then)
+
+is up way too early .
+
+cant wait for today to be over  oh Mondays , how i hate you .
+0.31 (i; hate; you)
+
+thank you to everyone for the great birthday wishes !
+
+it's Friday !
+0.57 (it; 's; Friday)
+
+being back to reality really sucks .
+0.77 (being back to reality; really sucks; )
+
+all i wanted was a few days with no agenda and now that i have them , i find myself very bored .
+0.34 (all; wanted; i)
+0.72 (all i wanted; was; a few days with no agenda)
+0.31 (i; have; them)
+0.28 (i; find; myself very bored; T:now that i have them)
+
+the week is half over !
+0.81 (the week; is; half over)
+
+it's f'ing cold out .
+0.28 (it; 's f'ing; cold out)
+
+i hate the cold  does not like the fact that winter has to come after it being so warm .
+0.80 (winter; to come; T:after it being so warm)
+0.23 (it; being; so warm)
+0.17 (i; hate; the cold  does not like the fact that winter has to come after it being so warm)
+0.70 Context(i hate,List([0, 6))):(the cold; does not like; the fact that winter has to come after it being so warm)
+
+what happened to the season of fall ?
+
+where did it go ?
+
+hoping that everyone has a < PROPFEMALE > Christmas and that they are with the ones they love  is having a great new years < PROPFEMALE > .
+0.58 (they; are; with the ones they love  is having a great new years)
+0.88 (the ones; love; they)
+0.72 (the ones they love; is having; a great new years < PROPFEMALE >)
+
+now gonna sit down and play < PROPFIRST > on the wii with my lil < PROPMALE >  not really looking forward to getting back into the routine of things tomorrow .
+0.83 (PROPMALE; not really looking forward; to getting back into the routine of things tomorrow)
+
+getting back into the swing of things .
+
+5am came way to quick today  forgot over the last two weeks how much it sucks getting up at 5am everyday .
+0.38 (5; am came way; to quick today  forgot over the last two weeks)
+0.52 (it; sucks; getting up at 5am everyday)
+0.20 (it; getting; up)
+
+Especially when it is this cold out .
+
+I hate the winter .
+0.45 (I; hate; the winter)
+
+last day of the work week for me .
+
+hahaha .
+
+i love my new job .
+0.31 (i; love; my new job)
+
+my head wants to go boom .
+0.65 (my head; wants; to go boom)
+0.59 Context(my head wants,List([0, 13))):(my head; wants to go; boom)
+
+motrin where are you ?
+
+waking up to see that it is only 9 degrees out ! wtf i want to go back to bed now .
+0.47 (i; want; to go back to bed now)
+0.40 Context(i want,List([53, 59))):(i; want to go; back to bed; T:now)
+
+off to the dentist then work til about 7-730 .
+
+well the week is half over , cant wait for Friday .
+
+i truely hate insurance companies .
+0.45 (i; truely hate; insurance companies)
+
+3 day weekend !!  has a headache after spending the afternoon painting  so it's 5:30 am and the snow hasn't started yet , this should be a fun drive to work today .
+0.92 (3 day weekend; has; a headache; T:after spending the afternoon painting)
+0.52 (it; 's; 5:30 am)
+0.77 (the snow; has n't started; T:yet)
+0.38 (this; should be; a fun drive to work today)
+
+goodmorning .  is making marshmallow men with the kids today  my weekend starts today !
+0.45 (goodmorning; is making; marshmallow men with the kids)
+0.65 Context(goodmorning is making,List([0, 24))):(my weekend; starts; T:today)
+
+game night with the family tonight  is it summer vacation yet ?
+
+i hate getting up at 5am for the kids cause of school on Mondays  not as productive as usual this morning .
+0.61 (i; hate getting; up; T:at 5am for the kids cause of school on Mondays  not as productive as usual; T:this morning)
+
+work at 11  waiting for < PROPFIRST > and < PROPMALE > to get home for dinner  mouth hurts  really wishes that i was still numb .
+0.82 (work at 11; waiting PROPFIRST; for <)
+0.77 (PROPMALE > to get home for dinner  mouth; hurts really; )
+
+back to work today , this should be interesting  not a bad day .
+
+no pain for the most part  babysitting most of the day 11am- ?  is soooo tired .
+0.91 (the most part; babysitting; most of the day)
+0.84 (no pain for the most part; is; soooo tired)
+
+I just wish my jaw would stop aching  the house is nice and quiet .
+0.83 (aching  the house; is; nice and quiet)
+0.36 (I; just wish; my jaw would stop aching  the house is nice and quiet)
+0.58 Context(I just wish,List([0, 11))):(my jaw; would stop; T:aching  the house is nice and quiet)
+
+picking up and vaccuuming done , now what else ?
+
+long day with lots of kids = big headache  < PROPFEMALE > not excited about this snow coming  I hate not being able to shake this feeling .  is sick of not being appreciated for some things .
+0.73 (this snow; coming; )
+0.45 (I; hate not being; able to shake this feeling)
+0.41 (I; to shake; this feeling)
+
+it will be a good day , it will be a good day , it will be a good day .
+0.39 (it; will be; a good day)
+0.39 Context(it will be,List([48, 58))):(it; will be; a good day)
+0.39 Context(it will be it will be,List([24, 58))):(it; will be; a good day)
+
+well its Thursday .
+
+one more day after today .
+
+thank goodness  such beautiful weekend .
+
+its so sad that it has to end .
+0.17 (it; to end; )
+
+doesnt want to be up right now .
+
+lets see how today pans out considering i already woke up over an hour late .
+
+oh joy .
+
+lets see , its thursday .
+
+that means dinner with my man , and i get to see my little < PROPMALE > today .
+0.08 (that; means; dinner with my man)
+0.31 (i; to see; my little < PROPMALE; T:today)
+
+its gonna be a good day .
+0.64 (its gon; na be; a good day)
+
+it needs to get warmer , now .
+0.22 (it; needs now; to get warmer)
+0.20 (it; to get; warmer)
+
+is just done with this week .
+
+where is the fastforward button ?
+
+Why on such an amazing day do I feel so gross ?
+
+Finally doesn't feel like a zombie , just in time to go to bed .
+
+Lol , gotta love it .
+0.74 (Lol; got; ta love it)
+0.68 Context(Lol got,List([0, 9))):(Lol; got ta love; it)
+
+If nothing else , today will be a good day .
+0.89 (today; will be; a good day)
+
+I swear , if my assignment doesn't go through right this time , I'm pitching the laptop across the house .
+0.64 (my assignment; does n't go; through right this time)
+0.16 (I; swear; )
+0.40 Context(I swear,List([0, 7))):(I; 'm pitching; the laptop)
+
+Lol  am finding that I am very bored considering I have so much to do .
+0.28 (so much; to do; )
+0.53 (Lol; am finding; that I am very bored considering I have so much)
+0.32 Context(Lol am finding,List([0, 15))):(I; am; very bored considering I have so much)
+
+Just don't want to do it  feels like I slept about 20 minutes last night .
+0.52 (I; slept; about 20 minutes; T:last night)
+
+Ugh .
+
+Here we go day , lets hope your a good one .
+0.60 (we; go; T:day; L:Here)
+0.18 Context(we go,List([5, 10))):(we; go let; s hope your a good one)
+0.26 Context(we go let,List([5, 20))):(s; hope; your a good one)
+
+its Thursday , its a pay week , and teacher appreciation week .
+
+why is it that all the good weeks fly by before you know it ?
+0.54 (you; know; it)
+
+All the amazing flowers our parents gave us are horrible for my allergies .
+0.84 (All the amazing flowers; gave; us)
+0.63 (All the amazing flowers our parents gave us; are; horrible for my allergies)
+
+too much to do with no way near enough time to do it .
+0.28 (too much; to do; )
+
+its gonna be a long rest of the week .
+0.64 (its gon; na be; a long rest of the week)
+0.89 (its gonna; be a long rest of; the week)
+
+too hot to do school work .
+
+Although it is due today , ugh gotta get it done .
+0.52 (it; is; due today)
+0.71 (ugh; got; ta get it done)
+0.65 Context(ugh got,List([27, 34))):(ugh; got ta get; it done)
+0.16 Context(ugh got ta get,List([27, 40))):(it; done; )
+
+Happy 5th Birthday < PROPFIRST > !!!!! Auntie loves you so much .
+
+why ?
+
+Its gonna < PROPFEMALE > long day in the house if it rains  is so tired .
+0.60 (long day in the house if it rains; is; so tired)
+
+thank god the day is over .
+
+oh thursday , can we please jus skip over you  feels blah ... movies all day is ok with me .
+0.39 (all day; is ok with; me)
+
+still feels blah , stupid rain last week making me think I dont have to take my allergy meds .
+0.27 (I; to take; my allergy meds)
+
+wants to go back to bed .
+
+dislikes being onhold with the vet only to have them come back and say can we call you back ?
+0.23 (them; say; can we call you back)
+
+We dont want you to stay holding the line up .
+0.57 (you; holding up; the line)
+0.26 (We; do nt want; you to stay holding the line up)
+0.55 Context(We do nt want,List([0, 12))):(you; to stay; holding the line up)
+
+so happy to be able to sleep in my own bed again last night .
+
+hates waking upwith a massive headache  the drama needs to stop , and people need to get their heads out of their ass's  class number 2 down , 2 more to go .
+0.72 (the drama; needs; to stop)
+0.91 Context(the drama needs,List([40, 55))):(a massive headache; to stop; the drama)
+0.85 (people; need; to get their heads out of their ass's  class number 2 down , 2 more to go)
+0.78 Context(people need,List([70, 81))):(people; need to get down; their heads; out of their ass's  class number 2)
+
+it's not fair , the days when I can sleep in I'm up at 5:45 .
+0.28 (it; 's not; fair)
+0.55 (I; can sleep; T:the days)
+0.28 (I; 'm; up; T:at 5:45)
+
+It will be a good day .
+0.45 (It; will be; a good day)
+
+dislikes having to do school work all day .
+
+I think yet another trip to the vet will be scheduled for tomorrow .
+0.51 (I; think yet; another trip to the vet will be scheduled for tomorrow)
+0.91 Context(I think yet,List([0, 11))):(another trip to the vet; will be scheduled; for tomorrow)
+
+Where oh where is my island ?
+
+Lets see what else can go to crap !  the pile keeps getting higher and higher .
+0.74 (the pile; getting; higher and higher)
+
+why is it that there is at least 1 person pissed at me at all times ?
+
+with how complicated life is , the after life better be some hell of a party  trying to look on the bright side of things .
+0.94 (how complicated life; is; the after life better be some hell of a party)
+0.88 (a party; trying; to look on the bright side of things)
+0.88 Context(a party trying,List([69, 84))):(a party; trying to look; on the bright side of things)
+
+Key word \ trying \""  the bright side seems to be getting brighter .
+0.75 (the bright side; seems; )
+0.75 (the bright side; to be getting; brighter)
+
+In memory of every cancer patient , family member and friend who has lost their battle with cancer and for those who continue to conquer it .
+0.65 (family member and friend; has lost; their battle with cancer and for those)
+0.10 (those; continue; to conquer it)
+0.10 Context(those continue,List([107, 125))):(those; continue to conquer; it)
+
+Put this up for 1 hour if you know someone who has or had cancer .
+0.68 (you; know; someone who has)
+0.74 (someone; has; )
+
+Many won't copy and paste .
+0.26 (Many; wo n't copy; )
+0.23 (Many; paste; )
+
+I did , will you ?
+0.23 (I; did will; you)
+
+???  sad .
+
+yay , for Friday !!  hopefully relaxing and doing homework today .
+
+its sad that it has to be inside when its so beautiful out .  is done with being told I have to do things , to make everyone elses lives easier .
+0.41 (I; to do; things)
+0.20 (it; to be; inside)
+0.35 (its so beautiful out; is done; )
+
+Thursday .
+
+The week is almost over .
+0.81 (The week; is; almost over)
+
+It's back to reality time , gotta get up at 5am to take care of the kids .
+0.47 (It; 's; back to reality time)
+
+< PROPFIRST > starts kindergarten today !!
+0.90 (PROPFIRST >; starts; kindergarten; T:today)
+
+He told me that he thinks he will be a little nervous .
+0.14 (He; told; me; that he thinks he will be a little nervous)
+0.31 Context(He told,List([0, 7))):(he; thinks; he will be a little nervous)
+0.18 Context(He told he thinks,List([0, 25))):(he; will be; a little nervous)
+
+lol  what a beautiful day .
+
+went hiking with my sister and < PROPFIRST > , what is next ?
+
+back to work today .
+
+wishes that it was still light out when I get up at 5am .
+0.52 (I; get; up; T:at 5am)
+
+Don't want summer to end .
+
+Not looking forward to the cold .
+
+Peach pie is in the oven .
+0.93 (Peach pie; is; in the oven)
+
+Had an awesome time with < PROPFIRST > and < PROPFIRST > at the apple orchard !
+
+Goodbye blonde hair !!!  another busy day , ready to get started .
+
+While I'm waiting , I will not fade\  I will be running the race , even while I wait .
+0.19 (I; 'm waiting; )
+0.50 (I; will not fade\; I will be running the race , even while I wait; T:While I'm waiting)
+0.26 Context(I will not fade\,List([20, 36))):(I; will be running; the race; T:even while I wait)
+
+Gotta love crazy mornings .
+
+completely done with today !  is up and moving for the cancer walk with the girlies from work today .
+
+today is a new day , what will it bring ... who knows ?
+
+very good day considering the kids couldn''t go outside this afternoon , but still glad that it's over .
+0.28 (it; 's; over)
+
+All I want is my PJ's  why is it on the days i can sleep longer , the dog decides he wants to play at 5:30 am .
+0.40 (All; want; I)
+0.60 (i; can sleep; T:longer; T:the days)
+0.80 (the dog; decides; he wants to play at 5:30 am)
+0.57 Context(the dog decides,List([66, 81))):(All I want; is; my PJ's)
+0.47 Context(the dog decides,List([66, 81))):(he; wants; to play at 5:30 am)
+0.40 Context(the dog decides he wants,List([66, 90))):(he; wants to play; T:at 5:30 am)
+0.39 ('s why; is it on; the days)
+
+Your lucky your cute Beckett .
+
+goodnight .
+
+Head is pounding , again .
+0.77 (Head; is pounding; again)
+
+day off and still up at 5 am .
+
+What is wrong with me ?  off to foxboro for the day .
+
+PDD day , at least I don't have to drive far , so sorry Mays .
+0.41 (I; to drive far; so sorry Mays)
+
+can't wait for a day off tomoorrow , so I can actually sleep in a bit .
+0.45 (I; can actually sleep; L:in a bit)
+
+back to work .
+
+I can sleep on Friday .
+0.50 (I; can sleep; T:on Friday)
+
+i wish waking up at 5am wasn't so hard .
+0.47 (i; wish; waking up at 5am wasn't so hard)
+0.82 Context(i wish,List([0, 6))):(waking up at 5am; was n't; so hard)
+
+But of course i'm wide awake at 3am .
+
+it's sad when sleeping in for me means waking up at 7am .
+0.37 (it; 's; sad; T:when sleeping in for me)
+0.76 (it's sad when sleeping in for me; means; waking up at 7am)
+
+Rehersal for the wedding then babysitting later .
+0.83 (the wedding; babysitting; T:later; T:then)
+
+not even a three day work week has me excited to be up right now .
+0.20 (me; to be; up; T:right now)
+
+Think I'm starting to get a cold , great .
+0.20 (I; to get; a cold , great)
+
+Want to be somewhere warm .
+
+loves my big brother .
+
+He can get me so angry and within 5 seconds can also have me want to cry .
+0.31 (He; can get; me so angry)
+
+Love you Kiss-a-fur .
+
+Every\  person has 1000 wishes , a cancer patient only one : to get better .
+0.93 (Every\  person; has; 1000 wishes)
+
+I \  know , that 97% will not post this as their status , be one of the 3% and \  put this as your status , at least for an hour , for those who died \  because of cancer or are still fighting it .
+0.24 (I; \; )
+0.07 (those; died; )
+0.77 (97%; will not post; this)
+
+Paranormal state and laundry  lets try this hair thing again .
+
+hopefully it works , thanks to < PROPFIRST >  love being able to read to < PROPFIRST > before bedtime .
+0.89 (love; being; able to read to < PROPFIRST > before bedtime)
+0.88 (love; to read; to <; T:PROPFIRST; T:before bedtime)
+
+He is so sweet , one more book Auntie please ?
+0.28 (He; is; so sweet)
+
+very sad that it is sooo cold out  November 1 , 2010 and its 28 degrees .
+0.53 (it; is; sooo cold out  November 1 , 2010 and its 28 degrees)
+
+You gotta be kidding me .
+0.48 (You; got; ta be kidding me)
+0.41 Context(You got,List([0, 7))):(You; got ta be kidding; me)
+
+the thought of < PROPFEMALE > with combat boots and a can of tuna instead of a pumpkin , just popped in my head .
+0.84 (a can of tuna; just popped; L:in my head)
+
+love you < PROPFIRST > .
+
+can't F ing stand people who think they can rule your life and others by intimidating you .
+0.86 (people; think; they can rule your life and others by intimidating you)
+0.40 Context(people think,List([18, 34))):(they; can rule; your life and others)
+
+Grow the F up .
+
+Thank you for all the wonderful birthday wishes .
+
+hate waking up crying .
+
+I feel like I'm one of the kids .
+0.31 (I; feel; like I'm one of the kids)
+0.52 (I; 'm; one of the kids)
+
+sooo tired I want to go to bed now .
+0.47 (I; want; to go to bed now)
+0.40 Context(I want,List([11, 17))):(I; want to go; to bed; T:now)
+
+38 days til Christmas .
+
+Well , crap .
+
+anyone know a dentist that is open on the weekend ?
+0.80 (anyone; know; a dentist that is open on the weekend)
+0.91 (a dentist; is; open on the weekend)
+
+good thing I looked at my schedule before I left .
+0.31 (I; looked; at my schedule; T:before I left)
+0.24 (I; left; )
+
+Don't have to be in until 10:30 .
+
+So it's just my luck this week that I was up at 5:00 .
+0.31 (it; 's just; my luck; T:this week)
+0.23 Context(it 's just,List([3, 12))):(I; was; up; T:at 5:00)
+
+hates that it is dark out when I get up in the morning , and when I get home after work .
+0.45 (I; get up; T:in the morning)
+0.52 (I; get; home; T:after work)
+
+Kinda depressing .
+0.77 (Kinda; depressing; )
+
+trying really hard not to psych myself out about the dentist tomorrow ....  Loves my man who is always there when I need him , and always there to take care of me .
+0.52 (my man; is; T:always; there; T:when I need him)
+0.31 (I; need; him)
+
+really wishes that this headache would go away .
+
+I truely hate the dentist .
+0.45 (I; truely hate; the dentist)
+
+Stressed and have an enormous headache now .
+
+14 years , I love and miss you daddy .
+0.19 (I; love; )
+0.44 (I; miss; daddy)
+
+feeling very under the weather , I hope it's not the grossness that's going around .
+0.26 (I; hope; it's not the grossness)
+0.24 Context(I hope,List([33, 39))):(it; 's not; the grossness that's going around)
+
+wishes my throat would stop hurting so i could drink my coffee .
+0.30 (my throat; hurting; )
+
+I don't feel like thats too much to ask .
+0.10 (I; do n't feel; like thats too much)
+0.28 (too much; to ask; )
+
+Gotta get moving and ready for work  can't wait for tonight .
+
+Making a gingerbread village with < PROPFIRST > !
+
+Hopefully this one the dog will not eat this year .
+0.90 (Hopefully this one; will not eat; T:this year)
+
+lol , oh Beckett you are our dog alright .
+0.46 (you; are; our dog; T:alright)
+
+shopping is finally all done .
+0.74 (shopping; is all done; T:finally)
+
+now i just gotta get my butt in gear to wrap all of it .
+0.50 (i; just got; ta get my butt in gear to wrap all of it; T:now)
+0.26 Context(i just got,List([4, 14))):(i; just got ta get; my butt; in gear)
+0.18 Context(i just got ta get,List([4, 20))):(i; just got ta get my butt to wrap; all of it)
+
+love that during vacation week the news station still sends me a text saying that the school will be closed tomorrow .
+0.87 (the news station; sends; me; a text saying that the school will be closed tomorrow; T:love; T:during vacation week; T:still)
+0.73 (a text; saying; that the school will be closed tomorrow)
+0.88 Context(a text saying,List([63, 76))):(the school; will be closed; T:tomorrow)
+
+Well , no kidding .
+
+LOL  wow , it's Thursday already ?
+0.57 (it; 's; Thursday; T:already)
+
+yay !
+
+it's Friday .
+0.57 (it; 's; Friday)
+
+yay it's Friday !
+0.57 (it; 's; Friday)
+
+LET'S SEE WHO IS PAYING ATTENTION .
+0.43 ('S; SEE; WHO IS PAYING ATTENTION)
+
+EVERY SINGLE ONE OF YOU ARE ON MY FRIENDS LIST AS A RESULT OF A CONSCIOUS DECISION .
+0.70 (EVERY SINGLE ONE OF YOU; ARE; ON MY FRIENDS LIST AS A RESULT OF A CONSCIOUS DECISION)
+
+I WANT YOU HERE .
+0.37 (I; WANT; YOU; HERE)
+
+I AM NOT ONLY GLAD TO COUNT YOU AS FRIENDS BUT ALSO FAMILY .
+0.68 (I; AM; NOT ONLY GLAD TO COUNT YOU AS FRIENDS BUT ALSO FAMILY)
+
+LET'S SEE WHO ACTUALLY PAYS ATTENTION .
+0.43 ('S; SEE; WHO ACTUALLY PAYS ATTENTION)
+0.85 Context('S SEE,List([3, 9))):(ACTUALLY; PAYS; ATTENTION)
+
+COPY THIS AS YOUR STATUS JUST FOR A MINUTE .
+
+I'LL BE WATCHING TO SEE WHO REALLY ... DOES .
+0.57 (I; 'LL BE; WATCHING)
+0.46 (I; TO SEE; WHO REALLY ... DOES)
+
+< PROPFEMALE > FAMILY & ......... FRIENDSHIP .
+
+THANK YOU FOR BEING PART OF MY LIFE  migraine starting .
+
+this should be fun  kinda getting annoyed that nothing I do is ever right .
+0.09 (this; kinda getting; annoyed that nothing I do is ever right)
+0.90 (nothing; do; I)
+
+shoveling while having a cold doesn't mix well  so wish this cold would go away .
+0.34 (shoveling while having a cold; does n't mix well; )
+
+It would be nice not to feel gross when I wake up in the morning .
+0.23 (It; would be; nice not to feel gross)
+0.45 (I; wake up; T:in the morning)
+
+Oh well , off I go  out to free my car again .
+0.26 (I; go out; to free my car again)
+0.26 Context(I go out,List([14, 23))):(I; go out to free; my car; T:again)
+
+Taking bets on how long it will take to de-ice it .
+
+My back has gone numb after spending most of the afternoon chipping about 3 inches of solid ice off the entire driveway .
+0.64 (My back; has gone; numb; T:after spending most of the afternoon)
+0.94 (the afternoon; chipping; about 3 inches of solid ice off the entire driveway)
+
+praising the maker of the icy hot patch lol .
+
+Its gonna be a long day .
+0.64 (Its gon; na be; a long day)
+
+Apple  it's 8 am .
+0.52 (it; 's; 8 am)
+
+Guess I should contemplate getting ready and going to the gym  Truely blessed by the people in my life .
+0.20 (I; getting; ready)
+0.81 (the gym; blessed; by the people in my life)
+
+:) 
+

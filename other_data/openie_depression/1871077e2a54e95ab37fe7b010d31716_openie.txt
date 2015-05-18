@@ -1,0 +1,168 @@
+Welcome , my friends and family , those close and far , to this , the beginning of the new year .
+
+May the winds grace you all for the journey ahead of you , and bear you swiftly to your destination ... 
+
+Greatest birthday ever , just got out of county this morning , bloody hell .
+0.93 (Greatest birthday; just got; out of county; T:this morning; T:ever)
+
+Eh , no worries , live and let live ...  Pleasecopy and paste this to your status if you know someone , or have \  been affected by someone who needs a smack upside the head .
+0.74 (no worries , live; let live; )
+0.88 (someone; needs; a smack)
+0.68 (you; know; someone)
+
+Lets raise \  awareness .
+
+Thanks to Last Pride for sending me Dead Bull - 50% Energy Boost .
+
+I really like it !
+0.31 (I; really like; it)
+
+http://bit.ly/9UvqO7
+
+What are you doing ?
+
+Come join us in this chat with 2 other people http://tinychat.com/bawww
+
+Remember , remember , the fifth of November , the gunpowder treason and plot .
+
+I see no reason why the gunpowder treason should ever be forgot .
+0.57 (I; see; no reason why the gunpowder treason should ever be forgot)
+0.78 (the gunpowder treason; should be forgot; T:ever)
+
+\  http://remember5.tk/
+
+( POKE ) Me if you had or have a crush on me ... \  ( LIKE ) This status if you think I'm a good friend ... \  ( MESSAGE ) Me if you ever wanted to date me ... \  ( COMMENT ) On this status if we ever had any good memories .. \  NOW IF YOUR BRAVE , YOU WILL POST THIS AS YOUR STATUS AND SEE WHAT YOU GET .
+0.38 (you; had; )
+0.50 (you; wanted; to date me; T:ever)
+0.36 Context(you wanted,List([129, 144))):(you; wanted to date; me)
+0.42 (you; have; a crush on me)
+0.36 (YOU; SEE; WHAT YOU GET)
+0.32 Context(YOU SEE,List([249, 290))):(YOU; GET; )
+0.62 (we; had; any good memories; T:ever)
+0.48 (you; think; I'm a good friend)
+0.47 Context(you think,List([76, 85))):(I; 'm; a good friend)
+
+\  Stole the idea from < PROPFIRST > , if it works who cares if the idea was used before .
+0.88 (\; Stole; the idea; from < PROPFIRST)
+0.77 (the idea; was used; T:before)
+0.47 (it; works; who cares if the idea was used before)
+
+\  InB4JewJokes-\  < PROPFEMALE > on .
+
+PLEASE put this as your status if you know someone who has been eaten by dragons .
+0.68 (you; know; someone who has been eaten by dragons)
+0.88 (someone; has been eaten; by dragons)
+
+Dragons are nearly unstoppable and , in case you didn't know , they can totally breathe fire .
+0.80 (Dragons; are; nearly unstoppable)
+0.55 (they; can totally breathe; fire)
+0.27 Context(they can totally breathe,List([63, 87))):(you; did n't know; )
+
+60% of people won't copy and paste this because they've already been eaten by dragons .
+0.77 (60% of people; wo n't copy; )
+0.84 (60% of people; paste; this; because they've already been eaten by dragons)
+0.65 (they; 've been eaten; by dragons; T:already)
+
+38% of people are sitting in the shower armed with fire extinguishers , and ... the remaining 2% are awesome and will re-post .
+0.92 (38% of people; are sitting; in the shower)
+0.90 (the shower; armed; with fire extinguishers)
+0.80 (the remaining 2%; are; awesome)
+0.93 (38% of people; will re-post; the remaining 2%)
+
+Let's see how creative my FB friends are .
+
+Leave me a 1-word comment that best describes me using the 3rd letter of your 1st name .
+0.81 (a 1-word comment; best describes; me)
+0.81 Context(a 1 - word comment best describes,List([9, 45))):(a 1-word comment; best describes me using; the 3rd letter of your 1st name)
+
+It can only be 1 word .
+0.45 (It; can only be; 1 word)
+
+Then paste & copy this to your status , so I can leave a word about you ... Don't just leave a word & not copy .
+0.31 (I; can leave; a word about you)
+
+That's no fun !
+0.45 (That; 's; no fun)
+
+OK , I played let's see if anyone else has nothing to do for a moment  Please copy and paste to your status if you know someone or have been affected by someone who needs a foot up their ass .
+0.31 (I; played; let's see if anyone else has nothing)
+0.80 (someone; needs; a foot; up their ass)
+0.68 (you; know; someone)
+0.82 (nothing; to do; T:for a moment; Please copy and paste to your status)
+
+People who need a foot up their ass affect the lives of many .
+0.72 (People who need a foot up their ass; affect; the lives of many)
+0.76 Context(People who need a foot up their ass affect,List([0, 42))):(People; need; a foot up their ass)
+
+There is still no cure for someone who needs a foot up their ass except a foot up their ass .
+0.80 (someone; needs; a foot; up their ass)
+
+Please help raise awareness as 93% of people won't repost this .
+
+Why ?
+
+Because they need a foot up there ass !!!!
+0.61 (they; need up there; a foot)
+
+I know many !!  Amazing how you click a link to see lulz and accept it to be an app , only to find out that without a credit card and a possible download you can't see a video that is most likely viral around the internet .
+0.28 (I; know; many)
+0.59 (you; click; a link to see lulz and accept it to be an app ,)
+0.30 Context(you click,List([28, 37))):(you; click to accept; it; to be an app)
+0.20 Context(you click,List([28, 37))):(you; click only to find out; that without a credit card and a possible download you can't see a video)
+0.42 Context(you click only to find out,List([28, 102))):(you; ca n't see; a video that is most likely viral around the internet)
+0.91 (a video; is; most likely viral around the internet)
+0.45 (it; to be; an app)
+0.27 (that; is most likely viral around; the internet)
+
+Ignore that last post if you would , damn auto post app-whatever-kebab-thing-sunday snausage .
+
+Please copy and paste this into your status if you know someone , or have been affected by someone , who needs a punch in the face .
+0.68 (you; know; someone)
+0.88 (someone; needs; a punch in the face)
+
+People who need a punch in the face affect the lives of many .
+0.93 (People who need a punch in the face; affect; the lives of many)
+0.85 Context(People who need a punch in the face affect,List([0, 42))):(People; need; a punch in the face)
+
+There is still no known cure for people that need a punch in the face , except a punch in the face .
+0.92 (people; need; a punch in the face , except a punch in the face)
+
+93% won't re-post this .
+0.77 (93%; wo n't re-post; this)
+
+Why ?
+
+Because they probably need a punch in the face .
+0.62 (they; probably need; a punch in the face)
+
+Don't know why .
+
+Sudden burst of energy , can't calm down .
+0.74 (Sudden burst of energy; ca n't calm down; )
+
+Adrenaline pumping , heart racing .
+
+Feel a slightly twisted joy , mixed with a contained rage , over what- I do not know .
+0.91 (a slightly twisted joy; mixed; with a contained rage)
+0.19 (I; do not know; )
+
+This is exhilarating .
+0.15 (This; is exhilarating; )
+
+Was feeling down and depressed one moment then the next , this shock of energy overcomes me and I can't seem to contain myself , I need to do something .
+0.86 (this shock of energy; overcomes; me)
+0.19 (I; ca n't seem; )
+0.27 (I; to contain; myself)
+0.40 (I; need; to do something)
+0.40 Context(I need,List([129, 135))):(I; need to do; something)
+
+Log off your facebook Mr. Kyle !! Remember what happened to < PROPMALE > ?? :D  Squirrel strikes again !
+
+Bwahahaha !
+
+Bwahahahaha !
+
+Squirrel strikes again !
+
+AND < PROPFEMALE > STRIKES !!!!!!!!!! BAHAHAHAHAHA 
+

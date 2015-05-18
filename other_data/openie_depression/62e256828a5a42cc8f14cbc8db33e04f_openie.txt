@@ -1,0 +1,341 @@
+Happy New Year
+
+Soooo sleepy ...  Happy 233rd Birthday < PROPFEMALE > .
+
+Dizzy ... >_<  has a new cell number , tell me if you want it .
+0.96 (Dizzy ... >_<; has; a new cell number)
+0.91 (Dizzy ... >_<; tell; me; if you want it)
+0.54 (you; want; it)
+
+Is very tired .
+
+I'm so tired and I still have a paper to write .
+0.28 (I; 'm; so tired)
+0.55 (I; have; a paper to write; T:still)
+0.73 (a paper; to write; )
+
+I just want to go to sleep .
+0.39 (I; just want; to go to sleep)
+0.39 Context(I just want,List([0, 11))):(I; just want to go; to sleep)
+
+T__T  how about an E-hug ?
+
+XD  Never Forget ...  ZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzz ....  is facebook acting funny for anyone else ?
+0.89 (facebook; acting; funny; for anyone else)
+0.82 (XD; Never Forget; ZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzz ....  is facebook)
+0.84 Context(XD Never Forget,List([0, 16))):(ZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzz; is; facebook acting funny for anyone else)
+
+Hmm ... I think its time for other tirp , but to where ?
+0.37 (I; think; its time for other tirp , but to where)
+
+Zion , the Village of fire , or somewhere else ?
+
+I'm getting sick and I have a test tomorrow =(  I feel sick .
+0.23 (I; 'm getting; sick)
+0.45 (I; have; a test; T:tomorrow)
+0.23 (I; feel; sick)
+
+I quit .
+0.19 (I; quit; )
+
+This cold just won't go away .
+0.77 (This cold; just wo n't go; away)
+
+Someone is being a copy-\cat\ " with their profile Picture .
+0.89 (Someone; is being; a copy-\cat\)
+
+"  The first PC component arrived yesterday .
+0.92 (The first PC component; arrived; T:yesterday)
+
+It was the video card .
+0.52 (It; was; the video card)
+
+Just 4 more days till I have all the components and can start building my new computer .
+0.45 (I; have; all the components)
+0.23 (I; can start; building my new computer)
+0.23 Context(I can start,List([22, 61))):(I; can start building; my new computer)
+
+^_^  Took me two hours to build that computer , but it still needs an OS .
+0.55 (it; needs; an OS; T:still)
+
+This computer I built is running great .
+0.88 (This computer; built; I)
+0.39 (This computer I built; is running; )
+
+=D  anyone here speak Simlish ?
+
+lol  its cold here .
+
+just three more days .
+
+Well classes are over .
+0.75 (classes; are; over)
+
+Now I just have to make it through the hard part .
+0.17 (I; to make; )
+
+so sleepy  Now that everything is done .
+0.71 (everything; is done; )
+
+It's time to go and have some fun .
+0.52 (It; 's; time to go and have some fun)
+
+< PROPFEMALE > Chrristmas  Zip-A-Dee-Doo-Dah zip-a-day  And so it begins .
+0.19 (it; begins; )
+
+The start of a new day-and perhaps a new adventure .
+
+Comments ?
+
+It's three after seven , so why is still dark outside ?
+0.28 (It; 's; three after seven)
+
+> (  I love Thursdays .
+0.50 (I; love; Thursdays)
+
+=)  Is it Friday yet ?
+0.76 (=); Is; it; T:yet)
+
+It's going to be a long day .
+0.41 (It; to be; a long day)
+
+My high , low program doesn't work .
+0.41 (My high , low program; does n't work; )
+
+lol  I am the < PROPMALE > of Random , and that make Random my < PROPMALE > dom .
+0.57 (I; am; the < PROPMALE)
+0.09 (that; make; Random my < PROPMALE > dom)
+0.38 (I; am the < PROPMALE > of; Random)
+
+=D  Beef > Pork  M&M > skittles  Where does all the time go ?
+0.81 (Pork  M&M; skittles; Where does all the time go)
+
+Next class I earn my Tae Kwon Do uniform and white belt .
+0.35 (I; earn; my Tae Kwon Do uniform and white belt)
+
+(^_^)  I would add something , but I just don't feel like it .
+0.45 (I; would add; something)
+0.31 (I; just do n't feel; like it)
+
+I got my Tae Kwon Do uniform and white belt today , and I feel great !
+0.42 (I; got; my Tae Kwon Do uniform and white belt; T:today)
+0.23 (I; feel; great)
+
+Today I told myself that I would go to the gym and get workout for a few hours , but four hours later I was still playing Facebook apps .
+0.48 (I; get; workout; T:for a few hours)
+0.54 (I; was playing; Facebook apps; T:four hours later; T:still)
+0.32 (I; told; myself; that I would go to the gym and get workout for a few hours; T:Today)
+0.39 Context(I told,List([6, 12))):(I; would go; to the gym)
+
+(-_-)  Happy Saint < PROPFIRST>'s Day everyone !
+
+fear leads to anger .
+0.89 (fear; leads; to anger)
+
+anger leads to hate .
+0.75 (anger; leads; to hate)
+
+hate leads to suffering - yoda  Our government is about to run up its credit card < PROPMALE > .
+0.45 (Our government; to run up; its credit card)
+0.70 (hate; leads; to suffering - yoda)
+0.50 Context(hate leads,List([0, 10))):(Our government; is; about to run up its credit card)
+
+lolz >.>
+
+The republic has failed us this day ... No , the rules of the republic were just ignore .
+0.74 (the rules of the republic; were just ignore; )
+0.80 Context(the rules of the republic were just ignore,List([45, 87))):(The republic; has failed; us; T:this day)
+
+That is what happened today .
+0.40 (That; is; what happened today)
+
+Is our government a democracy like says it is , or a republic like the founders said it is ?
+0.84 (a republic like the founders; said; it is)
+0.20 Context(a republic like the founders said,List([51, 84))):(it; is; )
+
+Right now I am not so sure we are either .
+0.44 (I; am not; so sure we are either; T:Right now)
+0.19 (we; are either; )
+
+Pepsi-cola or Coca-cola ?
+
+One more week till belt testing starts .
+0.95 (belt testing; starts; T:One more week)
+
+I'll have my yellow when the tests are done .
+0.31 (I; 'll have; my yellow; T:when the tests are done)
+0.73 (the tests; are done; )
+
+=)  Ok .
+
+I'm giving up soda for the next six months .
+0.45 (I; 'm giving up; soda; T:for the next six months)
+
+Why ?
+
+Because I can .
+
+Is it just me , or has facebook been really glitchy over the last few days ?
+0.43 (it; has; facebook been really glitchy over the last few days)
+0.87 Context(it has,List([3, 22))):(facebook; been; really glitchy over the last few days)
+
+I didn't know ocarinas were a real interment .
+0.39 (I; did n't know; ocarinas were a real interment)
+0.87 Context(I did n't know,List([0, 13))):(ocarinas; were; a real interment)
+
+lol  It's a Monday , but not just any Monday .
+0.57 (It; 's; a Monday)
+
+It's my day !
+0.37 (It; 's; my day)
+
+=)  I just signed up for the Utah Summer Games .
+0.50 (I; just signed up; for the Utah Summer Games)
+
+Three days till the Utah Summer Games .
+
+Am I ready ?
+
+Ask me again in 4 days .
+
+Just one more day .
+
+Tae Kwon Do part of the Utah Summer Games is over .
+0.91 (Kwon Do part of the Utah Summer Games; is; over)
+
+Believe it or not I came home today with metals !
+
+Yes !
+
+I did metal in both Forms(silver ) and Sparring(Gold ) .
+0.52 (I; did; metal)
+
+I'll post some pictures later .
+0.52 (I; 'll post; some pictures; T:later)
+
+Right now I need to put some ice on my feet .
+0.38 (I; need; to put some ice on my feet; T:Right now)
+0.26 Context(I need,List([10, 16))):(I; need to put; some ice; on my feet)
+
+I was in todays news paper .
+0.52 (I; was; in todays news paper)
+
+lol .
+
+Have a great Independence Day everyone !
+
+I just got most of my books for this fall and loving this new < PROPFEMALE > laptop .
+0.31 (I; just got; most of my books; T:for this fall)
+0.46 (I; loving; this new < PROPFEMALE > laptop)
+
+=D  It's starting to look like the problem with my computer is the motherboard .
+0.27 (It; to look; like the problem with my computer)
+0.41 (=D; is; the motherboard)
+
+It could still be the power-supply , but seeing as I replaced it and the computer wouldn't read the hard-drive ... oh well , that's just my luck .
+0.31 (I; replaced; it and the computer)
+0.53 (seeing as I replaced it and the computer; would n't read; the hard-drive)
+0.08 (that; 's just; my luck)
+0.43 Context(that 's just,List([125, 136))):(It; could be; the power-supply; T:still)
+
+(-.-)  O .
+
+K , So I repaced the motherboard with a new one .
+0.45 (I; repaced; the motherboard; with a new one)
+
+Only to find out that the last power failure has seemed to have damaged the videocard .
+0.91 (the last power failure; to have damaged; the videocard)
+
+Well isn't that just great ?
+
+Is it just me or , has my luck been going down hill a lot lately ?
+0.29 (it; has; my luck been going down hill a lot lately)
+0.21 Context(it has,List([3, 22))):(my luck; been going hill; T:lately)
+
+< PROPMALE > Mt .
+
+Open , should I go and compete ?
+0.17 (I; compete; )
+
+O.k.
+
+I just got back from going to see the shouting stars .
+0.45 (I; just got back; from going to see the shouting stars)
+
+I have never seen a sky so clear .
+0.45 (I; have never seen; a sky so clear)
+
+Just five < PROPMALE > outside of town you can even see the milkyway .
+0.74 (you; can even see; the milkyway; T:outside of town)
+
+I'll have to go out there again .
+0.20 (I; to go; out there; T:again)
+
+O.K. there is another TKD competition coming up in October .
+0.94 (another TKD competition; coming up; T:in October)
+
+I'm thinking I'm going to go .
+0.17 (I; to go; )
+0.26 (I; 'm thinking; I'm going to go)
+
+It's not on a school day and I missed the < PROPMALE > Mt .
+0.52 (It; 's not; on a school day)
+0.50 (I; missed; the < PROPMALE)
+
+Open , so I really want to do this nexted one .
+0.39 (I; really want; to do this nexted one)
+0.39 Context(I really want,List([10, 23))):(I; really want to do; this nexted one)
+
+That is ... If I can get the money to enter .
+0.27 (That; is; If I can get the money)
+0.45 (I; can get; the money to enter)
+
+(>.<)  Wow , I should really check my requests more often .
+0.31 (I; should really check; my requests; T:more often)
+
+(>.<)  Internet Exporer is a sad joke .
+0.94 (Internet Exporer; is; a sad joke)
+
+Almost ever time they make a new one it has problems , and the up-date that they say will fix the problems only make more propblems .
+0.61 (they; make; a new one it has problems; T:Almost ever time)
+0.52 (it; has; problems)
+0.81 (the up-date that they say will fix the problems; only make; more propblems)
+0.56 (they; say; will fix the problems)
+
+What is your soul color ?
+
+-- My Result : Your soul color is Blue .
+0.76 (Your soul color; is; Blue)
+
+http://quizme.heroku.com/quizzes/685461/referrals/status?aid=709907123  Belt test today !
+
+lets see if I can get my Blue belt .
+
+Wish me luck .
+
+=)  Happy fable 3 day !
+
+=P  Happy holloween !
+
+=)  Time to hit the books !
+
+Tea Kwon Do was brutal today .
+0.95 (Tea Kwon Do; was; brutal; T:today)
+
+I'm so tired .
+0.28 (I; 'm; so tired)
+
+(-_-) ZZZZZZzzzzzzz ...  Its has been raining off and on for the last seven day .
+
+Know this all who come here and wonder why .
+0.15 (all; come; here)
+0.15 (all; wonder; why)
+
+I am a collector ... of sights , of sounds , of thoughts , moments , and dreams .
+0.64 (I; am; a collector ... of sights , of sounds , of thoughts , moments , and dreams)
+
+I gurad them jealously as I take them from you ... Never will you have them again .
+
+Know me ... for I am Time .
+0.57 (I; am; Time)
+

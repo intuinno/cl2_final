@@ -1,0 +1,1006 @@
+:-)
+
+suspects that the Town Vigilante chose to protect the town's little boys .  is listening to ABBA .  is listening to \Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict\ " .
+0.92 (the Town Vigilante; chose; to protect the town's little boys)
+0.92 Context(the Town Vigilante chose,List([14, 38))):(the Town Vigilante; chose to protect; the town's little boys)
+0.97 (suspects that the Town Vigilante chose to protect the town's little boys; Grooving; with a Pict\)
+0.97 (suspects that the Town Vigilante chose to protect the town's little boys; is listening; to ABBA)
+
+It makes no sense .
+0.45 (It; makes; no sense)
+
+@_@ "  whistled for a cab and when it came near , the license plate was an uninteresting string of letters and < PROPFIRST > .
+0.59 (@_@; whistled; )
+0.23 (it; came; near)
+0.93 (the license plate; was; an uninteresting string of letters and < PROPFIRST >; T:when it came near)
+0.39 (the license plate; was an uninteresting string of; letters)
+
+will skip the news , boy - I'll make some tea - the Arabs and the Jews , boy - too much for me - they get me confused , boy - puts me off to sleep - and the thing that I hate - O Lord ! - is staying up late , to watch some debate , on some nation's fate ...  inspected XKCD , and it mentioned TVTropes .
+0.67 (the thing that I hate; is staying; up; T:late; to watch some debate)
+0.80 (boy; puts; me; off to sleep)
+0.47 Context(boy puts,List([120, 130))):(they; get; me)
+0.39 Context(they get boy puts,List([97, 130))):(I; 'll make; some tea)
+0.50 (it; mentioned; TVTropes)
+0.59 (the thing; hate; I)
+
+The internet cannot survive their combined awesomeness .
+0.83 (The internet; can not survive; their combined awesomeness)
+
+5 on Stat ; 4 on Eng/Lang ; 5 on USGov ; 5 on Chem .
+
+inspected YOU .
+
+All in all , you're just another brick in the wall .  is inspecting YOU , and needs to know : D-D-D-Did you see the frightened ones ?
+
+D-D-D-Did you hear the falling bombs ?
+
+D-D-D-Did you ever wonder why we had to run for shelter when the promise of a brave new world unfurled beneath a clear blue sky ?
+0.41 (we; to run; for shelter)
+0.94 (the promise of a brave new world; unfurled; L:beneath a clear blue sky)
+
+inspected EVERYTHING , and came to this conclusion : All the world seems in tune , on a spring afternoon , when we're poisoning pigeons in the park !  has returned from his mission to track down the < PROPFEMALE > Mafia and has concluded that the government is guilty of pretty much everything .
+0.45 (we; 're poisoning; pigeons)
+
+just finished the first arc of Umineko no Naku Koro ni .
+
+In his opinion , the problem was that there weren't any inspectors on the island .
+0.65 (the problem; was; that there weren't any inspectors on the island)
+
+inspected Liar Game 83 .
+
+If AkiFuku shippers existed , they would be delighted .
+0.79 (AkiFuku shippers; existed; )
+0.36 (they; would be; delighted)
+
+must leave , I'll have to go to Las Vegas or Monaco , and win a fortune in a game , my life will never be the same .
+0.46 (I; to go; to Las Vegas or Monaco)
+0.48 (I; win; a fortune; L:in a game)
+0.32 (my life; will never be; the same)
+
+has moved into Penn .
+
+has moved into Penn , but is STILL receiving e-mails from Johns Hopkins asking me to apply .
+0.89 (e-mails from Johns Hopkins; asking; me; to apply)
+0.19 (me; to apply; )
+
+They seem to think I'm starting 12th grade .
+0.32 (They; seem; )
+0.37 (They; to think; I'm starting 12th grade)
+0.40 Context(They to think,List([0, 18))):(I; 'm starting; 12th grade)
+
+has finally changed his name .
+
+O_O  still doesn't understand why the game is so mean to Charmander .
+0.94 (O_O; does n't understand; why the game is so mean to Charmander; T:still)
+0.92 Context(O_O does n't understand,List([0, 29))):(the game; is; so mean to Charmander)
+
+I mean , making the first gym Rock-Type is just a little unfair to the poor guy , isn't it ?
+0.19 (I; mean; )
+
+didn't mind generalizing N to R+ and Z to R in PROMYS , but is finding Math 116's method ( starting with R and constructing Z as a subset with properties that affect R ) to be rather less straightforward .
+0.88 (properties; affect; R)
+
+Sir Arnold : Life is so much easier when ministers think they've achieved something ; it stops them fretting , and their little temper tantrums .
+0.27 (them; fretting; their little temper tantrums)
+0.82 (ministers; think; they've achieved something)
+0.55 Context(ministers think,List([41, 56))):(they; 've achieved; something)
+0.31 (it; stops; them; fretting , and their little temper tantrums)
+0.88 Context(it stops,List([86, 94))):(Life; is; so much easier when ministers think they've achieved something)
+
+Sir Humphrey : Yes , but now he wants to introduce his next idea .
+0.45 (he; wants; to introduce his next idea; T:now)
+0.26 Context(he wants,List([29, 37))):(he; wants to introduce; his next idea)
+
+Sir Arnold : A minister with two ideas ?
+
+I can't remember when we last had one of those .
+0.11 (I; ca n't remember; when we last had one of those)
+0.14 Context(I ca n't remember,List([0, 16))):(we; had; one of those; T:last)
+
+knows scissors is the best option , but if he predicts that and goes with rock , then I should use paper instead .
+0.10 (he; predicts; that)
+
+But what if he anticipates that and uses scissors himself ?
+0.10 (he; anticipates; that)
+0.27 (he; uses; scissors; himself)
+
+Then I should use rock ... unless he picks paper .
+0.60 (I; should use; rock; T:Then)
+0.52 (he; picks; paper)
+
+THIS GAME TAKES TOO MUCH SKILL .
+
+( That's why they should simplify it by printing the three hand signs on cards , giving you four of each , and removing the cards once they've been used .
+0.32 (they; 've been used; )
+0.35 (That; 's; why they should simplify it by printing the three hand signs on cards , giving you four of each , and removing the cards)
+0.40 Context(That 's,List([2, 8))):(they; should simplify; it)
+0.55 Context(That 's they should simplify,List([2, 33))):(they; should simplify it by printing; the three hand signs on cards)
+
+)  Announcer : This man , he doesn't know when he's beaten !
+0.26 (he; does n't know; when he's beaten)
+0.16 Context(he does n't know,List([26, 41))):(he; 's beaten; )
+
+He doesn't know when he's winning , either .
+0.26 (He; does n't know; when he's winning , either)
+0.16 Context(He does n't know,List([0, 15))):(he; 's winning; either)
+
+He has no sort of sensory apparatus  Someone to blame us !
+0.52 (He; has; no sort of sensory apparatus  Someone)
+
+Someone to follow !
+0.71 (Someone; to follow; )
+
+Someone to shame us !
+0.82 (Someone; to shame; us)
+
+Some brave Apollo !
+
+Someone to fool us !
+0.82 (Someone; to fool; us)
+
+Someone like YOU !
+
+We want you , Big Brother ... Big Brother ...  has discovered the REAL two kinds of people in the world : those who can extrapolate from limited available data , and  inspected a Thneed and found that it was a Fine-Something-That-All-People-Need .
+0.21 (those; can extrapolate; from limited available data)
+0.46 (We; inspected; a Thneed)
+0.32 (We; want; you)
+0.57 Context(We want,List([0, 7))):(you; has discovered; the REAL two kinds of people in the world)
+0.18 (We; found; that it was a Fine-Something-That-All-People-Need)
+0.63 Context(We found,List([0, 195))):(it; was; a Fine-Something-That-All-People-Need)
+
+inspected your minds and concluded that they're too green , I despise all I've seen , you can't stake your lives on a Saviour Machine .
+0.51 (you; ca n't stake; your lives; on a Saviour Machine)
+0.34 (all; 've seen; I)
+
+LET'S GET DOWN TO BUSINESS - TO DEFEAT - THE HUNS -  inspected his clock and found that it was nine o'clock on a Saturday - yet there is no regular crowd shuffling in .
+0.78 (no regular crowd; shuffling; L:in)
+0.38 (it; was nine o'clock on; a Saturday)
+
+I CALL SHENANIGANS .
+
+just read through the epic saga of Boatmurdered .
+
+O_O  To everyone with midterms : Best of luck to us all !
+
+didn't inspect that one baseball team , since it seems that about ten people on Facebook are constantly reporting the results of their inspections of it .
+
+Cauchy had pretty much the coolest name of anyone ever .
+
+Pity this Schwarz guy's name isn't up to snuff , since they need to share an inequality .
+0.92 (this Schwarz guy's name; is n't; up to snuff; since they need to share an inequality)
+0.56 (they; need; to share an inequality)
+0.56 Context(they need,List([55, 64))):(they; need to share; an inequality)
+
+finally defeated Mother Brain .
+
+When a level is impossibly hard compared to the rest of I Wanna Be The Guy , something is very , very wrong .
+0.81 (a level; is; impossibly hard)
+0.95 (something; is; very , very wrong; T:When a level is impossibly hard compared to the rest of I Wan)
+
+Tip for writing essays #36 : In the first sentence , state that the subject of your essay was shot , regardless of whether the subject's death is at all relevant to your thesis .
+0.86 (the subject's death; is at all; relevant to your thesis)
+0.87 (Tip for writing essays #36; state; that the subject of your essay was shot , regardless of whether the subject's death is at all relevant to your thesis; L:In the first sentence)
+0.26 Context(Tip for writing essays # 36 state,List([0, 58))):(the subject of your essay; was shot regardless; )
+
+just became The Guy .
+
+I am in despair !
+0.52 (I; am; in despair)
+
+Hill's ludicrously sensitive fire alarm has left me in despair !
+0.91 (Hill's ludicrously sensitive fire alarm; has left; me; L:in despair)
+
+Take care of those you call your own and keep good company .
+0.54 (you; call; your own)
+0.58 (you; keep; good company)
+
+Prop 8's getting challenged in Federal court in January .
+0.92 (Prop 8's; getting; challenged in Federal court in January)
+0.92 (Prop 8's; getting challenged; L:in Federal court; T:in January)
+
+Here's hoping for an overturn !
+
+ATTENTION HILL : My hair is getting very angry at your bloody fire alarms !
+0.49 (My hair; is getting; very angry at your bloody fire alarms)
+
+And in a 53-47 vote , Maine decides that left-handed people cannot marry left-handed people and right-handed people cannot marry right-handed people .
+0.92 (right-handed people; can not marry; right-handed people)
+0.90 (Maine; decides; that left-handed people cannot marry left-handed people and right-handed people cannot marry right-handed people; L:in a 53-47 vote)
+0.90 Context(Maine decides,List([22, 35))):(left-handed people; can not marry; left-handed people)
+
+Many groups were outraged , but same-handedness marriage is forbidden in most states ( primarily because God said it was wrong ) , so it isn't terribly surprising .
+0.77 (Many groups; were; outraged)
+0.92 (same-handedness marriage; is forbidden; L:in most states)
+0.28 (it; is n't; terribly surprising)
+
+Even California banned it last year on the grounds that marriage should be between a lefty and a righty .
+0.80 (Even California; banned; it; T:last year; L:on the grounds that marriage should be between a lefty and a righty)
+0.89 (marriage; should be; between a lefty and a righty)
+
+Greed seems like a pretty unnecessary deadly sin .
+0.77 (Greed; seems; )
+
+We already have Envy , and Greed-that-is-not-Envy seems to be a constructive force ( in that it serves as an impetus to create ) rather than a destructive force ( as nobody loses when the object being sought can't be taken from anyone else ) .
+0.60 (We; have; Envy; T:already)
+0.89 (nobody; loses; T:when the object being sought)
+0.88 (Greed-that-is-not-Envy; seems; )
+0.73 (the object; being sought; )
+0.87 (Greed-that-is-not-Envy; to be; a constructive force ( in that it serves as an impetus to create ) rather than a destructive force ( as nobody loses when the object being sought can't be taken from anyone else ))
+0.90 (a constructive force; ca n't be taken; from anyone else)
+0.57 (it; serves; as an impetus to create ) rather than a destructive force)
+
+I guess seven makes for a nice round number ?
+0.45 (I; guess; seven makes for a nice round number)
+
+inspected his Final Portfolio and found that it was submitted .
+
+Looks like a victory for the Town .
+
+Human victory !
+
+Take that , toasters .
+
+So , now that we have Pride And Prejudice And Zombies , humanity's goal should be to find something that cannot be made more awesome by adding zombies .
+0.50 (we; have; Pride And Prejudice And Zombies)
+
+Humanity will never achieve this goal .
+0.89 (Humanity; will never achieve; this goal)
+
+FINALS ARE OVER  Did I say \overlords\ " ?
+0.56 (FINALS; ARE; )
+
+I meant \ " protectors \"."
+0.45 (I; meant; \ " protectors \)
+0.77 (protectors; \; )
+
+What reason have you to be morose ?
+
+If you're on Facebook , you're < PROPMALE > enough .
+0.72 (you; 're; on Facebook)
+0.68 (you; 're; PROPMALE; T:enough)
+
+< PROPFEMALE > Christmas .
+
+No such thing as Silicon Heaven !? Then where would all the calculators go ?
+
+Ladies and gentlemen , congratulations on surviving yet another year !
+
+Except for the babies who were born this year .
+0.89 (the babies; were born; T:this year)
+
+You guys haven't survived a full year yet , so no congratulations for you .
+0.64 (You guys; have n't survived; a full year; T:yet)
+
+Also , dead people : sorry , better luck next time .
+
+Visiting East again was fun .
+0.90 (Visiting East; was; fun; T:again)
+
+I am so glad I don't need to get up at 6 AM anymore .
+0.49 (I; am; so glad I don't need to get up at 6 AM anymore)
+0.45 (I; do n't need; to get up at 6 AM anymore)
+0.41 (I; to get up; T:at 6 AM; T:anymore)
+
+^_^  Thanks for the birthday wishes , everyone !
+
+^_^  And the band played Waltzing < PROPFEMALE > ...  Mr. Flibble's very cross .
+0.92 (the band; played; Waltzing < PROPFEMALE; T:>)
+
+No such thing as Silicon Heaven ?
+
+Then where do all the calculators go ?
+
+Don't surround yourself with yourself !
+
+Move on back two squares !
+
+Nine games in a row now without being a Cylon , despite almost always playing as Baltar/Boomer .
+
+It seems that my Skill Set does not contain Treachery .
+
+Dominion : Alchemy confirmed for spring release !
+0.92 (Alchemy; confirmed; T:for spring release)
+
+Logically , wouldn't ZERO be the loneliest number ?
+
+In The Prisoner , it actually sometimes seems like Two is the loneliest number .
+0.45 (Two; is; the loneliest number)
+
+And when it's not Two , it's Six .  is enraged that such a close game was cut off with no resolution .
+0.28 (it; 's not; Two)
+0.51 (it; 's; Six; T:when it's not Two)
+
+Truly , the humans have no stronger allies than the < PROPMALE > janitors .
+0.92 (the humans; have; no stronger allies than the < PROPMALE > janitors)
+
+Dominion : Alchemy will have only 12 new Kingdom Cards , not 25 ... -_- Also , there will be a new Treasure card , Potion , that is needed to buy some of them .
+0.88 (a new Treasure card; is needed; to buy some of them)
+
+< PROPFIRST > X VACCARINO I AM DISAPPOINT  To the local smeghead who thought burning plastic at half-past-midnight during a blizzard would be amusing : Please remove yourself from Hill via a fifth-story window .
+0.90 (the local smeghead; thought burning; plastic)
+
+Thank you .
+
+La corruption de chaque gouvernement commence presque toujours par celle des principes .
+
+And then suddenly you reach the end of your life and you find that the whole thing was just a dream had by a kid named < PROPFIRST > looking at a snowglobe .
+0.38 (you; find; that the whole thing was just a dream)
+0.67 Context(you find,List([53, 61))):(the whole thing; was; just a dream had by a kid)
+0.93 (just a dream; had; by a kid)
+0.73 (a kid; named; )
+
+The things you think are useless I can't understand .
+0.66 (The things; think; you)
+0.54 (The things you think; are; useless I can't understand)
+0.19 (I; ca n't understand; )
+
+So , what would have happened if < PROPFEMALE>'s house had happened to fall several meters to the side and crushed the Lollipop Guild instead of happening to land on the only villain in the area ?
+0.70 (PROPFEMALE>'s house; had happened; )
+0.89 (PROPFEMALE>'s house; crushed; the Lollipop Guild)
+
+I can only conclude that the tornado was a sentient force of good with an uncanny understanding of physics .
+0.27 (I; can only conclude; that the tornado was a sentient force of good with an uncanny understanding of physics)
+0.94 Context(I can only conclude,List([0, 19))):(the tornado; was; a sentient force of good with an uncanny understanding of physics)
+0.39 (the tornado; was a sentient force of; good)
+
+All in all , it was all just bricks in the wall .
+0.66 (it; was; all just bricks in the wall; L:All in all)
+0.39 (it; was all just bricks in; the wall)
+
+All in all , you were all just bricks in the wall .
+0.57 (you; were; just bricks)
+0.39 (you; were all just bricks in; the wall)
+
+I have decided I now believe in Rather Stupid Actually Design .
+0.30 (I; have decided; I now believe in Rather Stupid Actually Design)
+0.55 Context(I have decided,List([0, 14))):(I; believe; in Rather Stupid Actually Design; T:now)
+
+Human spines weren't made for standing ; what sort of idiot could have designed them ?
+0.83 (what sort of idiot; could have designed; them)
+0.91 Context(what sort of idiot could have designed,List([41, 79))):(Human spines; were n't made; for standing)
+
+And eyes !
+
+Why on earth would someone design humans with a built-in permanent blind spot ?
+
+And whose brilliant idea was the appendix ?
+
+What sort of intelligent designer would think it was pretty clever to strap a time bomb to our digestive system ?!  Here's the truth : Barack Obama was born in Texas and is pretending to have been born in Hawaii to spare himself the shame and embarrasment .
+0.91 (What sort of intelligent designer; would think; it was pretty clever to strap a time bomb to our digestive system ?!  Here's the truth : Barack Obama was born in Texas and is pretending to have been born in Hawaii)
+0.55 Context(What sort of intelligent designer would think,List([0, 45))):(Here; 's; the truth)
+
+Everything we know about Astronomy is Justatheory .
+0.90 (Everything; know; we)
+0.79 (Everything we know about Astronomy; is; Justatheory)
+
+Students should be taught Astrology and be encouraged to consider the weaknesses of those Justatheories .
+0.89 (Students; should be taught; Astrology)
+0.72 (Students; be encouraged; to consider the weaknesses of those Justatheories)
+0.72 (Students; to consider; the weaknesses of those Justatheories)
+
+Disease and deprivation stalk our land like two giant stalking things .
+0.88 (Disease and deprivation; stalk; our land like two giant stalking things)
+
+219-212  I just realized that almost my last four week's worth of statuses are pretty much all political .
+0.17 (I; just realized; that almost my last four week's worth of statuses are pretty much all political)
+0.48 Context(I just realized,List([9, 24))):(almost my last four week's worth of statuses; are pretty much; all political)
+
+Considering what my last two statuses before that were , there's probably a reason for that ...  Step 1 to curing the world of all disease : be anyone except the Generalist .
+0.43 (my last two statuses before that; were; )
+
+I want money , I want fame , I want land , I want power , I want everthing in the whole world !
+0.47 (I; want; everthing in the whole world)
+0.47 Context(I want,List([58, 64))):(I; want; power)
+0.47 Context(I want I want,List([43, 64))):(I; want; land)
+0.47 Context(I want I want I want,List([29, 64))):(I; want; fame)
+0.47 Context(I want I want I want I want,List([15, 64))):(I; want; money)
+
+Paper status : 8.3 /12 pages .
+
+Hours remaining : 26 .
+0.71 (Hours; remaining; )
+
+New rule : < PROPFIRST > is never permitted to roll dice for the human team ever again .  is out of the way .
+0.83 (PROPFIRST; to roll; dice; T:ever again)
+
+And the moral of the story is that staying unrevealed and spiking only occasionally can do very bad things to the humans .
+0.88 (the moral of the story; is; that staying unrevealed and spiking only occasionally can do very bad things to the humans)
+0.60 Context(the moral of the story is,List([4, 29))):(staying unrevealed and spiking only occasionally; can do; very bad things; to the humans)
+
+It's too hot .
+0.28 (It; 's; too hot)
+
+>_<  \I don't want to kill you .
+0.71 (\I; do n't want; to kill you)
+0.71 Context(\I do n't want,List([5, 18))):(\I; do n't want to kill; you)
+
+Settle this with a Force Arm-Wrestle we will !
+
+\ " \ " A ... what ?
+
+\ " \ " Whoever lifts the biggest thing wins !
+0.48 (Whoever lifts the biggest thing; wins; )
+
+\""  Long 260 PSet is long .
+0.87 (Long 260 PSet; is; long)
+
+>_>  As far as I can tell , Dominion : Alchemy was conceived when < PROPFIRST > X .
+0.19 (I; can tell; )
+
+Vaccarino woke up one morning with a single thought in mind : \What if I made an expansion where EVERY CARD was as awesome as Laboratory ?
+0.92 (Vaccarino; woke up; T:one morning)
+0.61 (I; made; an expansion where EVERY CARD was as awesome as Laboratory)
+0.95 (EVERY CARD; was; as awesome as Laboratory; L:an expansion)
+
+\""  ... seriously , Alchemy is awesome .
+
+Why am I so unable to sleep through the night , ever ?
+0.41 (I; to sleep; T:through the night)
+
+To see the rest of this status you must first Like it .
+0.50 (you; must Like; it; T:first)
+
+Midterm on the last day of class .
+
+Final one week later .
+
+Who thought this was a remotely sensible idea ?
+
+I hate it when I'm being Mr. Kurtz and then suddenly I dead .
+0.46 (I; hate; it; T:when I'm being Mr. Kurtz and then suddenly I dead)
+0.50 (I; 'm being; Mr. Kurtz)
+
+Pro Cylon strategy : 1 ) Let your Cylon partner Brig most of the humans , including the President .
+0.38 (Brig; [is] partner [of]; Cylon)
+
+2 ) Let your Cylon partner make sure the President stays Brigged so the humans can't Quorum .
+0.93 (the President; stays; Brigged; so the humans can't Quorum)
+0.76 (the President; Brigged; )
+
+3 ) Intervene by giving the Admiral the power to Declare Martial Law to get the Presidency out of the Brig .
+0.94 (the Admiral; to Declare; Martial Law to get the Presidency out of the Brig)
+0.92 Context(the Admiral to Declare,List([24, 56))):(Martial Law; to get; the Presidency; out of the Brig)
+
+4 ) ??? 5 ) No profit for you .
+
+Can someone explain to me why it's considered controvercial that a federal judge ruled that the National Day of Prayer was unconstitutional due to violating the Establishment Clause ?
+
+The proper response to that ruling is less \WHAT IS THIS HERESY\ " and more \ " THANK YOU CAPTAIN OBVIOUS \"."  Finals time !
+0.84 (The proper response to that ruling; is; less)
+
+Everybody panic !
+
+First final begins in 8 hours and 36 minutes .
+
+PANIC !
+
+IF YOU'RE NOT PANICKING RIGHT NOW MAY I HUMBLY REQUEST THAT YOU PANIC A LITTLE MORE ?
+0.43 (YOU; 'RE NOT PANICKING; T:RIGHT NOW)
+
+Math 203 final extremely easy !
+
+Of course , that means one mistake will lead to an instant fail due to a ridiculous curve , unless Professor Chinburg goes the \You're all awesome !
+0.19 (that; means; one mistake will lead to an instant fail due to a ridiculous curve , unless Professor Chinburg goes the \You're all awesome)
+0.88 Context(that means,List([12, 22))):(one mistake; will lead; to an instant fail; due to a ridiculous curve)
+
+A+ for everyone !
+
+\ " route .
+
+"  Two down , one to go .
+
+And that's not until Tuesday .
+0.20 (that; 's not; until Tuesday)
+
+Nap time !
+
+The grade that you receive will be your last , we swear !
+0.88 (The grade; receive; you)
+0.69 (The grade that you receive will be your last; swear; we)
+0.51 Context(The grade that you receive will be your last swear,List([0, 55))):(The grade that you receive; will be; your last)
+
+And Freshman year is officially over .
+0.81 (Freshman year; is; officially over)
+
+First grade in : A+ in Math 203 .
+
+^_^  Home !
+
+^_^  B+ in HIST 107 .
+
+Meh , not great , but about what I was expecting , and it's way outside my < PROPMALE > anyhow .
+0.19 (I; was expecting; )
+0.52 (it; 's; way outside)
+
+16 new Liar Game chapters !?  \He doesn't get to save his daughter .
+0.73 (\He; to save; his daughter)
+
+\""  An outstanding leader doesn't need to obtain everything .
+0.89 (An outstanding leader; does n't need; to obtain everything)
+0.89 Context(An outstanding leader does n't need,List([5, 39))):(An outstanding leader; does n't need to obtain; everything)
+
+He underestimated him , you see - just a bit .
+0.31 (He; underestimated; him)
+0.32 (you; see; )
+
+Google Search - Insert Coin  It seems like all long-term projection of Medicare/Social Security/etc that prophesize ETERNAL DOOM are made under the assumption that the Baby Boomers are magical immortals who eat all the money they receive without contributing anything to the economy in any way .
+0.87 (all the money; receive; they)
+0.51 Context(all the money receive,List([211, 237))):(they; without contributing; anything; to the economy)
+0.95 (Medicare/Social Security/etc; prophesize; ETERNAL DOOM)
+0.93 (the Baby Boomers; are; magical immortals who eat all the money)
+0.87 (magical immortals; eat; all the money they receive without contributing anything to the economy in any way)
+
+-1 Morale  Lindelof & Cuse : \No answers for you !
+
+\ " * laughs * "  He thought not of with which of the other two groups he should join forces , but rather of which if the other two groups he should weaken .
+0.45 (he; should join; forces)
+0.90 (the other two groups; should weaken; he)
+0.36 (He; thought not; of with which of the other two groups he should join forces)
+
+Going away for the weekend without computer access ; be back Tuesday evening .
+
+Back .
+
+\Going and doing the impossible just like that .
+
+Forcing the game under his control at the very last moment ... \""  Science gives us nothing but a bunch of Justatheories , but magic is explicitly stated to exist in the Bible .
+0.71 (magic; is explicitly stated; )
+0.90 (magic; to exist; L:in the Bible)
+
+Schools should obviously teach the latter instead of the former .
+0.75 (Schools; should obviously teach; the latter instead of the former)
+
+I gather from the fact that my news feed is filled with nothing but statuses about the Flyers losing that they lost .
+0.21 (I; gather; from the fact that my news feed is filled with nothing but statuses about the Flyers)
+0.66 (my news feed; is filled; with nothing but statuses; about the Flyers)
+0.92 (the Flyers losing; lost; they)
+
+Happy graduation , East seniors !
+
+Happy graduation , East class of 2010 who are no longer seniors but recently were !
+0.50 (2010; are; T:no longer; seniors)
+
+I JUST WANTED TO GO INTO SPAAAAAAAAAAACE !
+0.57 (I; JUST WANTED; TO GO INTO SPAAAAAAAAAAACE)
+
+Game Theory is justatheory .
+0.86 (Game Theory; is; justatheory)
+
+Therefore , games do not actually exist .
+0.71 (games; do not actually exist; )
+
+Anyone claiming to actually play Monopoly is an evil lying devil-worshipper .
+0.96 (Anyone claiming to actually play Monopoly; is; an evil lying devil-worshipper)
+0.89 (Anyone; claiming; to actually play Monopoly)
+0.89 Context(Anyone claiming,List([0, 15))):(Anyone; claiming to actually play; Monopoly)
+
+Everything I say makes so much more sense in my head .
+0.87 (Everything; say; I)
+0.51 (Everything I say; makes; so much more sense; L:in my head)
+
+If you Like this status , I will write on your wall something about you that I find entirely neutral and neither like nor dislike about you .
+0.62 (you; Like; this status)
+0.31 (I; will write; L:on your wall something about you)
+0.28 (I; find; entirely neutral)
+
+People are confusing .
+0.75 (People; are; confusing)
+
+I heard that , < PROPFIRST > .
+0.10 (I; heard; that; T:PROPFIRST)
+
+Bah .
+
+I hate it when I do something random and ridiculous for no reason at all and then some people give me a Klondike bar .
+0.46 (I; hate; it; T:when I do something random and ridiculous for no reason at all and then some people give me a Klondike bar)
+0.53 (I; do; something random and ridiculous; for no reason at all and then some people give me a Klondike bar)
+
+Kris ~  Germany .
+
+Power is restored .
+0.71 (Power; is restored; )
+
+Wait , when did they add profile pictures to the drop-down notifications thing ?
+
+Baccano is awesome .
+0.84 (Baccano; is; awesome)
+
+< PROPFIRST>'s List .
+
+:D  HRWTPTRTCITG  And then everyone was horribly confused when < PROPFEMALE > gave < PROPFEMALE > lumps of coal for its birthday .
+0.95 (everyone; was; horribly confused; T:when < PROPFEMALE > gave < PROPFEMALE > lumps of coal for its birthday; T:then)
+0.69 (PROPFEMALE; gave; lumps of coal for its birthday)
+
+All games should be Mafia-style with traitors .
+0.92 (All games; should be; Mafia-style with traitors)
+
+No exceptions .
+
+I am feeling depressed for no particular reason !
+0.45 (I; am feeling; depressed; for no particular reason)
+
+In Soviet Russia , if you like this status , you must post something on my wall .
+0.62 (you; like; this status)
+0.65 (you; must post; something; L:on my wall; L:In Soviet Russia)
+
+If you like this status , then I will \  temporarily feel as if someone actually likes something I said .
+0.62 (you; like; this status)
+0.49 (I; will \ feel; as if someone actually likes something; T:then; T:temporarily)
+0.82 (someone; actually likes; something I said)
+0.87 (something; said; I)
+
+In \  exchange , I will post something on your wall , enabling you to feel \  less alone for a brief period of time .
+0.57 (you; to feel; less alone for a brief period of time)
+0.38 (I; will post; something on your wall; L:In \  exchange)
+0.26 Context(I will post,List([17, 28))):(I; will post something on your wall enabling; you; to feel \  less alone for a brief period of time)
+
+Perhaps , through this \  heartless quid pro quo exchange , we can temporarily delude ourselves\  into believing that other people actually care about us .
+
+Those things that name themselves \X other pages\ " in the hopes that you'll misread \ " Whoever liked Whatever on X other pages\ " as \ " Whoever liked Whatever AND X other pages\ " and click on their link are really stupid .
+0.45 (Those things; name; themselves; other pages\)
+0.32 (you; 'll misread; )
+0.43 (click on their link; are; really stupid)
+
+"  Where am I supposed to get my news from now ?
+0.27 (I; to get; my news; from now)
+
+>.>  Aw , I got a 3 on the AP United States History .
+0.28 (I; got; a 3)
+
+\The pursuit of balance can create imbalance because sometimes something is true .
+0.92 (\The pursuit of balance; can create; imbalance; because sometimes something is true)
+0.88 (something; is; true; T:sometimes)
+
+\""  The joke about putting the accent on the wrong sylLAble isn't funny , people .
+0.96 (The joke about putting the accent on the wrong sylLAble; is n't; funny; people)
+
+Get some new material .
+
+Also , you fight like a cow .
+0.38 (you; fight; )
+
+The Guild is awesome .
+0.86 (The Guild; is; awesome)
+
+I hate it when , while I'm lighting a candle , < PROPFIRST > appears out of nowhere and  Pass .
+0.46 (I; hate; it; T:when , while I'm lighting a candle , < PROPFIRST > appears out of nowhere and  Pass)
+0.45 (I; 'm lighting; a candle)
+
+I am feeling depressed for no particular reason !
+0.45 (I; am feeling; depressed; for no particular reason)
+
+Again .
+
+Inception was pretty good , though all you people talking about how it was mind-blowing are totally overhyping it .
+0.80 (Inception; was; pretty good)
+0.52 (it; was; mind-blowing)
+0.64 (all you people talking about how it was mind-blowing; are totally overhyping; it)
+0.45 Context(all you people talking about how it was mind - blowing are totally overhyping,List([35, 110))):(all you people; talking; about how it was mind-blowing)
+
+Someone should write a movie that opens with you watching a movie only to find that you don't like it so you switch to another movie and then the final plot twist is that the whole thing was a movie .
+0.63 (Someone; should write; a movie that opens with you watching a movie)
+0.68 (you; switch; to another movie)
+0.70 (a movie; opens; )
+0.88 (the final plot twist; is; that the whole thing was a movie; T:then)
+0.66 Context(the final plot twist is,List([142, 165))):(the whole thing; was; a movie)
+0.55 (you; watching; a movie)
+0.28 Context(you watching,List([45, 57))):(you; watching a movie only to find; that you don't like it so you switch to another movie and then the final plot twist is that the whole thing was a movie)
+0.40 Context(you watching only to find,List([45, 78))):(you; do n't like; it)
+
+( Disclaimer : Nobody should ever do this .
+0.78 (Nobody; should do; this; T:ever)
+
+)  ATTENTION IDIOTS : We don't just use ten percent of our brains .
+0.31 (We; do n't just use; ten percent of our brains)
+
+What do you think the other ninety percent is for , expensive decoration ?
+
+( ALSO ATTENTION IDIOTS : Press Ctrl+W now .
+
+)  I've got a vague < PROPFEMALE > of a song stuck in my head , but can't identify what the song could be .
+0.50 (I; 've got; a vague < PROPFEMALE)
+0.87 (a song; stuck; in my head)
+0.35 (I; ca n't identify; what the song could be)
+0.68 Context(I ca n't identify,List([3, 82))):(the song; could be; )
+
+This is so much more annoying than ordinary cases of having a song stuck in your head .
+0.57 (This; is; so much more annoying than ordinary cases of having a song)
+0.87 (a song; stuck; in your head)
+
+Colbert just couldn't keep a straight face in the < PROPMALE > Marceaux segment .
+0.93 (Colbert; just could n't keep; a straight face; in the < PROPMALE > Marceaux segment)
+
+He's obviously trying to stifle his laughter and completely failing .
+0.17 (He; failing; )
+0.26 (He; 's obviously trying; to stifle his laughter)
+0.26 Context(He 's obviously trying,List([0, 21))):(He; 's obviously trying to stifle; his laughter)
+
+It's awesome .
+0.28 (It; 's; awesome)
+
+Prop 8 ruled unconstitutional !
+0.82 (Prop 8; ruled; unconstitutional)
+
+Emo but largely contentless quote that might actually be song lyrics directed at someone unspecified .
+0.14 (that; might actually be; song lyrics directed at someone unspecified)
+0.90 (song lyrics; directed; at someone unspecified)
+
+IT'S BEEN SEVERAL MONTHS SINCE FINALS SO EVERYONE PANIC JUST FOR PRACTICE  Time flies like an arrow : in a downward-curving arc , ultimately striking the ground or a target and coming to a complete stop .
+0.90 (IT; 'S; BEEN SEVERAL MONTHS SINCE FINALS SO EVERYONE PANIC JUST FOR PRACTICE  Time flies like an arrow : in a downward-curving arc)
+0.77 Context(IT 'S,List([0, 4))):(MONTHS SINCE FINALS SO EVERYONE PANIC JUST FOR PRACTICE  Time; flies; )
+
+Like this status and the number of times this status has been Liked will increase by 1 .
+0.73 (this status; has been Liked; )
+0.87 (the number of times this status has been Liked; will increase; by 1)
+
+Statement of < PROPFIRST > in sporting event you don't care about , with relevant positive or negative emotional reaction .
+0.74 (you; do n't care; about; L:in sporting event)
+
+Revolutionary Boy < PROPFIRST > was most amusing .
+0.70 (PROPFIRST; was; most amusing)
+
+Status extremely similar to previous statuses due to poster's total lack of originality .
+
+If you believe that < PROPFEMALE > needs to throw away minor details like freedom of religion in favour of ignorant demonization and tyranny of the majority , support this status .
+0.32 (you; believe; )
+0.89 (that < PROPFEMALE; needs; to throw away minor details like freedom of religion in favour of ignorant demonization and tyranny of the majority , support this status)
+0.89 Context(that < PROPFEMALE needs,List([15, 40))):(that < PROPFEMALE; needs to throw away; minor details; like freedom of religion in favour of ignorant demonization and tyranny of the majority)
+0.76 Context(that < PROPFEMALE needs,List([15, 40))):(that < PROPFEMALE; needs to support; this status)
+
+( I'm cleaning out my friends list and need to know who to get rid of .
+0.41 (I; 'm cleaning out; list)
+0.20 (I; need; to know who to get rid of)
+
+)  Someone should write a story involving what appears to be an elaborate time machine but which is really just a cunningly-disguised police call box .
+0.93 (Someone; should write; a story involving what appears to be an elaborate time machine but)
+0.91 (an elaborate time machine; is really; just a cunningly-disguised police call box)
+0.88 (a story; involving; what appears to be an elaborate time machine)
+
+Left-handed people have equal civil liberties .
+0.92 (Left-handed people; have; equal civil liberties)
+
+They're permitted to use their right hand for everything just like everyone else .
+0.42 (They; to use; their right hand; for everything just like everyone else)
+
+That's real equality .
+0.45 (That; 's; real equality)
+
+Wisdom tooth removal surgery tomorrow morning ... anything I say for the next two days is not to be taken seriously .
+0.88 (anything; say; T:for the next two days)
+0.84 (Wisdom tooth removal surgery tomorrow morning; is; not to be taken seriously)
+
+\I Remodel a Silver into an Estate and buy an Estate .
+0.86 (\I; buy; an Estate)
+
+This is the worst turn I've played in my life .
+0.31 (This; is; the worst turn I've played in my life)
+0.82 (the worst turn; 've played; L:in my life)
+
+\""  I am disproportionately irritated by people who spend forever saying absolutely nothing and then repeat themselves .
+0.52 (I; am; disproportionately irritated by people)
+0.89 (people; spend saying; absolutely nothing; T:forever)
+0.40 (I; repeat; themselves; T:then)
+
+I'm amazed at how painless the whole wisdom tooth removal recovery was .
+0.64 (I; 'm; amazed at how painless the whole wisdom tooth removal recovery was)
+0.84 (the whole wisdom tooth removal recovery; was; )
+
+I was basically told it would feel like being stabbed in the mouth by a million swords made of solid hatred , but instead it basically didn't hurt at all .
+0.91 (a million swords; made; of solid hatred)
+0.36 (I; was basically told; it would feel like being stabbed in the mouth by a million swords)
+0.50 Context(I was basically told,List([0, 20))):(it; would feel; like being stabbed in the mouth by a million swords)
+
+Hurray for painkillers !
+
+What if they threw a war and everyone came with super soakers ?
+0.68 (they; threw; a war)
+0.71 (everyone; came; )
+
+Visibly doing everything with your right hand is perfectly fine .
+0.57 (Visibly doing everything with your right hand; is; perfectly fine)
+
+Visibly doing everything with your left hand is flaunting your deviant status .
+
+Plans that either come to naught or half a < PROPFEMALE > of scribbled lines .
+0.79 (Plans; come; to naught)
+
+Sometimes I want to copy somebody else's status word for word , just to see if they notice .
+0.60 (I; want; to copy somebody else's status word for word; T:Sometimes)
+0.39 Context(I want,List([10, 16))):(I; want to copy; somebody else's status word for word)
+0.18 Context(I want,List([10, 16))):(I; want just to see; if they notice)
+0.27 Context(I want just to see,List([10, 75))):(they; notice; )
+
+Sometimes I want somebody else to copy my status word for word , just to see if I notice .
+0.57 (I; want; somebody else to copy my status word for word , just to see if I notice; T:Sometimes)
+0.80 Context(I want,List([10, 16))):(somebody else; to copy; my status word for word)
+0.72 (somebody else; to just to see; if I notice)
+0.16 Context(somebody else to just to see,List([17, 76))):(I; notice; )
+
+I'm such an idiot .
+0.52 (I; 'm; such an idiot)
+
+Back to Penn tomorrow .
+
+I feel the need to post this status even though pretty much nobody who reads it will actually care .
+0.45 (I; feel; the need to post this status)
+
+YAY TIMEWASTING  Games that I have learned are apparently best played with spite so far : croquet , RoboRally .
+0.85 (YAY TIMEWASTING  Games; have learned; I)
+0.54 (YAY TIMEWASTING  Games; are apparently best played so far; )
+
+First Prop 8 , now DADT !
+
+It's like a domino train of awesome rulings !
+0.52 (It; 's; like a domino train of awesome rulings)
+
+They really ought to advertise Burn A Koran Day with the slogan \Don't Kristallnacht It Till You Try It \"."  RIP civilian casualties in Iraq .
+0.62 (They; to advertise Burn; A Koran Day)
+0.76 (\Do; n't Kristallnacht; It; T:Till You Try It)
+0.54 (You; Try; It)
+
+\  \  ... what ?
+
+There's somewhere between thirty and three hundred times more of them than there are victims of the 9/11 attacks , yet it's only the 9/11 victims that everyone mourns .
+0.29 (it; 's; only the 9/11 victims that everyone mourns)
+0.94 (only the 9/11 victims; mourns; everyone)
+0.39 (there; are victims of; the 9/11 attacks)
+
+How about a bit of balance and perspective here , guys ?
+
+Oh , and also RIP everyone who died in mundane ways not directly related to global combat .
+0.78 (also RIP everyone; died; )
+0.90 (mundane ways; not directly related; to global combat)
+
+Burning books is a form of surrender ; it is an admission that one cannot intellectually counter the ideas contained in the books - an admission of defeat .
+0.72 (one; can not intellectually counter; the ideas contained in the books - an admission of defeat)
+0.90 (the ideas; contained; in the books)
+0.22 (it; is; an admission that one cannot intellectually counter the ideas)
+0.91 Context(it is,List([39, 44))):(Burning books; is; a form of surrender)
+0.89 (Burning books; is a form of; surrender)
+0.39 (it; is an admission that; one cannot)
+
+Where the burner sees a column of smoke , the world sees a white flag .
+0.90 (the burner; sees; a column of smoke)
+0.94 (the world; sees; a white flag; T:Where the burner sees a column of smoke)
+
+First PSet of the semester finished .
+0.89 (PSet of the semester; finished; T:First)
+
+One down , forty to go .
+
+SQUIRREL !
+
+Unless you are literally absolutely certain in advance that you will find no evidence , absence of evidence really is evidence of absence .
+0.62 (you; are literally; absolutely certain; T:in advance)
+0.66 (you; will find; no evidence , absence of evidence really is evidence of absence)
+0.91 Context(you will find,List([60, 73))):(no evidence , absence of evidence; really is; evidence of absence)
+
+It's just weak evidence .
+0.52 (It; 's; just weak evidence)
+
+Forget Talk Like a Pirate Day .
+
+There should be a \Listen Like a Ninja Day\ " where everyone eavesdrops on everyone .
+0.89 (everyone; eavesdrops; on everyone)
+
+"  Like my status and I will continue to ignore you .
+0.26 (I; will continue; to ignore you)
+0.26 Context(I will continue,List([22, 37))):(I; will continue to ignore; you)
+
+Passive-aggressive message directed at a specific unnamed individual sent to them indirectly by being posted as a status .
+0.92 (Passive-aggressive message; directed; at a specific unnamed individual)
+0.88 (a specific unnamed individual; sent indirectly; by being posted as a status)
+
+Status describing a common pattern in other statuses .
+0.92 (Status; describing; a common pattern in other statuses)
+
+When I see another of a dozen silly meme statuses , I do not Like it .
+0.45 (I; see; another of a dozen silly meme statuses)
+0.56 (I; do not Like; it; T:When I see another of a dozen silly meme statuses)
+
+Put this as your status if you know or are related to someone killed on Earth when it was obliterated to make way for a new hyperspace bypass .
+0.38 (you; know; )
+0.58 (you; are related; to someone)
+0.91 (someone; killed; L:on Earth)
+0.45 (it; was obliterated; to make way for a new hyperspace bypass)
+
+My wish is that people will understand that the Vogons are a band of murdering scum who kill innocent civilians and write bad poetry .
+0.83 (scum; kill; innocent civilians)
+0.56 (My wish; is; that people will understand that the Vogons are a band of murdering scum)
+0.74 Context(My wish is,List([0, 10))):(people; will understand; that the Vogons are a band of murdering scum)
+0.91 Context(My wish is people will understand,List([0, 38))):(the Vogons; are; a band of murdering scum)
+0.39 (the Vogons; are a band of; murdering scum)
+
+93% won't copy/paste this .
+0.73 (93%; wo n't copy; )
+0.74 (93%; paste; this)
+
+In office hours yesterday , Professor Gressman said the midterm would be sort of problem set-ish but shorter and easier , and geared to give students time to actually think about their answers .
+0.94 (Professor Gressman; said; the midterm would be sort of problem set-ish but shorter and easier , and geared to give students time to actually think about their answers; L:In office hours yesterday)
+0.86 Context(Professor Gressman said,List([28, 51))):(the midterm; would be; sort of problem set-ish but shorter and easier , and geared to give students time to actually think about their answers)
+
+There were so many lies in that statement that I don't know where to start .
+0.23 (I; do n't know; where to start)
+0.89 (There; were so many lies in; that statement)
+
+You and I wake up in jail together ... using only ZERO words , what would you say to me ?
+0.66 (You and I; using; only ZERO words)
+
+It's Facebook Mad Libs season !
+0.57 (It; 's; Facebook Mad Libs season)
+
+I am [ emotion ] that the [ baseball team ] [ outcome of sporting event ] .
+0.48 (I; am; emotion)
+0.89 (I; am [ emotion ] that; the [ baseball team ] [ outcome)
+
+I am particularly [ emotion ] at [ baseball player ] , whose performance was especially [ adjective ] .
+0.52 (I; am; particularly [ emotion; L:at [ baseball player)
+0.87 (baseball player; was especially; adjective)
+0.39 (]; [is] player [of]; baseball)
+
+Sorry .
+
+A1 , something for A2 , B1 , B2 , B3 .
+
+Pick a number from 1-500 and send me your number in a private message .
+
+Then I will ignore your message and go play Robot Unicorn Attack .
+0.44 (I; will ignore; your message; T:Then)
+0.60 (I; go; play Robot Unicorn Attack; T:Then)
+0.39 Context(I go,List([5, 38))):(I; go play; Robot Unicorn Attack)
+
+A person has 1000 wishes for Christmas , but a puppet only has one : to be a real boy .
+0.94 (A person; has; 1000 wishes for Christmas)
+0.89 (a puppet; to be; a real boy)
+
+97% won't copy-paste this ; be one of the 3% who do , in honor of those puppets that are still made of wood and string instead of flesh and bone .
+0.77 (the 3%; do; )
+0.90 (those puppets; are made; of wood and string instead of flesh and bone; T:still)
+
+Wait , there's a lunar eclipse ?
+
+I didn't know that !
+0.10 (I; did n't know; that)
+
+If only some people had made a hundred Facebook statuses about it , I might have found out .
+0.19 (I; might have found out; )
+
+Happy Constitution Day , Taiwan !
+
+PLEASE put this on your status if you know someone ( or are related to someone ) who has reposted a memetic Facebook status .
+0.68 (you; know; someone)
+0.58 (you; are related; to someone)
+0.90 (someone; has reposted; a memetic Facebook status)
+
+Memetic Facebook statuses cannot be killed without the full cooperation of everyone , and consume the news feed with boring repetition .
+0.80 (Memetic Facebook statuses; can not be killed; )
+0.92 (Memetic Facebook statuses; consume; the news feed with boring repetition)
+
+93% of people won't copy and paste this , because they are sane and have better things to do with their time .
+0.84 (93% of people; wo n't copy; because they are sane and have better things)
+0.84 (93% of people; paste; this; because they are sane and have better things)
+0.62 (they; are; sane)
+0.42 (they; have; better things to do with their time)
+0.34 (better things; to do; )
+
+While we're reassigning all the arbitrary < PROPFEMALE > signs , I'd like to be a Warp < PROPFEMALE > , or maybe a Shine Sprite .
+0.50 (we; 're reassigning; all the arbitrary < PROPFEMALE > signs)
+0.61 (I; 'd like; to be a Warp < PROPFEMALE > , or maybe a Shine Sprite)
+0.46 (I; to be; a Warp < PROPFEMALE)
+
+Snow makes my hair droopy .
+0.76 (Snow; makes; my hair droopy)
+
+Spring Break's purpose is for us to get four months of sleep in one week , right ?
+0.95 (Spring Break's purpose; is; for us to get four months of sleep in one week)
+0.45 (us; to get; four months of sleep; T:in one week)
+
+The good news : 503 midterm was a joke .
+0.93 (503 midterm; was; a joke)
+
+The bad news : 503 midterm was a joke .
+0.93 (503 midterm; was; a joke)
+
+Sosorry lately Isorryve apparently been using sorrysorrysorry as punctuationsorry  RIP < PROPFEMALE > < PROPFEMALE > Smith 
+0.96 (Isorryve; apparently been using; sorrysorrysorry; as punctuationsorry  RIP < PROPFEMALE > < PROPFEMALE > Smith)
+

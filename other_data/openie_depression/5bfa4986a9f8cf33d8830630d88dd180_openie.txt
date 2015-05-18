@@ -1,0 +1,1479 @@
+Dancing with you hands , turning strangers into friends !! :D
+
+Still do not have internet :(  BORROW HIS LAB WOOT WOOT  Ugh bug waitin 4 clothes 2 get cleanified so i can go easter egg huntin with tha buds !!  Gots me a volleyball rofl !!! Get to see me new second cuz YAY !!! Love yalls  YAY I GOT TO HOLD < PROPFIRST > < PROPMALE > !!!! YAY , he so small  Bored lolz nothin to do of course .
+0.41 (i; can go; egg huntin)
+0.90 (Love; yalls; YAY I GOT TO HOLD < PROPFIRST > < PROPMALE > !!!! YAY)
+0.62 Context(Love yalls,List([214, 224))):(I; GOT; TO HOLD < PROPFIRST > < PROPMALE > !!!! YAY)
+0.36 Context(Love yalls I GOT,List([214, 235))):(I; GOT TO HOLD PROPFIRST; PROPMALE)
+0.73 Context(Love yalls,List([214, 224))):(BORROW; Gots; me; a volleyball rofl)
+0.55 (HIS LAB WOOT WOOT  Ugh bug; waitin; 4 clothes; so i can go easter egg huntin with tha buds)
+0.64 Context(HIS LAB WOOT WOOT Ugh bug waitin,List([38, 71))):(4 clothes; get cleanified; )
+0.42 (HIS LAB WOOT WOOT  Ugh bug; get; cleanified)
+
+New < PROPFEMALE > last night ...... ok i guess but the book better .
+0.19 (i; guess; )
+
+So yepp text me !
+
+Skittles taste the freakin rainbow :-]  Bout to eat some food watchin power puff girls !!!!  Bored nothing to do  Sleepyness < PROPMALE > house last night funtastic ;-]  GOT MY COMPUTER BACK YAY !!!!!!!!!!
+0.94 (Skittles; taste; the freakin rainbow :-]  Bout to eat some food watchin power puff girls)
+0.93 (:-]  Bout; to eat; some food watchin power puff girls)
+0.96 (some food watchin power puff girls; Bored; nothing to do  Sleepyness < PROPMALE > house last night funtastic ;-]  GOT MY COMPUTER BACK YAY)
+0.89 (nothing; to do; Sleepyness)
+
+But no sound ........ :'[ i am crying , no music * tisk tisk * :'[  Had the most awful dream !
+0.19 (i; am crying; )
+
+pewf just a dream :-[  Scared outta my mind :O  Ahhhhhhhhhhhh Hi , my bro < PROPFIRST > went to Thunder Over lousville < Idk if i spelled that right but i cant spell :[ anyway wonder whats up with him  I am the most horrid frend in the whole intire universe .
+0.89 (:-[  Scared; outta; my mind; L::O  Ahhhhhhhhhhhh Hi)
+0.89 (PROPFIRST; went; to Thunder)
+0.09 (i; spelled right; that)
+0.16 (i; ca nt spell; )
+0.18 Context(i ca nt spell,List([153, 165))):(i; ca nt spell wonder; whats up with him)
+0.46 Context(i ca nt spell,List([153, 165))):(I; am; the most horrid frend in the whole intire universe)
+0.39 (I; am the most horrid frend in; the whole intire universe)
+
+How do I stop that dumb non true stupid rumor ?????? :'[  YUM YUM CHINCILLA HYPER OFF OF SMARTIES !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+I LOVE YOU !!!!!!!!!!!!!!!!!!!!!!!  Arkansaw ( Yea that how I spell it got a prob ?!? ) Was a blast rofl !!! got some tees for Cat , Ash and me !!!  Ok no offence to ANYONE in the 6th grade but if you have this crazy little girl rubbin up all over you and you and like All your bff's say something to her and she is threating you and you say something and you gettin introuble THATS CRACKED !!!!!!  Got my colorgaurd from in .
+0.46 (you; have; this crazy little girl rubbin up all over you)
+0.78 (THAT; Got; my colorgaurd)
+0.31 (I; spell; it got a prob)
+0.46 Context(I spell,List([60, 67))):(it; got; a prob)
+0.54 (All your bff's; say; something; to her)
+0.66 (you; gettin; introuble THATS CRACKED)
+0.31 (she; is threating; you and you)
+0.89 (you and like All your bff's say something to her and she is threating you and you; say; something)
+
+MISSIN SKOOL WAS FANTASTIC !!!!! Everyone missed me right ? ;-] TEXT ME  She was the bestest friend anyone could ever have ........ What went wrong ?
+0.69 (anyone; could have; What went wrong; T:ever)
+0.58 (She; was; the bestest friend anyone could ever have ........ What went wrong)
+0.89 Context(She was,List([73, 80))):(MISSIN SKOOL; WAS; FANTASTIC)
+0.79 Context(MISSIN SKOOL WAS She was,List([0, 80))):(Everyone; missed; me; right)
+
+It all happen in second grade , then it slowly faded away .
+0.25 (it; slowly faded away; T:then)
+0.35 Context(it slowly faded away,List([37, 57))):(It; happen; L:in second grade)
+
+To everyone out there who has a bff that just suddenly stopped , BE YOURSELF !
+0.81 (everyone out there; has; a bff that just suddenly stopped)
+0.54 (a bff; just suddenly stopped; )
+0.87 (To everyone out there; BE; YOURSELF)
+
+You have way to many friends to be bummed , She'll come to know that she made a HUGE mistake of loseing you and she knows it .
+0.73 (many friends; to be bummed; )
+0.37 (she; knows; it)
+0.20 (She; 'll come; to know that she made a HUGE mistake of loseing you and she knows it)
+0.55 Context(She 'll come,List([44, 55))):(You; have; way)
+0.18 (She; to know; that she made a HUGE mistake of loseing you and she knows it)
+0.30 Context(She to know,List([44, 63))):(she; made; a HUGE mistake of loseing you)
+0.19 Context(She to know she made,List([44, 77))):(she; made of loseing; you)
+
+So < PROPFEMALE > in there it happen to me too .
+
+~ Madison Moloko  Dancin in the rain lolz ! 12 MORE DAYS TILL ME BIRTHDAY YAY !!!  Kurts ungayified on Glee !!!!!!!!!!!!!!! WOWNESS !!!!!!!!  OMG I LOVE TOTAL ECLIPS OF YOUR HEART FROM GLEE !!!!!!!!!!
+0.83 (Kurts; ungayified; L:on Glee; WOWNESS !!!!!!!!  OMG I LOVE TOTAL ECLIPS OF YOUR HEART FROM GLEE)
+0.29 Context(Kurts ungayified,List([83, 99))):(I; LOVE; TOTAL ECLIPS OF YOUR HEART)
+
+I CAN'T GET OVER IT !!!!!!!!!!!!!!  Nothing  Waiting for everyone to get up .
+0.75 (everyone; to get; up)
+0.75 (I CA; N'T GET; OVER IT)
+0.87 Context(I CA N'T GET,List([0, 11))):(Nothing; Waiting; for everyone to get up)
+
+BORED OUTTA MY MIND !!!!  * Thinks back to a simpler time * Elmo : La la la la la la la la la El- .
+0.90 (BORED OUTTA MY MIND; Thinks; back to a simpler time)
+
+Madison : * Take police club out * UM EXCUSE ME DIS IS MY WORLD !!!! NOT YOURS !!!!!!  FINALLY GOT THE BOOK !!!! MRA HA HA !!!!!!!!!!
+0.54 (UM EXCUSE ME DIS; IS NOT; T:FINALLY)
+
+I pray to be only yours , I pray to be only yours .
+0.27 (I; to be; only yours)
+0.27 (I; to be; only yours)
+0.26 (I; pray; to be only yours)
+0.26 Context(I pray,List([26, 32))):(I; pray; to be only yours)
+
+I know now , your my Only Hope .
+0.28 (I; know; T:now)
+
+- A Walk To Remember  YEA WOOT WOOT BESTEST B-DAY WEEK EVER !!! Great friends and family .
+
+I LOVE YALL ALL !!  Singging !!! LA LA LA !!!!!!!!!!!!!!!!!!!!  Gots a shot pew little kid kep on slappin me !!! GOT A < PROPFIRST > DUCK BANDAIDE !!!
+0.50 (I; LOVE; YALL ALL)
+
+It did not hurt at ALL overeaction for nothin !
+0.45 (It; did not hurt; at ALL; overeaction for nothin)
+
+And got a HUGE surprise for Mr. Smith aka Smitty !
+
+La la la la LAAAAAAAAAAA Need some < PROPFEMALE > change very badly .
+0.91 (La la la la LAAAAAAAAAAA; Need; some < PROPFEMALE > change very badly)
+
+Gots me a haircut !!!! woot woot !
+
+I felt like < PROPFEMALE > in wonderland going to Lissie .
+0.57 (I; felt; like < PROPFEMALE)
+
+You have to go though this HUGE bush and when you come out your in a whole new place !!!!! :-]  Brused my pinkey in colorgaurd :( .
+0.59 (You; to go; T:though this HUGE bush and when you come out your in a whole new place !!!!! :-]  Brused my pinkey in colorgaurd :()
+0.32 (you; come out; )
+
+Hitched a ride wit muffin .
+
+So much indimidation !!!! UGH !!!!!
+
+And TOTTALY embarassed myself .
+0.76 (TOTTALY; embarassed; myself)
+
+They warned me .
+0.46 (They; warned; me)
+
+o well Just gonna listen to BABY !!!! Lolz NOT that song is stuck in my head dancein to it !!!  OMG lolz today was soooo fun !!!!!!! but so much friggen drama !!!! AHHHHHHHHHH WHY AN I TYPEIN LIKE THIS ?!? Anywho I am soooooooo friggen eggsited about you know what ........ ;-] !
+0.32 (I; am; soooooooo friggen eggsited about you know)
+0.54 Context(I am,List([213, 217))):(I TYPEIN; LIKE; THIS ?!? Anywho)
+0.17 (I; soooooooo friggen eggsited; )
+0.38 (you; know; )
+0.95 (OMG lolz; was; soooo fun; T:today)
+0.83 Context(OMG lolz was,List([96, 114))):(o well Just gonna listen to BABY !!!! Lolz; is stuck; in my head)
+
+BABY JUST SAY YES lolz :-] I s\\do not know how to get this friggen text thing out !!!!  OH EM GEE Yall I hope yall had the coolest year wit me !!!!! LOVED the last day in out hommroom !!!!!!  I'll uplode the rest of the pics from the end of the day in homeroom later it messed up so i cant put no more  I am so fricken slow !!!  < PROPFIRST > on glee in that Lady Ga Ga episode looked like Lady Ga Ga .....
+0.39 (I; 'll uplode; the rest of the pics; T:from the end of the day in homeroom)
+0.39 Context(I 'll uplode,List([193, 204))):(I; s\\do not know; how to get this friggen text thing out)
+0.26 Context(I s\\do not know I 'll uplode,List([27, 204))):(I; hope; yall had the coolest year wit me)
+0.47 Context(I s\\do not know I hope I 'll uplode,List([27, 204))):(yall; had; the coolest year wit me)
+0.85 Context(I s\\do not know I hope yall had I 'll uplode,List([27, 204))):(the coolest year; wit; me)
+0.56 (it; messed up; so i cant put no more  I am so fricken slow; T:later)
+
+I still LOVED her costume though !!!!! IT'S SAFE TO DANCE !!!!!!!!!!!!!!!!!!! ;-] I <3 Glee !!!!!  HELP ME !!!!!!!!!! GO TO MY PICS AND GO TO THE ONE THAT SAYS HELP ME PLZZZZZZZZZZZZZZZZZZZ  I wanna bedazzled pull-up !!!!!!!!!!!!!!!!!!!!!!  Omggg Disater date is sooooo funny !!! < PROPFEMALE > bored !!! text me yall !!!!!  Gots to get me a shower , wash clothes , gettin ready for colorgaurd tonight !!!!!!!! See ya there :-] !!  That guy from Pants on the Ground ( < PROPFIRST > Plat ) is not dead that was just a rumor ........
+0.79 (Omggg Disater date; is bored yall; sooooo funny)
+0.50 Context(Omggg Disater date is bored yall,List([241, 317))):(text me yall !!!!!  Gots; to get; me; a shower)
+0.54 Context(Omggg Disater date is bored text me yall !!!!! Gots to get,List([241, 336))):(text me yall !!!!!  Gots; to get wash; clothes)
+0.82 Context(Omggg Disater date is bored text me yall !!!!! Gots to get,List([241, 336))):(That guy from Pants on the Ground; is not; dead)
+0.14 Context(Omggg Disater date is bored text me yall !!!!! Gots to get That guy from Pants on the Ground is not,List([241, 495))):(that; was; just a rumor)
+0.50 Context(Omggg Disater date is bored yall,List([241, 317))):(I; <3; Glee)
+0.18 Context(I <3 Omggg Disater date is bored yall,List([82, 317))):(I; LOVED though; T:still)
+0.50 Context(I LOVED though I <3 Omggg Disater date is bored yall,List([0, 317))):(IT; 'S; SAFE TO DANCE)
+0.84 (THE ONE; SAYS; HELP ME PLZZZZZZZZZZZZZZZZZZZ)
+0.23 Context(THE ONE SAYS,List([142, 159))):(I; wan; na)
+
+A chair is still a chair , even when there's no one sittin ' there\  But a chair is not a house and a house is not a home\  When there's no one there to hold you tight\  And no one there you can kiss goodnight ;-] I <3 Glee  Last night was soooo scary , when that flash of lightin come AHHH !!!!!!!  Gots some new shoes for colorgaurd !!!!! lolz think I need to go to wallmart .
+0.87 (A chair; is; T:still; a chair; T:even when there's no one)
+0.85 (no one there; to hold; you)
+0.72 (lolz; think; I need to go to wallmart)
+0.40 Context(lolz think,List([341, 351))):(I; need; to go to wallmart)
+0.36 (you; can kiss; goodnight)
+0.93 (that flash of lightin; come; T:AHHH)
+0.86 (a chair; is not; a house and a house is not a home\  When there's no one there to hold you tight\  And no one there)
+0.80 Context(a chair is not,List([73, 87))):(a house; is not; a home\; T:When there's no one there)
+0.38 (I; <3; Glee  Last night was soooo scary , when that flash of lightin come AHHH !!!!!!!  Gots some new shoes for colorgaurd)
+0.95 Context(I <3,List([214, 218))):(Glee; was; soooo scary; T:Last night)
+
+La la la la la la bored going to wallie world soon !! YAY !!!  GLEE SEASON FANALLY TONIGHT AND I MAY HAVE TO MISS IT ?!?!?!?!!?!?!?!?!?!?!?! NOOOOOOOOOOOOOOOOOOOOOOOOOOOO I mite as well just die now !!!!!!!!!!!!!! ARKANSAS WAS FUN BUT CINCINATTIE NO NOT AT ALL !!!!!!!!!!!!! ( P.S. Still can't spell anythin !
+0.94 (La la la la la la; bored; going to wallie world soon)
+0.91 Context(La la la la la la bored,List([0, 23))):(La la la la la la; bored to wallie; world; T:soon)
+0.20 (I; as well just die; T:now)
+0.88 (ARKANSAS; WAS; FUN BUT CINCINATTIE NO)
+0.83 Context(ARKANSAS WAS,List([214, 226))):(NOT AT ALL; Still ca n't spell; anythin)
+0.35 (I; MAY HAVE; TO MISS IT ?!?!?!?!!?!?!?!?!?!?!?! NOOOOOOOOOOOOOOOOOOOOOOOOOOOO I mite)
+0.16 Context(I MAY HAVE,List([95, 105))):(I; mite; )
+
+;-]) WHAT DID I EVER DO TO THE WORLD TO HATE ME !?!??!?!?!????!?!?  YAY I GET TO WATCH GLEE TONITE WOOT WOOT !!!!!!!!!!!!!!!!!!!!!!!!!!! THE WORLD DOSEN'T HATE ME !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  YESSSSSSSS I KNEW HER WATER WAS GOIN TO BREAK THEN AND THERE YESSSSSSSSSS PERFECT TIMEING YESS I SMELLED IT COMEIN OMGGGG !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  BESTEST ENDING EVER OMGGG !!!!!!!!!!!!!!!!!!!!  Just fainted !!! lolz jk jk jk AHHHHHHHHHHHHH HERD A LOUD BANG AND NO ONE IN THA ROOM NOW I AM HEARING KNOKING AHHHH reportin live I'm < PROPFEMALE > Moloko  COOLEST DREAM EVER !
+0.66 (GOIN TO BREAK THEN; Just fainted; )
+0.48 (I; KNEW; HER WATER WAS GOIN TO BREAK THEN AND THERE YESSSSSSSSSS PERFECT TIMEING YESS I SMELLED IT COMEIN OMGGGG)
+0.67 Context(I KNEW,List([213, 219))):(HER WATER; WAS; )
+0.70 (I; SMELLED; IT COMEIN OMGGGG; L:THERE)
+
+I WAS A FREKIN POWER RANGER !!!!!!!!! HOW COOL IS THAT !!!!!
+0.57 (I; WAS; A FREKIN POWER RANGER)
+0.95 (COOL; IS; THAT)
+
+I went on a mission to like blow up something and we all went to school at highland but it was like a middle skool , BUUT ANY WAY , Like everyone douted us and then we proved them rong , and then I woke up :'[ .
+0.47 (I; went; on a mission)
+0.30 Context(I went,List([0, 6))):(I; went on a mission to blow up; something)
+0.22 (we; proved rong; T:then)
+0.30 (I; woke up; T:then)
+0.48 (we; went; to school)
+0.52 (it; was; like a middle skool)
+0.82 (everyone; douted; us)
+
+BUT COOLEST DREAM EVER !!!! < PROPFIRST > WAS IN IT !!!!!!!!!!! ( The red ranger) !!!!!!!!!!!!!!!!!!!!!
+0.84 (COOLEST DREAM EVER; PROPFIRST WAS; IN IT)
+
+Your dreams are in the plam of your hand , so make them come true !
+
+:~]  Do Not Fold , Bend , Or Manipulate My Package !!! :~] Gowsh I miss good ole lunch .
+0.52 (I; miss; good ole lunch)
+
+And Remember ......
+
+I Deliver ..................  Don't you just LOVE when people have random outta tha blue conversations on your post or status ????????
+0.88 (people; have; random outta tha blue conversations on your post or status)
+0.32 (I; Deliver; Don't you just LOVE when people have random outta tha blue conversations on your post or status)
+
+I DO !!!!!!!!!!!!
+0.24 (I; DO; )
+
+I LOVE GLITTER BALLS THEY ARE SOOOOOO FRIKIN FUN TO PLAY WITH  Bored .. TEXT MEH !!!!!!!! NEED SOMETHING TO DO ..... Tryin to win Holiday World tiks for Ash and < PROPFEMALE > ..........  OH MY FRICKIN GOSH THEY HAVE DO YOU LIE WAFFLES AND THE CAMPFIRE SONG SONG AND ........ F.U.N SONG ON I TUNES I AM SOOOOOO GETTIN THEM !!!!!!!!!!!!!!!! :-]  SWIMMIN WAS A BLAST !!!!!!!
+0.56 (I; LOVE; GLITTER BALLS THEY ARE SOOOOOO FRIKIN FUN TO PLAY WITH  Bored)
+0.87 Context(I LOVE,List([0, 6))):(GLITTER BALLS THEY; ARE; SOOOOOO FRIKIN FUN TO PLAY WITH  Bored)
+
+That < PROPMALE > guy is an azz cracker ............. his frind and him were SMEXY !!!!!!!!  Ugh people are such Gizzards these days ....... (* Cough cough * \That < PROPMALE > guy that SAYS he goses to Drakes Creek \")"  Feels like < PROPFEMALE > Montana .....
+0.41 (That; is; an azz cracker)
+0.44 (him; were; SMEXY)
+0.91 Context(him were,List([68, 76))):(Ugh people; are; such Gizzards)
+0.77 (< PROPMALE > guy; SAYS; he goses to Drakes Creek \)
+0.43 Context(< PROPMALE > guy SAYS,List([164, 190))):(he; goses; to Drakes Creek \)
+
+I am livein Bowling Green one day and then BAM Glasgow the next ...........
+0.57 (I; am; livein Bowling Green; T:one day)
+
+When I want to got to a big city BAM I live in Bowling Green , when I want a small town BAM GLasgow .......... Life is complicated sometimes .......  OMG MY FRIKIN NOSE SHRIVLED FROM THA SUNBURN !!!!!!!!!!!!!  Do you wanna get frosty with me ?
+0.52 (I; want; to got to a big city)
+0.41 (I; to got; to a big city)
+0.42 (you; na get; frosty with me)
+0.64 (I; live; L:in Bowling Green; L:a big city)
+0.62 (I; want; a small town BAM GLasgow .......... Life is complicated sometimes .......  OMG MY FRIKIN NOSE SHRIVLED FROM THA SUNBURN)
+0.75 Context(I want,List([68, 74))):(Life; is; complicated; T:sometimes)
+
+;] OH COFFEE TOFFEE TWISTED FROSTY !
+
+Lemme break it down HAND SPUN WITH REAL COFFEE BIT GIRL JUST LIKE YOU LIKE IT !!!!!! \  Oh me I just LOVE that catchy tune ... It's way better that fast food , it's Wendys !
+
+I'M FREE YAY YAY YAY CUZ ALL I DO IS WIN WIN WIN !!!!!! Rofl  Just relized that They took the time outta there dumb azz lifes to hate on me !! I FEEL SO FRIGGIN SPECIAL !!!!!!!
+0.90 (YAY YAY YAY CUZ ALL; DO; I)
+0.90 (YAY YAY YAY CUZ ALL; IS; WIN WIN WIN)
+0.23 Context(YAY YAY YAY CUZ ALL IS,List([9, 36))):(I; 'M; FREE)
+0.64 Context(YAY YAY YAY CUZ ALL IS,List([9, 36))):(WIN WIN WIN; Just relized; that They took the time outta there dumb azz lifes to hate on me !! I FEEL SO FRIGGIN SPECIAL)
+0.55 Context(YAY YAY YAY CUZ ALL IS WIN WIN WIN Just relized,List([9, 74))):(They; took; the time outta; L:there)
+0.23 (I; FEEL; SO)
+
+I love when people take time outta there life just for me :-] !!!!! My jet just took off and now it is flyin !
+0.42 (I; love; T:when people take time outta there life just for me :-] !!!!! My jet just took off and now it is flyin)
+0.85 (people; take outta there; T:life)
+0.34 (My jet; just took off; )
+0.41 (it; is; flyin; T:now)
+
+:-] .
+
+Haterz make ya famous !! Yall remember that now !
+0.79 (Haterz; make; ya famous)
+0.54 Context(Haterz make,List([0, 11))):(Yall; remember; that; T:now)
+
+Colorgaurd is going to be total HELL for me ........... Plus I know I am going to owe at LEAST $20 for tryin to explain what happen last night .... Can't even get a shirt on without screamin in pain .....  1st\  person to like this , I will comment on your wall at least twice a week .
+0.87 (tryin; to explain; what happen last night)
+0.92 (Colorgaurd; to be; total HELL)
+0.24 (I; know; )
+0.26 (I; will comment; on your wall; T:at least twice a week)
+0.46 (I; to owe; T:at LEAST $20; for tryin to explain what happen last night)
+
+\  The 2nd person to like this , your last name will be my last name for a\  week .
+0.51 (your last name; will be; my last name for a\  week)
+
+The 3rd person can dare me to do one thing ( within reason , or i\  might not do it :P ) .
+0.81 (The 3rd person; can dare; me)
+0.89 Context(The 3rd person can dare,List([0, 23))):(The 3rd person; can dare me to do; one thing)
+
+4th person , i will say i'm married to you on FB\  ...... for a week .
+0.49 (i; will say; i'm married to you on FB\; T:4th person)
+
+( : Put this on your status if you ... dare  ...... My next door people have a slip in side ..................
+0.24 (you; dare; )
+0.63 Context(you dare,List([31, 43))):(My next door people; have; a slip in side)
+
+I wanna go ............................................................................  OMFG IT IS ABOUT OVER !!!!!! PAIN AND MORE PAIN ABOUT OVER !!!! YAY !!!! Hapy bever :-]  I AM SOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO CONFUSED WICH ONE IS THE REAL ASH ?!?!?!!?!?!?!?!?!?!??!?!  Waz in a simie for the first time ....... Still a lil fajazzeld and confused about this DCI thingey lolz of course !
+0.24 (I; wan; )
+0.39 (I; AM SOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO CONFUSED WICH; ONE)
+
+:D :D :D TEXT MEH !!!
+
+I got sad news !!!!!!
+0.52 (I; got; sad news)
+
+I am going to do the hardest thing that could possibly kill me ( More than likley not but for dramatic purposes it will ;-]) .
+0.12 (I; to do; the hardest thing that could possibly kill me)
+0.47 (the hardest thing; could possibly kill; me)
+
+Dci and idk stuff tommorow idkk I am frustrated right now !
+0.58 (Dci and idk stuff tommorow idkk I; am frustrated; T:right now)
+
+:'[  UGHH BUGS ALL ON ME , DCI later , TAKE A FREGGIN SHOWWER < PROPFEMALE > Claywell Plz comment and tell me you got home ok !!!!!!  OMFG DCI WAS SOOOOOOOOOO FRIGGIN AMAZING !!!!!!!!!!!!!!!!!!!!!!!!  OMGG !!!!!!!!!!!!! HIS SLOT MACHINE DOSE MAGICAL THINGS !!!!!!!!!!!!! AHHHH DCI FABULOSEO ( My new bf is in the Cavaliers ;-]) ANDD THE < PROPFEMALE > SCOUTS ( That shirtless asian was an AWSOME dancer ) WHERE FAB !!!! AND THE CAVALIERS WERE SUPERDUPER !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+0.76 (My new bf; is; in the Cavaliers)
+0.94 (That shirtless asian; was; an AWSOME dancer)
+0.91 (TAKE; tell; me; you got home ok; T:later)
+0.37 Context(TAKE tell,List([39, 106))):(you; got; home; ok)
+0.89 Context(TAKE tell,List([39, 106))):(OMFG DCI; WAS; SOOOOOOOOOO FRIGGIN AMAZING !!!!!!!!!!!!!!!!!!!!!!!!  OMGG)
+
+When the lights go out , We'll be safe and sound , We'll take control of the world like it's all we have to hold on to , and we'll be a dream .
+0.81 (the lights; go; out)
+0.30 (all; to hold on; we)
+0.52 (we; 'll be; a dream)
+0.39 (We; 'll take; control of the world)
+0.60 Context(We 'll take,List([51, 61))):(We; 'll be; safe and sound; T:When the lights go out)
+0.37 (it; 's; all we have to hold on)
+
+~ We the Kings : We'll Be A Dream  Car wash = ROUGH ~~~~~~ SO FREKIN SLEEPY  Eh 16wishes was ok I guess ......... Never had sunburn on half my leg b4 so I am just going with the flow .
+0.52 (We; 'll Be; A Dream  Car wash)
+0.19 (I; guess; )
+
+But people are so rude these days , serously when people just randomly pull up to a car wash and get everones hopes up and just DRIVES off you know you want to go after them and smack them down !!!!  Going to the pawn shop ... ( maybe ) to get some Game Boy games :-] ( WOW GAME BOYS ARE SO OLD < PROPFEMALE > !!! WTF DO YOU STLL HAVE ONE ?!? ) Well my friends I am a cheap kinda person and still has her game boy :-]  I love Sha-nay-nay she always cheers me up with her smart remarks and her sassy attitude =] YALL LOOK UP < PROPFEMALE > NAY NAY ON YOUTUBE AND TELL MEH HOW MUCH YALL LOVE HER !!!!!!!  :[ feel sad for some reason ........... Oh well ..............
+0.87 (people; just randomly pull; up; to a car wash)
+0.81 Context(people just randomly pull,List([50, 75))):(people; just randomly pull up Going maybe; to get some Game Boy games)
+0.90 (people; get; everones hopes; up)
+0.79 (people; smack down; them)
+0.48 (you; know; you want to go after them)
+0.48 Context(you know,List([139, 147))):(you; want; to go after them)
+0.41 Context(you know you want,List([139, 156))):(you; want to go; after them)
+
+People are so rude these days ........ :-] but then some one brightens up my day and I am better but the feelings are still there ...........
+0.89 (People; are; so rude; T:these days)
+0.56 (some one; brightens up; T:my day; T:then)
+0.28 (I; am; better)
+0.77 (the feelings; are; T:still; there)
+
+Not much you can do about it ................  I'd banana boat him anyday !!!!! ;D  My mood just changed from :/ to :O :O :O :]]]]] in like a split second THEY HAVE NEW BOYS LIKE GIRLS WRIST BANDS !!!!!!!! :O :O :O  Oh Em Gee I just dreamed that I went to a BOYS LIKE GIRLS concert and I got to meet them !!!
+0.37 (I; got; to meet them)
+0.38 (I; 'd banana anyday; boat)
+0.40 Context(I 'd banana anyday,List([47, 73))):(you; can do; about it)
+0.86 (split second THEY; to meet; them)
+0.41 (D  My mood; just changed; from)
+0.30 (I; just dreamed; that I went to a BOYS LIKE GIRLS concert and I got to meet them; L:in like)
+0.50 Context(I just dreamed,List([226, 240))):(I; went; to a BOYS LIKE GIRLS concert)
+
+And there was this girl that was like your such a poser your not going to meet them and I was like yea I am and I did !
+0.24 (I; am; )
+0.85 (this girl; was; like your)
+0.24 (I; did; )
+0.42 (your; to meet; them)
+0.28 (I; was; like)
+
+The whole time there was this guy with me that idkkkk .
+0.39 (there; was this guy with; me)
+
+But it was an awsome dream !
+0.52 (it; was; an awsome dream)
+
+AND MY PHONE IS DEAD AGAIN !!! STUPID GREEN LIGHT THAT RUNS IT DOWN !
+0.91 (MY PHONE; IS; DEAD AGAIN)
+
+Ugh ....
+
+I have this feeling ...... Idkk what it is ........ Love , Pain , Happyness , idkk , it is just there and I am despert to find out what it is .........  Real World = Interesting this season ..........  Readind a book ... I have read like 3 books so far and they were all quite interesting if you ask me .....
+0.24 (it; is; )
+0.16 (I; have read; T:so far)
+0.40 Context(I have read,List([221, 232))):(I; have; this feeling ...... Idkk what it is ........ Love , Pain , Happyness , idkk)
+0.23 Context(I have read,List([221, 232))):(it; is; just there)
+0.40 Context(I have read,List([221, 232))):(I; am despert; to find out what it is .........  Real World = Interesting this season ..........  Readind a book)
+0.36 (they; were; all quite interesting)
+0.54 (you; ask; me)
+0.36 (I; to find out; what it is .........  Real World = Interesting this season ..........  Readind a book)
+0.20 Context(I to find out,List([106, 130))):(it; is; )
+0.39 (they; were all quite interesting if; you)
+
+I need to get the next book of Vampier Diaries Dark Reunion ( 4th ) and then two more books and then I am done with that series !!!  Wishes Boys Like Girls would come to Glasgow but chances of that are like a kadrilloin to one :/ .
+0.91 (chances of that; are; like a kadrilloin to one)
+0.30 (I; am done; T:then)
+0.56 (I; need; to get the next book of Vampier Diaries Dark Reunion)
+0.44 Context(I need,List([0, 6))):(I; need to get; the next book of Vampier Diaries Dark Reunion)
+
+But alls you have to do is wait and hope :-] .
+0.75 (alls; to do; you)
+0.52 (alls you have to do; is; wait and hope :-])
+0.37 (alls you have to do; wait; )
+0.41 (alls you have to do; hope; :-])
+
+When you see that someone and you tell you friends , and try to make them notice you by acting all silly and then you can tell that they don't notice you , but they are secretly lookin at you and falling for you <3 <3 <3  Colorgaurd was beastin !!!!!
+0.37 (you; see; that someone)
+0.88 (<3 <3 <3  Colorgaurd; was beastin; T:When you see that someone and you tell you friends , and try to make them notice you by acting all silly and then you can tell that they don't notice you , but they are secretly lookin at you and falling for you)
+0.54 (you; tell; you; friends)
+0.30 (you; can tell; that they don't notice you; T:then)
+0.40 Context(you can tell,List([114, 126))):(they; do n't notice; you)
+0.42 (they; falling; for you)
+0.46 (they; are secretly; lookin; L:at you)
+
+When we were throwin the flags at eachother < PROPFEMALE > threw it and hit my fingers !!! Lolz but it was fun !!  :'[ That hurt real bad ..........  I've wached his wildest dreams come true , and not one of them involving you !
+0.45 (we; were; throwin the flags)
+0.36 (I; 've wached; his wildest dreams come true , and not one of them involving you)
+0.13 Context(I 've wached,List([150, 161))):(That; hurt real bad; )
+0.84 Context(That hurt real bad I 've wached,List([119, 161))):(PROPFEMALE; threw; it; T:When we were throwin the flags at eachother)
+0.35 Context(I 've wached,List([150, 161))):(his wildest dreams; come; true)
+0.87 (PROPFEMALE; hit; my fingers; T:When we were throwin the flags at eachother)
+0.54 (not one of them; involving; you)
+0.28 (it; was; fun)
+
+~ <3 <3 <3  NOO I can't belive she turned on me and we have knowned eachother since we were little kids !!!  Car Wash July 2nd at Primative Spa !!!!!! Direction \  Text me or Chat !! It's For GLASGOW COLORGAURD !!!!!!!!!!!!  :-] Car wash was soooooooo random !
+0.31 (we; have knowned; T:since we were little kids; Car Wash July 2nd)
+0.45 (we; were; little kids)
+0.57 (It; 's; For GLASGOW COLORGAURD)
+0.82 (Car wash; was; soooooooo random)
+0.40 Context(Car wash was,List([229, 241))):(I; ca n't belive; she turned on me and we have knowned eachother since we were little kids !!!  Car Wash July 2nd at Primative Spa)
+0.16 Context(I ca n't belive Car wash was,List([16, 241))):(she; turned; )
+
+Creeper started preachin to us about God .....
+0.82 (Creeper; started preachin; to us)
+
+And a girl/guy named < PROPFIRST > !
+0.84 (a girl/guy; named PROPFIRST; <)
+
+Gettin pink strecks in my hair as of today when all the colorgaurd desided on it !! AND ...... a very random guest ...... ( Yall know what I mean ...... )  Likes when Old people ( Ya relitive and mom ) Talks about Facebook like this : \She put something on my thingy .
+0.87 (Yall; know; what I mean)
+0.16 Context(Yall know,List([124, 133))):(I; mean; )
+
+\ " \ " Your wall < PROPFIRST > you wall !
+
+\ " \ " Well whatever ........ Gosh facebook is so hard .
+0.80 (facebook; is; so hard)
+
+HOW DOSE MY PREACHER WHEN I WAS IN THE 10th GRADE POP UP ON MY SUGESTIVE FRIENDS JUST BY PUTTING I WENT TO BARREN ?!?! \ " \ " Mom the people who go to barren have him as a friend .... \ " Ahhhh good ole 4th of july ....... "  Ugh ...................
+0.57 (I; WAS; IN THE 10th GRADE POP UP ON)
+0.79 (the people; go; to barren)
+
+I am so confused ........................... :/  Just relized what BET stands for !!! :-D  \Everything is edable in this room my friend EVEN I'm edable but that my friend is called canableisum and is frowned apon in most society .
+0.64 (my friend; is called; canableisum)
+
+\ " < PROPMALE > Wonka !! :-D "  Hey Hey Heyy !!! Got to go to practice later as for now I am free !!!!!!!!!!  Lovein me some cooptana thaa ganggbanga !!!!!!!!!!
+0.28 (I; am; free)
+
+People make me so mad when they dout what I can and cannot do .
+0.88 (People; make; me so mad; T:when they dout what I can and cannot do)
+0.40 (they; dout; what I can and cannot do)
+0.11 Context(they dout,List([27, 36))):(I; can can not do; )
+
+People don't know me that well to judge .
+0.82 (People; do n't know that well; me)
+0.17 (me; to judge; )
+
+I am not quitting .
+0.19 (I; am not quitting; )
+
+I can do it no matter what some idiot thinks !
+0.30 (I; can do no matter; it)
+0.78 (some idiot; thinks; )
+
+You can do anything if you put your mind to it !!!  Like this status and I'll tell you something I like about you , dislike about you , a confession , and first impression  TV VEWIN POWER RANGERS IS ON YAY !!!!!!!!!!!!!!!!!!!!!!!!!!!!  NOOOOOOOOOOOOOOOO IT WAS TO BE CONTINUED !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! WAIT ANOTHER WEEK !!!!!!!!!!!!!!!!!!  Every girl needs a guy like < PROPFIRST > !!! <3 <3 <3  I have a random question to ask ...... Hmmmmmmmmmmmmmm .......... Perferably someone that knows alot about hair and bleach and dye ...........  Juss relized I was sick :D :D :D lolz  :D  :p Pratice tonite !!!!!!!!! :D :D :D FRIDAY !!!!!!!!!!!!!! Can't wait !!!!!!!!! Hmmmmmmmm :D  < PROPFEMALE > Elleman MAN DOWN MAN DOWN !!!!!!!!! :-[  ........ who knew frekin M&MS could have 23g of frekin sugar ?!?!?!?!?!?!?!?!?!?!??!? Life suck and is so low sometimes ................... :\\ Thats depressin ...........................  Friends help you alot and I love them , But music , It helps EVERYTHING !
+0.62 (You; can do; anything)
+0.92 (first impression  TV VEWIN POWER RANGERS; IS; ON YAY)
+0.71 Context(first impression TV VEWIN POWER RANGERS IS,List([155, 198))):(NOOOOOOOOOOOOOOOO IT; WAS; TO BE CONTINUED)
+0.54 (you; put; your mind; to it)
+0.31 (I; love; them)
+0.31 (I; 'll tell; you; something I like about you)
+0.88 Context(I 'll tell,List([73, 82))):(Every girl; needs; a guy like < PROPFIRST >)
+0.70 (It; helps; EVERYTHING; T:music)
+0.83 (Juss; relized; I was sick :D :D :D lolz  :D  :p Pratice tonite !!!!!!!!! :D :D :D FRIDAY)
+0.56 Context(Juss relized,List([554, 566))):(I; have; a random question to ask ...... Hmmmmmmmmmmmmmm .......... Perferably someone)
+0.24 Context(Juss relized,List([554, 566))):(I; was; sick)
+0.90 Context(Juss relized I was,List([554, 572))):(:D :D :D; lolz; :D  :p Pratice tonite; T::D :D :D FRIDAY)
+0.68 (NOOOOOOOOOOOOOOOO IT; TO BE CONTINUED; )
+0.87 (something; like; I)
+0.79 (frekin M&MS; is; so low; T:sometimes)
+0.95 (Elleman MAN; knew; frekin M&MS could have 23g of frekin sugar ?!?!?!?!?!?!?!?!?!?!??!? Life suck and is so low sometimes)
+0.88 Context(Elleman MAN knew,List([706, 764))):(frekin M&MS; could have 23g; of frekin sugar)
+0.90 (someone; knows; alot about hair and bleach and dye)
+0.83 (Friends; help; you alot)
+0.27 Context(Friends help,List([936, 948))):(you; alot; )
+
+Sleepy !
+
+lolz idk what to do today .
+0.82 (lolz; idk; what to do today)
+0.69 Context(lolz idk,List([0, 8))):(lolz; idk to do; T:today)
+
+Sing us a song piano man !!!!!!! :p  Hmmmmmmmmmm Hart , Heart ............ Why is Hart county not spelled like Heart but it sounds the same ?!?!?!?!?!??!?!?! OCD !!!!!!!!!!!  Well I text some random creeper thinking it was Elishah N .
+0.23 (it; sounds; the same)
+0.24 (I; text; )
+0.84 (some random creeper; thinking; it was Elishah N)
+0.51 Context(some random creeper thinking,List([187, 215))):(it; was; Elishah N)
+
+Smith and it was some guy named < PROPMALE > and his wife had a cancer sugary and she laughed at me he sed she got a kick outta it !
+0.57 (it; was; some guy named < PROPMALE)
+0.92 (some guy; named; < PROPMALE)
+0.70 (his wife; had; a cancer sugary)
+0.26 (she; laughed; at me; he sed she got a kick outta it)
+0.31 Context(she laughed,List([82, 93))):(he; sed; she got a kick outta it)
+0.31 Context(she laughed he sed,List([82, 106))):(she; got; a kick outta it)
+
+And he was all creeperish he was like We can pretend it Elishah and I was like no creeper !
+0.53 (he; was; all creeperish he was like We can pretend it Elishah)
+0.52 (I; was; like; no creeper)
+0.36 (he; was; like We can pretend it Elishah)
+0.30 Context(he was,List([26, 32))):(We; can pretend; it; Elishah)
+
+:( never been so scared in my life !!!  AHHHHHHHHH ONE MORE FREKIN DAY !!!!!!! Yay Beach Bend Park !!!!!!!!!!  Omg Saturday is going to be BEAST !!!!!!!! 1st POWER RANGERS TO BE CONTINUED EPISODE IS COMEIN ON :O ( They just found out < PROPFIRST > was the evil green ranger !!!! ) THEN Beach Bend THEN We pitch a tent up !!!!!  OF COURSE THEY DO NOT FREKIN FIT ME !!!!!!!!!!!!!!!
+0.60 (They; just found out; < PROPFIRST > was the evil green ranger)
+0.84 Context(They just found out,List([214, 233))):(PROPFIRST; was; the evil green ranger)
+0.94 (MORE FREKIN DAY !!!!!!! Yay Beach Bend Park !!!!!!!!!!  Omg Saturday; to be; BEAST)
+0.85 (1st POWER RANGERS; TO BE; THEN Beach Bend THEN We pitch a tent up !!!!!  OF COURSE THEY DO NOT FREKIN FIT ME)
+0.18 Context(1 st POWER RANGERS TO BE,List([154, 177))):(We; pitch up; T:THEN; T:THEN)
+0.88 (CONTINUED EPISODE; IS; COMEIN ON :O ( They just found out < PROPFIRST > was the evil green ranger)
+0.39 (EPISODE; IS COMEIN ON; :O ()
+
+I am to frekin fat !!!!!!!!  OMG THEY FIT !!!! but it is squezzin the crap outtaa my stomach !
+0.28 (I; am; to frekin fat)
+0.17 (I; to frekin fat; )
+0.24 (it; is; squezzin)
+0.80 Context(it is,List([51, 56))):(the crap; outtaa; my stomach)
+
+Hows it tootin ?!?! Tootin = Country SLANG for going ;]  Lolz well I got this googaly band that looks like a squid/Them little things that kill you on pac man/ Cuzzin It/ A Pineapple/ I Jelly fish ....... ROFL !
+0.42 (It; /; A Pineapple/ I Jelly fish)
+0.21 (I; got; this googaly band that looks like a squid/Them little things)
+0.82 (this googaly band; looks; like a squid/Them little things)
+
+Thanks Clarkie .
+
+And I gots a bump on me head from hittin my head with the flag and TODAY IS FRIDAY !!! ASH IS COMEIN OVER !!!!!!!!!!!!!!!!!  AHHHHHHH BEACH BEND WAS SOOOOOOOOOO FUN !!!!!!!!!! Me and < PROPFEMALE > Brown GOT STUCK ON THE HAUNTED HOUSE RIDE :O And there was a cute Blond hair Brown eyes SO FRKIN HOTT !!!!! and and and rode the rumbler 6 times cuz there was a cute guy trhat worked there !!!!!! AHHH it was carzy !!!!
+0.53 (I; gots; a bump on me head from hittin my head with the flag and TODAY IS FRIDAY !!! ASH IS COMEIN OVER !!!!!!!!!!!!!!!!!  AHHHHHHH BEACH BEND WAS SOOOOOOOOOO FUN !!!!!!!!!! Me and < PROPFEMALE > Brown GOT STUCK ON THE HAUNTED HOUSE RIDE :O And there was a cute Blond hair Brown eyes SO FRKIN HOTT !!!!! and and and rode the rumbler 6 times)
+0.28 (it; was; carzy)
+0.54 (a bump on me; head; from hittin my head with the flag)
+0.75 (a cute guy; worked; L:there)
+0.94 (TODAY; IS; FRIDAY)
+0.88 Context(TODAY IS,List([67, 75))):(ASH; IS; COMEIN OVER !!!!!!!!!!!!!!!!!  AHHHHHHH BEACH BEND WAS SOOOOOOOOOO FUN)
+0.92 Context(TODAY IS ASH IS,List([67, 93))):(COMEIN OVER !!!!!!!!!!!!!!!!!  AHHHHHHH BEACH BEND; WAS; SOOOOOOOOOO FUN)
+
+Text meh for more sTories and p.s IDK BUT SHE JUST PURRED  Band camp ( or should I say pup camp ) Starts today ..... :/ Goodbye life outside school ..............  Idk what to think about her she justed purred ??? HA lovin what I say to juss random people !
+0.89 (Text; meh; for more sTories and p.s)
+0.17 (she; purred; )
+0.45 (I; say; to juss random people)
+0.93 (IDK BUT SHE JUST PURRED  Band camp; Starts; T:today; Goodbye life outside school)
+0.45 (she; justed purred; HA lovin)
+
+PURR !
+
+Omgg I am so confused !!! between claps and sarcasum and Dawson McAllister and flip and shiz ( Tha doliphin splashin gettin every body all wet but this aint sea worl THIS AS REAL AS IT GET I'm on a boat mother effer ! ( sorry off subject )) But Camp was soooooooo long and I am sleepy and confused ....
+0.66 (I; am; so confused; T:Omgg)
+0.52 (I; 'm; on a boat mother effer)
+0.21 (I; flip; )
+0.73 (Camp; was; soooooooo long)
+0.28 (I; am; sleepy and confused)
+0.77 (Tha doliphin splashin; gettin; )
+0.15 Context(Tha doliphin splashin gettin,List([95, 123))):(this; ai; nt)
+
+I need a nap :D  Bahahaha wow how low are they ???? :D They juss don't get it !!! :D bahahahahah I least I got it but that dont matter !! :D :D :D thats all I gots to say :d  vv Make a random face in tha comments vv :D  O.o forever scared .
+0.50 (I; need; a nap :D  Bahahaha wow)
+0.11 (I; :D; thats all)
+0.24 (I; gots; to say :d)
+0.19 Context(I gots,List([157, 163))):(I; gots to say; :d)
+0.30 Context(I gots,List([157, 163))):(I; gots vv Make; a random face; L:in tha comments)
+0.46 (They; juss do n't get; it)
+0.04 (that; do nt matter; )
+
+AHHHHHHHHHHHHHHHHHHHHHHHHHH PUP CAMP IS OVER ........ Band Camp starts :/  PUP CAMP = OVERR !!!!!!!! Ate me some WONDERFUL cookies afterwards mad by the senoris ( If I can even spell it D: ) but they were good .
+0.31 (I; can even spell; it)
+0.36 (they; were; good)
+0.85 (PUP CAMP = OVERR !!!!!!!!; Ate; some WONDERFUL cookies afterwards mad by the senoris)
+0.88 Context(PUP CAMP = OVERR !!!!!!!! Ate,List([75, 104))):(AHHHHHHHHHHHHHHHHHHHHHHHHHH PUP CAMP; IS; Band Camp starts)
+0.80 Context(AHHHHHHHHHHHHHHHHHHHHHHHHHH PUP CAMP IS PUP CAMP = OVERR !!!!!!!! Ate,List([0, 104))):(Band Camp; starts; )
+
+I'm Awsome I talk to myself on my facebook wall !
+0.31 (I; talk; to myself; L:on my facebook wall)
+0.50 Context(I talk,List([11, 17))):(I; 'm; Awsome)
+
+:D  Bentley is the prettyest/Cutest name for a guy .
+0.95 (:D  Bentley; is; the prettyest/Cutest name for a guy)
+0.89 (:D Bentley; is the prettyest/Cutest name for; a guy)
+
+It is soooo cute !!!!!!!!!
+0.28 (It; is; soooo cute)
+
+I LOVE IT !
+0.31 (I; LOVE; IT)
+
+New song for my life is Misery Business .
+0.79 (New song for my life; is; Misery Business)
+
+If you listen to the lyrics and you are like one of my good friends you would know but you can text me lolz idc .
+0.62 (you; listen; to the lyrics)
+0.46 (you; are; like one of my good friends)
+0.32 (you; would know; )
+0.52 (me; lolz; idc)
+
+Woke up at 5:30 with a tummyache and headache and vomited , but all better now !
+
+:D Goin to tha pool !
+
+Iz super duper happy :D <3  Wachin Juno for the 1st time :DD  So in the movie Juno she think the name < PROPFEMALE > is gayy :/ rude .... :D oh well my bro named me so blame him !
+0.73 (DD; so blame; him)
+
+Well went to the pool and saw some really mean people !
+
+Saw Mrs. Bartley and she complemented me on my colorgaurd skills :DD So not ready for BAND camp !!!!!!!  MY KNEE !!!! :'[  :D woke up like idk when .
+0.63 (:D; woke up; T:when)
+
+Is sooo ready to FINALLY get the last toss DONE !!!!! Hmmmm whats for breakfest ?
+
+:D Pumped !!!!!
+0.15 (:D; Pumped; )
+
+I am GOING to get the toss done and learned .
+0.70 (the toss; learned; )
+0.36 (I; to get; the toss done and learned)
+0.69 Context(I to get,List([0, 17))):(the toss; done; )
+
+Not going to hold everyone back and not doing pushups !
+
+:D Like heyyy whats up tehe .
+
+No way am I redy for skool , it's gonna be drama for ya momma !
+0.27 (it; na be; drama for ya momma)
+
+Tehe I wish I knew my classes !
+0.31 (I; wish; I knew my classes)
+0.31 Context(I wish,List([5, 11))):(I; knew; my classes)
+
+: I nothing to say .
+0.19 (I; nothing; to say)
+0.16 Context(I nothing,List([2, 11))):(I; nothing to say to say; )
+
+My finger is jammed and I am so confused .
+0.34 (My finger; is jammed; )
+0.28 (I; am; so confused)
+
+:D te he wow nerd day pics ...... AWSOME !
+0.81 (:D; te; he wow nerd day pics)
+
+Cuz this is the real thing , Love changes everything .
+0.90 (Love; changes; everything)
+0.40 Context(Love changes,List([29, 41))):(this; is; the real thing)
+
+This is the night when every heart's exploding .
+0.45 (This; is; the night when every heart's exploding)
+0.73 (every heart; 's exploding; )
+
+The real thing Slow down , it's happening cuz you got time to burn in the heat of the moment .
+0.31 (it; 's happening; T:cuz you got time)
+0.68 (you; got; time to burn in the heat of the moment)
+0.71 (you; to burn; L:in the heat of the moment; T:time)
+
+That summer radio Fireworks off the patio A 3AM string of green lights in a row And the real thing Love can change anything If you can just let go !
+0.94 (That summer radio; Fireworks; off the patio; A 3AM string of green lights in a row And the real thing)
+0.89 (Love; can change; anything)
+0.36 (you; can just let; go)
+
+~ Real Thing , Boys Like Girls :DD  TeHe last week of band camp :D Bored lolz got anything I could do ?
+0.95 (DD  TeHe; got; T:last week of band camp)
+0.87 (anything; could do; I)
+
+HARD TO BREATHE , FEELS LIKE FLOATING\  SO FULL OF LOVE , MY HEART'S EXPLODING .
+
+\  HANDS ARE SHAKING\  MY HEART IS YOURS FOR THE TAKING .
+0.80 (HANDS; ARE; SHAKING\  MY HEART IS YOURS FOR THE TAKING)
+0.90 Context(HANDS ARE,List([3, 12))):(SHAKING\  MY HEART; IS; YOURS FOR THE TAKING)
+0.39 (MY HEART; IS YOURS FOR; THE TAKING)
+
+\  ACTING WEIRD AND NOT MYSELF\  DANCING AROUND LIKE A KEEBLER ELF .
+
+\  FINALLY TIME FOR THIS POOR SCHLUMP\  TO KNOW HOW IT FEELS TO FALL IN LOVE  Band camp today !
+
+D: My tummy hurts .
+
+Hmmmmmm idkk these days , juss go with tthe flow .
+0.90 (juss; go; T:these days)
+
+Thinks she needs to start gettin redy !
+0.40 (she; needs; to start gettin redy)
+0.40 Context(she needs,List([7, 16))):(she; needs to start; gettin redy)
+0.40 Context(she needs to start,List([7, 25))):(she; needs to start gettin; redy)
+
+:DD  1st .
+
+Literature Owens\  2nd .
+
+Math Turner\  3rd .
+
+Govt .
+
+Crain\  4th .
+
+CR Lowery\  5th .
+
+Science Biggers\  6th .
+
+Chours all year !! ( P.S.
+
+Mr. Smith THEY BETTER PUT FAME OUT OR ELSE I WILL GET HELD BACK JUST TO BE IN THE PLAY !!! :DD) \  7th .
+0.48 (I; JUST TO BE; IN THE PLAY)
+
+Economics though history ????? Wtf ?
+
+2nd term Art\  3rd PE 4th Desingn nd Modlein  =D Band Camp .
+0.97 (2nd term Art\  3rd PE 4th Desingn; nd; Modlein  =D Band Camp)
+
+Listen to the most beloved song of mine <3 Learning to Fall Boys Like Girls .
+
+SOOOOOOO FREKIN SORE !!!!!!!!!!!!!!!!!!!  Cupcakes <3  Playin with this < PROPFIRST > mouse club house mini skateboard !!!! Tehe , still wishes that my ring pop still had < PROPFEMALE > on it .
+
+:DD  Feels like it would work if I just had the guts to say hi to him :/  I LOVE YOU < PROPFIRST > < PROPFEMALE > Lynch !!!!!!!!!!!!!!!!!!!!!!!!  Now juss awatin for him to text me <3 <3 <3 I can't wait !!!!
+0.19 (it; would work; )
+0.31 (him; to text; me)
+0.49 (I; ca n't wait; T:<3 <3 <3)
+0.31 Context(I ca n't wait,List([190, 202))):(I; LOVE < PROPFIRST Now juss awatin; YOU)
+0.26 (I; just had; the guts to say hi to him)
+0.18 Context(I just had,List([33, 43))):(I; just had to say; hi; to him)
+
+I hope it works out like < PROPFEMALE > Tobin says it will !!  Hey mpreactice tonight then SKOOL !!!!!!!!!!! :D jk whatever this weekend ate at Mi Mi's Moes and Gi Gi cupcakes !
+0.92 (Hey mpreactice tonight then SKOOL !!!!!!!!!!! :D jk; ate; L:at Mi Mi's Moes and Gi Gi cupcakes)
+0.30 (I; hope; it works out like < PROPFEMALE)
+0.16 Context(I hope,List([0, 6))):(it; works out; )
+0.83 Context(I hope,List([0, 6))):(Tobin; says; it will)
+
+Was going to shop at The Avenue but thats some other time :DD  I gots me a letter from Mrs. Owens HOW SWEET !!!!!!!! Omg I was like awwwwww someone cares :DD Gonna be awsome year !!  Skool :DD I love Mrs. Owens she is like frkin nice and me homeroom !
+0.50 (I; love; Mrs. Owens)
+0.31 (she; is; like frkin nice and me)
+0.35 Context(she is,List([211, 217))):(I; gots; me; a letter from Mrs. Owens)
+0.52 (I; was; like awwwwww someone cares)
+0.93 (a letter from Mrs. Owens; na be; awsome year)
+
+Mr. Biggers is like HILARIOUS and random if I do say so myself :P .... Welp I saw him today and it juss was not there anymore , so I guess that means I am over him :DD YAY no more drama .
+0.24 (it; juss; )
+0.19 (I; do say; so)
+0.31 (I; saw; him; T:today)
+0.78 Context(I saw,List([76, 81))):(Mr. Biggers; is random; like HILARIOUS and random if I do say so myself :P .... Welp I saw him today and it juss was not there anymore , so I guess that means I am over him :DD YAY)
+0.11 (I; guess; that means I am over him)
+0.06 Context(I guess,List([131, 138))):(that; means; I am over him)
+0.31 Context(I guess that means,List([131, 149))):(I; am; over him)
+
+:'( practicing in the storm was scary o.o
+0.84 (practicing in the storm; was; scary)
+
+I felt the power within me come alive :OO  Heyy :DD  Practice tonite !! :DD so redy with my fancy glove thingy !!!!! Woot woot , well skool was well skool :/ .
+0.77 (Woot; woot; )
+0.80 (skool; was; well skool)
+0.32 (I; felt; the power within me)
+0.38 Context(I felt,List([0, 6))):(the power within me; come; alive)
+0.90 Context(I felt,List([0, 6))):(OO  Heyy; Practice; tonite)
+
+SOOOO cant wait to meet the 6th grade thats in choir !!! :p  Sniff sniff HORRAY !!!!! :DD Gettin a new phone .... D: I need a phonearule !
+0.78 (SOOOO; to meet; the 6th grade thats in choir)
+0.86 (Sniff; sniff; DD Gettin; a new phone)
+0.90 Context(Sniff sniff,List([61, 72))):(SOOOO; ca nt wait; to meet the 6th grade)
+0.39 Context(Sniff sniff,List([61, 72))):(I; need; a phonearule)
+
+My mom dose not know if the cellular company can retrive all me stuff on it !!!!!! THAT PHONE IS MY LIFE !!!! DDD:  GOT A PHONE AND IT HAS ALL ME CONTACTS !!!!!! YAY !
+0.57 (My mom dose; not know; if the cellular company can retrive all me stuff on it)
+0.81 Context(My mom dose not know,List([0, 20))):(the cellular company; can retrive; all me stuff on it)
+0.89 Context(My mom dose not know,List([0, 20))):(THAT PHONE; IS; MY LIFE)
+
+:DD  :DD Our bus is like a reality show :DD So hilarious !!! Ok so idkk text meh !!!!
+0.70 (Our bus; is; like a reality show)
+
+The knowing is < PROPFEMALE > mixed emotions type of movie !! Very intense moment in it that I wanted to scream into the teleavision ( and P.S. thats what she sed :DD ) And then so sad !!!! UGH jaincked but I loved it !
+0.93 (The knowing; is; PROPFEMALE)
+0.31 (I; loved; it)
+0.40 (I; wanted; to scream into the teleavision)
+0.89 Context(I wanted,List([93, 101))):(mixed emotions type of movie; to scream; into the teleavision)
+0.24 (she; sed; )
+0.77 (DD ) And then so sad !!!! UGH; jaincked; )
+
+OMG !!!!! FEZ FROM THAT 70's SHOW IS MANNY ON HANDY MANNY !!! WTF !!!!!!!!!!!!!  Ugh dumb rain !!!!!  Cerry coke zero freeze !! :DD yumm yumm !
+0.89 (SHOW; IS; ON HANDY MANNY !!! WTF)
+0.38 ('s SHOW; IS MANNY ON; HANDY MANNY)
+
+Spokes , I got tha swagger of a cripple , I got lil biceps gettin fatter in tha middle :DD  WTC !!! people are being hacked and sendin me random viruses through chat !!!!!!
+0.80 (people; sendin; me; random viruses)
+0.92 (people; are being hacked; T:DD  WTC)
+0.46 Context(people are being hacked,List([100, 123))):(I; got; lil biceps gettin fatter in tha middle)
+0.46 Context(I got people are being hacked,List([42, 123))):(I; got; tha swagger of a cripple)
+0.88 Context(I got people are being hacked,List([42, 123))):(lil biceps; gettin fatter; T:in tha middle)
+
+I did this juss to qet on < PROPMALE > < PROPMALE > Edwards nerves !! :DD cuzz I am qhetto like that .
+0.62 (I; did; this juss; to qet on < PROPMALE > < PROPMALE > Edwards nerves)
+0.39 Context(I did,List([0, 5))):(I; did this juss to qet on; PROPMALE)
+0.80 Context(I did,List([0, 5))):(DD cuzz; am qhetto; I)
+
+I replace my g's with q's!! lolz jk  Heyyyyyyyy sup ?!?!?!? :DD  So in Mr. Crains class I had an outburst of random sinnging for no reason :D he told me to hush !
+0.19 (me; to hush; )
+0.31 (he; told; me; to hush)
+0.16 Context(he told,List([142, 149))):(I; replace; )
+
+I love being in the toaster as bred ....
+0.45 (I; love being; in the toaster)
+
+But then come out as TOAST !!!!!!!! ~ ~ Colorgaurd was funn !!  OMG BABY ZOEY < PROPFIRST > IS BORN !!!!!!!!! :DD :DD I <3 babys  I twich alot :DD  lastnight was AMAZING !!!!!!!!!! Feels like she is finally a true colorgaurd girl !!!!
+0.83 (DD  lastnight; was; AMAZING)
+0.77 (Colorgaurd; was funn; )
+0.52 (she; is; T:finally; a true colorgaurd girl)
+0.89 (PROPFIRST; IS; BORN)
+0.37 (I; <3; babys  I twich alot)
+0.87 (babys; twich alot; I)
+
+They are making me choose between Legally Blonde and Titanic !!!!! SO HARD !!!!! Oh em gee the bend and snap works everytime !!!
+0.45 (They; are making; me choose between; Legally Blonde and Titanic !!!!! SO HARD)
+0.16 Context(They are making,List([0, 15))):(me; choose; )
+
+And I'll never let go D: SO HARD !!!!!!!!!!!!!!!!  Really now The Patriot vs .
+0.18 (I; 'll never let; go D: SO HARD; T:Really now)
+0.79 Context(I 'll never let,List([4, 18))):(The Patriot; vs; )
+
+Titanic !!!!! WTF !!!!!
+
+I hate life desions !!!  It's all good , gonna have a go with the flow day ya know ?
+0.38 (ya; know; )
+0.40 (I; hate; life desions)
+0.24 Context(I hate,List([0, 6))):(It; 's; all good)
+
+:DD Family Reunions are so random sometimes .
+0.83 (DD Family Reunions; are; so random; T:sometimes)
+
+I <3 really scary hiking trails that lead to a hobo hut in your neighborhood and then lead to a random street of Briar < PROPMALE > :D :D Such adventure in this lil girls heart :'] I love you Lissie !!!!  Welp I have been talked about .
+0.29 (I; <3; really scary hiking trails that lead to a hobo)
+0.23 (I; have been talked; about)
+0.91 (really scary hiking trails; lead; to a hobo)
+0.87 (a hobo; hut; L:in your neighborhood)
+0.57 (I; lead; to a random street of Briar; Such adventure in this lil girls heart :'] I love you Lissie !!!!  Welp I have been talked about; T:then)
+0.31 (I; love; you)
+
+Oh well if I would have been there , Well look out .
+0.23 (I; would have been; there)
+
+We are going to rock the feild !
+0.41 (We; to rock; the feild)
+
+:'[ I am sad I can't spell at all and I am serious !
+0.28 (I; am; serious)
+0.16 (I; ca n't spell at all; )
+0.23 Context(I ca n't spell at all,List([13, 33))):(I; am; sad)
+
+I am dumb !!!!!  Waiting for a zu-zu pet , I picked one out It is between Num Nums , Mr. Squiggles , or Scoodles .
+0.41 (I; Waiting; for a zu-zu pet)
+0.18 (I; picked out; one)
+0.23 Context(I picked out,List([43, 59))):(I; am; dumb)
+0.50 Context(I picked out,List([43, 59))):(It; is; between Num Nums , Mr. Squiggles , or Scoodles)
+
+I hate having to pick :/ it could change my life !! Well nights to all , and all good night .
+0.26 (it; could change; my life; T:nights; to all)
+0.18 Context(it could change,List([25, 40))):(I; hate; having to pick)
+0.16 Context(I hate it could change,List([0, 40))):(I; hate having to pick to pick; )
+
+That feeling you get when you wake up and Bearie Bear is right beside you , It's gonna be a good day !
+0.32 (you; wake up; )
+0.90 (Bearie Bear; is; right beside you)
+0.41 (It; na be; a good day)
+0.75 (you; get; when you wake up and Bearie Bear is right beside you , It's gonna be a good day; T:That feeling)
+
+:)  Feed < PROPMALE > :DD  Went to the random wood trail again and got a thorn stuck in meh pants :/ And we found a mini cave but it went like a steep hill down and plus we kep hering random stick nosies and we saw a ghost car so no way !!! Then we layed down in some comfy grass .
+0.89 (DD; Went; to the random wood trail; T:again)
+0.45 (we; kep hering; random stick nosies)
+0.87 (DD; got; a thorn stuck in meh pants)
+0.47 (we; saw; a ghost car)
+0.54 Context(we saw,List([208, 214))):(we; layed; down; L:in some comfy grass; T:Then)
+0.93 (a thorn; stuck; in meh pants)
+0.45 (we; found; a mini cave)
+0.24 (it; went; down and plus)
+
+Good day .
+
+YESTERDAY WAS AMAZING !!!!!!! WE WERE SO BEAST BAND !!!! :DDD  :) happy for them but yet still sad that it can't happen to me :/  Colorgaurd was BEAST !!! Swag level- Up top !!  Thank you thank you THANK YOU Mr. < PROPMALE > < PROPMALE > for tellin me where to find #1 on my homework :DD  Hmmmmm ?
+0.31 (it; ca n't happen; to me)
+0.27 (me; to find; #1; L:on my homework)
+
+AHAHAHHAHAHAHHA omg today was like a ROLLER COASTER !!!! bahahahahhhaahaha Wants to sing her some DANCEIN < PROPFEMALE > :DD  Muffins :DD  :/ ughhhhhhhhhhhhhhhhhhhhhhhh I hate this !!!!!!!!!!!!!!  :PP hey  Is abuse from rubbing two sticks together to try to make fire for the apocalypse ...... Thanks cologaurd :DD  So woke up to Boys Like Girls screamin at me :] got on the computer headline was \Is the Mothman Real ?
+0.95 (got on the computer headline; was; \Is the Mothman Real)
+0.75 (Thanks; cologaurd; DD  So woke up to Boys Like Girls screamin at me :] got on the computer headline was \Is the Mothman Real)
+0.82 Context(Thanks cologaurd,List([294, 310))):(DD; woke up; to Boys Like Girls)
+0.18 Context(Thanks cologaurd,List([294, 310))):(I; hate; this)
+0.90 Context(I hate Thanks cologaurd,List([169, 310))):(AHAHAHHAHAHAHHA omg today; was; like a ROLLER COASTER)
+0.92 Context(I hate Thanks cologaurd,List([169, 310))):(bahahahahhhaahaha; Wants; to sing her some DANCEIN < PROPFEMALE > :DD  Muffins)
+0.85 Context(bahahahahhhaahaha Wants I hate Thanks cologaurd,List([57, 310))):(bahahahahhhaahaha; Wants to sing; her; some DANCEIN < PROPFEMALE)
+0.89 Context(I hate Thanks cologaurd,List([169, 310))):(PP; Is; abuse from rubbing two sticks together to try to make fire for the apocalypse)
+
+\ " with some random pic of a stik person with red eyes .
+
+And going to Vandyy and rockin the world !
+
+Today is going to be great :] "  Fun fun bought a hat :DD  Bout to go to colorgaurd !
+0.72 (Today; to be; great)
+0.93 (DD  Bout; to go; to colorgaurd)
+
+Blah Blah Blah today :DD  Hmmmmmmmmmm haircut ideas for me ?
+
+:DD  AHHHHHHH MY SUPER PHYSCO SWEET SIXTEEN 2 :OOOO I WANNA SEE IT !!!!!!!!!!!!!!!!!!!!!! Who wanna party that day ?!?! :DD  I have a new nerd game :D yay me  Looks completly different !!!!!!!!!!!!!!!!!!  Whoever invented the alarm clock for the phone ..... Was a frekin genius !!!!! Thank you alarm clock guy :DDD  Had fun wiff my sexy melons , My sexy Muffin and sexy Cucumber !! :DD Jammin home with the bro .
+0.23 (me; Looks; completly different)
+0.95 (Whoever invented the alarm clock for the phone; Was; a frekin genius)
+0.39 (:DDD; [is] guy [of]; clock)
+
+fun fun .
+
+:DD  1st place at regionals with an 84.4 so wtf now !
+
+Yay !!! State finals next ;D  :DD I <3 cuppycakes ;D  Ughhhhhh hate the pain in my foot D: not going to give up thought , I have State Finals I need to go to :D  You are now looking at a girl who has marched on astroturf and WON 1st plce in class 2A at states !
+0.65 (You; are looking; at a girl; T:now)
+0.70 (a girl; has marched; )
+0.43 (I; have; State Finals)
+0.73 Context(I have,List([122, 128))):(D  Ughhhhhh; hate; the pain in my foot)
+0.46 Context(D Ughhhhhh hate I have,List([51, 128))):(I; <3; cuppycakes)
+0.40 Context(I have,List([122, 128))):(I; need; to go to :D  You are now looking at a girl who has marched on astroturf and WON 1st plce in class 2A at states !)
+
+Dimond rings here we come !
+0.49 (here; come; we)
+
+Shew I just got up :D That is sign of a state champion that didnt go to sleep till 4 .
+0.19 (I; just got up; )
+0.45 (That; is; sign of a state champion)
+0.90 (a state champion; did nt go; to sleep; T:till 4)
+0.39 (That; is sign of; a state champion)
+
+Money card !!!!!!!!! Internet shopping , Here I come !!!!! :DD  Walmart .........
+
+You are now one of the most dumbest stores ever !!!!! Screw me being 16 just to get a money card >:[  SAD =[  bahahaahahahhahahhahahah guess what ?!?!?!?!?!?!?!?  Am I mean ??? Please feel free to give me your take on me and my so called ( meanness ) :DD  * Clears throat * Excuse me , :DD And now I would like to sing a song !
+0.19 (I; mean; )
+0.53 (I; would like; to sing a song; T:now)
+0.39 Context(I would like,List([298, 310))):(I; would like to sing; a song)
+0.72 (SAD; guess; what ?!?!?!?!?!?!?!?  Am I mean)
+0.19 Context(SAD guess,List([102, 140))):(me; being; 16)
+
+: TAKE MY BREATH AWAY !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ;D  Ok so is like MAD !!!!!! >:[ I NEED that dress !!!!!!!! Anyone have a job I could do ??  I got the dress !!!! :DD yay me  I wish people would stop being such creepers sometimes .
+0.77 (D; so is; like MAD)
+0.46 Context(D so is,List([60, 71))):(I; got; the dress)
+0.19 Context(D so is,List([60, 71))):(I; NEED; that dress)
+0.90 (Anyone; have; a job I could do ??  I got the dress !!!! :DD yay me)
+0.88 (people; being; such creepers; T:sometimes)
+0.27 (I; could do; me)
+
+bahahah  Kinda in a \Dum < PROPFIRST > dumm dumm\ " mode :DD "  I am drained from crack actingness ( Yes you can be that way ) MUFFINS AND POPCORN !!!! :DD o.O ready to go to bed :DD wait ...,,, I gots me a par-tay to go to !
+0.80 (a par-tay; to go; to)
+0.91 (DD o.O; to go; to bed)
+0.68 (DD; wait; I gots me a par-tay)
+0.40 Context(DD wait,List([180, 187))):(I; am drained; from crack actingness)
+0.37 (I; gots; me; a par-tay to go to)
+
+AND GUESS WHAT ?!?!?!??!?! nothing :p  :] Always act like your sleepy hyper  Blee Blee BLEE !!! hmmmmmmmm I guess I will starrt my hair to go to the par-tay .
+0.36 (I; guess; I will starrt my hair to go to the par-tay)
+0.26 Context(I guess,List([106, 113))):(I; will starrt; my hair; to go to the par-tay)
+0.39 Context(I guess I will starrt,List([106, 127))):(I; will starrt my hair to go; to the par-tay)
+
+1st time in years O have roled around in abunch of leaves !! The party was funn !!!
+0.97 (The party; was; funn; T:1st time in years O have roled around in abunch of leaves)
+
+Why do I feel like everyone hates me and I can't please anyone ?
+0.82 (everyone; hates; me)
+0.45 (I; ca n't please; anyone)
+
+Ok so sitting here and my brothers creepy < PROPMALE > bobble head from The Hangover just randomly said \I'm not suposse to be withing 200 feet from a school !
+0.79 (\I; to be withing; 200 feet; from a school)
+0.72 (my brothers; creepy; < PROPMALE > bobble head from The Hangover just randomly said \I'm not suposse to be withing 200 feet from a school)
+0.86 Context(my brothers creepy,List([23, 41))):(PROPMALE; just randomly said; \I'm not suposse to be withing 200 feet from a school)
+0.82 Context(my brothers creepy PROPMALE just randomly said,List([23, 103))):(\I; 'm not; suposse to be withing 200 feet from a school)
+
+\ " and I didnt even touch it :OO creepy much :DD "  Is Remembering her childhood besties * Tear Tear * Bedore school ever started * tear tear * :']  Oh jeez :P If you like this I'll tell you why what's up !
+0.36 (you; like; this)
+0.31 (I; 'll tell; you; why what's up)
+
+Somewhere deep in your heart , I see the real you and it shines so bright .
+0.44 (I; see; the real; L:Somewhere deep in your heart)
+0.19 (it; shines so bright; )
+
+You juss gotta let it shine !!!!!!  OMG ******* OMG IF YOU TYPE YOUR PASSWORD ON FACEBOK IT COMES UP AS STARs ******* thats amazing  Hey you dang woodchucks !! Quick chukkin my wood !!  I just died ................ Really NOOOOOOOOOO I NEEDED A BOYS LIKE GIRLS WRIST BAND !!!!!!!!!!!!!!!!! D ' : I cant belive it !! I died beeeeeeeeeeeeeeeeeeeeeep Sorry < PROPFEMALE > Moloko has just died .
+0.38 (You; juss; )
+0.38 (you; dang; )
+0.19 (I; died; )
+0.86 (Quick; chukkin; my wood)
+0.26 (I; ca nt belive; it)
+0.77 (Moloko; has just died; )
+0.19 (I; just died; )
+0.51 (YOU; TYPE; YOUR PASSWORD ON FACEBOK IT COMES UP AS STARs)
+
+We are sorry for your loss .. NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  Reading ............. :DD  The Last Airbender .......... Freakin amazing :DD  Cramming seasons of Hope in my brain ( hey at least I got the solo :DD) !!!! D: Oh joy come Monday ... So much to do in one little day ! 3 to 5 play practice , 5:30 to 8:30 wintergaurd !
+0.58 (NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO; Reading; )
+0.26 Context(NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO Reading,List([30, 81))):(We; are; sorry for your loss)
+
+fun fun  The only thing that keeps me up in the morning .....
+0.47 (The only thing; keeps; me; up; T:in the morning)
+
+A The sweet sound of Boys Like Girls .
+
+B Jaw breakers .
+
+and C Alarm Clocks :DD  Danceing with myself :DDD < PROPFIRST > Idol !!!!!!!
+
+About to rummage around to fined things that a hobo would wear !
+0.73 (fined things; would wear; a hobo)
+
+And < PROPFEMALE > Hall I like < PROPMALE > and < PROPFEMALE > :DD  I did it <3 <3 <3  Little hope in my cell : I I will check at skool .
+0.23 (I; like; <)
+0.37 (I; did; it)
+0.45 (I; will check; at skool)
+
+Sound is back :O finally listen to music  I found it !
+0.31 (I; found; it)
+
+:D  Let go <3  Knows how to have a good friday without anyone :DD  Hotel :DD  Discovering new music !!!!! :DD  Can I make the Great Escape ?
+0.86 (DD; Discovering; new music)
+
+Movies !
+
+Do you know whats better than 1 ring pop ?!?!?!?!??!?! 10 for each finger !!!! :D  AHHHHHHH QUICK EBAY GOOD OR BAD ?!?!?!?!?! BOYS LIKE GIRLS WRISTBAND I NEED IT ( but it ebay) !!!!!!!!!!!!!!!!!!!!  Theres a party in your bedroom ALL NIGHT LONG :DD tehe awsome song  GASP I FOUND MY OLD FRIEND :OOOOO I LOVE FACEBOOK !!!!!!  Amazon Kindle AMAZING !!!!!!!!!!!!!!!!
+0.81 (BAD ?!?!?!?!?! BOYS LIKE GIRLS WRISTBAND; Theres; a party in your bedroom)
+0.58 (I; FOUND; MY OLD FRIEND; T:DD; T:tehe awsome song)
+0.43 Context(I FOUND,List([272, 279))):(I; LOVE; FACEBOOK)
+
+I got a Pillow pet <3 YAY !!!!!!!!!  Went for Vampires Suck last night , Easy A today :DDD mmrahahahahahahaha  * jumps on table * TAKE ME AWAY , A SECRET PLACE .
+0.48 (I; Went; for Vampires)
+0.93 (DDD mmrahahahahahahaha; jumps; L:on table; TAKE ME AWAY)
+0.50 Context(DDD mmrahahahahahahaha jumps,List([87, 118))):(I; got; a Pillow pet)
+
+A SWEET ESCAPE , TAKE ME AWAY !!!!!! Loved Easy A By the way :P  Had a nasty nightmare :/ evil vampier zombies took over the city of baltamore and me and all my friends lived there and we were the only ones left , the < PROPMALE > gave us one day to escape the city , then I woke up D: well I am going to read and watch That 70's Show :DD  Geee I could run about a mile today I am just soooo not tired ......... NOT !
+0.91 (the way; Had; a nasty nightmare)
+0.68 (PROPMALE; gave; us; one day; to escape the city)
+0.71 Context(PROPMALE gave,List([220, 235))):(PROPMALE; gave us to escape; the city)
+0.28 (I; to watch; That 70's Show :DD  Geee I could run about a mile today I am just soooo not tired ......... NOT)
+0.74 Context(I to watch,List([291, 319))):(That 70's; Show; )
+0.40 Context(I to watch That 70's Show,List([291, 334))):(I; could run; about a mile today)
+0.18 Context(I to watch That 70's Show,List([291, 334))):(I; am NOT; T:just soooo)
+0.17 (I; to read; )
+0.45 (me and all my friends; lived; L:there)
+0.46 (we; were; the only ones left , the < PROPMALE > gave us one day)
+
+My Itunes is now fix !
+0.53 (My Itunes; is; T:now; fix)
+
+SUCCESS !!!!!!!  Off 2 skewl >.< girrrrrrr  Well I found out something interesting :DD ahhhhh this changes everything !
+0.60 (I; found out; something interesting; T:girrrrrrr)
+
+:( I live like between the Edmonson and < PROPMALE > line and Edmonson is out >:( There was like NO snow where I was at .
+0.84 (Edmonson; is; out)
+0.39 (I; live; L:between the Edmonson and < PROPMALE)
+
+Parents should know better then to cuss at there kids , Really , and then they try to say that the child is makeing everyone stare at them , Um newsflash it is you screamin and cussing at your kid !
+0.82 (Parents; should know better then; to cuss at there kids)
+
+Parents wonder why the child acts the way they act well TADA theres your explanation .
+0.32 (they; act well; )
+0.86 (TADA; theres; your explanation)
+0.87 (Parents; wonder; why the child acts the way)
+0.87 Context(Parents wonder,List([0, 14))):(the child; acts; the way they act well TADA theres your explanation)
+
+:DD  Ahhh I am so blind !
+0.28 (I; am; so blind)
+
+I need my glasses fixed !
+0.26 (I; need; my glasses fixed)
+0.29 Context(I need,List([0, 6))):(my glasses; fixed; )
+
+Needs to get new glasses and a eye doc !!!!
+
+Not in one thats in 3 months :/  UGH I can't decide !
+0.19 (I; ca n't decide; )
+
+:O is all i have to say !
+0.81 (:O; is; all i have to say)
+0.30 (all; to say; i)
+
+This day just got magical !
+
+Oh bubble trumps :]  10 Things I Hate About You ( The movie ;]) <3  I shiver too much !
+0.59 (10 Things; Hate; I)
+
+Even without being cold !!! AHHHH  Ok so wtf with all these new Zodaic signs ?!?!?
+
+I was a Taurus ( earth ) All my life !! now I am a Aries ( fire ) :/ thats a bummer  Theres a bar names Moloko :D My life is complete <3 !!!!!!!!!!!  :DDD new random texting buddie thanks Elishah N .
+0.51 (I; am; a Aries)
+0.36 Context(I am,List([44, 48))):(I; was; a Taurus; T:All my life; T:now)
+0.89 (a bummer; Theres; a bar names Moloko :D My life is complete <3)
+0.90 Context(a bummer Theres,List([75, 91))):(a bar names Moloko; :D; My life is complete <3)
+0.65 Context(a bummer Theres a bar names Moloko :D,List([75, 113))):(My life; is; complete <3)
+
+Smith and < PROPFEMALE > Brownfield  Forget him :DD  Pink or green ?!!!?!?!?!?  Now that I have seen my childhood skewl turned into the Alternative skewl ......... My memories are crushed !
+0.86 (Brownfield; Forget; him)
+0.26 (I; have seen; my childhood skewl turned into the Alternative skewl)
+0.61 Context(I have seen,List([89, 100))):(my childhood skewl; turned; into the Alternative skewl)
+
+:'[ I almost feel sorry for the people that go there now .
+0.45 (I; almost feel; sorry for the people)
+0.79 (the people; go; there; T:now)
+
+Whoa today is the latest I have ever gottten up ........ 1:08 :] well Good morning all .
+0.22 (I; have gottten up; 1:08; T:ever)
+
+STEELERS YAY !!!!!!!!! :DD haha  Feels like my lifes in danger if i get in the car to go to skewl !
+0.52 (i; get; in the car)
+0.83 (DD; to go; to skewl)
+
+Backstreet boys :]  7:00 COME FASTER !!!!! Vampire Diaries :DDDDD  Omg worst most AMAZINGEST ending to Vampire Diaries ever :DD lolz ugh  I sit here and find myself listening to ' Baby I'm Amazed By You ' ......... Thats akwardish :DD but strangly AMAZING :DD  :[ My Bow broke-eted  Da Do Do Juss Dance :DD  Stranger Danger !!!!!!  Sleepy  I feel like remebering something I can't .
+0.72 (DDDDD  Omg; worst; )
+0.37 (I; 'm; Amazed By You)
+0.45 (I; feel; like remebering something)
+0.44 (I; find; myself listening to ' Baby I'm Amazed By You)
+0.46 Context(I find,List([138, 157))):(myself; listening; to ' Baby I'm Amazed By You)
+
+HAPPY BIRTHDAY AUNT < PROPFIRST > Stancil !!!!!!
+
+I wish you a happy birthday b4 ur own brother haha  Hmmmmmm well I am dumb Watching my most terrified childhood movie .
+0.27 (I; Watching; my most terrified childhood movie)
+0.31 (I; wish; you; a happy birthday b4 ur own brother)
+0.23 Context(I wish,List([0, 6))):(I; am; dumb)
+
+LoL ' The Hollow ' :DD  Family Video ......... Yep that place ticks me off ..................
+0.83 (that place; ticks off; me)
+
+I < PROPFEMALE > Alez Moloko have gotten over my fears with my most Terrifed childhood movie and watched it !!!!!!!
+0.70 (PROPFEMALE > Alez Moloko; have gotten; )
+0.78 (PROPFEMALE > Alez Moloko; watched; it)
+
+It has been like about 8 to 9 years ago since I watched it cuz it scared me so much <3 I feel accomplished  I am going to fail P.E.
+0.45 (It; has been; like; T:about 8 to 9 years ago)
+0.31 (I; watched; it; T:cuz it scared me so much)
+0.31 (it; scared; me; so much)
+0.19 (I; feel; accomplished)
+
+It is official , All because I cant find a stupid norwegain dance ..... or however u spell it idc  Yea imma go play a game :DD  Parents that make the simplest things difficult !!!! Picking highskool classes isnt hard father !
+0.28 (It; is; official)
+0.90 (DD  Parents; Picking; highskool classes)
+0.89 Context(DD Parents Picking,List([124, 188))):(DD  Parents; Picking highskool classes make; the simplest things difficult)
+0.89 (DD  Parents that make the simplest things difficult !!!! Picking highskool classes; is; nt hard father)
+0.22 (I; however u spell idc; it)
+0.90 Context(I however u spell idc,List([29, 97))):(Yea; imma go play; a game)
+
+But thanks for caring :]  Yep so I am juss gonna forget the last 5 months of my life ......  My new nickname is Number 4 !!!! WOOT WOOT I AM NUMBER 4 !
+0.70 (My new nickname; is; Number 4)
+
+Let my phone rong ccuz i was half asleep relized who it woukd half a < PROPMALE > be kicked off my covers fell off the bed ran and ninga jumped a pile of clothes then got to the phone and screamed !
+0.66 (PROPMALE; ran; )
+0.92 (PROPMALE; got; to the phone; T:then)
+0.72 (PROPMALE; screamed; T:then)
+0.87 (PROPMALE; fell; off the bed)
+
+:] so I'm just gonna stay up cuzz I cant sleep :]  Homework !
+0.31 (I; na stay; up; T:cuzz I cant sleep :]  Homework)
+0.22 (I; ca sleep; T:nt)
+
+:/  I learned how to play snake on youtube !!!! Produtive day :]  I have a new love .... Cash Cash <3 <3 <3  Tehe Yay I did It !!! My banner thingey :DD  Imma get Naped today :/ Stupid test we have to take for NO reason !
+0.40 (I; learned; how to play snake on youtube)
+0.30 Context(I learned,List([4, 13))):(I; learned to play; snake; L:on youtube)
+0.89 (Stupid test; to take; for NO reason)
+0.37 (I; did; It)
+0.94 (DD  Imma; get; Naped; T:today)
+
+Skewl is cool :DD jk  Ok I have never been so hyper in my life !!! Shotgun was amazing :DD  When did < PROPFIRST > Bieber even turn 16 ?!?!? Whoa shows how much I care !
+0.84 (Shotgun; was; amazing)
+0.69 (Skewl; is; cool)
+0.30 Context(Skewl is,List([0, 8))):(I; have never been; so hyper in my life !!! Shotgun was amazing)
+0.86 (DD; shows; how much I care; T:When did < PROPFIRST > Bieber even turn 16)
+0.16 Context(DD shows,List([88, 151))):(I; care; )
+
+:p  Is locked outside her house , Cell is dead and I just have my stupid Kindle !
+0.35 (I; just have; my stupid Kindle)
+0.69 (Cell; is; dead)
+
+REALLY !?!  Sometime I really wish I hadnt listen to the answering machine to see who called ......... :'[  Came home and saw Wild < PROPFEMALE > < PROPFIRST > Just a swinnging :] Looked outside my window and saw her .
+0.53 (I; saw; Wild < PROPFEMALE)
+
+For me not to be creeped out , Thats just love :DD  TUTU !!!!!!!! Gir it is hard ot do !!!!!!!!!! Imma bout to explode :DD  Tutu shows the power in me :DD  So aparently I need to \get with the program\ " :DDD "  Tehe I am so outta the loop right now !!!!! Sirens went off ?!?!?  AHH My house just shaked :p  Patriot :DD  Who spends 90$ on makeup ?!??!?!?!!?!
+0.87 (DD; spends; 90; on makeup)
+0.46 (it; is; hard ot do)
+0.74 Context(it is,List([70, 75))):(hard ot; do; )
+0.74 Context(it is,List([70, 75))):(Imma bout; to explode; )
+0.88 Context(it is,List([70, 75))):(DD  Tutu; shows; the power in me)
+0.53 (I; am; so outta the loop right now !!!!! Sirens went off ?!?!?  AHH My house just shaked :p  Patriot)
+
+I do aparently :/ gosh Dillards is costly  Y R THE SIRENS GOIN OFF IT IS 6 IN THE MORNING !!?!?!?!??! Idc about some dumb non exsiting tornado !
+0.92 (THE SIRENS GOIN OFF IT; IS; 6 IN THE MORNING)
+0.83 (gosh Dillards; is; costly)
+0.16 Context(gosh Dillards is,List([18, 34))):(I; do aparently; )
+0.39 (IT; IS 6 IN; THE MORNING)
+
+Very long day :]  GOOOOD night !!!! :]  Do tha creep :DD  Just relized halfway home I signed up for Spanish and I cant even do that rolly thingey with my tounge !!!!! :OOO well crap  The boombox could change the world !
+0.68 (DD; Just relized; halfway home)
+0.50 (I; signed up; for Spanish)
+0.19 (I; ca nt even do; that; The boombox could change the world)
+0.16 Context(I ca nt even do,List([112, 126))):(I; ca nt even do that rolly thingey; )
+0.88 Context(I ca nt even do,List([112, 126))):(The boombox; could change; the world)
+
+You gotta know ur limits to the boombox !  9 kids , 4 husbans , huge house , 23,000,000,000 .
+0.63 (You; got; ta know ur limits to the boombox)
+0.56 Context(You got,List([0, 7))):(You; got ta know; ur limits)
+
+Yep I think I had and epic win !
+0.31 (I; think; I had and epic win)
+0.20 Context(I think,List([4, 11))):(I; had; )
+
+Drag Me To Hell was an epic fail :p it was funny !
+0.24 (it; was; funny)
+0.75 Context(it was,List([36, 42))):(Drag Me To Hell; was; an epic fail)
+
+Until my bro scared the living crap outta < PROPFEMALE > and I :]  Wanna make a pizza , But I mite blow up the house sooooo i'm juss gonna sit here and wish I could make a pizza :DD  Hopefully I wont miss the bus :]  ...... :'[ Ders random people sleepin in my living room !!!!!!!  YMCA was amazing !!!!!  Yep Glee is getting stupid :/  OMGG !! One side of the street is POORRING sown rain and on the other there isnt even a drop :OOOOO  Someone ......
+0.64 (my bro; scared; the living crap outta)
+0.20 (i; na sit; here)
+0.29 (i; wish; I could make a pizza)
+0.40 Context(i wish,List([124, 156))):(I; could make; a pizza)
+0.42 (I; mite blow up; the house sooooo i'm juss gonna sit here and wish I could make a pizza)
+0.81 (YMCA; was; amazing)
+0.84 Context(YMCA was,List([282, 290))):(OMGG; is POORRING; sown rain)
+0.78 Context(YMCA was OMGG is POORRING,List([282, 379))):(Yep Glee; is getting; stupid)
+
+No names gonna be sed ( < PROPFEMALE > Brownfield ) left or put a push pop in my backback ........  Just relized Vampire Diaries :DD but not new :[  Think I need to start on some hw ..... Naw I think imma go look up Cash Cahs Hey Monday and Boys Like Girls tickets :DD  Loves how when people knock at our door and they see me with a mop and people think I have been cleaning , but in my head I grabbed it cuz people scare me when they knock at the door and I need a wepon to protect myself !
+0.83 (people; think; I have been cleaning)
+0.16 Context(people think,List([341, 353))):(I; have been cleaning; )
+0.46 (they; see; me)
+0.86 (people; knock; at our door)
+0.91 (No names gonna be sed ( < PROPFEMALE > Brownfield ); put; a push pop; in my backback)
+0.68 (they; knock; at the door)
+0.44 (I; grabbed; it; L:in my head)
+0.80 (DD; Loves; how when people knock at our door and they see me with a mop and people think I have been cleaning , but in my head I grabbed it cuz people scare me when they knock at the door and I need a wepon)
+0.85 Context(DD Loves,List([266, 275))):(people; scare; me; T:when they knock at the door and I need a wepon)
+0.48 (I; think; imma go look up Cash Cahs Hey Monday and Boys Like Girls tickets :DD  Loves how when people knock at our door and they see me with a mop and people think I have been cleaning , but in my head I grabbed it cuz people scare me when they knock at the door and I need a wepon to protect myself !)
+0.44 Context(I think,List([192, 199))):(I; think imma go; look up Cash Cahs Hey Monday and Boys)
+0.26 (I; need; a wepon; to protect myself)
+0.26 Context(I need,List([457, 463))):(I; need a wepon to protect; myself)
+
+If only Lizzy Spann would frikin text me bak I would love to go to Narnia !!!!!  Ughhh I am SOOOO bored ........ :] PUT THIS AS YOUR STATUS AND SEE WHAT PEOPLE RATE YOU : 1 .
+0.31 (I; SEE; WHAT PEOPLE RATE YOU)
+0.50 (I; am; SOOOO bored)
+
+Crazy 2 .
+
+I'd kiss you ... 3 .
+0.37 (I; 'd kiss; you; 3)
+
+Hyper !... 4 .
+
+Jerk ... 5 .
+
+I miss you ... 6 .
+0.37 (I; miss; you)
+
+Best friend ... 7 .
+
+Pretty .... 8 .
+
+Smart .. 9 .
+
+Dumb ... 10 .
+
+I would date you ... 11 .
+0.19 (I; would date; 11)
+
+Random ... 12 .
+
+Hot ... 13 .
+
+Funny ... 14 .
+
+Huggable ... 15 .
+
+Amazing ... 16 .
+
+... Tough .. 17 .
+
+Cute ... 18 .
+
+Beautiful ... 19 .
+
+Awesome !... 20 .
+
+I love you .
+0.31 (I; love; you)
+
+21 .
+
+... Sexy ... 22 .
+
+friend ... 23 .
+
+hate me  Soooo Imma be a doctor and say that I have \Runners Knee\ " :/ awesome .... "  Doctor ....... Plz hurry !!!! :[  Today was a diffrent kinda day at school ... :]  I wanna bedazzle my knee brace :] Tehe Im sleepy  Hardest decision EVER made ...... :/ But the right one  Numbing my leg !!! tehe omg It hurts !!!!! :DD  If you like my status I'll post a heart on your wall ... \  I'm doing this because I can .
+0.20 (I; wan; )
+0.26 Context(I wan,List([171, 176))):(I; wan na bedazzle; my knee brace)
+0.46 (you; like; my status)
+0.79 (the right one  Numbing my leg !!! tehe omg; hurts; It)
+0.63 (Soooo Imma; say; that I have \Runners)
+0.40 Context(Soooo Imma say,List([9, 39))):(I; have; \Runners)
+0.31 (I; 'm doing; this; because I can)
+0.52 (I; 'll post; a heart)
+0.44 (the right one; Numbing; my leg)
+0.98 (Knee\ " :/ awesome .... "  Doctor ....... Plz hurry; was; a diffrent kinda day at school; T:Today)
+0.39 (:[ Today; was a diffrent kinda day at; school)
+
+So yeah .
+
+Yep I saw a ghost of a cute guy on my street ........ Im scared !!!  Soooooo Cash Cash May 16 ( May 12 is my b-bay ;]) Boston < PROPFEMALE > $12 :DDD perfect present ya know , Just gotta get there first ..... Just a thought ....
+0.55 (DDD perfect present; Just got; ta get there first ..... Just a thought)
+0.44 (Im; scared; Soooooo Cash Cash May 16 ( May 12 is my b-bay ;]) Boston)
+0.32 Context(Im scared,List([54, 63))):(I; saw; a ghost of a cute guy on my street)
+0.90 (May 12; is; my b-bay)
+0.38 (ya; know; )
+
+You can make come true ..... Juss sayin :]  I had a dream I had a heart atack and died cuz Cash Cash was on American Idol !!! FAIL xD  ........ Yep I'm confused  Welp imma go dream about havin a heart atack agian ( silly Cash Cash ) :DD Wish me luck !
+0.62 (I; 'm; confused  Welp imma go dream about havin a heart atack agian)
+0.27 Context(I 'm,List([148, 151))):(You; can make; )
+0.47 Context(You can make I 'm,List([0, 151))):(I; had; a dream I had a heart atack and died cuz Cash Cash)
+0.94 (Welp imma; go; dream about havin a heart atack agian)
+0.52 (I; had; a heart atack)
+0.46 (I; died; L:cuz Cash Cash)
+0.53 (I; was; on American Idol)
+
+Welp gots my Maziey ( tehe spelled that rong !!! but I like it ;]) costume !!!! :DD I <3 Factory Connection !!!  Bed :DD  When you get something in life respect it cuz I am positive that thing may get takin away if you walk all over it ...  Bed :DDDDD  Tsk Tsk Im about to see you after practice if you keep actin like this !
+0.52 (Welp; gots; my Maziey ( tehe spelled that rong)
+0.37 Context(Welp gots,List([0, 9))):(my Maziey; spelled; that rong)
+0.29 (I; am; positive that thing may get takin away)
+0.54 (you; walk; all over it)
+0.26 (I; like; it)
+0.51 Context(I like,List([53, 59))):(I; <3; Factory Connection)
+0.62 (you; keep; actin; like this)
+0.25 (thing; get; takin away)
+0.41 (DDDDD  Tsk Tsk Im; to see; you; T:after practice)
+0.19 (thing; may get takin away; )
+0.68 (you; get; something in life)
+
+:DD  Tehe what to do today ????  Like my Scar Face impression ?!?!?!?  Good awesome food , Some really awsome people , Ky Cats game on , Nicee day :]  Waiting outside the lines ......  Came home to see that I was taggedd in 47 pics .... all of which were the play ..... Gotta love play time .
+0.76 (Came home; to see; that I was taggedd in 47 pics .... all of which were the play ..... Gotta love play time)
+0.43 Context(Came home to see,List([185, 201))):(I; Got; ta love play time)
+0.36 Context(Came home to see I Got,List([185, 273))):(I; Got ta love; play time)
+0.59 (all of which; were; the play)
+
+So basicaly a robot is sayin im dumb ..... Nicee :]  I LOVE YOU !!!!!!!!! SUN DROP !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  < PROPFEMALE > Brownfield Has the hot boy stalking powers of Jesus !!!!!  Yea go die in a tree ............................ Please  Yet ANOTHER earth quake hits Japan .........
+0.91 (Brownfield; die; L:in a tree)
+0.93 (Brownfield; Has; the hot boy stalking powers of Jesus)
+0.26 Context(Brownfield Has,List([140, 154))):(I; LOVE; YOU)
+0.90 Context(Brownfield Has,List([140, 154))):(the hot boy; stalking; powers of Jesus)
+
+The world is ending ....
+0.73 (The world; is ending; )
+
+All this pics of Seussical that I am in , Why cant I have one nice looking photo of me ?!?!
+0.28 (I; am; in)
+
+No I have one where I am doing something RANDOM and outta the blue !!  truth is ... ( like this )  1 MORE DAY <3 <3 <3 Cash Cash pre order bundle pack , here I comes !!!! :]  Violent games ......... Oh how I love to kill myself in various ways in 5 < PROPFEMALE > :] Adult Swim Games <3  Welp this day has SUCKED !!!!!!!!!  Well this is gonna be an intresting week !!! :/ 8 days <3 YAY !!  Yep imma bout to fall over DEAD with lack of sleep ......  Theres a place down town where the freaks all come around .
+0.26 (I; love; to kill myself in various ways in 5)
+0.26 Context(I love,List([206, 212))):(I; love to kill; myself)
+0.96 (<3 YAY !!  Yep imma bout; to fall; over DEAD)
+0.45 (I; am doing; something)
+0.34 (this; na be; an intresting week)
+0.64 (RANDOM; outta; the blue)
+0.80 (Welp this day; has SUCKED; )
+0.58 (truth; is; like this)
+0.26 Context(truth is,List([71, 79))):(I; have; one where I am doing something)
+0.93 (the freaks; come; around; L:a place down town)
+0.19 (I; comes; )
+
+It's a hole in the wall , It's dirty free for all !
+0.24 (It; 's; dirty free for all)
+0.47 Context(It 's,List([26, 30))):(It; 's; a hole in the wall)
+
+<3  < PROPFEMALE > MURPHY DIED ?!?!?!?!? :O WTF !!!!????!!!  Yea its muddy outside !!!!
+0.86 (MURPHY; DIED; L::O WTF !!!!????!!!  Yea)
+
+I just ran though the grass with flip flops and my jeans and feet are sooked !!!!! :]  Dear Stupid Grasshopper , \  < PROPFEMALE > has random spaz attacks when she sees you jumpin around everywhere !
+0.19 (I; just ran; )
+0.53 (the grass with flip flops and my jeans and feet; are sooked; )
+0.84 (< PROPFEMALE >; has; random spaz attacks; T:when she sees you jumpin around everywhere)
+0.26 (she; sees; you jumpin around everywhere)
+0.30 Context(she sees,List([160, 168))):(you; jumpin; around; L:everywhere)
+
+Grasshoppers are NOT ment for showers , so stop creeping on me Or You will die !
+0.32 (You; will die; )
+0.89 (Grasshoppers; are NOT ment for; showers)
+
+I threw my pants on you so DIE already !!!!!
+0.37 (I; threw; my pants; on you)
+
+I hate you !
+0.31 (I; hate; you)
+
+\  WITH NO LOVE , \  < PROPFEMALE > Moloko  Would you make me numba 1 on your playlist ?
+
+;] <3  If I dont get some of this Sun Drop before it is gone ...... Imma be MAD !!! :DD  I just relized that it is the 16th !! AHHHHH TUESDAY COME FASTER !!!!!!!!!!
+0.50 (I; do nt get; some of this Sun Drop)
+0.19 (it; is gone; )
+0.21 (I; just relized; that it is the 16th; T:DD)
+0.93 Context(I just relized,List([89, 103))):(Imma; be; MAD)
+0.23 Context(I just relized,List([89, 103))):(it; is; the 16th)
+
+I had yet ANOTHER dream about getting this Cash Cash budle pack !!!!!!  Finding a song to sing as a group that has no cuss words , not innapropret for school , That is an acually GOOD song !! UGHH  All I can say now is that ....
+0.90 (no cuss words; not innapropret; for school)
+0.40 (That; is; an acually GOOD song)
+0.58 Context(That is,List([160, 167))):(I; had; yet ANOTHER dream about getting this Cash Cash budle pack !!!!!!  Finding a song)
+0.15 (All; can say; T:now)
+0.90 (a song; to sing; as a group)
+0.29 (All I can say now; is; that)
+0.91 (a group; has; no cuss words , not innapropret for school)
+
+I AM FREE AT LAST !!!!
+0.28 (I; AM; FREE)
+
+I won't be sorry ;]  Pokemon :] My Brother makin me go to sleep while playin Pokemon >:[  I FOUND A SONG !!!! FINALLY !
+0.23 (I; wo n't be; sorry)
+0.51 (My Brother; makin; me go to sleep)
+0.47 Context(My Brother makin,List([32, 48))):(me; go; to sleep)
+
+This better work or imma be mad , It was on < PROPFIRST > Neutron !
+0.85 (This better work or imma; be; mad)
+0.57 (It; was; on < PROPFIRST; Neutron)
+
+And I think my finger is broken :'[  I am in love !!!!!!!!!!! AHHH  OMG CASH CASH BUDLE GETS SHIPPED TOMORROW !!!!!!!!!! AHHHHHHHHHH I CAN SMELL IT !
+0.31 (I; think; my finger is broken)
+0.29 Context(I think,List([4, 11))):(my finger; is broken; )
+0.46 Context(I think,List([4, 11))):(I; am; in love)
+
+Omfg I frikin LOVE our Cats testing group !!!!!! :DDD I have a feeling that somethings gonna happen ....
+0.45 (I; have; a feeling)
+0.68 (somethings; na happen; )
+
+If you know what I mean <3 ;]  Okay Merrick McCall Black Dosent belive me but ...... What do you think I would do if I went to an all BOYS school ???? AND What would I do if I went to an all GIRLS school ?????? :DD I will win this debate !
+0.48 (you; know; what I mean <3)
+0.16 Context(you know,List([3, 11))):(I; mean; )
+0.57 (I; went; to an all BOYS school)
+0.89 (Merrick McCall Black Dosent; belive; me)
+0.57 (I; went; to an all GIRLS school)
+
+Sang E.T. to a hot guy taking me and my friends money though the drive thru at McDonalds !!!!!!!!!!!
+0.90 (a hot guy; taking; money)
+
+I love the Kindergarden class I am mentoring !!!!! <3 <3 <3 THEY ARE SO CUTE !!!!!!  White n Nerdy !!!!!!!!!! :DD ohhhh yeahh < PROPMALE > !
+0.92 (the Kindergarden class; am mentoring; I)
+0.44 (I; love; the Kindergarden class)
+0.95 Context(I love,List([0, 6))):(THEY; ARE; SO CUTE !!!!!!  White n Nerdy !!!!!!!!!! :DD ohhhh yeahh < PROPMALE >)
+0.91 Context(I love THEY ARE,List([0, 68))):(SO CUTE !!!!!!  White n Nerdy; ohhhh; yeahh < PROPMALE)
+
+<3  Vampire Diaries ....... WOW !!!!!!!!
+
+I was like :OO for like 5 < PROPFEMALE > .!!!!!!!!!!!!!!!!! OMG It is so frking intence !!!  Yay !
+0.24 (I; was; like)
+0.47 Context(I was,List([0, 5))):(It; is; so frking intence)
+
+The Cash Cash Bundle pack it at my cousins house !!!!!!!! <3 This calls for a 7th grade luch inside joke !
+0.89 (The Cash Cash Bundle; pack; it; L:at my cousins)
+0.39 Context(The Cash Cash Bundle pack,List([0, 25))):(This; calls; for a 7th grade luch inside joke)
+
+Do not FOLD , BEND , OR MANIPULATE my package ;]  Gonna be a surpires when I come to skewl !
+0.31 (I; come; to skewl)
+
+:)  OMG THE CLOUDS ARE MOVING ALL OVER THE PLACE !!!!!!! :DD So cool !
+0.89 (THE CLOUDS; ARE; MOVING ALL OVER THE PLACE)
+
+Dang bees .......... Go die !
+0.83 (Dang bees; Go; die)
+0.76 (Dang bees; die; )
+
+Glasses FREE now !!!!!!!!!!!!!!! :DDD YAY  yea I kinda just hand cuffed myself !!!!!! Imm run up and down the streets sayin IM FREE !!!!!! :DD  Hmmmm note to self ; Never ride a bike hand cuffed .....  WHERE IS THIS MUSIC COMIN FROM ?!?!?!?
+0.63 (Imm; run up; )
+0.47 (sayin IM FREE; Never ride; a bike hand)
+0.90 Context(sayin IM FREE Never ride,List([118, 175))):(Glasses FREE now; cuffed; DD  Hmmmm note)
+
+I am in the liking mood today !! :DD  Walmart !! :]  No walmart ...... :[ but we did go to freds !!!!! :DD I frekin LOVE that place !
+0.52 (I; am; in the liking mood; T:today)
+0.45 (we; did go; to freds)
+0.27 (I; frekin; LOVE; T:that place)
+
+Cheap stuff WOOT WOOT !!  Fruit Loops <3  Fruit Loops are a double negitive :DD  Hmmm nails suck !!! :DD  Has anyone heard ?!?!?!?!?! Osama Bin Laden is dead ?!?! :DD  We want the funk !
+0.88 (?!?!?!?!?! Osama Bin Laden; is; dead)
+0.93 (DD  Hmmm nails; suck; DD  Has anyone heard ?!?!?!?!?! Osama Bin Laden is dead ?!?! :DD  We want the funk)
+0.92 Context(DD Hmmm nails suck,List([77, 96))):(Cheap stuff WOOT WOOT !!  Fruit Loops <3  Fruit Loops; are; a double negitive)
+0.88 Context(DD Hmmm nails suck,List([77, 96))):(DD; Has; anyone heard ?!?!?!?!?! Osama Bin Laden is dead)
+0.47 Context(DD Hmmm nails suck DD Has,List([77, 109))):(We; want; the funk)
+
+Everything in my phone is spanish !!!! bahaha  OMFG !!!!!!!!! 2 words ....... Vampire Diaries !!!! :OOOOO I was an emotional WREK !!!! AHHHHHHHHHHHHHHHHHH Words cannot describe how I felt !!! Well < PROPFEMALE > and I will get shushed all 3rd period talking about it !!!
+0.50 (I; was; an emotional WREK)
+0.44 Context(I was,List([106, 111))):(Everything in my phone; is; spanish)
+0.43 (< PROPFEMALE > and I; talking; about it)
+0.73 (AHHHHHHHHHHHHHHHHHH Words; can not describe; how I felt)
+0.20 Context(AHHHHHHHHHHHHHHHHHH Words can not describe,List([135, 176))):(I; felt; )
+0.41 Context(AHHHHHHHHHHHHHHHHHH Words can not describe,List([135, 176))):(< PROPFEMALE > and I; will get shushed; T:all 3rd period talking about it)
+0.65 (< PROPFEMALE > and I; get; shushed all 3rd period)
+
+I would like to give a shoutout to Daija Mashak you are awsome !!!!!! Don't let some dumb ...... Person :] Try to start stuff with you , She needs to get a pair of glasses and get her priorites STRAIT !!! :D juss sayin  HEY GUESS WHAT ?!??!?! Its Friday !
+0.43 (I; would like; to give a shoutout to Daija Mashak)
+0.43 Context(I would like,List([0, 12))):(I; would like to give; a shoutout; to Daija Mashak)
+0.30 Context(I would like,List([0, 12))):(you; are; awsome)
+0.41 (She; needs; to get a pair of glasses and get her priorites STRAIT !!! :D juss sayin  HEY GUESS WHAT ?!??!?! Its Friday)
+0.40 Context(She needs,List([137, 146))):(She; needs to get; a pair of glasses)
+0.31 Context(She needs,List([137, 146))):(She; needs to get; her priorites STRAIT !!! :D juss sayin  HEY GUESS WHAT ?!??!?! Its Friday)
+0.46 Context(She needs to get,List([137, 179))):(her priorites STRAIT !!! :D; juss sayin; HEY GUESS WHAT ?!??!?! Its Friday)
+
+SUNDAY !!!!!! :DD 
+

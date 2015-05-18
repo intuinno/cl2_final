@@ -17,21 +17,6 @@
     </entry>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.9 (~/anaconda/bin/python)" project-jdk-type="Python SDK" />
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings is-module-sdk="true">
-        <envs>
-          <env key="VWP_PYTHON_PATH" value="/Users/yogarshi/Documents/vowpal_wabbit_hal/vowpal_wabbit/python/" />
-        </envs>
-        <option name="myUseModuleSdk" value="true" />
-        <option name="myEnvs">
-          <map>
-            <entry key="VWP_PYTHON_PATH" value="$USER_HOME$/Documents/vowpal_wabbit_hal/vowpal_wabbit/python/" />
-          </map>
-        </option>
-      </console-settings>
-    </option>
-  </component>
   <component name="masterDetails">
     <states>
       <state key="ScopeChooserConfigurable.UI">

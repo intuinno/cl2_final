@@ -1,0 +1,774 @@
+STOP HITTING ME WITH PILLOWS !!!!
+
+VOTE < PROPFEMALE > HU FOR SECRETARY !!!!!!!!!!!!!!!!!!!!!!  also vote for < PROPFEMALE > , < PROPFIRST > , africa , and < PROPFIRST > ...  someone help me with my speech !!!!!!!!!  < PROPFEMALE > FOR SECRETARY !!!!!!!!!!!  VOTE < PROPFEMALE > HU FOR SECRETARY !!!!!!!!!!!!!!!!!  VOTE < PROPFEMALE > HU FOR SECRETARY !!!  VOTE < PROPFEMALE > HU FOR SECRETARY !!! Election is tomorrow !!!  Results on Friday ... Why do they have us wait !?  Results on Thursday ... Why do they have us wait !?  I WON SECRETARY !!!  is finally finished with all of her piano competitions this year !
+0.91 (< PROPFEMALE > HU FOR SECRETARY; vote; for < PROPFEMALE)
+0.48 (I; WON; SECRETARY !!!  is finally finished with all of her piano competitions this year)
+0.77 Context(I WON,List([493, 498))):(SECRETARY !!!; is finished; with all of her piano competitions; T:this year; T:finally)
+
+finally !
+
+prbly lost the science fair .
+
+lol .  is doing ss current events >.<  is back in freezing cold Chicago ...  Happy New Year everyone !
+0.63 (lol; is; back)
+
+\  Class of ' Oleven <3  Aw ... tomorrow is school again .... :'(  is doing her annotated bibliography for H.F.  Fishie swimming in the air .
+0.92 (tomorrow; is; school; T:again)
+0.94 (Class of ' Oleven <3  Aw; is doing; her annotated bibliography for H.F.  Fishie swimming in the air)
+
+Fishie swimming towards my mouth .
+
+Fishie swimming in my mouth .
+
+Fishie's gonna die .
+0.74 (Fishie; na die; )
+
+NOW !
+
+* Crunch *  is so tired ......................  ' s birthday is on February 4 !!  angry cuz she got a B in Listening , which just ruined her \straight A's\ " .
+0.57 (she; got; a B; L:in Listening)
+0.86 (Listening; just ruined; her; \straight A's\)
+0.90 (s birthday; is angry; on February 4)
+
+"  wasted yet another Saturday at TFC .
+
+' s birthday is this Thursday !!  is enjoying her last few hours of being 12 .
+0.94 (s birthday; is; this Thursday)
+
+At 12:18 PM , I'll be 13 !!  is enjoying her last few hours of being 12 .
+0.66 (I; 'll be; 13; T:At 12:18 PM)
+0.27 (I; is enjoying; her last few hours of being 12)
+
+At 12:18 AM , I'll be 13 !!  ' s birthday is today !!  is bored .
+
+Hurry up and come over already peoples !
+
+I'm like so bored and I just got back from TFC !!  LOL .
+0.28 (I; 'm; like; so bored)
+0.45 (I; just got back; LOL)
+
+< PROPFEMALE > hurt < PROPFIRST > again !! Her < PROPFEMALE > got smashed into the treadmill .
+0.56 (PROPFEMALE; hurt PROPFIRST; T:again)
+
+< PROPFEMALE > set it to 9 < PROPMALE > per hour and she fell ...
+0.78 (PROPFEMALE; set; it; to 9)
+0.24 (she; fell; )
+
+And she now has a bruise .
+0.62 (she; has; a bruise; T:now)
+
+Also , < PROPFEMALE > stuffed an ice cube down her shirt .
+0.73 (PROPFEMALE; stuffed; an ice cube; down her shirt)
+
+Poor Danzo , but it was hilarious !!  is waiting for this boring long weekend to end- and it hasn't even started yet !!  is doing boring stuff .
+0.41 (it; is waiting; for this boring long weekend to end)
+0.23 (it; has n't even started; T:yet)
+0.24 (it; was; hilarious)
+
+didn't realize how blind she actually was until she tried on her new glasses .
+0.31 (she; tried; on her new glasses)
+
+will waste another day at TFC tomorrow :'(  TOMORROW IS CHINESE NEW YEAR !! Happy year of the tiger !!  HAPPY CHINESE NEW YEAR !! And to PattyRicia Alexanderia : Happy Anti-Valentine's Day !!  is going to < PROPFEMALE > Skelligton's house !!  is at < PROPFEMALE > Skelligton's house .
+0.92 (tomorrow :'(  TOMORROW; IS; CHINESE NEW YEAR)
+0.92 (PROPFEMALE > Skelligton's house; is; at < PROPFEMALE > Skelligton's house)
+
+A * President * ents a present .
+0.94 (A * President; ents; a present)
+
+A * Vice President * vicents a present .
+0.93 (A * Vice President; vicents; a present)
+
+A * Tresaurer * ers a treasure .
+0.94 (A * Tresaurer; ers; a treasure)
+
+A * Secretary * aries secrets .
+
+And a * Historian * ians history .
+0.92 (a * Historian; ians; history)
+
+Tag : BubbleGumm LuvsRamen MRS .
+
+LINTON'S COMING BACK ON THURSDAY !!  Mrs. Linton's coming back tomorrow !! :]  Mrs. Linton's back !! :]  Yogi < PROPFIRST > pisses Mrs. Linton off and gets kicked out fifteen minutes into her first class with us this year .
+0.93 (Mrs. Linton; 's coming; back; T:tomorrow)
+0.92 (Yogi < PROPFIRST > pisses Mrs. Linton off; gets; kicked out fifteen minutes into her first class with us this year)
+0.84 (Yogi < PROPFIRST > pisses Mrs. Linton off; gets kicked out; T:fifteen minutes; into her first class with us; T:this year)
+
+Of course .
+
+tomorrow's gonna suck .
+0.68 (tomorrow; na suck; )
+
+Add Walle Wree Tiel as a friend !! Yeah .
+
+He's my bird .
+0.37 (He; 's; my bird)
+
+has Performathon today and I look weird in all black .
+0.23 (I; look; weird)
+
+:P  finished her first performance of the day .
+0.76 (:P; finished; her first performance of the day)
+
+When is the reading packet for \Rules of the Game\ " due ?
+
+"  Harambee House is on Friday !! :P  OMG , I was so nervous at Harambee House !!  TfC :'(  How long does the AA Report have to be and do we only have to write a report ?
+0.41 (we; to write; a report)
+0.78 (the AA Report; to be; )
+
+Ugh ... homework :'(  Eating breakfast ( technically lunch ) :]  ISAT !!!!!!
+
+That reminds me of Mr. Cuddles ...  Is Ms. < PROPMALE > just here to fuck up our lives !?  Boring Sunday ...  New Name : < PROPFEMALE > Piheartie < PROPFEMALE > Wree Yotsuba& !... Hu  Springs Coming !!!!!!!!!!  Another horrible Friday ... :'(  Yotsuba& ! 8 comes out on April 20 , 2010 !!!!!! [ Tag : BubbleGumm LuvsRamen , PattyRicia Alexanderia , and Grafton Sykes ]  It's Pi Day !!!!!!!  Worst year ever .
+0.95 (Yotsuba& ! 8; comes out; T:on April 20 , 2010)
+0.57 (It; 's; Pi Day)
+
+I got to skip 2 hours of class today !
+0.47 (I; got; to skip 2 hours of class today)
+0.40 Context(I got,List([0, 5))):(I; got to skip; 2 hours of class today)
+
+:]  EGG DROP CONTEST : MY EGG DIDN'T BREAK !
+
+BUT MY BOX EXPLODED IN THE AIR !
+
+AND I GOT SOMEONE'S EGG YOLK ALL OVER ME !
+0.57 (I; GOT; SOMEONE'S EGG YOLK ALL OVER ME)
+
+BUT MY EGG DIDN'T BREAK !
+
+MRS .
+
+LINTON JUST TOLD ME THAT SHE IS LEAVING FOREVER TO MINNEANOPOLIS-WHATEVER THAT IS , BECAUSE HER HUSBAND GOT A JOB THERE AND TOMORROW WILL BE HER LAST OFFICIAL DAY AND MS .
+0.92 (LINTON; JUST TOLD; ME; THAT SHE IS LEAVING FOREVER TO MINNEANOPOLIS-WHATEVER THAT IS , BECAUSE HER HUSBAND GOT A JOB THERE AND TOMORROW WILL BE HER LAST OFFICIAL DAY AND MS)
+0.92 Context(LINTON JUST TOLD,List([0, 16))):(SHE; IS; LEAVING FOREVER TO MINNEANOPOLIS-WHATEVER THAT IS , BECAUSE HER HUSBAND GOT A JOB THERE AND TOMORROW WILL BE HER LAST OFFICIAL DAY AND MS)
+0.97 Context(LINTON JUST TOLD SHE IS,List([0, 31))):(TO MINNEANOPOLIS-WHATEVER THAT IS , BECAUSE HER HUSBAND GOT A JOB THERE AND TOMORROW; WILL BE; HER)
+
+SENDOUN IS TAKING OVER AGAIN AND NOW I HATE HER BECAUSE SHE IS MAKING ME SO SAD !
+0.90 (SENDOUN; IS; TAKING OVER AGAIN)
+0.58 (I; HATE; HER; T:NOW)
+0.89 Context(I HATE,List([37, 43))):(BECAUSE SHE; IS; MAKING ME SO SAD)
+
+I can't believe Skinner Linton is leaving our lives ... forever .
+0.29 (I; ca n't believe; Skinner Linton is leaving our lives ... forever)
+0.84 Context(I ca n't believe,List([0, 15))):(Skinner Linton; is leaving; our lives; T:forever)
+
+And we were making a flood of tears in the classroom :P  I cannot enjoy my Spring Break .
+0.45 (we; were making; a flood of tears in the classroom)
+0.35 (I; can not enjoy; my Spring Break)
+
+Skinner Linton is gone and she is leaving Chicago in a \few days\ " .
+0.79 (Skinner Linton; is gone; )
+0.50 (she; is leaving; Chicago; L:in a \few days\)
+
+Please define \ " few days\ " .
+
+So are you visiting or not ?
+
+"  Agh !
+
+I miss Skinner Linton and I want her back !
+0.57 (I; miss; Skinner Linton)
+0.37 (I; want; her; back)
+
+Forever .
+
+I made it into Ogden and Kenwood .
+0.35 (I; made; it; into Ogden and Kenwood)
+
+Should I go ?
+
+My total score was 812.9 out of 900 and my SAI score was 133 .
+0.48 (My total score; was; 812.9 out of 900)
+0.55 (my SAI score; was; 133)
+
+I just SCREWED UP my Math grade and mmy life .
+0.42 (I; just SCREWED UP; my Math grade and mmy life)
+
+And < PROPFEMALE > BlasianFudgebrownie < PROPMALE > if you do not do your part of the SEEI and mess up my Social Studies grade ...  Yay !
+0.51 (you; do not do; your part of the SEEI)
+0.47 (you; mess up; my Social Studies grade)
+
+I still have an A in Math !
+0.60 (I; have; an A in Math; T:still)
+
+:D  La Burbuja :D < PROPFEMALE > BlasianFudgebrownie < PROPMALE > , we almost DIED laughing in Spanish playing I Spy .
+0.43 (we; almost DIED laughing; in Spanish)
+0.29 Context(we almost DIED laughing,List([68, 91))):(we; almost DIED laughing in Spanish playing; I Spy)
+
+Boring day .............  $5 Footlongs cost $6.75 without tax !? Wtf !!!!
+0.83 ($5 Footlongs; cost; $6.75)
+
+I can't believe Skinner Linton didn't visit today !
+0.43 (I; ca n't believe; Skinner Linton didn't visit today)
+0.91 Context(I ca n't believe,List([0, 15))):(Skinner Linton; did n't visit; T:today)
+
+Ugh !
+
+I hate her now .
+0.31 (I; hate; her; T:now)
+
+>:(  Hooba .
+
+Hooba .
+
+Hooba .
+
+Hooba .
+
+Hooba .
+
+What the heck !?  hates current events >.<  is reading Shugo < PROPFEMALE > !!! :D  is doing her Spanish ( late , of course !!! ) :P  is tired .
+0.52 (!?; hates; current events; T:What the heck)
+0.83 (What the heck !?  hates current events >.<  is reading Shugo < PROPFEMALE > !!! :D  is doing her Spanish ( late , of course !!!; is; tired)
+
+and sad .
+
+Yoru is so cute-nya !
+0.94 (Yoru; is; so cute-nya)
+
+so ... bored ...  let's all wish Skinner Linton a happy birthday !
+
+:)  hates spanish homework ...  why the hell is there an english/spanish glossaryin the math book ?
+0.38 (:); hates; spanish homework)
+0.70 (the hell; is; there)
+
+found lazeraser !
+
+[ tag : < PROPFEMALE > PeacenLuv < PROPMALE > aka miche-chan !
+
+]  is too lazy to do her spanish homework ... -_-  the dance was funny :)  this has been the best freaking week ever ?
+0.81 (the dance; was; funny)
+0.38 (this; has been; the best freaking week ever)
+
+really doesn't want to play kickball today ... plus it's all wet ... :(  today went by so ......... slowlyyyyyy .............. ughhhhhhhhhhh ................  found taxi number 1997 !
+0.24 (it; 's; all wet)
+
+:D  aw ... fuck !
+
+why is it always raining !?  i hate spanish SOOO much >:O  whoever is on sr alvizuri's team for field day ... i feel bad for you ... just don't pay the $$$  today was such a wonderful day ... with the asians ( tag : Nushka Cookiemonstah Mondal , Ludia Tang , < PROPFIRST > Azn'ish < PROPFEMALE > , and < PROPMALE > !!! :D ) i'm gonna miss you all .. ps ludia , i owe you like 70 hugs ... :P  is depressed .
+0.19 (i; hate; )
+0.27 (i; na miss; you)
+0.50 (ps; ludia; )
+
+so don't bother me unless you are Ludia Tang <3 , < PROPFEMALE > < PROPFIRST > Kawazoye <3 , < PROPFEMALE > < PROPFIRST > <3 , < PROPFIRST > Azn'ish < PROPFEMALE > <3 , Morty Dame <3 , or Nushka Cookiemonstah Mondal <3 .
+0.66 (you; are; Ludia Tang <3)
+
+i miss you guys !  the graduation was so sad .
+0.37 (i; miss; you guys; the graduation was so sad)
+0.81 (the graduation; was; so sad)
+
+i couldn't stop crying .
+0.18 (i; could n't stop; crying)
+0.16 Context(i could n't stop,List([0, 15))):(i; could n't stop crying crying; )
+
+and i am still sad .
+0.28 (i; am; T:still; sad)
+
+too bad i couldn't stay and talk with you guys ... <3  Ludia Tang , i'm still not finished crying ( even thought i cried for like an hour today ... :P ) .
+0.19 (i; could n't stay; )
+0.33 (i; talk; with you guys)
+0.49 (i; 'm; T:still; not finished crying ( even thought i cried for like an hour today)
+0.17 (i; crying; )
+
+i'm going to miss you sosososo badly .
+0.27 (i; to miss; you; sosososo badly)
+
+<3 ps i am in ms.
+0.87 (<3 ps; am; in ms.)
+
+mellos ' class next year and don't forget to say bye to me on friday !
+
+chinatown was a lot of fun !
+0.92 (chinatown; was; a lot of fun)
+0.89 (chinatown; was a lot of; fun)
+
+we should totally < PROPFEMALE > out over the summer !
+0.35 (we; should totally < out; T:over the summer)
+
+:D  is sick of summer and wants to go back to school .
+0.89 (:D; is; sick of summer)
+0.84 (:D; wants; to go back to school)
+0.80 Context(:D wants,List([0, 31))):(:D; wants to go; back to school)
+
+already !
+
+will be gone from june 29th-july 11th for camp , so i won't have any internet .
+0.39 (i; wo n't have; any internet)
+
+try not to spam me , you guyss <3 :P <3  just came back from looking at the camp .
+0.31 (you; guyss; <3)
+0.84 Context(you guyss,List([21, 30))):(:P <3; just came; back from looking at the camp)
+
+i saw the biggest spider ever .
+0.52 (i; saw; the biggest spider ever)
+
+its body was like 2 mm long , but its legs were like 9 in long .
+0.38 (its body; was long; like)
+0.38 (its legs; were; like 9 in long)
+
+so scary !
+
+plus it's really cold here in michigan .
+0.52 (it; 's; really cold; L:here in michigan)
+
+ok well , this is like my last time on the computer until july 11th , so byez !
+
+<3  is back from camp ! it was so much fun , but now i miss everyone ... :(  misses blue lake .
+0.47 (it; was; so much fun)
+0.82 Context(it was,List([24, 30))):(<3; is; back from camp)
+0.60 (i; miss; everyone; T:now)
+
+it feels so weird to have an untucked shirt now .
+
+is back to the regular boringness of her life D:  is soooo bored of summer !!! :/  gets freedom from volunteering for one day !!! :P  Lol , < PROPFEMALE > LuvsChinesefood < PROPMALE > and PattyRicia Tachiibana , remember this ?
+
+: < PROPFIRST > !
+
+TECUMSAH !
+
+* points gun * sh-sh-shoemaker ?
+
+it's finally august !
+0.28 (it; 's; finally august)
+
+:D  blue lake ! in a week !
+
+:O  despicable me was a funny movie :P  didn't know that you could burn popcorn in a microwave until today .
+0.52 (me; was; a funny movie)
+0.58 (you; popcorn; L:in a microwave)
+0.45 (:O  despicable me was a funny movie; did n't know; that you could burn popcorn in a microwave until today)
+0.55 Context(:O despicable me was a funny movie did n't know,List([0, 51))):(you; could burn; popcorn; T:until today)
+
+this summer was ... weird .
+0.78 (this summer; was; weird)
+
+hates packing .
+
+sooooo much .
+
+goes to blue lake ( for rehearsals ) tomorrow .
+
+soooooooooo scared !
+
+Playing with an orchestra is hard .
+0.84 (Playing with an orchestra; is; hard)
+
+And being on vacation with my family annoys me .
+0.58 (being on vacation with my family; annoys; me)
+
+Rehearsal went so much better but I'm so nervous for tonight !
+0.77 (Rehearsal; went so much better; )
+0.52 (I; 'm; so nervous for tonight)
+
+Is about to go to Blue Lake for the final concert ... :O Ahhhhhhhhhh !!!!!  Today was so much fun !
+0.92 (Today; was; so much fun)
+
+I think I did pretty well .
+0.32 (I; think; I did pretty well)
+0.16 Context(I think,List([0, 7))):(I; did pretty well; )
+
+And I saw thereza , < PROPFEMALE > , and < PROPFEMALE > ( go dolce ! ) .
+0.68 (I; saw; thereza , < PROPFEMALE > , and < PROPFEMALE >)
+
+Haha .
+
+But i'm exhausted now .
+0.28 (i; 'm; exhausted; T:now)
+
+disney world is so tiring !
+0.81 (disney world; is; so tiring)
+
+but space mountain was fun  ran out of statuses .
+0.93 (space mountain; was; fun  ran out of statuses)
+0.85 (fun; ran; out of statuses)
+
+has so much to do before school starts !
+0.57 (so much; to do; T:before school starts)
+
+school starts in a week !
+0.92 (school; starts; T:in a week)
+
+why are we all answering these random questions ?
+
+really wants a root beer float all of a sudden ... :/  Mwahahaha !
+
+This Status was HaCKed by Th3rezaa !
+0.94 (This Status; was HaCKed; by Th3rezaa)
+0.88 (This Status; was HaCKed by; Th3rezaa)
+
+class of ' oleven graduates june 13th , 2011 ! and school starts on tuesday !
+0.79 (class of ' oleven graduates; june 13th; )
+0.92 (school; starts; T:on tuesday)
+
+:D  can't believe she has to sit next to GRAFTON for the rest of the school year !
+0.46 (she; to sit; next to GRAFTON; T:for the rest of the school year)
+0.83 (:D; ca n't believe; she has to sit next to GRAFTON for the rest of the school year)
+
+:'( we have the worst team ever and didn't even finish our poster !
+0.44 (we; have ever; the worst team)
+0.27 (we; did n't even finish; our poster)
+
+one good thing : NO HOMEWORK !!! :D  has so much homework !
+0.91 (NO HOMEWORK !!! :D; has; so much homework)
+
+It's ridiculous ... and how am I supposed to remember ALL of the states and capitals TONIGHT !?!?  can't believe she memorized all of the states and their capitals !
+0.28 (It; 's; ridiculous)
+0.41 (I; to remember; ALL of the states and capitals)
+0.73 (TONIGHT !?!?; ca n't believe; she memorized all of the states and their capitals)
+0.26 Context(TONIGHT !?!? ca n't believe,List([85, 112))):(she; memorized; all of the states and their capitals)
+
+haha , I actually decided not to cheat unlike SOME people * cough cough *  yay !
+0.50 (I; actually decided; not to cheat unlike SOME people * cough cough *  yay)
+0.35 Context(I actually decided,List([7, 25))):(I; actually decided not to cheat; cough cough *  yay)
+
+i passed my capitals quiz , but i like failed my science quiz ... scientists make MUFFINS to help them in an experiment .
+0.27 (i; failed; my science quiz)
+0.78 (scientists; make; MUFFINS; to help them in an experiment)
+0.26 Context(scientists make,List([66, 81))):(i; passed; my capitals quiz)
+0.82 Context(scientists make,List([66, 81))):(scientists; make MUFFINS to help; them)
+
+lololol africa ... :P  hates school now .
+0.89 (lololol africa; hates; school; T:now)
+
+>.<  haha ... Grab a Root - eat a meal , especially a potato i don't know why this is funny .
+0.91 (a Root; eat; a meal)
+0.18 (i; do n't know; why this is funny)
+0.18 Context(i do n't know,List([61, 73))):(this; is; funny)
+
+i just found it super random !
+0.31 (i; just found; it super random)
+
+finished all her hw !
+
+:D yayy !
+
+crazy Ms. Mellos assigned us a whole project today that is due tomorrow .
+0.85 (crazy Ms. Mellos; assigned; us; a whole project; T:today)
+0.90 Context(crazy Ms. Mellos assigned,List([0, 25))):(a whole project; is; due tomorrow)
+
+Sigh .
+
+making a train down the stairs .
+
+:) lol , we're so immature .
+0.28 (we; 're; so immature)
+
+:P  horrible day .
+
+:(  u.s.
+
+history was soooo much fun .
+0.92 (history; was; soooo much fun)
+
+especially when ms. mellos said something and everyone thought she meant it in a different way .
+0.93 (ms. mellos; said; something)
+
+haha .
+
+:P  is thankful for the answers at the back of the math text book .
+0.93 (:P; is; thankful for the answers at the back of the math text book)
+
+:]  Mrs. Pope draws cute guinea pigs .
+0.94 (Mrs. Pope; draws; cute guinea pigs)
+
+:3 except for the one that looked like broccoli .
+0.89 (the one; looked; like broccoli)
+
+finished with homework !
+
+:D we barely had anything today !
+0.45 (we; barely had; anything; T:today)
+
+<3 :D : ?
+
+I GOT MY BLUE LAKE SEASON FINALE CONCERT CD !
+0.57 (I; GOT; MY BLUE LAKE SEASON FINALE CONCERT CD)
+
+YAYAYAY !
+
+lol , i'm so excited over nothing .
+0.52 (i; 'm; so excited over nothing)
+
+:P  birds kept falling off the roof of the school today ... :/  noooooooooooo !
+0.82 (:P  birds; kept noooooooooooo; falling off the roof of the school today)
+0.80 (:P  birds; falling; off the roof of the school; T:today)
+
+current events !  is angry that she can't go to drama club because she has student council on tuesdays .
+0.52 (she; has; student council on tuesdays)
+
+:(  it's 10/10/10 !
+0.28 (it; 's; 10/10/10)
+
+:P  hates when people say that < PROPMALE > \discovered\ " < PROPFEMALE >."  pouring the milk before the cereal ruins the whole point .
+0.81 (:P; hates; T:when people say that < PROPMALE > \discovered\ " < PROPFEMALE >; pouring the milk before the cereal ruins the whole point)
+0.52 (people; say; that <)
+0.90 (the cereal; ruins; the whole point)
+
+what was with Ms. Mellos ' < PROPMALE > mood swings today ?
+0.89 (PROPMALE; >; mood swings; T:today)
+
+-_-  ferret !
+
+I'm so frustrated right now !
+0.28 (I; 'm; so frustrated; T:right now)
+
+VOTE < PROPFIRST > Wilberding FOR TREASURER !!!  had too much red bull this morning with < PROPFEMALE > NowiknomyAbc's < PROPMALE > .
+0.86 (PROPFIRST; Wilberding; FOR TREASURER)
+0.87 (PROPFIRST; had; too much red bull; T:this morning)
+
+To Kill a Mockingbird is soooo boring !
+0.84 (To Kill a Mockingbird; is; soooo boring)
+
+help !
+
+:O \  i don't want to read it !
+0.26 (i; do n't want; to read it)
+0.26 Context(i do n't want,List([6, 18))):(i; do n't want to read; it)
+
+>.<  why do only SOME goldfish crackers smile ?
+
+:O  Yay !
+
+field trip tomorrow !
+
+let's sing on the bus !
+
+:D ( < PROPFEMALE > NowiknomyAbc's < PROPMALE > )  that story we have to read is so horribly boring .
+0.89 (NowiknomyAbc's < PROPMALE > )  that story; to read; we)
+0.82 (NowiknomyAbc's < PROPMALE > )  that story; is; so horribly boring)
+
+after reading a paragraph , giving myself a headache , and making 10 visits to dictionary.com, i gave up .
+0.52 (i; gave up; T:after reading a paragraph , giving myself a headache , and making 10 visits to dictionary.com)
+
+anyone have ANY idea what the story is about ?
+0.89 (anyone; have; ANY idea what the story is about)
+0.95 (ANY idea; is; the story)
+
+there was a blackout today !!! :D  why must I always wait until the last night to do my science fair project ?
+0.85 (the last night; to do; my science fair project)
+
+according to the computer , it is 0:13 in the morning .
+0.52 (it; is; 0:13 in the morning)
+0.39 (it; is 0:13 in; the morning)
+
+:/  Best .
+
+Halloween .
+
+Party .
+
+EVER !! :) especially the teacher impressions .
+
+:P  hApPy HaLlOwEeN !
+
+I SAW MR .
+
+FITZ WHILE TRICK-OR-TREATING !!! AHHHHHHHHHHHHH !!!!!!!!!  wow ... that election was ... wow .
+0.78 (that election; was; )
+
+how am i supposed to write 5 sentences on how texas longhorns are religious if cattle don't even HAVE religions ?
+0.53 (i; to write; 5 sentences on how texas longhorns are religious if cattle don't even HAVE religions)
+0.90 (texas longhorns; are; religious if cattle don't even HAVE religions)
+0.89 (cattle; do n't even HAVE; religions)
+
+that skirt that i thought i lost at Blue Lake ... i found it in my sleeping bag !
+0.36 (i; found; it; L:in my sleeping bag; T:that skirt that i thought i lost at Blue Lake)
+
+:P  fruity pebble sandwiches ?
+
+what is wrong with skinner ?!?! :O  the poor , suffocating pretzels !
+
+:'(  my dad is wearing an atticus vest .
+0.64 (my dad; is wearing; an atticus vest)
+
+has goody store duty tomorrow with < PROPFEMALE > Chueng .
+
+:)  guess what ms.
+0.18 (:); guess; what)
+
+mellos calls mr.
+
+< PROPFIRST > .
+
+no really .
+
+guess .
+
+guess what ?
+
+lab school allows FACEBOOK on the school's computers .
+0.92 (lab school; allows; FACEBOOK; L:on the school's computers)
+
+:D  oh crap !
+
+who here actually got the thanksgiving book we were gonna read to the kindergartners ?
+0.90 (the thanksgiving book; na read; to the kindergartners)
+
+i got a 23/25 on my explore test .
+0.37 (i; got; a 23/25; L:on my explore test)
+
+but ... the interest inventory was ALL WRONG !!! >.<  aww ... Mrs. Hanson's not coming to science fair tomorrow .
+0.91 (Mrs. Hanson; to science; T:fair tomorrow)
+0.93 (the interest inventory; was; ALL WRONG)
+0.74 Context(the interest inventory was,List([8, 34))):(Mrs. Hanson; 's not coming; )
+
+:'(  Mrs. Hanson ????????????????? ( < PROPFEMALE > Chueng )  does anyone know the site for our DC trip thingy ?
+
+was supposed to get married today .
+
+she had a veil and everything .
+0.52 (she; had; a veil and everything)
+
+but the groom did not show up .
+0.73 (the groom; did not show up; )
+
+:'( < PROPFIRST > Wilberding , we're getting \married\ " on monday .
+0.41 (we; 're getting; T:on monday)
+
+"  blue lake scholarship auditions tomorrow .
+
+:)  hates having the stomach flu .
+
+:'(  did you know that ms.
+
+mellos was homecoming < PROPFEMALE > ?!?! :O  chicago ALMOST made it through november without snowing , if it weren't for thursday .
+0.45 (it; were n't; for thursday)
+0.87 (mellos; was homecoming; < PROPFEMALE > ?!?! :O  chicago ALMOST made it through november without snowing)
+0.85 Context(mellos was homecoming,List([0, 21))):(:O  chicago ALMOST; made; T:through november)
+0.51 Context(mellos was homecoming :O chicago ALMOST made,List([0, 65))):(:O  chicago ALMOST; made without snowing; )
+
+key word : chicago .
+
+immigration world fair was funny XD and < PROPFEMALE > and i ate half a plate of potstickers !!!  today was so much fun !
+0.83 (immigration world fair; was; funny)
+0.45 (i; ate; half a plate of potstickers; T:today)
+
+Lol when < PROPFIRST > said that jesus built the first catholic church !!!  busy weekend :/  I can't believe that I won the gold medal at the Sonatina/Sonata Festival !
+0.63 (PROPFIRST; said; that jesus built the first catholic church; T:busy weekend)
+0.90 Context(PROPFIRST said,List([11, 27))):(jesus; built; the first catholic church)
+0.30 (I; ca n't believe; that I won the gold medal at the Sonatina/Sonata Festival; T:when < PROPFIRST > said that jesus built the first catholic church !!!  busy weekend)
+0.50 Context(I ca n't believe,List([93, 108))):(I; won; the gold medal; L:at the Sonatina/Sonata Festival)
+
+:D  i just realized that i'm the only one in skinner's 8th grade that got both straight a's AND a Fb .
+0.96 (the only one in skinner's 8th grade; got; both straight a's AND a Fb)
+0.17 (i; just realized; that i'm the only one in skinner's 8th grade)
+0.37 Context(i just realized,List([4, 19))):(i; 'm; the only one in skinner's 8th grade that got both straight a's AND a Fb)
+
+that just shows that facebook can ruin your life .
+0.02 (that; just shows; that facebook can ruin your life)
+0.78 Context(that just shows,List([0, 15))):(facebook; can ruin; your life)
+
+but ... i'm azn , so it's different .
+0.28 (i; 'm; azn)
+0.28 (it; 's; different)
+
+:P  \oh no !
+
+you might have a concussion !
+0.62 (you; might have; a concussion)
+
+\ " XD ( < PROPFEMALE > Chueng ) "  dance was so tiring !
+0.80 (dance; was; so tiring)
+
+but fun :)  lol XD \ ms.
+0.88 (fun :); lol; XD \ ms.)
+
+< PROPMALE > would totally laugh at the ssat math questions ............................. .................... then she would eat it !
+0.83 (PROPMALE; would totally laugh; at the ssat math questions)
+0.44 (she; would eat; it; T:then)
+
+\ " \  Sick .
+
+* Tears * I think the tears are there because I'm sick .
+0.28 (I; 'm; sick)
+
+I can't tell .
+0.19 (I; ca n't tell; )
+
+But my eyes HURT !!!  is so glad we're not switching classes tomorrow !
+0.68 (my eyes HURT !!!; is; so glad we're not switching classes tomorrow)
+0.45 (we; 're not switching; classes; T:tomorrow)
+
+What goes \oh oh oh\ " ?
+
+\  On my way back to Chicago .
+
+Why does my mom keep things that expired in 1999 in our fridge ?
+0.27 (things; expired; T:in 1999; T:in our fridge)
+
+I was cleaning the kitchen with my sister today .
+0.31 (I; was cleaning; the kitchen; with my sister; T:today)
+
+It's scary .
+0.28 (It; 's; scary)
+
+New Years < PROPFEMALE > 2010 !
+
+What did you guys draw for your new invention ?
+
+I < PROPFIRST > bread !
+0.57 (I; <; PROPFIRST > bread)
+
+:D  Ms. < PROPMALE > gave me a 0% on an assignment that I got a 96% on !
+0.78 (PROPMALE >; gave; me; a 0%)
+0.52 (I; got; a 96%)
+
+This is why you can't eat and enter grades at the same time ...  Yesterday ... \  Ms. Mack : You are being so impulsive today !
+0.58 (you; enter; grades; T:at the same time)
+0.62 (You; are being; so impulsive; T:today)
+0.36 (This; is; why you can't eat and enter grades at the same time)
+0.27 Context(This is,List([0, 7))):(you; ca n't eat; )
+
+Lunch reflection !
+
+\  Us : ( thinks ) Just like you're impulsive when you eat your food ... \  LMAO !!!  < PROPFIRST > Alexander-Niwa , in case you're wondering , I got a 100 on the sketch of a piece of bread !
+0.46 (you; eat; your food)
+
+Ms. Bovit was probably extra high when she graded it .
+0.87 (Ms. Bovit; was probably; extra high; T:when she graded it)
+0.31 (she; graded; it)
+
+< PROPFEMALE > : You should have kept it under the table .
+0.46 (You; should have kept; it; under the table)
+
+\  < PROPFIRST > Krull : That's what she said ! \  How come everything < PROPFEMALE > says can be interpreted sexually ?
+0.26 (That; 's; what she said)
+0.16 Context(That 's,List([25, 31))):(she; said; )
+0.67 Context(That 's,List([25, 31))):(everything < PROPFEMALE > says; can be interpreted sexually; )
+0.94 (everything; says; < PROPFEMALE >)
+
+\  ( Tags : < PROPFEMALE > Chueng , Benchie Callo , < PROPFEMALE > MysticalRose < PROPMALE > )  I love U.S. History now .
+0.50 (I; love; U.S. History; T:now)
+
+Especially when it's on a Friday afternoon ... :D  Ms. Bovit gave me a 100 on a sketch I totally did not do !
+0.57 (it; 's; on a Friday afternoon)
+0.94 (:D  Ms. Bovit; gave; me; a 100; T:Especially when it's on a Friday afternoon)
+0.88 (a sketch; totally did not do; I)
+
+:D  < PROPFIRST > < PROPFIRST > , I could have flown if you threw me out the window .
+0.19 (I; could have flown; )
+0.54 (you; threw; me; out the window)
+
+OMG !!! 2/2/11 makes history !
+0.94 (OMG !!! 2/2/11; makes; history)
+
+There's no school tomorrow !
+
+CPS is CLOSED !!!!! :O  The last CPS snow day was on January 1999 .
+0.83 (CPS; is CLOSED; T::O  The last CPS snow day)
+0.85 (CPS; was; on January 1999)
+
+We have another snow day tomorrow !
+0.45 (We; have; another snow day; T:tomorrow)
+
+Okay , I am seriously BORED OUT OF MY MIND !!!!!! GAHHHHHH !!!!!!!! < PROPFEMALE > booored ......... -___-  Last < PROPMALE > being 13 .
+0.50 (I; am seriously BORED; OUT OF MY MIND !!!!!! GAHHHHHH)
+0.49 (PROPFEMALE; booored Last; )
+0.64 (PROPFEMALE; being; 13)
+
+:/  My wall is SPAMMED !!!
+0.41 (My wall; is SPAMMED; )
+
+I love you guys !
+0.31 (I; love; you guys)
+
+:D 
+
